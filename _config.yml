@@ -1,6 +1,3 @@
 title: "My Site"
 description: "Just a simple Jekyll site"
-
-# No theme, to keep everything visible and simple
-# (GitHub Pages will still build this)
-# theme: minima
+theme: minima
