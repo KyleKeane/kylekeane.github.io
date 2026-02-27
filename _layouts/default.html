@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
+  </head>
   <body>
     {% include header.html %}
 
-    <main id="content" class="page-content" role="main">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <main id="main-content">
+      {{ content }}
     </main>
-
-    {% include footer.html %}
   </body>
 </html>
