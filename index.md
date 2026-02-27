@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Home
+nav_include: true
+nav_order: 1
 ---
+
+{% include nav.html %}
 
 # Hello
 
