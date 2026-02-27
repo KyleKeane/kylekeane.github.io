@@ -1,12 +1,6 @@
-title: "Your Site Title"
-description: "Your site description"
+title: "My Site"
+description: "Just a simple Jekyll site"
 
-# Use the GitHub Pages–bundled minima theme
-theme: minima
-
-# Do not use remote_theme or minima skins here
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
+# No theme, to keep everything visible and simple
+# (GitHub Pages will still build this)
+# theme: minima
