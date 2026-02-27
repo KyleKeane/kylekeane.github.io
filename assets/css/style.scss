@@ -4,25 +4,26 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-/* 1. Boost global base size ~1.5× while staying relative */
+/* 1. Global typography: boost base size ~1.5×, keep everything relative */
+
 html {
-  /* 100% → browser/iOS default; 150% ≈ 1.5× that */
+  /* 100% = browser/iOS default; 150% ≈ 1.5× that, still respects system settings */
   font-size: 150%;
 }
 
-/* 2. Body text: keep relative, good readability */
 body {
-  font-size: 1rem;    /* 1 × the boosted root size */
-  line-height: 1.7;   /* a bit more leading for large text */
+  font-size: 1rem;    /* relative to boosted root */
+  line-height: 1.7;   /* more leading for large text */
 }
 
-/* 3. Headings: scale from the new base size, not fixed px */
+/* Headings scale from the base size (no fixed px) */
 h1 { font-size: 2.1rem; }
 h2 { font-size: 1.7rem; }
 h3 { font-size: 1.4rem; }
 h4 { font-size: 1.15rem; }
 
-/* 4. Ensure all common text elements wrap long lines/URLs */
+/* 2. Ensure all common text elements wrap long lines/URLs */
+
 body,
 p,
 li,
@@ -38,12 +39,117 @@ th {
   word-wrap: break-word;
 }
 
-/* 5. Make sure nav, footer, and form controls use the same base */
-nav,
-footer,
-button,
-input,
-select,
-textarea {
+/* 3. Skip link: visible on focus, sits in the top-right */
+
+.skip-link {
+  position: absolute;
+  right: 0.75rem;
+  top: 0.75rem;
+  background: #000;
+  color: #fff;
+  padding: 0.4rem 0.7rem;
+  z-index: 1000;
+  text-decoration: none;
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+}
+.skip-link:focus {
+  outline: 2px solid #fff;
+}
+
+/* 4. Navigation / hamburger menu styling */
+
+.site-nav {
+  display: block;
+  margin: 0.5rem 0 1.5rem;
+}
+
+/* Hide the checkbox control itself */
+.site-nav__checkbox {
+  display: none;
+}
+
+/* Button that shows the hamburger + "Menu" text */
+.site-nav__button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+  border: 1px solid #ccc;
+}
+
+/* Three-bar hamburger icon */
+.site-nav__icon {
+  position: relative;
+  width: 1.2rem;
+  height: 0.1rem;
+  background: #333;
+  border-radius: 0.1rem;
+}
+.site-nav__icon::before,
+.site-nav__icon::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 1.2rem;
+  height: 0.1rem;
+  background: #333;
+  border-radius: 0.1rem;
+}
+.site-nav__icon::before {
+  top: -0.3rem;
+}
+.site-nav__icon::after {
+  top: 0.3rem;
+}
+
+/* "Menu" label text follows base sizing */
+.site-nav__label {
   font-size: 1rem;
+}
+
+/* Menu list: hidden by default on small screens */
+.site-nav__list {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  display: none;
+}
+
+/* Show the menu when the checkbox is checked */
+.site-nav__checkbox:checked ~ .site-nav__list {
+  display: block;
+}
+
+/* Nav items and links */
+.site-nav__item {
+  margin: 0.25rem 0;
+}
+
+.site-nav__link {
+  text-decoration: none;
+  color: inherit;
+}
+.site-nav__link--active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* 5. Wider screens: always show nav horizontally; hide hamburger button */
+
+@media (min-width: 768px) {
+  .site-nav__button {
+    display: none;
+  }
+
+  .site-nav__list {
+    display: flex !important;
+    gap: 1rem;
+  }
+
+  .site-nav__item {
+    margin: 0;
+  }
 }
