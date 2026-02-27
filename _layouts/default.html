@@ -1,0 +1,23 @@
+---
+layout: base
+---
+
+{%- comment -%}
+Custom default layout for pages.
+Focus order:
+  1. Page H1 (inside {{ content }})
+  2. Skip link
+  3. Primary navigation (hamburger)
+{%- endcomment -%}
+
+<div class="page-wrapper">
+
+  <main id="main" class="page-content" aria-label="Main content">
+    {{ content }}
+  </main>
+
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  {% include nav.html %}
+
+</div>
