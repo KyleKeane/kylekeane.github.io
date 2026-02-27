@@ -4,7 +4,38 @@
 
 @import "minima";
 
-/* Increase default text size to 150% of the browser default */
 html {
   font-size: 150%;
+}
+
+body {
+  background-color: #ffffff;
+  color: #111111;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111111;
+    color: #f5f5f5;
+  }
+
+  a {
+    color: #9ecbff;
+  }
+
+  a:visited {
+    color: #c5a5ff;
+  }
+
+  header.site-header,
+  footer.site-footer {
+    background-color: #000000;
+    color: #f5f5f5;
+    border-color: #333333;
+  }
+
+  .post-title,
+  .site-title {
+    color: #ffffff;
+  }
 }
