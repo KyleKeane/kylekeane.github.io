@@ -3,21 +3,15 @@ layout: base
 ---
 
 {%- comment -%}
-Custom default layout for pages.
-Focus order:
-  1. Page H1 (inside {{ content }})
-  2. Skip link
-  3. Primary navigation (hamburger)
+Custom default layout extending Minima's base.
+- Keeps Minima header/footer.
+- Inserts our main landmark, skip link, and nav just around the page content.
 {%- endcomment -%}
 
-<div class="page-wrapper">
+<a class="skip-link" href="#main">Skip to main content</a>
 
-  <main id="main" class="page-content" aria-label="Main content">
-    {{ content }}
-  </main>
+{% include nav.html %}
 
-  <a class="skip-link" href="#main">Skip to main content</a>
-
-  {% include nav.html %}
-
-</div>
+<main id="main" class="page-content" aria-label="Main content">
+  {{ content }}
+</main>
