@@ -1,25 +1,28 @@
+/* assets/css/style.scss */
 ---
 ---
-@import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 
-/* Slightly scale up whatever the browser/iOS default is */
+/* Now your overrides – all relative, no hardcoded px base */
+
 html {
-  font-size: 112.5%; /* 1.125 × user/browser default */
+  font-size: 112.5%; /* 1.125 × browser/iOS default */
 }
 
-/* Keep body text relative to the root size */
 body {
   font-size: 1rem;
   line-height: 1.6;
 }
 
-/* Make headings scale from the new base size (still relative, not fixed px) */
+/* Headings stay proportional */
 h1 { font-size: 2rem; }
 h2 { font-size: 1.6rem; }
 h3 { font-size: 1.3rem; }
 h4 { font-size: 1.1rem; }
 
-/* Ensure all common text elements wrap long lines */
+/* Wrap long lines and URLs everywhere */
 body,
 p,
 li,
@@ -35,7 +38,7 @@ th {
   word-wrap: break-word;
 }
 
-/* Optional: ensure nav, footer, and form controls respect the same sizing */
+/* Ensure nav, footer, and form controls inherit reasonably */
 nav,
 footer,
 button,
