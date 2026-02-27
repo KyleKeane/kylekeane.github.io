@@ -5,8 +5,6 @@ nav_include: true
 nav_order: 1
 ---
 
-{% include nav.html %}
-
 # Hello
 
 This is my personal site built with **Jekyll** on GitHub Pages.
