@@ -1,0 +1,46 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Slightly scale up whatever the browser/iOS default is */
+html {
+  font-size: 112.5%; /* 1.125 × user/browser default */
+}
+
+/* Keep body text relative to the root size */
+body {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Make headings scale from the new base size (still relative, not fixed px) */
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.1rem; }
+
+/* Ensure all common text elements wrap long lines */
+body,
+p,
+li,
+a,
+span,
+div,
+code,
+pre,
+td,
+th {
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+/* Optional: ensure nav, footer, and form controls respect the same sizing */
+nav,
+footer,
+button,
+input,
+select,
+textarea {
+  font-size: 1rem;
+}
