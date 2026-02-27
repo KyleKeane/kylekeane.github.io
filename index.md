@@ -5,7 +5,7 @@ nav_include: true
 nav_order: 1
 ---
 
-# About
+#  About Kyle Keane
 
 This is my personal site built with **Jekyll** on GitHub Pages.
 
