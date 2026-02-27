@@ -1,0 +1,18 @@
+---
+layout: base
+---
+
+{%- comment -%}
+Custom default layout extending Minima's base.
+- Keeps Minima's head, site header, and footer.
+- Adds our skip link and custom navigation.
+- Wraps page content in a <main> landmark for accessibility.
+{%- endcomment -%}
+
+<a class="skip-link" href="#main">Skip to main content</a>
+
+{% include nav.html %}
+
+<main id="main" class="page-content" aria-label="Main content">
+  {{ content }}
+</main>
