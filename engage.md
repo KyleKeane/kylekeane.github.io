@@ -99,8 +99,12 @@ design, and inclusive curriculum development. I have delivered these in
 short-course format at the King Salman Center for Disability Research
 (Riyadh), Alfaisal University, IIT Delhi, the LV Prasad Eye Institute
 (Hyderabad), MIT Independent Activities Period, and Wolfram Summer
-School. Workshops can run from a single day through a multi-week
-intensive; I also custom-design programmes against a host curriculum.
+School, and as recurring faculty co-designer at the
+[ASSIST HEIDI Summer School](https://www.technikum-wien.at/en/news/summer-school-international-students-developed-smart-assistance-solutions/)
+at FH Technikum Wien, Vienna (2022 inaugural and the 2025
+*Accessible Gaming* edition). Workshops can run from a single day
+through a multi-week intensive; I also custom-design programmes
+against a host curriculum.
 
 ## Panels and moderated discussions
 

@@ -37,7 +37,22 @@ the installation: d'strict Art Project (creative direction), Erin Kara
 oOps.50656 (eight-channel sonification and sound design), and KKOL
 Studio (light and sound installation build).
 
-[ECHO at reSOUND New York](https://resound-nyc.com/artwork/echo).
+[ECHO at reSOUND New York](https://resound-nyc.com/artwork/echo); my
+sonification authorship is credited on the
+[reSOUND New York About page](https://resound-nyc.com/about).
+
+#### Earlier presentation — Culture Station Seoul 284
+
+ECHO debuted at the Culture Station Seoul 284 inside the *reSOUND*
+exhibition (21 June – 25 August 2024), reaching roughly 110,000
+visitors from 75 countries before the New York reinterpretation. I
+contributed the sonification remotely; documentation for the Seoul
+edition is on
+[the official reSOUND New York press release (PDF)](https://fitzandco.com/wp-content/uploads/2025/09/reSOUND-New-York-Press-Release.pdf),
+[d'strict's *Korea JoongAng Daily* press archive](https://www.dstrict.com/press/?bmode=view&idx=125557371),
+[NOL World's visitor-information page](https://world.nol.com/en/content/festas/01904500-83ec-7237-bde0-610e3965864f),
+and a
+[YouTube short of d'strict's *OCEAN* media-art piece from the same exhibition](https://www.youtube.com/shorts/ip9Y_y7gLjs).
 
 ## Performances
 

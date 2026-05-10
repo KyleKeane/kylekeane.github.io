@@ -212,6 +212,16 @@ auto-updates on the
   Interactive Simulations team at the University of Colorado.
   [Interactive Scientific Graphics report (DOCX)](http://diagramcenter.org/wp-content/uploads/2014/06/Interactive_Scientific_Graphics_Submission23june2014.docx).
 
+### Edited and contributed chapters
+
+- **Areej Al-Wabil, Shiroq Al-Megren, Kyle Keane, et al.,**
+  *Empowering Assistive Technology Communities to Make Strategic
+  Use of Intellectual Property: Three Case Studies from the
+  CoCreate Program.* Springer, 2020.
+  [Springer chapter (DOI 10.1007/978-3-030-60149-2_2)](https://link.springer.com/chapter/10.1007/978-3-030-60149-2_2)
+  — peer-reviewed academic documentation of the Saudi-side
+  CoCreate Fellowship case studies.
+
 ### Doctoral dissertation
 
 - **Kyle Keane,** *Quantum State Protection and Transfer Using
@@ -375,6 +385,8 @@ auto-updates on the
 ### 2024
 
 - [Sustainable Innovation of Assistive Technologies — Pervasive Media Studio at the Watershed (talk recording on YouTube)](https://www.youtube.com/watch?v=Bel1Hp6cuu0).
+- [*Sights, sounds, sensations: Immersive art exhibition reSOUND at Culture Station Seoul 284* — d'strict press / Korea JoongAng Daily](https://www.dstrict.com/press/?bmode=view&idx=125557371).
+- [reSOUND: Echo, Beyond Immersive Exhibition at Seoul 284 — NOL World](https://world.nol.com/en/content/festas/01904500-83ec-7237-bde0-610e3965864f).
 - [Black Hole Reverb (Leftroman / Ian Condry, with my and Erin Kara's sonifications) on Immersive Audio Album](https://immersiveaudioalbum.com/product/black-hole-reverb-ian-condry-5-1-flac-dolby-atmos-mkv-mp4/).
 
 ### 2023
