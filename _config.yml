@@ -12,6 +12,7 @@ theme: minima
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 exclude:
   - _briefing/

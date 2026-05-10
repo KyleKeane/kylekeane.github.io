@@ -1,65 +1,61 @@
 ---
 layout: default
 title: About
-description: Introduction to Kyle, his current role, and how to get in touch.
+description: Senior Lecturer in Assistive Technologies at the University of Bristol — researcher, educator, consultant, and artist working in AI, human cognition, and multisensory interaction.
 nav_include: true
 nav_order: 1
 ---
 
-## About me
+Senior Lecturer in Assistive Technologies at the University of Bristol.
+Researcher, educator, consultant, and artist working at the intersection
+of artificial intelligence, human cognition, multisensory interaction, and
+the design of computational systems that meet people where they actually
+are. PhD in physics from UC Riverside; seven years in Wolfram Research as
+a Research Programmer and R&D Fellow; eight years on the MIT faculty in
+Materials Science and Engineering before joining Bristol in June 2024.
 
-Dr. Kyle Keane is a Senior Lecturer in Assistive Technologies at the
-University of Bristol, where he contributes to innovative research and
-teaching at the intersection of artificial intelligence, human
-cognition, and inclusive technology design. His work focuses on
-building intelligent, perception-aware systems that expand how people,
-particularly those with disabilities, interact with complex
-information through multisensory experiences.
+The work is multidisciplinary by intention, not by accident — the same
+training that produced peer-reviewed quantum-information papers also
+produced the step-by-step physics solver in Wolfram\|Alpha, the
+first voice-assistant integration that spoke computational results, and
+the black-hole sonification that took the NASA Chandra data into the
+*New York Times*. The [Philosophy](/philosophy.html) page explains the
+framing I bring to it; the rest of the site shows what the framing
+produces.
 
-Kyle's motivation is deeply personal. Born with a degenerative retinal
-condition, his lived experience with progressively changing vision has
-provided unique insight and empathy that drive his passion for
-designing technologies that are not only accessible, but also
-transformative. He brings a multidisciplinary approach to his work,
-drawing on a background in quantum computing and computational physics
-to bring scientific rigor, design precision, and human-centered values
-to his work.
+## What I'm working on now
 
-## Career summary
+Current research at Bristol focuses on intersensory perception — how
+people build meaning from information that arrives through unconventional
+sensory channels. Active threads include automated production of
+audio-tactile graphics for blind and low-vision learners, immersive and
+spatial audio for echolocation training, and spatial reasoning in AI
+systems that need to communicate with people through non-visual channels.
+I am actively interested in new collaborations, supervision, and
+consulting in these areas; the [Engage](/engage.html) page describes how
+to start that conversation.
 
-I didn't use a computer until my second year of college, which made my
-rapid development of computational skills feel necessary rather than
-accidental. In my career, I have worked at well-established software
-companies, digital publishers, early-stage machine learning startups,
-and world-class universities. I have served in the roles of theoretical
-physicist, computational materials scientist, software developer,
-educational evangelist, business development associate, user experience
-designer, instructional designer, research director, and lecturer.
+## Where to go from here
 
-My passions lie at the intersections of computational science, design,
-engineering, education, assistive technology, and advocacy. I have
-technical expertise in the rapid prototyping of both software products
-and physical devices, facilitating learning experiences, and leading
-long-term collaborative group efforts. I have a long-term goal of
-reframing the narrative of "living with a disability or diagnosis" into
-a relatable perspective that drives innovation while illuminating our
-shared human experience. I also have a deep personal relationship with
-positive psychology, wellness, community building, and performance.
+- For the framing I bring to my work — [Philosophy](/philosophy.html)
+- To hire, book, or collaborate — [Engage](/engage.html)
+- For confirmed forthcoming talks, performances, and events — [Upcoming](/upcoming.html)
+- For research themes and selected publications — [Research](/research.html)
+- For courses and supervision — [Teaching](/teaching.html)
+- For sound art, performances, and installations — [Creative](/creative.html)
+- For full career history, publications, grants, awards, and press — [CV](/cv.html)
 
-## Education *(from CV)*
+## Background
 
-- **PhD, Physics** — University of California, Riverside, 2012.
-  Dissertation: *Quantum State Protection and Transfer Using
-  Superconducting Qubits.*
+- **PhD, Physics** — University of California, Riverside, 2012. Dissertation:
+  *Quantum State Protection and Transfer Using Superconducting Qubits.*
 - **MS, Physics** — University of California, Riverside, 2009.
 - **BS, Physics** — California State University, Fullerton, 2007.
 
-## Recent work at Bristol
-
-My recent work at the University of Bristol focuses on the practical
-edges of intersensory perception: the automated production of
-audio-tactile graphics for blind learners, immersive and spatial
-audio for echolocation training, and spatial reasoning in AI systems
-that need to communicate with people through non-visual channels.
-More on the [Research](/research.html), [Speaking](/speaking.html),
-and [Publications](/publications.html) pages.
+Career arc: trained as a theoretical and computational physicist; spent
+seven years at Wolfram Research contributing to Wolfram\|Alpha
+and to the first computational answers in Apple Siri; eight years on the
+MIT faculty designing and teaching courses on humanistic co-design and
+assistive technology; joined the University of Bristol as Senior Lecturer
+in Assistive Technologies in June 2024. The full record is on the
+[CV](/cv.html) page.

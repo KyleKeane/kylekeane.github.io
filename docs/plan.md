@@ -301,6 +301,59 @@ has alt). Site-wide audit confirmed zero violations.
 - [x] **Heading hierarchy** — already enforced by CI. No source
   violations.
 
+## Phase 6 — Sitemap redesign (May 2026)
+
+Restructured the 16-page brain dump into a 7-page top nav with a
+footer-only CV. Driven by Kyle's brief: clean, assertive, future-first
+homepage; a dedicated booking page; an explicit philosophy page that
+sets the framing on Kyle's terms rather than letting visitors
+typecast him as a disability advocate first.
+
+New top nav: **About · Philosophy · Engage · Upcoming · Research ·
+Teaching · Creative**.
+
+- [x] Add `philosophy.md` (nav 2). Lead declares Kyle's primary
+  identity (researcher / educator / consultant / artist); names the
+  WHO ICF participation model; sections on language (literal-language
+  preference, refusal of tone-policing, stance on the metaphorical
+  use of *blind*), sight loss in his life (skeleton placeholder for
+  the personal arc), engagement standards, structural advocacy, and
+  source of perspective.
+- [x] Add `engage.md` (nav 3). Engagement standards block, then nine
+  H2s for keynotes / guest lectures and master classes / workshops /
+  panels / consulting / artistic booking / supervision / symposia /
+  contact.
+- [x] Promote `upcoming.md` to nav 3 → 4 and rewrite as the consolidated
+  forward-facing hub (forthcoming engagements, currently working on,
+  recently).
+- [x] Rewrite `index.md` to lead with what Kyle does, not how he sees;
+  six descriptive-text links replace the old career-summary wall.
+- [x] Add `cv.md` (footer-only, not in nav). Consolidates work,
+  publications, funding, skills, and media.
+- [x] Rewrite `research.md` — promote current Bristol themes
+  (audio-tactile graphics, spatial audio for echolocation,
+  perception-aware AI, cross-modal interaction); compress PhD-era
+  quantum and earlier topics to short paragraphs with CV links.
+- [x] Rewrite `creative.md` as a categorical directory (Installations
+  / Performances / Recordings / Earlier creative practice). Absorbs
+  `exhibitions.md` and `performances.md`.
+- [x] Rewrite `teaching.md` — Bristol courses and supervision first;
+  MIT subjects condensed to a list under "Previously taught at MIT";
+  international workshops, summer schools, and short courses
+  preserved as proof points for Engage.
+- [x] Retire 11 pages with `redirect_to` front-matter:
+  `work` → `/cv.html`; `publications` → `/cv.html`; `funding` →
+  `/cv.html`; `skills` → `/cv.html`; `media` → `/cv.html`;
+  `speaking` → `/engage.html`; `events` → `/engage.html`;
+  `exhibitions` → `/creative.html`; `performances` → `/creative.html`;
+  `advising` → `/teaching.html`; `advocacy` → `/philosophy.html`.
+- [x] Add `_layouts/redirect.html` (custom redirect template) so
+  retired-page stubs satisfy the project's accessibility lint
+  (descriptive link text, exactly one H1).
+- [x] Add `jekyll-redirect-from` to `_config.yml` plugins.
+
+PR: [#13](https://github.com/KyleKeane/kylekeane.github.io/pull/13).
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)
