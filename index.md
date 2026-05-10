@@ -6,6 +6,8 @@ nav_include: true
 nav_order: 1
 ---
 
+## Overview
+
 Senior Lecturer in Assistive Technologies at the University of Bristol.
 Researcher, educator, consultant, and artist working at the intersection
 of artificial intelligence, human cognition, multisensory interaction, and

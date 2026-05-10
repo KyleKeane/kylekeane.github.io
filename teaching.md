@@ -7,6 +7,8 @@ nav_include: true
 nav_order: 6
 ---
 
+## Overview
+
 I teach across programming, electronics prototyping, computational
 thinking, multisensory and human-centered design, and the design of
 inclusive technology. I supervise PhD, MSc, and undergraduate
