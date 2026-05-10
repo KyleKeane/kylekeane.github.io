@@ -37,6 +37,75 @@ standard is participation. An engagement that produces participation
 restrictions is an engagement that has been set up badly — not an
 engagement involving someone who needs less of it.
 
+## On language
+
+I am very particular about language. I use **blind** and **low vision**
+to describe functional states — what my eyes do, decoupled from
+emotional content. These are technical terms; I use them about myself
+and I am comfortable with them. I use **sight loss** and **visual
+impairment** to describe the experience: the dynamic, evolving thing
+that has run through my life since childhood, including the grief, the
+adaptation, the unmet expectations, and the moment-by-moment
+recalibration when reliable visual information is not available. The
+two registers are not interchangeable. The first names a state; the
+second names a process.
+
+I retain the right to use *impaired* about my vision and *sight loss*
+about my experience. I do not need anyone — sighted or blind, allied
+or otherwise — to tell me which of those words is acceptable today.
+Anyone who is going to police the language I use about my own dynamic
+and evolving sensory experience is making the wrong opening move with
+me.
+
+I take particular offence at the casual use of *blind* as a placeholder
+for *ignorant*, *unaware*, *confused*, *unprepared*, *uninformed*, or
+*without anticipation*. The metaphor presupposes that a lack of
+eyesight implies a lack of cognitive capacity, social awareness, or
+competence. It does not. I am not interested in conversations where
+that metaphor is being used loosely — they reveal more about the
+speaker's assumptions than they do about me. I prefer literal language,
+and I expect the people who work with me to use it.
+
+A separate and narrower point: many people without or with impaired
+eyesight are denied the resources, education, and environment they
+would need to develop the capabilities they otherwise could. The
+result can look, from the outside, like a flat lack of capability. It
+is conditioned and habituated, not intrinsic. The fix is structural —
+more resources, better tools, better expectations — and that
+structural fix is what my advocacy is for.
+
+## Sight loss in my life
+
+Vision loss has been a structural condition of most of the major
+decisions and pivots in my life. I am building this section in
+stages; what follows is the skeleton of the arc, not the personal
+voice. The personal voice is mine to write later.
+
+- Driving for about two years before deciding to give it up.
+- Loving electronics and machine shop work before my vision made the
+  available facilities too difficult to use safely.
+- Adapting away from hand-drawn mathematics toward purely
+  computer-based mathematics.
+- Moving into computer programming partly as a way of testing how
+  equivalent or inequivalent the available scientific computing tools
+  really were — and discovering how much work still had to be done if
+  I wanted to keep doing what I had been doing in software designed
+  for visual feedback.
+- Continued adoption of low-vision accessibility adjustments in
+  software, then a gradual transition to auditory feedback via
+  synthetic spoken output and other sonic mechanisms.
+- A research and teaching commitment to assistive technology at MIT —
+  on-campus capstone subjects and the international co-design trips
+  to India.
+- Investigations into visual intelligence in artificial and
+  naturalistic systems, which fed directly into the intersectional
+  research I do now.
+
+Adaptation, grief, loss, frustration, unmet expectations, and the
+daily accumulation of skills unknowingly reliant on visual mediation
+have produced more complexity in my life than I am going to compress
+into a paragraph here.
+
 ## What I expect from the people who work with me
 
 Engaging me as a speaker, consultant, supervisor, or collaborator means
