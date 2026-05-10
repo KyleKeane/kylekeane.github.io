@@ -47,20 +47,21 @@ site. New questions accumulate here.
   Bristol-era teaching after 2023 are not in `_briefing/seed.md`. Some
   are in `_briefing/website-updates.txt`; Kyle should flag any other
   pieces he wants prioritized (Phase 4 in `docs/plan.md`).
-- [ ] **Carl V. Thompson Research Group affiliation.** *Affects:
+- [x] **Carl V. Thompson Research Group affiliation.** *Affects:
   `work.md`.* Surfaced by the Phase 2.5 briefing audit
   (`docs/briefing-audit.md`). The "Research Scientist (Solid-State
   Dewetting)" entry on the Work page lists Kyle as part of MIT's Carl V.
   Thompson Research Group, January 2016 – January 2017. Kyle's CV
   verification document
-  (`_briefing/claude-cv-verification.txt`) flags this as "NOT VERIFIED
+  (`_briefing/claude-cv-verification.txt`) flagged this as "NOT VERIFIED
   — no direct evidence of this affiliation found despite extensive
   searching." Both Kyle and Carl V. Thompson were in MIT Materials
   Science during overlapping years, so it's plausible, but no
-  publication or institutional record confirms it externally. Confirm:
-  is this entry accurate as written? If the group affiliation is wrong
-  but the dewetting-simulation work is right, we can keep the project
-  description and drop the group attribution.
+  publication or institutional record confirms it externally. **Resolved:
+  Kyle confirms he was a research scientist under Carl V. Thompson, even
+  though external evidence is sparse. Entry stays as written; the verifier's
+  "NOT VERIFIED" flag reflects the limits of public records, not the
+  accuracy of Kyle's account.**
 
 ## Adding to this list
 
