@@ -169,6 +169,23 @@ content to surface. The verbatim rewrites remain in
   Point and Macro Hive Conversations interviews (also linked from
   `speaking.md`)
 
+## Audit follow-up — evidence links
+
+Done in PR #8.
+
+- [x] **Wolfram|Alpha step-by-step solver** linked inline from
+  `skills.md` and `work.md` to
+  `https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions`
+- [x] **NYT 2022 black-hole article** cited by title + date on
+  `media.md` 2022 section. Anthropic's web crawler is blocked from
+  `nytimes.com`, so the canonical URL couldn't be verified by
+  automated search; Kyle confirmed the citation. If the URL surfaces,
+  wrap it around the title in a one-line follow-up.
+- [x] **Apple Siri integration source** intentionally not linked
+  (current `skills.md` framing is accurate without a public source)
+- [x] **Wolfram MicroMasters AI+D role** intentionally not added (no
+  dates; long-term defer)
+
 ## Phase 5 — Polish
 
 Done in PR #7. The link-text sweep and heading-hierarchy audit turned
