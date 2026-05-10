@@ -3,7 +3,7 @@ layout: default
 title: "Funding & Recognition"
 permalink: /funding.html
 description: Grants awarded as PI/co-PI, grants where I was a researcher, awards, and scholarships.
-nav_include: true
+nav_include: false
 nav_order: 9
 ---
 

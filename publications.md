@@ -3,7 +3,7 @@ layout: default
 title: Publications
 permalink: /publications.html
 description: Publications, with a recent emphasis on software development and teaching.
-nav_include: true
+nav_include: false
 nav_order: 8
 ---
 

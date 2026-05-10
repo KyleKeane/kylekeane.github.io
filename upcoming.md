@@ -4,7 +4,7 @@ title: Upcoming
 permalink: /upcoming.html
 description: Upcoming talks, performances, exhibitions, and events.
 nav_include: true
-nav_order: 15
+nav_order: 3
 ---
 
 A chronological list of confirmed upcoming engagements. Each entry is

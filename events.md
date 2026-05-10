@@ -3,7 +3,7 @@ layout: default
 title: Events
 permalink: /events.html
 description: Symposia, workshops, and accelerators I've hosted or co-organised.
-nav_include: true
+nav_include: false
 nav_order: 14
 ---
 

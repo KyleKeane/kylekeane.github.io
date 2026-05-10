@@ -3,7 +3,7 @@ layout: default
 title: "Skills & Conferences"
 permalink: /skills.html
 description: Professional skills, technical strengths, and conferences and hackathons attended.
-nav_include: true
+nav_include: false
 nav_order: 10
 ---
 

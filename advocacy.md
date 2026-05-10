@@ -3,7 +3,7 @@ layout: default
 title: Advocacy
 permalink: /advocacy.html
 description: Using experience and skills to build technology that impacts the lives of people who face burdens due to disability or disadvantage.
-nav_include: true
+nav_include: false
 nav_order: 5
 ---
 

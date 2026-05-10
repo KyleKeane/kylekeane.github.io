@@ -3,7 +3,7 @@ layout: default
 title: Performances
 permalink: /performances.html
 description: Live performances at the MIT Spatial Sound Lab, Bristol, and beyond.
-nav_include: true
+nav_include: false
 nav_order: 13
 ---
 

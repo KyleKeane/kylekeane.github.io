@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching.html
 description: Semester-long subjects, short courses, summer schools, hackathons, and workshops.
 nav_include: true
-nav_order: 3
+nav_order: 5
 ---
 
 I'm passionate about teaching and mentoring learners of all ages, from

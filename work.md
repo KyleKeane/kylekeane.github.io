@@ -3,7 +3,7 @@ layout: default
 title: Work
 permalink: /work.html
 description: Positions held over the years, with descriptions of the work in each role.
-nav_include: true
+nav_include: false
 nav_order: 2
 ---
 

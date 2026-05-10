@@ -3,7 +3,7 @@ layout: default
 title: Exhibitions
 permalink: /exhibitions.html
 description: Exhibitions and installations featuring my work.
-nav_include: true
+nav_include: false
 nav_order: 12
 ---
 

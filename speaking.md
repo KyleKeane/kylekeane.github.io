@@ -3,7 +3,7 @@ layout: default
 title: Speaking
 permalink: /speaking.html
 description: Speaking engagements, panels, and invited talks on assistive technology, accessibility, and AI.
-nav_include: true
+nav_include: false
 nav_order: 7
 ---
 
