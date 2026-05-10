@@ -172,8 +172,8 @@ jobs:
       - name: Run lychee on built HTML (offline)
         uses: lycheeverse/lychee-action@v2
         with:
-          # --base _site tells lychee where root-relative links like /work.html
-          # resolve to. Without it, the nav links from header.html all error out
-          # with "Cannot convert path '/' to a URI".
-          args: --offline --no-progress --include-fragments --base _site _site/**/*.html
+          # --root-dir is the option lychee actually uses to resolve absolute
+          # local paths like /work.html (not --base, which is for relative URLs).
+          # Use absolute paths via ${{ github.workspace }} to sidestep cwd quirks.
+          args: --offline --no-progress --include-fragments --root-dir ${{ github.workspace }}/_site ${{ github.workspace }}/_site/**/*.html
           fail: true
