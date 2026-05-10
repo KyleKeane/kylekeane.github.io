@@ -1,0 +1,96 @@
+name: PR build & lint
+
+on:
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-lint:
+    name: Build site, verify exclusions, lint accessibility, check internal links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Verify source material is not published
+        shell: bash
+        run: |
+          set -euo pipefail
+          leaks=$(find _site \( \
+              -path '*_research*' \
+              -o -name 'seed*' \
+              -o -name 'claude-cv-verification*' \
+              -o -name 'website-updates*' \
+              -o -name 'recent-records*' \
+              -o -path '*/docs/*' \
+              -o -name 'CLAUDE.md' \
+              -o -name 'CLAUDE.html' \
+            \) 2>/dev/null || true)
+          if [ -n "$leaks" ]; then
+            echo "::error::Source material or dev docs leaked into _site:"
+            echo "$leaks"
+            exit 1
+          fi
+
+      - name: Accessibility lint of built HTML
+        shell: bash
+        run: |
+          set -euo pipefail
+          fail=0
+          shopt -s nullglob
+          for f in _site/*.html; do
+            # Exactly one <h1>
+            n=$(grep -oE '<h1[ >]' "$f" | wc -l | tr -d ' ')
+            if [ "$n" -ne 1 ]; then
+              echo "::error file=$f::expected exactly 1 <h1>, found $n"
+              fail=1
+            fi
+
+            # No skipped heading levels (h1 -> h3 etc.)
+            prev=0
+            while IFS= read -r lvl; do
+              if [ "$prev" -ne 0 ] && [ "$lvl" -gt "$((prev+1))" ]; then
+                echo "::error file=$f::heading skip from h$prev to h$lvl"
+                fail=1
+              fi
+              prev=$lvl
+            done < <(grep -oE '<h[1-6]' "$f" | grep -oE '[1-6]')
+
+            # Every <img> has alt=
+            bad_imgs=$(grep -oE '<img[^>]*>' "$f" | grep -v 'alt=' || true)
+            if [ -n "$bad_imgs" ]; then
+              echo "::error file=$f::<img> without alt attribute"
+              echo "$bad_imgs"
+              fail=1
+            fi
+
+            # No generic link text
+            if grep -iE '>(click here|read more)</a>' "$f" >/dev/null; then
+              echo "::error file=$f::generic link text (click here / read more)"
+              grep -niE '>(click here|read more)</a>' "$f" || true
+              fail=1
+            fi
+          done
+          exit $fail
+
+      - name: Check internal links (offline)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --offline --no-progress --include-fragments _site
+          fail: true
