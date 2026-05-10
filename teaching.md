@@ -84,9 +84,18 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
   mechanical and quantum-mechanical properties, instabilities, and
   phase transitions. EPFL.
 - **Methods of Modelling and Simulation for Materials Science.**
-  Same scope, Imperial College graduate seminar.
+  Same scope, Imperial College graduate seminar — see
+  [Imperial College news on the Mathematica Masterclass](https://www.imperial.ac.uk/news/174451/mathematica-masterclass-visualising-materials-science/)
+  (TSM-CDT, Hermes 2016).
 - **Wolfram Summer School and Wolfram Summer Camp.** Program Director
-  2018; Instructor 2015, 2017.
+  2018; Instructor 2015, 2017. Faculty bios:
+  [Wolfram Summer School](https://education.wolfram.com/summer-school/faculty/),
+  [Summer Research Program 2018](https://education.wolfram.com/summer-research-high-school/faculty/2018/),
+  [Summer Camp 2019](https://education.wolfram.com/summer/camp/faculty/2019/).
+- **DeepLearn 2022 Spring** (5th International School on Deep Learning).
+  Instructor for *An Introductory Course on Machine Learning and Deep
+  Learning with Mathematica / Wolfram Language* — see the
+  [DeepLearn 2022 speaker page](https://deeplearn.irdta.eu/2022sp/blog/speakers/daniel-george/).
 - **Hermes School for Materials Simulation and Communication.**
   Instructor, 2016.
 - **MIT Independent Activities Period (IAP).** Multi-year hands-on
@@ -99,6 +108,20 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
   [*Learn to Build Your Own Video Game with the Unity Game Engine and
   Microsoft Kinect*](https://ocw.mit.edu/resources/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/)
   (also on OCW).
+
+### Talk recordings on computational thinking and curriculum
+
+- *Activating Computational Thinking on MITx Using Wolfram Technologies*
+  — MIT xTalk with Peter Barendse, on
+  [YouTube](https://www.youtube.com/watch?v=yHSVVKpPsd0)
+  ([event listing](https://openlearning.mit.edu/events/interactivity-connectedness-classroom-digital-tools-collaborative-learning),
+  [calendar entry](https://calendar.mit.edu/event/xtalk_with_peter_barendse_kyle_keane)).
+- *CodeSeal: A Platform for Evidence-Based Computational Curriculum*
+  — Wolfram Technology Conference 2018, with Michael Kaminsky, on
+  [YouTube](https://www.youtube.com/watch?v=iJwsFvcO1c8).
+- Companion student write-up:
+  [*A student's view: Interactivity & Connectedness in the Classroom*](https://openlearning.mit.edu/news/students-view-interactivity-connectedness-classroom)
+  by Ivory Zhu (MIT Open Learning).
 
 ## International workshops and intensives
 
