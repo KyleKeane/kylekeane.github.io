@@ -183,6 +183,20 @@ Done in PR #8.
 - [x] **Apple Siri integration source** intentionally not linked
   (current `skills.md` framing is accurate without a public source)
 
+## Open items file
+
+Done in PR #12.
+
+- [x] New `docs/open-items.md` — single backlog file capturing every
+  placeholder, "(date to be confirmed)" entry, and known gap across
+  the public site. Structured per page with file paths and resolution
+  notes so future edits are mechanical.
+- [x] `docs/open-questions.md` got a one-line pointer to the new
+  file at the top; historical content untouched.
+- [x] `upcoming.md` intro extended to invite attendance-only travel
+  entries (tagged `[Attending]`), so the page works for both
+  speaking commitments and just-traveling-there items.
+
 ## Speaking restructure + Upcoming page + Bristol supervision
 
 Done in PR #11.

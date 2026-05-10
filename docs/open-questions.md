@@ -1,5 +1,9 @@
 # Open questions for Kyle
 
+> **Note:** the current active backlog of placeholders and missing
+> details is in [`open-items.md`](open-items.md). This file is the
+> historical record of resolved decisions.
+
 Things to confirm with Kyle before publishing or before the next merge
 pass. Each item names the affected page(s) so we know exactly where to
 update once the answer is known.
