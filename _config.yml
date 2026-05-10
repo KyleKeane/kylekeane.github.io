@@ -10,6 +10,9 @@ lang: en
 
 theme: minima
 
+plugins:
+  - jekyll-sitemap
+
 exclude:
   - _briefing/
   - docs/
