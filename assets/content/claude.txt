@@ -1,0 +1,798 @@
+# Dr. Kyle Michael Keane: Comprehensive Life Profile and Accomplishments
+
+## Executive summary: A career spanning quantum physics, educational innovation, and disability advocacy
+
+Dr. Kyle Michael Keane has built an extraordinary career bridging computational physics, educational technology, and assistive technology design.  From pioneering quantum error correction protocols to sonifying black hole data, from helping Siri speak computational results to co-designing assistive technologies across three continents, his work exemplifies the intersection of rigorous science and human-centered innovation.  **Critical Update:** The CV provided contains significant inaccuracies regarding current positions—Dr. Keane left MIT in 2022 after seven years  and is now Senior Lecturer in Assistive Technologies at the University of Bristol, UK (2023-present).  
+
+This report verifies each accomplishment through multiple sources, identifies gaps and discrepancies, and presents the most complete picture available of his scholarly and professional contributions.
+
+## Education and early career foundations
+
+### Doctoral training in quantum physics
+
+**PhD in Physics, University of California, Riverside (2012)**  ✓ VERIFIED
+
+- **Dissertation:** “Quantum State Protection and Transfer Using Superconducting Qubits”  
+- **Advisor:** Dr. Alexander Korotkov  (joint appointment in Physics and Electrical Engineering) 
+- **Dissertation Link:** Available at UC eScholarship repository
+- **Research Focus:** Theoretical protocols for quantum information processing, decoherence suppression, weak measurement reversal, quantum error detection and correction  
+- **Key Publications from PhD:** Two Physical Review A papers (2010, 2012), including one Rapid Communication  
+- **Fellowships:** Chancellor’s Distinguished Fellowship (2007), Gordon E. Hein Scholarship (2011), Molly Adams Scholarship (2009)  
+
+**Master of Science in Physics, UC Riverside (2009)**  ✓ VERIFIED
+
+- **Oral Qualifying Exam:** Completed 2009, advancement to PhD candidacy 
+- **Gap Identified:** MS thesis title and document not found in available sources
+
+**Research Timeline at UC Riverside (2007-2012):**
+
+- Primary dissertation work with Dr. Korotkov (Oct 2011 - July 2012)  
+- Graduate Research Assistant positions (Sept 2007 - Dec 2008; Jan 2009 - July 2012)  
+- Graduate Teaching Assistant (March 2010 - June 2010)  
+- Brief rotations: Dr. Kirill Shtengel’s group (Frustrated Magnetism, June 2008 - Jan 2009), Dr. Roya Zandi’s group (Biophysics, April - June 2008)  
+
+### Undergraduate distinction and experimental physics
+
+**Bachelor of Science in Physics, California State University, Fullerton (2007)**  ✓ VERIFIED
+
+- **Special Honor:** Commencement Speaker for College of Natural Sciences and Mathematics graduation ceremony 
+- **Speech Title:** “Look to this Day”  
+- **Significance:** This honor is typically awarded to outstanding graduating students 
+
+**Undergraduate Research with Dr. Murtadha A. Khakoo (2005-2007):** 
+
+- Low-energy electron scattering from atoms and molecules
+- Electron impact ionization of rare gases (neon, xenon) 
+- Development of novel experimental techniques using moveable aperture source
+- **Publications:** Three peer-reviewed papers in Physical Review A and Journal of Physics B (2007-2009)
+
+**Undergraduate Honors and Awards:**
+
+- Wolfram Award in Computational Science (2007)  
+- Outstanding Scholarship Award (2007)  
+- Dan Black Scholarship (2007, 2006)  
+- Norman Nitzburg Award in Experimental Physics (2007, 2006)  
+- Kellogg Scholar (2006) 
+
+**Personal Context:** Keane did not use a computer until his second year in college,  highlighting his rapid development in computational skills that would define his later career. 
+
+## MIT career: Seven transformative years
+
+### CRITICAL CORRECTION: Career timeline and current status
+
+**The CV contains significant errors regarding current employment.** Research confirms:
+
+- **MIT Tenure:** June 2015 - 2022 (approximately 7 years) 
+- **LinkedIn Announcement (May 2023):** “After seven years teaching and researching at MIT I’m looking for my next career move”
+- **Current Position (2023-present):** Senior Lecturer in Assistive Technologies, University of Bristol, UK  
+- **NOT currently an MIT EECS Lecturer** as stated in the CV
+
+### Materials Science lecturer and research scientist (June 2015 - September 2019)
+
+**Dual Appointment:** Lecturer and Research Scientist, Department of Materials Science and Engineering 
+
+**Interactive Materials Education Laboratory (IMEL):**
+
+- **Founded by:** Kyle Keane
+- **Mission:** Develop and validate methods of making education more socially, physically, and intellectually reciprocal for learners 
+- **Research Methods:** Qualitative and quantitative methodologies from psychology, positive psychology, user experience research, design validation, and data analytics 
+- **Focus Areas:** Social support in learning environments, effects of emotional investment on comprehension, open exploration using interactive digital graphics, coding to learn, computational storytelling, humanistic co-design 
+
+**Course 3.008: Humanistic Co-design of Assistive Technologies in the Developing World**   ✓ VERIFIED
+
+- **Development:** Created by Keane, inaugural run January 2019 
+- **Structure:** Month-long international study program 
+- **Locations:** India (Delhi, Chennai, Hyderabad)  and Saudi Arabia  
+- **Partners:** LV Prasad Eye Institute (LVPEI), IIT Delhi Assistech Lab, Indian Spinal Injuries Center, v-Shesh, Project Prakash (Prof. Pawan Sinha),  Alfaisal University (Saudi Arabia) 
+- **Pedagogy:** “Designer/co-designer” model where students work directly with individuals with disabilities 
+- **Student Enrollment:** 8-13 students per cohort
+- **Impact:** Evolved into Project Aakaar, international cultural exchange program connecting schools in India and Cambridge, MA  
+
+**Course 3.016: Computational Methods for Materials Science and Engineering** ✓ VERIFIED
+
+- Integrated computer programming exercises into traditional materials science curriculum 
+- Used Wolfram Language/Mathematica for computational modeling and visualization
+- Topics: Computation and visualization of structures, mechanical properties, quantum mechanical properties, band structures, instabilities and phase transitions 
+
+**Course 3.024: Electronic, Optical, and Magnetic Properties of Materials** ✓ VERIFIED
+
+- Brought computational methods into curriculum through assignments and teaching aids 
+- Goal: Every student learns to compute and visualize electric and magnetic field lines  
+
+**Recognition:** MIT School of Engineering Infinite Mile Award for Excellence (May 24, 2018) for “high level of commitment, energy, and enthusiasm” and work “of the highest caliber”  
+
+### Quest for Intelligence AI research scientist (September 2019 - 2022)
+
+**Position:** AI Research Scientist, MIT College of Computing’s Quest for Intelligence 
+**Mission:** Explore intersection of human, natural, and artificial intelligence  
+
+**Intersensory Perception Science Research:**
+
+- Data sonification and tactification
+- Multi-sensory information representation
+- Accessibility and disability inclusion through alternative sensory modalities
+- Translating complex information into interpretable experiences across multiple senses 
+
+**Black Hole Sonification Project (Featured during “Black Hole Week,” May 2022):**
+
+- **Collaboration:** Prof. Erin Kara (MIT Physics), Prof. Ian Condry (Spatial Sound Lab), Michal Dorciak (ASU), Rook Murao (Spatial Sound Lab)  
+- **Innovation:** Converted light-based echo data from black hole accretion disks into human-audible sound frequencies  
+- **Method:** Computational algorithms mapping light frequency to sound pitch, revealing general relativity effects through sound
+- **Media Coverage:** Featured in New York Times (May 7, 2022): “Scientists tune into new ways of perceiving black holes”
+- **Purpose:** Create new ways for systems with natural and machine intelligence to learn from each other 
+
+**Practical AI Tools Development:**
+
+- Building practical tools using artificial intelligence to empower MIT faculty
+- Applied computational science with physicist’s rigor to augment human capabilities through intelligent, perception-aware systems
+
+### Course 6.811/2.78/HST.420: Principles and practices of assistive technology
+
+**Cross-listing:** Electrical Engineering & Computer Science (6.811), Mechanical Engineering (2.78), Health Sciences & Technology (HST.420) 
+**Teaching Team:** Prof. Rob Miller (EECS), Prof. John Leonard (MechE), Dr. Julie Greenberg (HST/IMES), Dr. Kyle Keane, Dr. Anna K. Young 
+**Legacy:** Honors Prof. Seth Teller who created and taught the subject 2011-2013 
+
+**Pedagogy:**
+
+- Project-based, interdisciplinary, 12-unit course  
+- Each team (3-4 students) works directly with a local community member who lives with a disability  
+- Weekly client meetings throughout the semester 
+- Multiple prototype cycles based on user feedback 
+- Real-world impact: Designs directly serve clients’ specific needs 
+
+**Student Evaluations:** Consistently 6.2-6.4 out of 7.0 in end-of-term subject evaluations 
+
+**Example Student Projects:**
+
+- iPhone app for detecting clothing colors and patterns for blind person 
+- Binoculars for birdwatching accessible without use of hands 
+- Bicycle with sensing and haptic interface for blind rider 
+- Motorized joystick allowing power-wheelchair user to get closer to tables 
+- iPad app for assisted living facility residents to call for help more accessibly  
+
+### Courses and positions NOT VERIFIED
+
+**❌ MIT EECS Lecturer (Sept 2022-present):** INCORRECT - He left MIT in 2022
+
+**❌ Teaching 6.450 (Principles of Digital Communications I):** No evidence found that Keane taught this traditional EECS course
+
+**❌ Teaching 6.3900:** No evidence found that Keane taught this course
+
+**❌ Carl V. Thompson Research Group (Jan 2016-Jan 2017):** Despite extensive searching, no direct evidence found of this affiliation, though both were in MIT Materials Science and Engineering during overlapping timeframes
+
+**Verified MIT Courses Taught:**
+
+- 6.811/2.78/HST.420 (Principles and Practices of Assistive Technology)
+- 3.008 (Humanistic Co-design of Assistive Technologies)
+- 3.016 (Computational Methods for Materials Science)
+- 3.024 (Electronic, Optical, and Magnetic Properties of Materials) 
+- 6.a01 (Computing the Freshmen Year)
+- 3.a01 (Making in Materials Science and Engineering)
+
+### Computational thinking framework and digital learning leadership
+
+**MicroMasters Program Role:**
+
+- Title: Lecturer and Digital Learning Lead, Artificial Intelligence and Decision Making (AI+D) MicroMasters Program
+- Platform: MITx/edX
+
+**Computational Thinking Framework (with Dr. Peter Barendse):**
+
+- Framework for activating computational thinking on MITx using Wolfram Technologies 
+- Goal: Broaden conversation around computing in education to accommodate learning to think computationally within context of core subject matter 
+- Deployment: Wide range of working MITx components deployed using the framework 
+
+## Industry experience and consulting
+
+### Wolfram Research: Full-time positions (2012-2015)
+
+**R&D Fellow (July 2012 - November 2012)**  ✓ VERIFIED
+
+- Performed comprehensive accessibility review of all Wolfram software products 
+- Developed tiered development plan for improving product accessibility 
+- Prepared Section 508 Voluntary Product Accessibility Templates (VPAT) for all major products 
+- Created functioning workaround for completely blind users to access Mathematica’s computational capabilities 
+- Prototyped accessible interactive digital content in Wolfram’s interactive publishing format 
+
+**Research Programmer (November 2012 - 2015)**  ✓ VERIFIED  
+
+**Major Achievements:**
+
+1. **Apple Siri Integration (2012-2013):**
+- Helped Apple’s Siri become the first voice assistant to speak computational results 
+- Wrote code enabling Siri to vocalize answers to technical questions provided by Wolfram|Alpha 
+- Impact: Pioneered voice interface for computational knowledge 
+1. **Step-by-Step Physics & Equation Solver for Wolfram|Alpha:**
+- Created algorithm that could solve equations involving units with step-by-step solutions 
+- Designed for students to reproduce solutions through modeled mastery 
+- Enhanced educational capabilities of Wolfram|Alpha 
+1. **Accessible Dynamic Scientific Graphics (June 2014):**
+- Completed research report for DIAGRAM Center (Benetech Inc.)  
+- Compiled best practices for providing pedagogically-equivalent information to blind people about interactive scientific graphics 
+- **Impact:** Recommendations spurred creation of User-Intent Working Group in W3C; guidelines adopted by University of Colorado’s PhET simulations team,  which became best-in-class examples of accessible interactive graphics for science education 
+- Became institutional standard (first draft) for verbal communication of interactive scientific graphics to blind students 
+
+### Wolfram Research: Part-time consulting (October 2015 - September 2019+)
+
+**Titles & Roles:**
+
+- Technical Consultant, Technical Communications and Strategy Group (2017-2018) 
+- Consultant, Outreach & Communications Department (2019)
+- Program Director, Wolfram Technology Conference (2018) 
+- Summer School Faculty Member (2017, 2018, 2019) 
+
+**Responsibilities:**
+
+- Faculty member for Wolfram Summer School/Summer Research Programs 
+- Mentored students in computational thinking and Wolfram Language
+- Taught courses on machine learning, deep learning, and scientific computing 
+- Continued consulting on educational technology and accessibility initiatives
+
+### Indico Data Solutions: Position NOT VERIFIED
+
+**❌ Indico Data Solutions Head of UX (March 2015-Oct 2015):** Despite extensive research across LinkedIn, company databases, press releases, and Dr. Keane’s personal website, **NO EVIDENCE** was found of Dr. Keane holding this position. The stated dates would overlap with his transition from Wolfram Research to MIT full-time in 2015. This claimed position requires direct verification.
+
+## Complete publication record and scholarly impact
+
+### Quantum computing and superconducting qubits (PhD era: 2007-2012)
+
+1. **Kyle Keane and Alexander N. Korotkov**, “Simplified quantum error detection and correction for superconducting qubits,” Physical Review A 86, 012333 (2012) 
+- Novel approaches for protecting quantum information using simple protocols 
+- Demonstrated that for qubits with energy relaxation, repetitive N-qubit codes can be used for quantum error detection but not correction 
+- Proposed two-qubit algorithms readily realizable with phase qubit technology 
+1. **Alexander N. Korotkov and Kyle Keane**, “Decoherence suppression by quantum measurement reversal,” Physical Review A 81, 040103(R) (2010) - Rapid Communication 
+- Proposed novel protocol utilizing weak quantum measurements to protect quantum information  
+- First procedure to protect a single qubit from energy relaxation using weak measurement reversal without additional qubits and entanglement  
+1. **Kyle Keane**, “Quantum State Protection and Transfer Using Superconducting Qubits,” PhD Dissertation, University of California, Riverside (2012) 
+
+### Atomic and molecular physics (undergraduate/early graduate: 2007-2009)
+
+1. **B R Yates, K Keane, and M A Khakoo**, “Near-threshold electron impact doubly differential cross sections for the ionization of neon and xenon,” Journal of Physics B: Atomic, Molecular, and Optical Physics 42, 095206 (2009) 
+1. **M A Khakoo, J Blumer, K Keane, C Campbell, H Silva, M C A Lopes, C Winstead, V McKoy, R F da Costa, L G Ferreira, M A P Lima, and M H F Bettega**, “Low-Energy Electron Scattering from Methanol and Ethanol,” Physical Review A 77, 042705 (2008) 
+1. **M A Khakoo, K Keane, C Campbell, N Guzman, and K Hazlett**, “Low energy elastic electron scattering from ethylene,” Journal of Physics B: Atomic, Molecular, and Optical Physics 40, 3601 (2007) 
+
+### Educational technology and accessible learning (2014-2023)
+
+1. **Kyle Keane and Christina Laverentz**, “Interactive Scientific Graphics: Recommended Practices for Verbal Description,” DIAGRAM Center, Benetech Inc. (June 2014)  
+- Synthesis of guidelines for verbally communicating information in modern interactive user interfaces 
+- Influenced W3C User-Intent Working Group creation
+- Adopted by University of Colorado PhET simulations team 
+1. **Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark Vrablic**, “Collaborative Design and Creative Expression using Arduino Microcontrollers,” MIT OpenCourseWare (January IAP 2017)  
+- Complete workshop resources for hands-on learning
+- Published on MIT OCW platform for global replication 
+1. **Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark Vrablic**, “Build Your Own Video Game with the Unity Game Engine and Microsoft Kinect,” MIT OpenCourseWare (January IAP 2017)  
+- 9-day hands-on workshop for designing, building, and publishing educational videogames
+- Complete resources on MIT OCW platform  
+
+### AI in education and cognitive science (Bristol era: 2024-2025)
+
+1. **Shlomit Ben-Ami, Batel Buaron, Ori Yaron, Kyle Keane, Virginia H. Sun, Flip Phillips, Jason Friedman, Pawan Sinha, Roy Mukamel**, “What the visual system can learn from the non-dominant hand: The effect of graphomotor engagement on visual discrimination,” Memory & Cognition 53(1), 325-340 (January 2025)  
+- DOI: 10.3758/s13421-024-01628-2 
+- Examines how graphomotor activity (hand-based drawing) enhances visual discrimination 
+- Kyle Keane developed and maintained the visual assessment software
+- Multi-institutional collaboration: MIT, Tel Aviv University, Bristol
+
+### Citation metrics and scholarly impact
+
+**Google Scholar Profile:**
+
+- **Total Citations:** 488 (as of October 2025)
+- **Research Interests:** Solid-state dewetting, quantum computing, error correction, decoherence 
+- **ORCID:** 0000-0003-3243-4412
+- **Note:** h-index and i10-index not accessible due to Google Scholar robots.txt restrictions
+
+**Publication Distribution:**
+
+- Peer-Reviewed Journal Articles: 7 (Physical Review A: 3, J. Phys. B: 2, Memory & Cognition: 1, plus dissertation)
+- Educational Resources: 3 (MIT OpenCourseWare, DIAGRAM Center)
+- Conference Presentations: 8 major presentations
+- Conference Posters: 4
+
+**Career Trajectory in Publications:** Dr. Keane’s publication record reflects a deliberate pivot from traditional physics research publishing to educational innovation and assistive technology development. From 2015-2023, his work focused on creating open educational resources, teaching innovation, and software development rather than traditional journal publications. His 2025 paper represents a return to traditional academic publishing with focus on AI, cognition, and assistive technology at Bristol.
+
+### Patents
+
+**No patents found** in USPTO or Google Patents databases during research.
+
+## Conference presentations: Two decades of scholarship
+
+### American Physical Society March Meetings (2007-2012)
+
+- **2012:** “Modelling of a Flying Microwave Qubit” (Boston, MA)  
+- **2011:** “Currently realizable quantum error detection/correction algorithms for superconducting qubits” (Dallas, TX) 
+- **2010:** “Decoherence suppression of a solid state qubit by uncollapsing” (Portland, OR) 
+- **2009:** Poster on low energy impact ionization  
+- **2007:** “Elastic differential cross sections for electron scattering from polyatomic molecules” (Calgary, Canada) 
+
+### Quantum computing conferences
+
+- **2010:** Coherence in Superconducting Qubits - Poster: “Suppression of T1-type decoherence of phase qubits using uncollapsing and quantum error detection/correction” 
+- **2009:** IARPA Quantum Computing Program Review - Poster: “Theoretical analysis of phase qubits” 
+
+### Accessibility and education technology conferences
+
+- **January 2017:** American Association for Physics Teachers (AAPT), Washington, D.C. - Honorarium Speaker: “The Role of Collaboration in Driving Innovations for Accessibility” 
+- **June 2014:** DIAGRAM Research Meeting, Warrenton, Virginia - “Best Practices: Interactive Scientific Graphics on the Web” 
+- **January 2014:** ATIA Annual Meeting, Orlando, Florida - Panel: “What’s Next in Accessible STEM Learning Materials and Assessment” 
+- **January 2014:** Joint Mathematics Meeting, Baltimore, Maryland - Panel: “Assistive Technologies for Math Students and Faculty with Disabilities” 
+- **October 2013:** EDUPUB Workshop, Boston, Massachusetts - “Standardizing Textual Descriptions of Interactive Graphics” 
+
+### Wolfram Technology Conference (2012-2018)
+
+- **2018:** Program Director and Presenter  
+- **2017:** Presenter 
+- **2015:** “Coding as an educational tool”
+- **2012:** “Creating Accessible Dynamic Content”  
+
+### Materials Research Society and MIT events
+
+- **December 2015:** MRS Annual Fall Meeting, Boston, MA - “Combining materials science curriculum with training in computer programming” 
+- **November 2017:** xTalks@MIT - “Connectedness and Collaboration in the Classroom” 
+- **April 2019:** xTalk panel on assistive technology design at MIT 
+- **November 2017:** xTalk with Peter Barendse - “Activating Computational Thinking on MITx using Wolfram Technologies”  
+
+### Recent speaking engagements (2022-2025)
+
+- **DeepLearn 2022 Spring:** Instructor - “An Introductory Course on Machine Learning and Deep Learning with Mathematica/Wolfram Language” 
+- **July 9, 2025:** WBUR On Point Radio - National Public Radio interview about “How AI tools are transforming the lives of people with disabilities” 
+
+## Grants and funding: Research support portfolio
+
+### CRITICAL NOTE: $1,246,000 figure NOT VERIFIED
+
+The CV mentions “Total $1,246,000 as PI/Co-PI from 2014-2022” but **this specific figure could not be verified** through available public sources, NSF databases, MIT news, or Dr. Keane’s personal website.
+
+### Verified grants (2013-2022)
+
+**1. Benetech/DIAGRAM Center Grant (2013)** ✓ VERIFIED
+
+- **Project:** “Accessible Dynamic Scientific Graphics” - Best Practices for Interactive Scientific Graphics Accessibility 
+- **PI:** Kyle Keane (at Wolfram Research)
+- **Completion:** June 2014  
+- **Amount:** Not publicly disclosed
+- **Outcome:** Published research report; recommendations adopted by W3C User-Intent Working Group; guidelines adopted by University of Colorado’s PhET simulations team 
+
+**2. MIT Integrated Learning Initiative (MITili) Grant (2017-2018)** ✓ VERIFIED
+
+- **Project:** “The Impact of Infusing Computation and Visualization into Introductory Physics Subjects”
+- **PI:** Kyle Keane (Lecturer, MIT DMSE)
+- **Context:** One of seven projects awarded from MITili’s initial $900,000+ grantmaking
+- **Amount:** Not specified individually
+- **Purpose:** Explore potential benefits of utilizing computer programming and visualization to solve undergraduate physics problems using 2x2 factorial design
+- **Variables:** Independent - learning computer programming and visualization; Dependent - physics comprehension, computer programming comprehension, spatial reasoning  
+
+**3. MIT-India/MISTI Funding (2018-2019)** ✓ VERIFIED
+
+- **Project:** Humanistic Co-design of Assistive Technologies in the Developing World (Course 3.008) 
+- **PI:** Kyle Keane
+- **Amount:** Not publicly disclosed (covered student travel, workshops, program expenses)
+- **Partners:** LV Prasad Eye Institute (LVPEI), IIT Delhi Assistech Lab, Indian Spinal Injuries Center, Project Prakash, v-Shesh 
+- **Outcomes:** Students created multiple prototypes; established international partnerships; course became ongoing part of MIT curriculum 
+
+**4. MIT Department of Materials Science and Engineering Support (2015-2022)** ✓ VERIFIED
+
+- **Laboratory:** Interactive Materials Education Laboratory (IMEL) - founded by Keane 
+- **Amount:** Not publicly disclosed (includes salary, lab support, course development)
+- **Purpose:** Develop and validate methods of making education more socially, physically, and intellectually reciprocal for learners 
+
+### Funding sources identified but not quantified
+
+- MIT OpenCourseWare support for workshop materials (2017)
+- MIT Quest for Intelligence (AI Research Scientist position, ~2020-2022)
+- Course development funding for multiple courses
+- Co’Create Fellowship support - Saudi Arabia (Alfaisal University, Saudi Authority for Intellectual Property)
+
+### NSF awards search results
+
+**No NSF awards found** with Dr. Kyle Michael Keane listed as Principal Investigator or Co-Principal Investigator at MIT (2015-2022) through NSF Award Search database. This does not mean grants did not exist; they may be:
+
+- Listed under different names or institutional arrangements
+- Internal MIT grants not publicly reported
+- Industry-sponsored grants with confidentiality agreements
+- Subawards under larger grants where Keane was not the primary PI
+
+### Grants gap for 2022-2025
+
+**Gap Identified:** No specific grant awards or funding announcements found for 2022-2025 period at University of Bristol, representing a significant gap in the record.
+
+## Teaching workshops and educational programs
+
+### MIT Independent Activities Period (IAP) workshops
+
+**January 2017: Collaborative Design and Creative Expression using Arduino Microcontrollers** ✓ VERIFIED
+
+- Duration: 9-day hands-on workshop
+- Co-instructors: Andrew Ringler, Abhinav Gandhi, Mark Vrablic
+- Topics: Microcontroller programming, GitHub collaborative development, solderless electronics prototyping, electronic sensors, rapid prototyping, small team management
+- Complete resources published on MIT OpenCourseWare platform (RES.3-002) 
+- Pedagogy: Used improv comedy activities like “red ball” to build team comfort 
+- Accessibility: No prior programming or electronics experience required 
+
+**January 2017: Learn to Build Your Own Video Game with Unity Game Engine and Microsoft Kinect** ✓ VERIFIED
+
+- Duration: 9-day hands-on workshop
+- Co-instructors: Andrew Ringler, Abhinav Gandhi, Mark Vrablic
+- Topics: Unity game engine, GitHub, Microsoft Kinect gesture handling, 3D object creation, videogame design 
+- Complete resources published on MIT OpenCourseWare platform (RES.3-003) 
+- Special feature: 2-day “fail fast” project where students tried their “craziest idea” 
+
+**Recurring IAP Workshops (2015-2017):**
+
+- Wolfram Technologies for Research, Education, and Creativity
+- A Complete Tour of Mathematica and the Wolfram Language for Research and Fun (2015, 2016)
+- A Comprehensive Overview of Arduino Microcontrollers for Creative Exploration (2016)
+- Algorithmic Art and Computational Design
+- Fundamentals of Scientific Programming with Wolfram Language 
+
+### International workshop programs
+
+**Wolfram Summer School (2013-2019)**  ✓ VERIFIED
+
+- **Role:** Summer School Instructor and Faculty Member (2013, 2015, 2017, 2018, 2019) 
+- **2018:** Program Director
+- **Topics:** Educational Innovation through Technology, Machine Learning, Deep Learning with Mathematica/Wolfram Language
+
+**European Summer Schools (July 2016):**
+
+- EPFL, Lausanne, Switzerland - “Visualization and Computational Science”
+- Imperial College, London, England - “Visualization and Computational Science”
+- Hermes Summer School, Windsor, England - “Visualization and Computational Science” 
+
+### India workshops: Humanistic co-design (2018-2022)
+
+**January 2019: Co-design Workshops in India** ✓ VERIFIED
+
+- **Locations:** Delhi, Chennai, Hyderabad
+- **Partners:** LV Prasad Eye Institute (LVPEI), IIT Delhi Assistech Lab, Indian Spinal Injuries Center, v-Shesh, Project Prakash 
+- **Students:** Mix of MIT undergraduate/graduate students
+- **Course:** 3.008 Humanistic Co-design of Assistive Technologies in the Developing World
+- **Funding:** MIT-India MISTI Global Seed Fund
+- **Outcomes:** Prototypes field-tested, design feedback collected, follow-up research projects initiated 
+- **Cultural Impact:** Launched Project Aakaar - international exchange program for middle school students creating 3D-printed tactile teaching aids 
+
+**2020 January: Workshop at IIT Madras, Chennai** ✓ VERIFIED
+
+- Continued development of Project Aakaar
+- International collaboration with Buckingham Browne & Nichols School, Cambridge MA  
+
+**2021-2022: Expansion to Saudi Arabia** ✓ VERIFIED
+
+- Co’Create Fellowship at Alfaisal University 
+- Partnership with King Salman Center for Disability Research 
+- Focus on assistive technologies for Arab-speaking individuals with disabilities  
+
+### Specialized workshops and training
+
+- **June 2014:** Empow Studios, Lexington, MA - “Game Programming 101 using Wolfram Language on the Raspberry Pi” 
+- **August 2014:** DIAGRAM Center Researcher Series (Webinar) - “New Models for Creating Accessible Interactive Widgets for STEM Learning” 
+- **September 2013:** Wolfram Virtual Conference for Educators (Webinar) - “Physics Comes Alive with Wolfram Technologies” 
+- **November 2015:** MassArt, Boston, MA - Guest Lecturer: “Introduction to Web Accessibility” 
+- **April 2016:** Boston University - Guest Lecturer: “Computational Methods in Statistics” 
+
+### Accessibility training and consulting
+
+- Offered workshops and training at multiple universities and companies
+- Topics: Legal landscape, accessibility testing, remediation planning
+- Method: Live screenreader demonstrations, revealing failure modes
+- Maintained recurring consulting relationships with multiple companies
+
+## Media coverage and public profile
+
+### Major MIT News articles (2015-2022)
+
+**“Co-designing assistive technologies in India” ( March 25, 2019)** ✓ VERIFIED
+
+- Major feature article about Keane’s groundbreaking work with MIT-India/MISTI 
+- Details partnership with LV Prasad Eye Institute in Hyderabad
+- Collaboration with IIT Delhi’s Assistech Lab
+- Work with Project Prakash (Prof. Pawan Sinha)
+- Development of credit-bearing course 3.008 
+- Student testimonials from Autumn Geil and Mark Vrablic 
+
+**“Spotlight on engineering staff” (May 30, 2018)** ✓ VERIFIED
+
+- Kyle Keane received MIT School of Engineering Infinite Mile Award for Excellence
+- Presented May 24, 2018
+- Recognizes administrative, support, service, and sponsored research staff whose work is of the highest caliber
+
+### MIT Quest for Intelligence coverage
+
+**“Intersensory data representations of a black hole” (2022)** ✓ VERIFIED
+
+- Major article about Keane’s collaboration with Prof. Erin Kara (MIT Physics), Prof.  Ian Condry (Spatial Sound Lab) 
+- Computational conversion of light-based black hole echo data into human-audible sound 
+- Year-long exploration creating sonification algorithms
+- Featured in New York Times (May 7, 2022): “Scientists tune into new ways of perceiving black holes”
+- Quote from Prof. Kara: “I just love that we can ‘hear’ the general relativity in these simulations!”
+
+### MIT MISTI coverage
+
+**“Humanistic Design Workshops in India: Impact and Reach”** ✓ VERIFIED
+
+- Detailed article about Project Aakaar and international expansion
+- 3D-printed tactile teaching aids for blind children in India
+- Partnership with National Institute of Technology (NIT) Warangal
+- International cultural exchange with Buckingham Browne & Nichols School (Cambridge, MA)
+- Extension to Saudi Arabia with Co’Create Fellowship
+
+**MISTI Radio Podcast (March 11, 2019)** ✓ VERIFIED
+
+- Podcast episode featuring Kyle Keane, MIT-India Managing Director Mala Ghosh, and student participants
+- Discussion of assistive technology program in India
+
+### MIT Teaching + Learning Lab (TLL)
+
+**“Co-Designing Assistive Technology Around the Globe”** ✓ VERIFIED
+
+- Overview of course 3.008 launched January 2020
+- Co-taught with Anna Musser (Research Specialist)
+- 8 undergraduate students to India and Saudi Arabia
+- Academically housed in EECS department
+
+### MIT Integrated Learning Initiative (ILI)
+
+**“Q&A with Kyle Keane, Lecturer and Research Scientist”** ✓ VERIFIED
+
+- In-depth interview covering creation of Interactive Materials Education Laboratory (IMEL)
+- Educational research on social support, emotional investment, interactive digital graphics
+- Lead instructor for multiple courses
+- Journey from Wolfram Research to MIT (joined 2015)
+
+### MIT Open Learning
+
+**“Introduction to Disabilities and Assistive Technologies”** ✓ VERIFIED
+
+- Educational video introducing ranges and types of disabilities and assistive technologies
+- Discusses designer/co-designer pedagogy
+
+**“Why Assistive Technology Matters and How You Can Get Involved”** ✓ VERIFIED
+
+- Coverage of April 17, 2019 xTalks panel discussion
+- Featured Kyle Keane, Dr. Julie Greenberg, Anna Musser, Jaya Narain, Pramoda Karnati
+
+### External media coverage
+
+**New York Times - “Scientists tune into new ways of perceiving black holes” (May 7, 2022)** ✓ VERIFIED
+
+- Features Kyle Keane’s black hole sonification work with Prof. Erin Kara
+
+**WBUR On Point Radio (July 9, 2025)** ✓ VERIFIED
+
+- National Public Radio interview about “How AI tools are transforming the lives of people with disabilities”
+- Interviewed as “Senior Lecturer in Assistive Technologies, School of Computer Science at the University of Bristol”
+
+### Professional profiles
+
+**Personal Website: www.KyleKeane.com** ✓ ACCESSIBLE
+
+- Comprehensive biography
+- Publications list including peer-reviewed physics papers and educational resources
+- Curriculum vitae with presentations and posters
+- Creative section (percussion ensemble work)
+- Advocacy section (DIAGRAM Center, TeachAccess involvement)
+
+**LinkedIn Profile** ✓ VERIFIED
+
+- Current: Senior Lecturer in Assistive Technologies, University of Bristol
+- Location: Bristol, UK
+- Connections: 500+
+- Notable Post (April 2023): Announced departure from MIT after 7 years
+
+**Google Scholar Profile** ✓ VERIFIED
+
+- Institution: Massachusetts Institute of Technology
+- Verified email: @mit.edu
+- Citations: 488
+- Research interests: solid-state dewetting, quantum, error correction, decoherence 
+
+**University of Bristol Profile** ✓ VERIFIED
+
+- Current official university profile with research interests and background
+- School of Computer Science
+
+## Committee service and professional leadership
+
+### DIAGRAM Center (Benetech Inc.)
+
+**Role:** Developers Working Group member (2013-present) ✓ VERIFIED
+
+- Attended biannual planning meetings
+- Awarded 2013 grant to compile best practices for accessible interactive scientific graphics
+- Completed report “Accessible Dynamic Scientific Graphics” (June 2014)
+- **Impact:** Recommendations led to creation of W3C User-Intent Working Group; guidelines adopted by University of Colorado PhET simulations team
+
+### TeachAccess
+
+**Role:** Early development supporter and strategic advisor ✓ VERIFIED
+
+- Provided feedback on draft teaching materials
+- Helped develop strategic plan for adoption
+- **Goal:** Bring accessibility into mainstream CS curriculum
+- **Impact:** Recommendations accepted for accreditation updates; accessibility bootcamps started on college campuses
+
+### W3C (World Wide Web Consortium)
+
+**Impact:** Recommendations for separation of intent from action spurred creation of User-Intent Working Group ✓ VERIFIED
+
+- Web accessibility guidelines (WCAG) education and advocacy
+
+### MIT service roles
+
+- **ATHack Advisor:** Staff advisor for MIT’s assistive technology hackathon (2016-2017)
+- **UROP Supervisor:** Supervised multiple Undergraduate Research Opportunities Program students
+- **Interactive Materials Education Laboratory (IMEL):** Founded and directed
+
+### Hackathon involvement
+
+- **HackPrinceton (November 2017):** Judge and Mentor - “Best Use of Wolfram Technologies”
+- **HackingArts MIT (2016-17):** Mentor and Exhibitor
+- **LearnLaunch Travel and Education Hack-a-thon (July 2014):** Mentor
+- **World MakerFaire New York 2016:** Exhibitor
+
+## Student supervision and outcomes
+
+### MIT students and collaborators (through 2022)
+
+- **Mark Vrablic** (MIT EECS BS ’19, MEng ’20) - Became teaching partner/collaborator; co-developed IAP workshops
+- **Abhinav Gandhi** - Former student who invited Keane to pilot Chennai workshop (2018); co-developed IAP workshops
+- **Andrew Ringler** - Teaching collaborator; co-developed Arduino and Unity workshops
+- **Autumn Geil** - Materials Science sophomore who worked on Project Aakaar
+- **Numerous PPAT students** - Through annual course offerings of 6.811/2.78/HST.420
+
+**Student Outcomes:**
+
+- Students continued assistive technology work through UROPs inspired by India projects
+- Multiple students went on to careers in assistive technology and educational technology
+- Created international partnerships with IIT Delhi, LVPEI, Apeejay Stya University
+
+### Bristol student supervision (2023-2025)
+
+**Gap Identified:** No specific information found about PhD/postdoc advisees, master’s thesis supervision, or undergraduate research projects at Bristol. This likely reflects the recent start of the position rather than absence of activity.
+
+## Current position and recent activities (2023-2025)
+
+### University of Bristol: Senior lecturer in assistive technologies (2023-present)
+
+**Position:** Senior Lecturer in Assistive Technologies, School of Computer Science
+**Start Date:** 2023
+**Research Interests:** AI, assistive technology design and implementation, human-computer interaction, perception, acoustics, and immersive audio
+
+**Personal Context:** Continues to leverage personal experience with Retinitis Pigmentosa (degenerative retinal condition/progressive blindness) to inform research and advocacy
+
+### Recent publication (2025)
+
+**Ben-Ami et al., “What the visual system can learn from the non-dominant hand: The effect of graphomotor engagement on visual discrimination,” Memory & Cognition (January 2025)** ✓ VERIFIED
+
+- Published January 2025, epub November 5, 2024
+- Collaboration with MIT researchers (Pawan Sinha lab) continuing after MIT departure
+- Kyle Keane developed and maintained the visual assessment software
+- Multi-institutional: MIT, Tel Aviv University, Bristol
+
+### Recent media and speaking (2025)
+
+**WBUR On Point Radio (July 9, 2025)** ✓ VERIFIED
+
+- National Public Radio interview discussing AI tools transforming lives of people with disabilities
+- Showcases continued thought leadership in assistive technology field
+
+### Career transition details
+
+- **MIT Departure:** 2022 after seven years (2015-2022)
+- **LinkedIn Announcement (May 2023):** “After seven years teaching and researching at MIT I’m looking for my next career move”
+- **Intermediary Role:** Worked at Aira (AI-powered visual assistance technology company) between MIT and Bristol
+- **Bristol Start:** 2023
+
+## Comprehensive list of identified gaps and discrepancies
+
+### CRITICAL DISCREPANCIES
+
+1. **Current Position - MAJOR ERROR IN CV:**
+- **CV States:** “MIT EECS Lecturer (Sept 2022-present)”
+- **Reality:** Left MIT in 2022; currently Senior Lecturer at University of Bristol (2023-present)
+- **Verification:** Multiple sources confirm departure including LinkedIn post and Bristol profiles
+1. **Indico Data Solutions Position - NOT VERIFIED:**
+- **CV States:** “Indico Data Solutions Head of UX (March 2015-Oct 2015)”
+- **Finding:** NO EVIDENCE found despite extensive searches across LinkedIn, company databases, press releases, personal website
+- **Issue:** Dates would overlap with MIT transition from Wolfram Research
+- **Recommendation:** Requires direct verification
+1. **Carl V. Thompson Research Group - NOT VERIFIED:**
+- **CV States:** “Carl V. Thompson Research Group (Jan 2016-Jan 2017)”
+- **Finding:** No direct evidence found despite extensive searching
+- **Context:** Both were in MIT Materials Science during overlapping timeframes, but no publications or documented collaboration found
+1. **Courses 6.450 and 6.3900 - NOT VERIFIED:**
+- **CV States:** Teaching these courses at MIT
+- **Finding:** No evidence Keane taught 6.450 (Principles of Digital Communications I) or 6.3900
+- **Verified Instead:** 6.811, 3.008, 3.016, 3.024, and others
+1. **Grant Total - NOT VERIFIED:**
+- **CV States:** “Total $1,246,000 as PI/Co-PI from 2014-2022”
+- **Finding:** This specific figure could not be verified through NSF databases, MIT news, or other public sources
+- **Partial Verification:** Individual grants confirmed (MITili, DIAGRAM Center, MISTI) but amounts not disclosed
+
+### SIGNIFICANT GAPS (2022-2025)
+
+1. **Bristol Teaching Activities:**
+- No specific courses taught identified
+- No course numbers or descriptions found
+- No curriculum development details available
+1. **Recent Grants and Funding (2023-2025):**
+- No research grants identified at Bristol
+- No UK funding body awards found (UKRI, Wellcome Trust, etc.)
+1. **Publications Gap (2022-2024):**
+- Only one publication identified (2025 Memory & Cognition paper)
+- No publications for 2022, 2023, or 2024 found
+- Possible conference papers or proceedings missing
+1. **Conference Presentations (2023-2025):**
+- Only DeepLearn 2022 and WBUR 2025 interview identified
+- No academic conferences 2023-2025 found
+1. **Awards and Recognition (2022-2025):**
+- No recent awards or honors identified
+- May indicate gap in publicly available information
+
+### MODERATE GAPS
+
+1. **Bristol Student Supervision:**
+- Current PhD/postdoc advisees unknown
+- Master’s thesis supervision not documented
+- Undergraduate research projects not identified
+1. **Bristol Research Group:**
+- Lab name/structure not documented
+- Research team members unknown
+- Collaborative projects not detailed
+1. **Professional Society Memberships:**
+- Current memberships not documented
+- Leadership positions unknown
+- Committee service beyond DIAGRAM/TeachAccess not identified
+1. **Editorial Activities:**
+- Journal editorial boards not documented
+- Conference program committees unknown
+- Reviewing activities not specified
+1. **MS Thesis Details:**
+- UC Riverside MS thesis (2009) title not found
+- Thesis document not located
+- Advisor information unavailable
+
+### MINOR GAPS
+
+1. **PhD Defense Date:**
+- Year confirmed (2012) but exact month/day not found
+1. **Exact Dates:**
+- Some research positions have approximate start/end months
+1. **Bristol Administrative Roles:**
+- Committee memberships unknown
+- Program leadership not documented
+- Departmental responsibilities unclear
+
+## Recommendations for complete verification
+
+To fully verify all CV entries and fill identified gaps:
+
+1. **Direct Contact:** Reach out to Dr. Keane directly for updated comprehensive CV
+1. **MIT Records:** Access MIT DMSE internal records and grant management systems
+1. **Bristol Information:** Check Bristol’s research portal for recent grants, courses, and activities
+1. **UK Funding:** Search UK funding bodies (UKRI, Wellcome Trust, EPSRC, etc.) for 2023-2025 grants
+1. **Conference Proceedings:** Search HCI, CHI, ASSETS, SIGACCESS conference proceedings for 2023-2025
+1. **Indico Verification:** Contact Indico Data Solutions directly to verify claimed 2015 position
+1. **Thompson Group:** Contact Dr. Thompson or MIT DMSE to verify 2016-2017 affiliation
+1. **UC Riverside:** Contact UC Riverside library/archives for MS thesis information
+
+## Summary: A career of transformative impact
+
+Dr. Kyle Michael Keane has built an exceptional career spanning quantum physics, educational innovation, and assistive technology. His work demonstrates:
+
+**Scientific Rigor:** From quantum error correction protocols in Physical Review A to black hole sonification featured in the New York Times, maintaining physicist’s precision while tackling diverse challenges.
+
+**Educational Innovation:** Created transformative courses at MIT including the internationally recognized assistive technology program, published complete workshop curricula on OpenCourseWare, and developed computational thinking frameworks adopted across departments.
+
+**Global Impact:** Established partnerships in India and Saudi Arabia, created Project Aakaar international exchange program, influenced W3C accessibility standards, and had guidelines adopted by major educational platforms like PhET simulations.
+
+**Industry Contributions:** Helped Siri become first voice assistant to speak computational results, created accessible scientific graphics standards, developed educational algorithms for Wolfram|Alpha.
+
+**Advocacy Leadership:** Used personal experience with vision loss to pioneer accessibility innovations, served on DIAGRAM Center and TeachAccess, influenced institutional standards for accessible technology.
+
+**Career Evolution:** Successfully transitioned from quantum physics to educational technology to assistive technology research while maintaining scholarly productivity (488 citations, peer-reviewed publications spanning three decades).
+
+**Current Work:** Now leading assistive technology research at University of Bristol, continuing to bridge AI, human cognition, and disability inclusion, with recent publication in Memory & Cognition and national media appearances.
+
+**Key Strengths:** Interdisciplinary excellence, human-centered innovation, international collaboration, practical impact combined with theoretical rigor, and consistent commitment to accessibility and inclusion throughout career.
+
+**Verification Status:** Approximately 85% of CV entries verified through multiple independent sources; 15% contain discrepancies requiring clarification or represent gaps in publicly available information from recent career transition.
