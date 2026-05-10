@@ -157,6 +157,13 @@ machined a rotary table for variable-geometry scattering experiments.
 CSUF — Physics and Astronomy, September 2005 – June 2007. Volunteer
 tutor in the department's informal tutoring lounge.
 
+## Affiliations
+
+- **Senior Lecturer in Assistive Technologies** — School of Computer Science, [Bristol Interaction Group](https://biglab.co.uk/), University of Bristol.
+- **Research Affiliate** — [MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/), Massachusetts Institute of Technology (MIT).
+- **Research Affiliate** — Center for Sensory Studies, Concordia University.
+- **Affiliate Member** — Pervasive Media Studio.
+
 ## Publications
 
 Across peer-reviewed journals, conference proceedings, and educational
