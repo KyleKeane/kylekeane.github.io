@@ -37,7 +37,8 @@ nav_order: 10
   field of physics.
 - Created the first generalized step-by-step computational problem
   solver that handled arbitrary units when deriving solutions to math
-  problems.
+  problems, deployed in the
+  [Wolfram|Alpha step-by-step solver](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions).
 
 ## Accessibility
 

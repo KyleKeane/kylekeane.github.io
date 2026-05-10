@@ -14,6 +14,8 @@ nav_order: 12
 
 ## 2022
 
+- *Scientists tune into new ways of perceiving black holes* — The New
+  York Times, May 7, 2022. (Cited from CV; URL not yet on file.)
 - [Intersensory data representations of black hole, MIT Quest for Intelligence](https://quest.mit.edu/news/intersensory-data-representations-black-hole)
 - [Humanistic design workshops in India: impact and reach, MIT MISTI](https://misti.mit.edu/humanistic-design-workshops-india-impact-and-reach)
 

@@ -165,7 +165,8 @@ scalable physical simulations.
   wanting to teach computer programming to children.
 - Created the first software system for automated step-by-step solution
   of calculations that include physical units, deployed to millions of
-  students through Wolfram|Alpha.
+  students through the
+  [Wolfram|Alpha step-by-step solver](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions).
 - Consulted on data collection and analysis strategies to assess the
   effectiveness of educational products and strategies.
 - Organized outreach and training activities for local educators to

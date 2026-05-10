@@ -270,9 +270,11 @@ with reasons.
   (anonymous, representative framing per Kyle)
 - ✅ **Computational Thinking Framework** w/ Dr. Peter Barendse →
   `research.md` "Effectiveness of computer programming" section
-- ⏳ **Wolfram MicroMasters AI+D** Lecturer & Digital Learning Lead
-  role → skipped in PR #5 per Kyle pending date confirmation; revisit
-  in a future enrichment pass
+- ❌ **Wolfram MicroMasters AI+D** Lecturer & Digital Learning Lead
+  role → intentionally not added (PR #8). The role title and platform
+  (MITx/edX) are known but the dates are not, and a chronological
+  work entry without dates would clash with the rest of `work.md`.
+  Long-term defer pending dates from Kyle.
 - ✅ **6.811 teaching team** (Rob Miller, John Leonard, Julie
   Greenberg, Anna Young, Seth Teller legacy) → `teaching.md` 6.811
   section
@@ -300,12 +302,25 @@ with reasons.
   [W3C Web Accessibility Initiative](https://www.w3.org/WAI/)
 - ✅ **PhET simulations** → both `research.md` and `advocacy.md` link
   to [PhET Interactive Simulations](https://phet.colorado.edu/)
-- ⏳ **NYT 2022 black-hole article** → not linked; canonical URL not
-  located. Future audit pass.
-- ⏳ **Apple Siri integration** → no canonical public source URL.
-  Future audit pass.
-- ⏳ **Wolfram|Alpha step-by-step solver** → no canonical public URL.
-  Future audit pass.
+- ✅ **NYT 2022 black-hole article** → cited by title + date on
+  `media.md` 2022 section as
+  *"Scientists tune into new ways of perceiving black holes — The
+  New York Times, May 7, 2022"* (PR #8). Anthropic's web crawler is
+  blocked from `nytimes.com`, so the canonical URL couldn't be
+  confirmed by automated search; Kyle confirmed the citation. If the
+  URL surfaces later, it can be wrapped around the title in a
+  one-line follow-up.
+- ❌ **Apple Siri integration** → intentionally not linked (PR #8).
+  Current `skills.md` framing ("XML parser and natural language
+  generation code that allowed Apple's Siri to speak the quantitative
+  results from queries handled by Wolfram|Alpha's natural language
+  processing engine") is conservative and accurate without a public
+  source URL.
+- ✅ **Wolfram|Alpha step-by-step solver** → linked from `skills.md`
+  Software development bullet and from `work.md` Research Programmer
+  (Educational Software, Wolfram Research) bullet to
+  [Wolfram|Alpha step-by-step solver](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions)
+  (PR #8).
 
 ### ✅ Phase 4 — items dependent on 2024–2025 material
 
@@ -497,12 +512,20 @@ One open-questions update:
 ## Open follow-ups
 
 - **Phase 3 enrichment**: shipped in PR #5.
-- **Phase 4 2024–2025 material**: shipped in PR #6 (this PR). Six
-  prose rewrites (About / Teaching intro / Research intro / Advocacy
-  intro / Creative intro / Work-Bristol entry) from
+- **Phase 4 2024–2025 material**: shipped in PR #6. Six prose
+  rewrites (About / Teaching intro / Research intro / Advocacy intro /
+  Creative intro / Work-Bristol entry) from
   `_briefing/website-updates.txt` were intentionally **not** adopted
   verbatim per Kyle's "keep existing prose, add only new content"
   rule, and remain available there if Kyle later wants to adopt them.
-- **Future evidence-link sweep** (Phase 5 polish): NYT 2022 black-hole
-  article URL, Apple Siri integration source, Wolfram|Alpha
-  step-by-step solver canonical URL, Wolfram MicroMasters dates.
+- **Phase 5 polish**: shipped in PR #7 (`jekyll-sitemap`, OG / Twitter
+  / canonical meta, four enhanced descriptions).
+- **Audit follow-up — evidence links**: shipped in PR #8.
+  Wolfram|Alpha step-by-step solver URL added to `skills.md` and
+  `work.md`. NYT 2022 black-hole article URL and Apple Siri
+  integration source intentionally not linked (NYT crawler-blocked;
+  Siri framing already accurate without a URL). Wolfram MicroMasters
+  AI+D role intentionally not added (no dates).
+- **Long-term defer**: Wolfram MicroMasters AI+D dates (Kyle to
+  surface), six parked prose rewrites (Kyle to decide), Get-in-touch
+  rebuild on `index.md` (Kyle's to do when ready).
