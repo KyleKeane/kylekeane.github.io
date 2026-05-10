@@ -1,3 +1,20 @@
-title: "My Site"
-description: "Just a simple Jekyll site"
+title: "Dr. Kyle Keane"
+description: >-
+  Personal website of Dr. Kyle Keane, Senior Lecturer in Assistive
+  Technologies at the University of Bristol. Research at the intersection
+  of artificial intelligence, human cognition, and assistive technology
+  design.
+author: "Kyle Michael Keane"
+url: "https://kylekeane.github.io"
+lang: en
+
 theme: minima
+
+exclude:
+  - _research/
+  - docs/
+  - README.md
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
