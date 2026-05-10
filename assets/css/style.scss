@@ -13,13 +13,15 @@ body {
   color: #111111;
 }
 
-/* Three horizontal button-row navigation lists:
-   - Main site nav (in the header)
-   - Social profile row (in the header)
-   - Per-page sections nav (auto-generated from H2s, sits below the H1) */
+/* Defeat Minima's `float: left` on .site-title so subsequent
+   block-level header children (the social list, the main nav) stack
+   vertically below it instead of wrapping around it. */
+.site-title {
+  float: none;
+}
 
+/* Main site nav and per-page sections nav: horizontal button rows. */
 header nav[aria-label="Main navigation"] ul,
-.site-socials,
 .page-sections ul {
   list-style: none;
   padding: 0;
@@ -30,13 +32,11 @@ header nav[aria-label="Main navigation"] ul,
 }
 
 header nav[aria-label="Main navigation"] li,
-.site-socials li,
 .page-sections li {
   margin: 0;
 }
 
 header nav[aria-label="Main navigation"] a,
-.site-socials a,
 .page-sections a {
   display: inline-block;
   padding: 0.4rem 0.8rem;
@@ -48,12 +48,41 @@ header nav[aria-label="Main navigation"] a,
 
 header nav[aria-label="Main navigation"] a:hover,
 header nav[aria-label="Main navigation"] a:focus,
-.site-socials a:hover,
-.site-socials a:focus,
 .page-sections a:hover,
 .page-sections a:focus {
   background-color: #ddd;
   text-decoration: underline;
+}
+
+/* Social profile list: small canonical icons, stacked vertically
+   below the site title. Visually non-obtrusive; the screen-reader
+   label for each link lives in the .screen-reader-text span. */
+.site-socials {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0;
+}
+
+.site-socials li {
+  margin: 0.25rem 0;
+}
+
+.site-socials a {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-socials-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  display: block;
+}
+
+.site-socials a:hover .site-socials-icon,
+.site-socials a:focus .site-socials-icon {
+  opacity: 0.7;
 }
 
 /* Dark mode */
@@ -84,7 +113,6 @@ header nav[aria-label="Main navigation"] a:focus,
   }
 
   header nav[aria-label="Main navigation"] a,
-  .site-socials a,
   .page-sections a {
     background-color: #2a2a2a;
     color: #f5f5f5;
@@ -92,8 +120,6 @@ header nav[aria-label="Main navigation"] a:focus,
 
   header nav[aria-label="Main navigation"] a:hover,
   header nav[aria-label="Main navigation"] a:focus,
-  .site-socials a:hover,
-  .site-socials a:focus,
   .page-sections a:hover,
   .page-sections a:focus {
     background-color: #3a3a3a;
