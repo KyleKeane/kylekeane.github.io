@@ -191,14 +191,16 @@ on the
 Ten-day accessibility course on the fundamentals of human–computer
 interaction and the landscape of assistive technology; students
 complete an independent project demonstrating a functional interface
-compatible with a specific assistive technology. Sichuan University,
-China and Al-Faisal University, Saudi Arabia — June 2022 / May 2022.
+compatible with a specific assistive technology. Delivered remotely
+to Sichuan University, China — June 2022; in-person at Al-Faisal
+University, Saudi Arabia — May 2022.
 
 ### Applied Interdisciplinary Artificial Intelligence
 
 Three-day hands-on workshop introducing machine learning and AI as a
-tool for researchers outside computer science. Sichuan University and
-Al-Faisal University — June 2022 / May 2022.
+tool for researchers outside computer science. Delivered remotely to
+Sichuan University — June 2022; in-person at Al-Faisal University —
+May 2022.
 
 ### Design of Assistive Technology — BeaverWorks Summer Institute
 

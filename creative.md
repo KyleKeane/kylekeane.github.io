@@ -29,17 +29,19 @@ physical theories including the Doppler effect and general relativity,
 translating black-hole observation data into a sensory experience from
 the perspective of photons.
 
-I provided the black-hole sonification with Prof. Erin Kara of the MIT
-Department of Physics, translating X-ray light-echo data from
-stellar-mass black-hole binaries into audible pitch. Collaborators on
-the installation: d'strict Art Project (creative direction), Erin Kara
-(data and physics), Ian Condry (founder of the MIT Spatial Sound Lab),
-oOps.50656 (eight-channel sonification and sound design), and KKOL
-Studio (light and sound installation build).
+I authored the black-hole sonification, working with Prof. Erin Kara of
+the MIT Department of Physics, who provided the X-ray light-echo data
+from stellar-mass black-hole binaries that I translated into audible
+pitch. Collaborators on the installation: d'strict Art Project
+(creative direction), Erin Kara (data and physics), Ian Condry (founder
+of the MIT Spatial Sound Lab), oOps.50656 (eight-channel sonification
+and sound design), and KKOL Studio (light and sound installation
+build).
 
 [ECHO at reSOUND New York](https://resound-nyc.com/artwork/echo); my
 sonification authorship is credited on the
-[reSOUND New York About page](https://resound-nyc.com/about).
+[reSOUND New York About page](https://resound-nyc.com/about) and in
+[MATTE Projects' editorial feature on the HERO opening](https://matteprojects.com/editorial/resound-new-york-hero).
 
 #### Earlier presentation — Culture Station Seoul 284
 
