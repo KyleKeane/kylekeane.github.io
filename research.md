@@ -45,7 +45,7 @@ User-Intent Working Group.
 
 Perceptually validated spatial audio for training and supporting human
 echolocation. Recent work in this area includes the *Architecting
-Perceptible Space* spatial audio system with Alex Thompson at Bristol,
+Perceptible Space* spatial-audio system with Alex Thompson at Bristol,
 presented as a poster at the Audio Developer Conference (ADC25) in
 November 2025. Connected to performance and installation practice via
 the [Creative](/creative.html) page.
