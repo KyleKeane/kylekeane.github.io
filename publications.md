@@ -7,6 +7,14 @@ nav_include: true
 nav_order: 8
 ---
 
+## Scholarly impact
+
+Across peer-reviewed journals, conference proceedings, and educational
+resources, my work has been cited over 480 times (Google Scholar, late
+2025). My ORCID identifier
+[`0000-0003-3243-4412`](https://orcid.org/0000-0003-3243-4412) is the
+canonical record of my publications.
+
 ## Open-innovation ecosystems for assistive technology *(from CV)*
 
 > **A review of innovation strategies and processes to improve access to

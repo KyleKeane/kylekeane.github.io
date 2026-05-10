@@ -47,6 +47,24 @@ areas useful: software; electronics; human-computer interaction;
 cognitive science; mechanical engineering; control; or MIT hobby shop,
 MIT PSC, or other relevant independent project experience.
 
+The interdisciplinary teaching team is **Prof. Rob Miller** (EECS),
+**Prof. John Leonard** (Mechanical Engineering), **Dr. Julie Greenberg**
+(Health Sciences and Technology / IMES), **Dr. Anna K. Young**, and me.
+The course honors the legacy of **Prof. Seth Teller**, who created and
+taught the subject from 2011 to 2013.
+
+Student evaluations have consistently scored 6.2–6.4 out of 7.0,
+reflecting strong engagement with a demanding, community-centered
+capstone.
+
+Representative student projects illustrate the range of innovations
+that come out of the course: an iPhone app that helps a blind user
+identify clothing colors and patterns; binoculars adapted for hands-free
+birdwatching; a bicycle with sensor-and-haptic feedback for a blind
+rider; a motorized joystick that lets a power-wheelchair user position
+themselves closer to a table; and an iPad app that helps assisted-living
+residents call for help more accessibly.
+
 ### 6.a01 — Computing Your Freshman Year
 
 *MIT Department of Electrical Engineering and Computer Science. Fall
@@ -89,6 +107,10 @@ unpredictable environments. Students select a specialty within the field
 to investigate current state-of-the-art technologies and identify the
 facets of the material, mechanical, and electrical design where
 innovation is possible.
+
+This course evolved into [Project Aakaar](/advocacy.html#project-aakaar),
+an international 3D-printing exchange program described on the
+[Advocacy](/advocacy.html) page.
 
 ### 3.017 — Modeling, Problem-Solving, Computing, and Visualization
 

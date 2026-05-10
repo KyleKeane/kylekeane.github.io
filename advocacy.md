@@ -40,10 +40,12 @@ graphics accessible to persons with severe visual impairments.
 to start thinking about how to offer pedagogically-equivalent
 information to blind users of interactive graphics. My recommendations
 for a separation of intent from action spurred the creation of the
-User-Intent Working Group in the W3C. My guidelines for verbal
-description have been adopted by the team at University of Colorado who
-are building a library of interactive science teaching tools called PhET
-simulations.
+User-Intent Working Group at the
+[W3C Web Accessibility Initiative](https://www.w3.org/WAI/). My
+guidelines for verbal description have been adopted by the team at
+University of Colorado who are building a library of interactive
+science teaching tools called
+[PhET Interactive Simulations](https://phet.colorado.edu/).
 
 **Links.**
 
@@ -121,6 +123,25 @@ design, and create prototype solutions for their client.
 
 - [ATHack homepage](http://assistivetech.mit.edu/athack/)
 - [ATHack past winners](http://assistivetech.mit.edu/athack/#pastwinners)
+
+## Project Aakaar
+
+**Summary.** Project Aakaar grew out of my MIT course on humanistic
+co-design (3.008). It became an international cultural-exchange program
+that paired middle-school students in Cambridge, Massachusetts with
+peers and educators in India to co-design and 3D-print tactile teaching
+aids for blind students.
+
+**Description.** Partners included the National Institute of Technology
+Warangal in India and Buckingham Browne & Nichols School in Cambridge.
+Students on both sides worked across cultures to identify accessibility
+gaps faced by blind learners, prototype tactile representations of
+core curricular concepts, and ship physical 3D-printed kits to the
+partner schools.
+
+**Status.** The program ran through my MIT tenure and is currently
+inactive, but the methodology and curriculum remain available for
+revival or replication.
 
 ## Future projects I would like to build
 

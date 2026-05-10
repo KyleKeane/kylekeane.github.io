@@ -251,44 +251,67 @@ supply sourced detail for Phase 3 enrichment.
 - Step-by-step physics solver / Wolfram|Alpha → `skills.md` (mentioned)
 - VPATs / Section 508 → `skills.md` (mentioned)
 
-### ⏳ Phase 3 — sourced detail to add to existing pages
+### Phase 3 — sourced detail to add to existing pages (status: shipped)
 
 These are factual/sourced enrichments that build on already-published
-sections. They don't introduce new top-level content; they sharpen what's
-already there.
+sections. PR #5 (Phase 3) shipped most of them; the remainder are noted
+with reasons.
 
-- **488 total Google Scholar citations** (as of Oct 2025) → likely
-  `publications.md` intro
-- **ORCID 0000-0003-3243-4412** → likely `index.md` (when "Get in touch"
-  is repopulated) or `publications.md` intro
-- **Course evaluation scores 6.2–6.4 / 7.0** for 6.811 capstone →
-  `teaching.md`
-- **Specific 6.811 student project examples** (color-detection iPhone app,
-  hands-free birdwatching binoculars, blind-rider haptic bike, motorized
-  joystick, iPad call-for-help app) → `teaching.md`
-- **Computational Thinking Framework** w/ Dr. Peter Barendse →
-  `research.md` and/or `work.md`; not currently mentioned anywhere
-- **Wolfram MicroMasters AI+D** Lecturer & Digital Learning Lead role →
-  `work.md`; not currently surfaced
-- **6.811 teaching team** (Rob Miller, John Leonard, Julie Greenberg,
-  Anna Young, Seth Teller legacy) → `teaching.md`
-- **Bristol research interests** (AI, AT, HCI, perception, acoustics,
-  immersive audio) → `index.md` and/or `work.md`
-- **Project Aakaar** (3D-printed tactile teaching aids; offshoot of
-  3.008; international exchange) → `advocacy.md` and/or `teaching.md`
-- **Personal context: "did not use a computer until second year of
-  college"** → optional addition to `index.md`
-- **CSUF early advising** (Khakoo lab undergrad research detail; Kellogg
-  Scholar 2002 → 2006 typo possibly) → minor refinement
-- **Specific verified MIT student collaborators** (Mark Vrablic, Abhinav
-  Gandhi, Andrew Ringler, Autumn Geil) → `advising.md` framing supplement
+- ✅ **488 total Google Scholar citations** (as of Oct 2025) →
+  `publications.md` "Scholarly impact" section
+- ✅ **ORCID 0000-0003-3243-4412** → `publications.md` "Scholarly
+  impact" section, linked to `https://orcid.org/0000-0003-3243-4412`
+- ✅ **Course evaluation scores 6.2–6.4 / 7.0** for 6.811 capstone →
+  `teaching.md` 6.450 / 6.811 section
+- ✅ **Specific 6.811 student project examples** (color-detection
+  iPhone app, hands-free birdwatching binoculars, blind-rider haptic
+  bike, motorized joystick, iPad call-for-help app) → `teaching.md`
+  (anonymous, representative framing per Kyle)
+- ✅ **Computational Thinking Framework** w/ Dr. Peter Barendse →
+  `research.md` "Effectiveness of computer programming" section
+- ⏳ **Wolfram MicroMasters AI+D** Lecturer & Digital Learning Lead
+  role → skipped in PR #5 per Kyle pending date confirmation; revisit
+  in a future enrichment pass
+- ✅ **6.811 teaching team** (Rob Miller, John Leonard, Julie
+  Greenberg, Anna Young, Seth Teller legacy) → `teaching.md` 6.811
+  section
+- ✅ **Bristol research interests** (AI, AT, HCI, perception,
+  acoustics, immersive audio) → new "Current research at Bristol"
+  section at top of `research.md`
+- ✅ **Project Aakaar** (3D-printed tactile teaching aids; offshoot of
+  3.008; international exchange) → new "Project Aakaar" section in
+  `advocacy.md`; cross-linked from the 3.008 entry on `teaching.md`.
+  Past tense per Kyle: ran through MIT tenure, currently inactive.
+- ✅ **Personal context: "did not use a computer until second year of
+  college"** → `index.md` Career summary opening sentence
+- ⏳ **CSUF early advising** (Khakoo lab undergrad research detail;
+  Kellogg Scholar 2002 → 2006 typo possibly) → not addressed in PR #5;
+  minor follow-up
+- ✅ **Specific verified MIT student collaborators** (Mark Vrablic,
+  Abhinav Gandhi, Andrew Ringler) → `advising.md` Mark Vrablic entry
+  enhanced + new "Workshop collaborators" subsection naming Ringler
+  and Gandhi
+
+### Evidence-link sweep (status: shipped where canonical URL exists)
+
+- ✅ **W3C User-Intent Working Group** → both `research.md` and
+  `advocacy.md` now link to the
+  [W3C Web Accessibility Initiative](https://www.w3.org/WAI/)
+- ✅ **PhET simulations** → both `research.md` and `advocacy.md` link
+  to [PhET Interactive Simulations](https://phet.colorado.edu/)
+- ⏳ **NYT 2022 black-hole article** → not linked; canonical URL not
+  located. Future audit pass.
+- ⏳ **Apple Siri integration** → no canonical public source URL.
+  Future audit pass.
+- ⏳ **Wolfram|Alpha step-by-step solver** → no canonical public URL.
+  Future audit pass.
 
 ### ⏳ Phase 4 — items dependent on 2024–2025 material
 
 - **Memory & Cognition (Ben-Ami et al. 2025)** → `publications.md`
 - **WBUR On Point (July 2025)** → `media.md` and `speaking.md`
-- **DeepLearn 2022 Spring** instructor role → `speaking.md` (predates
-  2024 but missing; bundled with the 2024–2025 sweep for efficiency)
+- ✅ **DeepLearn 2022 Spring** instructor role → `speaking.md`
+  (added in PR #5 with "Spring 2022" date)
 
 ### ❌ Intentionally not migrated
 

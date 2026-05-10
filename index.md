@@ -32,9 +32,11 @@ through intelligent, perception-aware systems.
 
 ## Career summary
 
-In my career, I have worked at well-established software companies,
-digital publishers, early-stage machine learning startups, and
-world-class universities. I have served in the roles of theoretical
+I didn't use a computer until my second year of college, which made my
+rapid development of computational skills feel necessary rather than
+accidental. In my career, I have worked at well-established software
+companies, digital publishers, early-stage machine learning startups,
+and world-class universities. I have served in the roles of theoretical
 physicist, computational materials scientist, software developer,
 educational evangelist, business development associate, user experience
 designer, instructional designer, research director, and lecturer.

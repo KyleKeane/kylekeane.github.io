@@ -95,18 +95,42 @@ Done. Output: [`docs/briefing-audit.md`](briefing-audit.md). Findings:
 
 ## Phase 3 — Enrich from `_briefing/claude-cv-verification.txt`
 
-Pass-by-pass per page. The verification file documents citation counts,
-source URLs, and identifies which CV claims are externally verified.
-Use it to add sourced detail without fabricating.
+Done. Pass-by-pass enrichment with sourced detail (no fabrication).
+A second-pass briefing audit confirmed zero truly lingering items;
+this PR also added evidence/citation links for several already-migrated
+claims so the public site is one click from a verifiable source.
 
-- [ ] About — confirm bio claims; add citation count if Kyle wants
-- [ ] Work — fill MIT-era detail with verified specifics
-- [ ] Teaching — verify course numbers, terms, departments
-- [ ] Research — add publication-count and citation-count framing
-- [ ] Advocacy — verify W3C / DIAGRAM / TeachAccess outcome claims
-- [ ] Publications — confirm DOIs / PRA volume + issue numbers
-- [ ] Funding — verify grant totals
-- [ ] Skills, Speaking, Advising, Creative, Media — sweep for accuracy
+- [x] **About** (`index.md`) — added the personal-context line
+  ("didn't use a computer until my second year of college") to the
+  Career summary
+- [x] **Research** (`research.md`) — new "Current research at Bristol"
+  section; Computational Thinking Framework with Dr. Peter Barendse
+  added to the STEM-learning section; W3C WAI and PhET inline links
+  added to the accessibility section
+- [x] **Advocacy** (`advocacy.md`) — new "Project Aakaar" section
+  (past tense per Kyle: ran through MIT tenure, currently inactive);
+  W3C WAI and PhET inline links added to the DIAGRAM section
+- [x] **Teaching** (`teaching.md`) — 6.811 enriched with: teaching team
+  (Miller / Leonard / Greenberg / Young + Seth Teller honoring),
+  student evaluations (6.2–6.4 / 7.0), five representative student
+  projects (anonymous framing); 3.008 cross-links forward to Project
+  Aakaar
+- [x] **Publications** (`publications.md`) — new "Scholarly impact"
+  section at top with citation count and ORCID
+  (`0000-0003-3243-4412`) link
+- [x] **Speaking** (`speaking.md`) — DeepLearn Spring 2022 instructor
+  entry added
+- [x] **Advising** (`advising.md`) — Mark Vrablic entry enhanced with
+  IAP teaching-partner credit + MEng 2020; new "Workshop collaborators"
+  subsection naming Andrew Ringler and Abhinav Gandhi
+- [x] **Work, Funding, Skills, Creative, Media** — verified against the
+  briefing; no Phase-3-class additions warranted (Funding fully covered
+  by Phase 2's dollar-amount removal; Work's MicroMasters entry skipped
+  per Kyle pending date confirmation)
+- [ ] **Future evidence-link sweep** (Phase 5 polish): NYT 2022
+  black-hole article URL, Apple Siri integration source, Wolfram|Alpha
+  step-by-step solver canonical URL — all flagged in the briefing audit
+  as needing verifiable canonical URLs before linking
 
 ## Phase 4 — Add 2024–2025 Bristol material
 
