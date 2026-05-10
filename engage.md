@@ -7,6 +7,8 @@ nav_include: true
 nav_order: 3
 ---
 
+## Overview
+
 I take on a small number of speaking, teaching, consulting, artistic, and
 collaborative engagements each year. Recent and forthcoming hosts include
 reSOUND New York at Rockefeller Center (cited in the *New York Times*),

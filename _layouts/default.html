@@ -27,6 +27,19 @@
 
     <main id="main-content">
       {% if page.title %}<h1>{{ page.title | escape }}</h1>{% endif %}
+      {%- assign h2_chunks = content | split: '<h2 id="' -%}
+      {%- if h2_chunks.size > 1 -%}
+      <nav class="page-sections" aria-label="Sections on this page">
+        <ul>
+          {%- for chunk in h2_chunks offset:1 -%}
+            {%- assign section_id = chunk | split: '"' | first -%}
+            {%- assign after_open = chunk | split: '">' | last -%}
+            {%- assign section_text = after_open | split: '</h2>' | first | strip_html | strip -%}
+            <li><a href="#{{ section_id }}">{{ section_text }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </nav>
+      {%- endif -%}
       {{ content }}
     </main>
   </body>

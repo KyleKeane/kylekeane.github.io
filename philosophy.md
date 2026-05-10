@@ -7,6 +7,8 @@ nav_include: true
 nav_order: 2
 ---
 
+## Overview
+
 I am a researcher, educator, consultant, and artist working in mainstream
 science and technology. I run a research programme, write peer-reviewed
 papers, build prototypes, supervise PhDs, give keynotes, and make sound and

@@ -7,6 +7,8 @@ nav_include: true
 nav_order: 7
 ---
 
+## Overview
+
 I work as an immersive, multisensory artist and experimental
 technologist at the outer edges of human perception. My practice
 treats data as a sonic medium and treats the body's non-visual senses

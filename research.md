@@ -7,6 +7,8 @@ nav_include: true
 nav_order: 5
 ---
 
+## Overview
+
 My research sits at the intersection of computational science,
 human-centered design, cognitive psychology, and accessibility
 engineering. I am interested in how people build meaning from

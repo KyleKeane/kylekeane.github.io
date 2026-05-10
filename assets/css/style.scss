@@ -13,34 +13,47 @@ body {
   color: #111111;
 }
 
-/* Social-profile row in the header */
-.site-socials {
+/* Three horizontal button-row navigation lists:
+   - Main site nav (in the header)
+   - Social profile row (in the header)
+   - Per-page sections nav (auto-generated from H2s, sits below the H1) */
+
+header nav[aria-label="Main navigation"] ul,
+.site-socials,
+.page-sections ul {
   list-style: none;
   padding: 0;
-  margin: 0.25rem 0 0.75rem 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1rem;
-}
-
-.site-socials li {
-  margin: 0;
-}
-
-.site-socials a {
-  padding: 0.2rem 0.4rem;
-}
-
-/* Make nav links wrap instead of needing a hamburger */
-.site-nav .trigger {
+  margin: 0.5rem 0;
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
 
-/* Optional: make links more tappable */
-.site-nav .page-link {
-  padding: 0.4rem 0.6rem;
+header nav[aria-label="Main navigation"] li,
+.site-socials li,
+.page-sections li {
+  margin: 0;
+}
+
+header nav[aria-label="Main navigation"] a,
+.site-socials a,
+.page-sections a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  background-color: #eee;
+  color: #111;
+  border-radius: 0.4rem;
+  text-decoration: none;
+}
+
+header nav[aria-label="Main navigation"] a:hover,
+header nav[aria-label="Main navigation"] a:focus,
+.site-socials a:hover,
+.site-socials a:focus,
+.page-sections a:hover,
+.page-sections a:focus {
+  background-color: #ddd;
+  text-decoration: underline;
 }
 
 /* Dark mode */
@@ -68,6 +81,22 @@ body {
   .post-title,
   .site-title {
     color: #ffffff;
+  }
+
+  header nav[aria-label="Main navigation"] a,
+  .site-socials a,
+  .page-sections a {
+    background-color: #2a2a2a;
+    color: #f5f5f5;
+  }
+
+  header nav[aria-label="Main navigation"] a:hover,
+  header nav[aria-label="Main navigation"] a:focus,
+  .site-socials a:hover,
+  .site-socials a:focus,
+  .page-sections a:hover,
+  .page-sections a:focus {
+    background-color: #3a3a3a;
   }
 }
 
