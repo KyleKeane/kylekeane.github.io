@@ -1,0 +1,128 @@
+Website
+About Me
+Replace text with:
+Dr. Kyle Keane is a Senior Lecturer in Assistive Technologies at the University of Bristol, where he contributes to innovative research and teaching at the intersection of artificial intelligence, human cognition, and inclusive technology design. His work focuses on building intelligent, perception-aware systems that expand how people, particularly those with disabilities, interact with complex information through multisensory experiences.
+Kyle’s motivation is deeply personal. Born with a degenerative retinal condition, his lived experience with progressively changing vision has provided unique insight and empathy that drive his passion for designing technologies that are not only accessible, but also transformative. He brings a multidisciplinary approach to his work, drawing on a background in quantum computing and computational physics to bring scientific rigor, design precision, and human-centered values to his work.
+Prior to joining the University of Bristol, Kyle spent over a decade at the Massachusetts Institute of Technology (MIT), where he held roles as a research scientist, lecturer, and education lead in experiential learning initiatives. His contributions spanned machine learning, accessible computing, and the development of open-source tools that make STEM fields more inclusive for blind and visually impaired learners.
+Kyle’s current research explores intersensory perception, how information can be represented and understood across auditory, tactile, and other non-visual modalities. He is pioneering new ways to sonify and physicalize data, creating tools that make computational science and artificial intelligence more accessible and intuitive for all users.
+Throughout his career, Kyle has worked in diverse roles across academia, startups, and industry, including as a physicist, software engineer, UX designer, instructional strategist, and research director. His work lives at the intersection of design, engineering, education, assistive technology, and disability advocacy.
+Beyond research, Kyle is deeply committed to wellness, community building, and reframing the narrative around disability, not as a deficit but as a source of creativity, resilience, and insight into our shared human experience.
+You can get in touch using one of the following methods:
+•	LinkedIn: KyleKeane
+•	GitHub: KyleKeane
+•	Email: kyle ~at~ kylekeane.com
+Teaching
+Replace text with:
+I’m passionate about teaching and mentoring learners of all ages, from elementary school students to retirees. Over the years, I’ve led afterschool programs, professional development workshops, university courses, and hackathon mentoring sessions. I find deep satisfaction in helping people build confidence through technical and creative exploration.
+At the University of Bristol and previously at MIT, my teaching focuses on programming, electronics prototyping, and human-centered design. I especially enjoy guiding students in building technologies that create meaningful impact, particularly for disabled, disadvantaged, or underrepresented communities.
+Whether in a classroom, makerspace, or online environment, my teaching emphasizes hands-on learning, collaboration, and real-world relevance. You can see examples of my approach on MIT’s OpenCourseWare, where several of my courses are publicly available.
+Add new heading: Taught Courses at Bristol
+COMS30054 Interactive Devices
+Explores the design and function of interactive hardware systems, emphasizing user interaction, embedded technologies, and the principles behind modern device interfaces.
+
+Research
+Replace text with:
+My research sits at the intersection of computational science, human-centered design, educational technology, cognitive psychology, and accessibility engineering. I’m particularly interested in creating equivalent access to complex information for people with disabilities, especially through multisensory interfaces, perception-aware systems, and inclusive design strategies.
+I have a growing portfolio of new research questions around intersensory perception, sonification, tactile data representation, and inclusive AI systems, many of which build on years of hands-on experience designing tools for real-world learners and users.
+I have a strong foundation in traditional academic publishing and regularly advise students conducting original research. Going forward, I’m excited to lead new projects, form collaborations, and contribute to the academic discourse around inclusive computing, assistive technology, and the future of human-information interaction.
+Remove lines:
+[In progress at MIT]
+[In progress on MITx]
+Advocacy
+Replace text with:
+A core focus of my career has been advocating for equity in access to technology, education, and digital information, particularly for people with visual disabilities and others facing systemic disadvantage. I’ve dedicated much of my work to designing inclusive tools and empowering others to do the same, to transform how marginalized communities engage with modern technology.
+My mission is to help achieve equitable access to electronic information and digital skill-building opportunities, particularly in fields like computing, science, and engineering. I believe technology should reduce barriers, not reinforce them. I’m committed to using my expertise to shift that balance.
+I’m grateful for the opportunities I’ve had to contribute to this field and remain deeply committed to expanding my impact through research, teaching, mentorship, and public engagement. As my career evolves, so too does my resolve to amplify accessibility as a design priority.
+Speaking
+Add engagements to the top of the list
+Guest Speaker “How AI tools are transforming the lives of people with disabilities.” 
+•	July 9th 2025, WBUR Live Stream
+•	https://www.wbur.org/radio/programs/onpoint/episode 
+
+Guest Speaker “Macro Hive Conversations with Bilal Hafeez” (Full details to come)
+•	July 7th 2025 
+•	https://podcasts.apple.com/gb/podcast/macro-hive-conversations-with-bilal-hafeez/id1502904619  
+Panelist “SESSION 2.5.6 Roundtable. From Vibration to Visualization: Sensemaking within Multimodal Technologies”
+•	May 8th 2025, Uncommon Senses V, Concordia University, Montreal CA
+
+Guest Speaker “The importance of robust adaptive management to empower scientists with disabilities” 
+•	May 8th 2025, United Nations Web TV
+•	https://webtv.un.org/en/asset/k1j/k1j9m9yqma 
+
+Guest Speaker “The Subtleties of the Automated Production of Audio-Tactile Graphics”
+•	March 31st 2025, ACCESS at Karlsruhe Insitute of Technology, Karlsruhe, DE
+
+Guest Speaker “The Subtleties of the Automated Production of Audio-Tactile Graphics”
+•	April 1st 2025, "Blindenstudienanstalt" (College for the Blind), Marburg, DE
+
+Guest Speaker “The importance of spatial reasoning in AI Systems to help blind users and a proposed Approach to get there.”
+•	April 2nd 2025, University of Marburg, Marburg, DE
+
+Guest Speaker “Opportunities for More Inclusive Immersive Audio”
+•	March 19th 2025, MIT Spatial Sound Lab, Massuchusetts, UK
+
+Guest Speaker “The Importance of Collaboration for Sustainable Innovation of Assistive Technologies.”
+•	December 2024, Pervasive Media Studio, Bristol, UK. Arts Council England Lunchtime Talks.
+•	https://www.youtube.com/watch?v=Bel1Hp6cuu0 
+
+Conference Speaker “The Importance of Collaboration for Sustainable Innovation of Assistive Technologies.”
+•	December 2024, ReachSci Conference, Cambridge, UK
+
+Guest Lecture "Using Psychoacoustics of Humans with Extreme Perception to Improve Virtual Environments.”
+•	November 2024, Immersive Interaction and Audio Design, Bristol, UK
+
+Symposium Speaker “Senselessly making sense of nonsensical sensations.”
+·	November 2024, Centre of Doctoral Training, University of Bristol, UK
+
+Guest Speaker “The Importance of Collaboration for Sustainable Innovation of Assistive Technologies”
+·	November 2024, MicroSoft Norway, Oslo, Norway. 
+
+Guest Lecturer “The Anthropology of Sound”
+·	November 2024, Comparative Media Studies, MIT, US.
+
+Panelist, “IDEAS and E+D IPA Give: Perkins School for the Blind Innovation Panel”
+·	October 2024, MicroSoft Research Cambridge, MA, US
+
+Panel Member, “Media Art, Culture, and Social Justice”
+·	October 2024, Northeastern University, US
+
+Guest Lecturer, “Case Studies in Public and Private Policy Challenges of Artificial Intelligence”
+·	April, 2024, Harvard Law School, US
+
+Colloquium Speaker, “Intersensory pedagogical equivalence for more equitable multisensory human-computer interactions,” 
+·	July 2023, University of Bristol, Bristol, England
+
+Honorarium Speaker, “Self-sustaining Assistive Technology Ecosystems,” 
+·	June 2022, UTEC, Frey Bentos, Uruguay
+
+Honorarium Speaker, “AI for Tactile Human-Computer Interfaces,” 
+·	May 2022, Al-Faisal University, Riyadh, Saudi Arabia
+
+Speaker, “Assistive Technology for Opening Minds, Hands, and Hearts,” 
+·	April 2019, xTalks@MIT, Cambridge, Massachusetts
+·	https://openlearning.mit.edu/news/why-assistive-technology-matters-and-how-you-can-get-involved 
+
+Speaker, “Introduction to Disabilities and Assistive Technologies,” 
+·	October 2018, xTalks@MIT, Cambridge, Massachusetts
+·	https://openlearning.mit.edu/mit-faculty/residential-digital-innovations/introduction-disabilities-and-assistive-technologies
+
+Creative
+Replace text
+I approach creativity as both an artistic practice and a scientific exploration. As an immersive, multisensory artist and experimental technologist, I’m drawn to the outer edges of human perception, where data becomes sound, sensation becomes insight, and technology becomes a medium for reimagining reality.
+My creative work is rooted in deep curiosity and a commitment to accessibility. I design experiences that translate the invisible into the tangible: sonifying the warping of spacetime, crafting AI-powered tools for non-visual cognition, and building tactile-auditory landscapes that help people understand complex ideas through embodied interaction. Whether in research labs, hacker spaces, or co-design workshops, I thrive on the creative collision of disciplines and perspectives.
+From MIT to Bristol, and from international collaborations to local communities, I am intrigued to explore opportunities at the intersection of science, art, and inclusion. I believe some of the most impactful technologies emerge from asking wild questions, following intuition, and building strange, beautiful things with others. If you're curious about quantum consciousness, perception-hacking AI, or storytelling across sensory dimensions, I’m always open to a good conversation and the chance to co-create something radical.
+Publications
+Add to the list
+What the visual system can learn from the non-dominant hand: The effect of graphomotor engagement on visual discrimination 
+•	Ben-Ami, Shlomit; Buaron, Batel; Yaron, Ori; Keane, Kyle; H. Sun, Virginia; Phillips, Flip Friedman; Sinha, Pawan; Mukamel, Roy
+•	PsychArchives PrePrint
+•	https://www.psycharchives.org/en/item/429f2a4e-aa8f-49cc-8b0e-0147a2ef1d90
+Sense-O-Nary: Exploring Children's Crossmodal Metaphors Through Playful Crossmodal Interactions
+•	Tegan Joy Roberts-Morgan, Brooke Morris, Elaine Czech, Suhan Neema, Abigale Stangl, Kyle Michael Keane, Matthew Horton, Janet Read, Oussama Metatla
+•	IDC '24: Proceedings of the 23rd Annual ACM Interaction Design and Children Conference
+•	https://dl.acm.org/doi/10.1145/3628516.3655785
+
+
+Work
+Replace text under UoB Senior Lecturer position with:
+Teaching and research focusing on multisensory interaction, human-computer interaction, immersive audio, agentic AI, human echolocation and localisation, fingertip haptics, and perception-aware robotics. Partnering with academics, industry, and communities to explore inclusive, human-centered technologies. 
