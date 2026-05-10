@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skills & Conferences
+title: "Skills & Conferences"
 permalink: /skills.html
 description: Professional skills, technical strengths, and conferences and hackathons attended.
 nav_include: true
