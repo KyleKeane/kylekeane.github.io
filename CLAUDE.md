@@ -60,7 +60,7 @@ The accessibility checklist for a new page is in
 ├── _layouts/default.html           # the only layout
 ├── _includes/header.html           # skip link, site title, nav
 ├── assets/css/style.scss           # custom CSS
-├── _research/                      # source material; NOT published
+├── _briefing/                      # source material; NOT published
 │   ├── README.md
 │   ├── seed.md                     # the spine — original unified outline
 │   ├── claude-cv-verification.txt  # fact-checked CV verification
@@ -69,15 +69,15 @@ The accessibility checklist for a new page is in
 ├── docs/                           # project docs; NOT published
 │   ├── plan.md                     # phased roadmap with checkboxes
 │   ├── open-questions.md           # things to confirm with Kyle
-│   ├── content-sources.md          # what to merge from each _research/ file
+│   ├── content-sources.md          # what to merge from each _briefing/ file
 │   └── style-guide.md              # accessibility + markdown conventions
 ├── README.md                       # project overview
 ├── CLAUDE.md                       # this file
 └── .github/workflows/              # deploy workflow
 ```
 
-`_research/` and `docs/` start with characters that Jekyll ignores by
-default (the leading underscore, in the case of `_research/`) and are
+`_briefing/` and `docs/` start with characters that Jekyll ignores by
+default (the leading underscore, in the case of `_briefing/`) and are
 explicitly listed in `_config.yml`'s `exclude:` block as well. They will
 not be served.
 
@@ -107,14 +107,14 @@ seed.md outline.
 
 When adding new content, consult these in order:
 
-1. **`_research/seed.md`** — the spine. Every page maps to one `##` section
+1. **`_briefing/seed.md`** — the spine. Every page maps to one `##` section
    here. Use it to keep voice and structure consistent.
-2. **`_research/claude-cv-verification.txt`** — fact-checked CV with
+2. **`_briefing/claude-cv-verification.txt`** — fact-checked CV with
    citations and source verification. Best for adding citation counts,
    confirming dates, and filling gaps.
-3. **`_research/website-updates.txt`** — Kyle's 2024–2025 Bristol-era
+3. **`_briefing/website-updates.txt`** — Kyle's 2024–2025 Bristol-era
    updates: new courses, recent talks, recent publications.
-4. **`_research/recent-records.txt`** — recent publication / poster
+4. **`_briefing/recent-records.txt`** — recent publication / poster
    records from Kyle's records system.
 
 When sources disagree, **add the question to
@@ -149,7 +149,7 @@ The current development branch is **`claude/audit-restructure-website-3vJZx`**.
 - Don't write your own `<h1>` inside a page body
 - Don't use `click here` / `read more` / bare-URL link text
 - Don't add images without alt text
-- Don't move the `_research/` or `docs/` folders into the served tree
+- Don't move the `_briefing/` or `docs/` folders into the served tree
 - Don't commit `_site/` — it's in `.gitignore`
 - Don't push without first running through the verification steps in
   [`docs/style-guide.md`](docs/style-guide.md)

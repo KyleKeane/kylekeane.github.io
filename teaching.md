@@ -31,7 +31,7 @@ Topics covered include regression, multivariate calculus for
 optimization, and Python programming of basic examples of the underlying
 components of standard libraries like PyTorch using NumPy.
 
-### 6.811 / 2.78 / HST.420 — Principles and Practices of Assistive Technology
+### 6.450 / 6.811 / 2.78 / HST.420 — Principles and Practices of Assistive Technology
 
 *MIT Department of Electrical Engineering and Computer Science; MIT
 Department of Mechanical Engineering; MIT–Harvard Joint Health, Sciences,

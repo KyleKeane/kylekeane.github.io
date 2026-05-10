@@ -1,8 +1,8 @@
-# _research/ — source material, not published
+# _briefing/ — source material, not published
 
 This folder holds the source documents the website is built from. **None
 of these files are published.** Jekyll ignores any top-level directory
-that starts with an underscore, and `_research/` is also listed in
+that starts with an underscore, and `_briefing/` is also listed in
 `_config.yml`'s `exclude:` block as belt-and-suspenders.
 
 ## Files

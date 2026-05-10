@@ -11,7 +11,7 @@ nav_order: 2
 
 - **Institution:** University of Bristol
 - **Department:** School of Computer Science
-- **Years:** 2023 – present *(reconciled — see Open questions)*
+- **Years:** June 2024 – present
 
 Leads research at the intersection of artificial intelligence, human
 cognition, and assistive technology design. Applies the scientific rigor
@@ -23,12 +23,13 @@ experiences.
 
 - **Institution:** Massachusetts Institute of Technology (MIT)
 - **Department:** Electrical Engineering and Computer Science
-- **Years:** September 2022 – 2023 *(from CV; reconciled)*
-- Lead faculty for **6.450: Principles and Practices of Assistive
-  Technology**, a capstone engineering subject that pairs teams of
-  students with a community member who has a disability to co-invent a
-  new technological intervention that improves the ability and experience
-  of the community member to perform a specific task more independently.
+- **Years:** September 2022 – May 2024
+- Lead faculty for **Principles and Practices of Assistive Technology**
+  (cross-listed as 6.450 / 6.811 / 2.78 / HST.420), a capstone engineering
+  subject that pairs teams of students with a community member who has a
+  disability to co-invent a new technological intervention that improves
+  the ability and experience of the community member to perform a specific
+  task more independently.
 - Co-instructor of **6.3900: Introduction to Machine Learning**.
 - Supervised undergraduate and graduate-level students on research projects.
 
@@ -131,7 +132,7 @@ scalable physical simulations.
 ## Head of User Experience
 
 - **Company:** Indico Data Solutions
-- **Years:** March 2015 – October 2015 *(reconciled — see Open questions)*
+- **Years:** March 2015 – October 2015
 - Managed all facets of user experience: website design and usability,
   community engagement, and developer relations.
 - Created wireframes, mockups, and prototypes to help define the
