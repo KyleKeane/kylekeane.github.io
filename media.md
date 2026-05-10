@@ -4,7 +4,7 @@ title: Media
 permalink: /media.html
 description: Press coverage, podcasts, and external articles featuring my research, teaching, and advocacy.
 nav_include: true
-nav_order: 12
+nav_order: 15
 ---
 
 ## 2025
@@ -12,10 +12,16 @@ nav_order: 12
 - [How AI tools are transforming the lives of people with disabilities — WBUR On Point](https://www.wbur.org/radio/programs/onpoint/episode)
 - [Macro Hive Conversations with Bilal Hafeez podcast featuring Kyle Keane](https://podcasts.apple.com/gb/podcast/macro-hive-conversations-with-bilal-hafeez/id1502904619)
 
+## 2024
+
+- [Black Hole Reverb (Leftroman / Ian Condry, with my and Erin Kara's sonifications) on Immersive Audio Album](https://immersiveaudioalbum.com/product/black-hole-reverb-ian-condry-5-1-flac-dolby-atmos-mkv-mp4/)
+
 ## 2022
 
 - *Scientists tune into new ways of perceiving black holes* — The New
   York Times, May 7, 2022. (Cited from CV; URL not yet on file.)
+- [Intersensory data representations of a black hole — MIT Schwarzman College of Computing](https://sqi.mit.edu/news/intersensory-data-representations-black-hole)
+- [Watch the black-hole sonification on YouTube](https://www.youtube.com/watch?v=iIeIag2Ji8k)
 - [Intersensory data representations of black hole, MIT Quest for Intelligence](https://quest.mit.edu/news/intersensory-data-representations-black-hole)
 - [Humanistic design workshops in India: impact and reach, MIT MISTI](https://misti.mit.edu/humanistic-design-workshops-india-impact-and-reach)
 

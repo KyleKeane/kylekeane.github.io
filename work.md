@@ -25,6 +25,10 @@ explore inclusive, human-centered technologies.
   perception-aware robotics.
 - **Collaborations:** partnerships with academics, industry, and
   communities to explore inclusive, human-centered technologies.
+- **Continuing affiliation:** Researcher at the
+  [MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/), where I
+  co-lead the *Accessible Technology and Disability Justice* research
+  theme with Nelly Kate Anderson.
 
 ## Lecturer
 
