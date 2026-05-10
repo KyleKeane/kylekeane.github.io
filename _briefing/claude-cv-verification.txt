@@ -171,11 +171,6 @@ This report verifies each accomplishment through multiple sources, identifies ga
 
 ### Computational thinking framework and digital learning leadership
 
-**MicroMasters Program Role:**
-
-- Title: Lecturer and Digital Learning Lead, Artificial Intelligence and Decision Making (AI+D) MicroMasters Program
-- Platform: MITx/edX
-
 **Computational Thinking Framework (with Dr. Peter Barendse):**
 
 - Framework for activating computational thinking on MITx using Wolfram Technologies 

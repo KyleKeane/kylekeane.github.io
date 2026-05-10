@@ -125,8 +125,7 @@ claims so the public site is one click from a verifiable source.
   subsection naming Andrew Ringler and Abhinav Gandhi
 - [x] **Work, Funding, Skills, Creative, Media** — verified against the
   briefing; no Phase-3-class additions warranted (Funding fully covered
-  by Phase 2's dollar-amount removal; Work's MicroMasters entry skipped
-  per Kyle pending date confirmation)
+  by Phase 2's dollar-amount removal)
 - [ ] **Future evidence-link sweep** (Phase 5 polish): NYT 2022
   black-hole article URL, Apple Siri integration source, Wolfram|Alpha
   step-by-step solver canonical URL — all flagged in the briefing audit
@@ -183,8 +182,34 @@ Done in PR #8.
   wrap it around the title in a one-line follow-up.
 - [x] **Apple Siri integration source** intentionally not linked
   (current `skills.md` framing is accurate without a public source)
-- [x] **Wolfram MicroMasters AI+D role** intentionally not added (no
-  dates; long-term defer)
+
+## Events / Performances / Exhibitions
+
+Done in PR #10. Three new top-level pages were added to surface
+Kyle's artistic and curatorial practice surfaced from
+`_briefing/performances-and-events.md`. Plus several bonus additions
+to existing pages, plus a full removal of the dropped Wolfram
+MicroMasters references from internal docs.
+
+- [x] New `exhibitions.md` (nav 12) with the *ECHO — reSOUND New
+  York* installation at HERO/Rockefeller Center.
+- [x] New `performances.md` (nav 13) with seven entries: Dissolve
+  Music 2024 *Sound, Body, Dance*; ECHO takeover with Joshue Ott;
+  Buckets; Gong; DENORMALIZED; Spatial DJ Sound Lounge; Good
+  Vibrations.
+- [x] New `events.md` (nav 14) with three entries: Access Bristol;
+  Emergent Harmonics; Unstuffy 01.
+- [x] `media.md` renumbered to nav 15. New "## 2024" section with
+  Black Hole Reverb album. New sqi.mit.edu blog link and YouTube
+  link added to "## 2022" alongside the existing MIT Quest entry.
+- [x] `speaking.md` got the Dissolve Music 2025 lightning-talk added
+  at the top of "Recent and invited talks".
+- [x] `work.md` Bristol entry got a third sub-bullet for the MIT
+  Spatial Sound Lab co-lead role on the *Accessible Technology and
+  Disability Justice* theme (with Nelly Kate Anderson).
+- [x] All Wolfram MicroMasters AI+D references removed from
+  `_briefing/claude-cv-verification.txt`, `docs/briefing-audit.md`,
+  and `docs/plan.md`.
 
 ## Bristol-era prose rewrites
 

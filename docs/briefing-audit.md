@@ -270,11 +270,6 @@ with reasons.
   (anonymous, representative framing per Kyle)
 - ✅ **Computational Thinking Framework** w/ Dr. Peter Barendse →
   `research.md` "Effectiveness of computer programming" section
-- ❌ **Wolfram MicroMasters AI+D** Lecturer & Digital Learning Lead
-  role → intentionally not added (PR #8). The role title and platform
-  (MITx/edX) are known but the dates are not, and a chronological
-  work entry without dates would clash with the rest of `work.md`.
-  Long-term defer pending dates from Kyle.
 - ✅ **6.811 teaching team** (Rob Miller, John Leonard, Julie
   Greenberg, Anna Young, Seth Teller legacy) → `teaching.md` 6.811
   section
@@ -465,6 +460,28 @@ Small file — four pointers, all of which are 2024–2025 items.
 | Lecture at Harvard Law (April 2024) | ✅ | `speaking.md` | Added in PR #6 (Phase 4) |
 | Sense-O-Nary IDC '24 | ✅ | `publications.md` | Added in PR #6 (Phase 4) |
 
+## `_briefing/performances-and-events.md` (per-item)
+
+Added by Kyle on 10 May 2026. Surfaces nine artistic / curatorial
+items plus four bonus mentions. Shipped in PR #10.
+
+| Item | Status | Page | Notes |
+|---|---|---|---|
+| ECHO at HERO/Rockefeller Center | ✅ | `exhibitions.md` | Fully verified; primary source resound-nyc.com |
+| Dissolve Music 2024 — *Sound, Body, Dance* performance | ✅ | `performances.md` | Verified via Spatial Sound Lab events page |
+| ECHO takeover with Joshue Ott | ✅ | `performances.md` | Lived-experience framing; Joshue Ott / SuperDraw verifiable |
+| Buckets | ✅ | `performances.md` | Lived-experience framing; no specific date |
+| Gong / boundary of realities | ✅ | `performances.md` | Lived-experience framing |
+| DENORMALIZED with Justin Looper | ✅ | `performances.md` | Lived-experience framing; Looper as Lab co-organizer verifiable |
+| Spatial DJ Sound Lounge (Bristol) | ✅ | `performances.md` | Placeholder pending date / venue / DJ from Kyle |
+| Good Vibrations (Bristol, WFS) | ✅ | `performances.md` | Placeholder pending details from Kyle |
+| Emergent Harmonics (14 July 2025) | ✅ | `events.md` | Fully verified via Sound Without Sight |
+| Access Bristol (8–9 Nov 2025) | ✅ | `events.md` | Fully verified via accessbristol.org |
+| Unstuffy 01 (June 2024) | ✅ | `events.md` | Bonus addition |
+| Dissolve Music 2025 lightning talk | ✅ | `speaking.md` | Bonus addition (talk, not performance) |
+| Black Hole Reverb album (Leftroman) | ✅ | `media.md` | Added under new "## 2024" section |
+| Spatial Sound Lab "Accessible Technology and Disability Justice" theme co-lead | ✅ | `work.md` | Added as third sub-bullet under Bristol entry |
+
 ## Conflicts surfaced (consolidated)
 
 1. **Carl V. Thompson Research Group affiliation** —
@@ -530,8 +547,15 @@ One open-questions update:
   Wolfram|Alpha step-by-step solver URL added to `skills.md` and
   `work.md`. NYT 2022 black-hole article URL and Apple Siri
   integration source intentionally not linked (NYT crawler-blocked;
-  Siri framing already accurate without a URL). Wolfram MicroMasters
-  AI+D role intentionally not added (no dates).
-- **Long-term defer**: Wolfram MicroMasters AI+D dates (Kyle to
-  surface), six parked prose rewrites (Kyle to decide), Get-in-touch
-  rebuild on `index.md` (Kyle's to do when ready).
+  Siri framing already accurate without a URL).
+- **Bristol-era prose rewrites**: shipped in PR #9. Six rewrites in
+  `_briefing/website-updates.txt` adopted across the public site
+  with per-page tweaks.
+- **Events / Performances / Exhibitions**: shipped in PR #10. Three
+  new top-level pages created from
+  `_briefing/performances-and-events.md`, plus bonuses on `media.md`,
+  `speaking.md`, and `work.md`. All Wolfram MicroMasters AI+D
+  references deleted from internal docs as part of the same PR.
+- **Long-term defer**: Get-in-touch rebuild on `index.md` (Kyle's to
+  do when ready); placeholder details on `performances.md` for
+  Spatial DJ Sound Lounge and Good Vibrations.

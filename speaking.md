@@ -9,6 +9,10 @@ nav_order: 7
 
 ## Recent and invited talks *(from CV)*
 
+- **Lightning-Talk Speaker,** "Frontiers of Accessible Technology" —
+  October 3, 2025, Dissolve Music 2025, MIT Building W97, Cambridge,
+  Massachusetts.
+  [Dissolve Music 2025 at the MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/events/).
 - **Guest,** "How AI tools are transforming the lives of people with
   disabilities" — July 9, 2025,
   [WBUR On Point live stream](https://www.wbur.org/radio/programs/onpoint/episode).
