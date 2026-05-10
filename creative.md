@@ -4,7 +4,7 @@ title: Creative
 permalink: /creative.html
 description: My creative side — photography, music, percussion, and video.
 nav_include: true
-nav_order: 6
+nav_order: 7
 ---
 
 I approach creativity as both an artistic practice and a scientific

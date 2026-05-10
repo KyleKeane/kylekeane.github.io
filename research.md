@@ -4,7 +4,7 @@ title: Research
 permalink: /research.html
 description: Research interests across computational science, educational effectiveness, human-centered design, and equivalent access for people with disabilities.
 nav_include: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## Current research at Bristol

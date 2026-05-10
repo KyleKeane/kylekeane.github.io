@@ -4,7 +4,7 @@ title: Engage
 permalink: /engage.html
 description: How to invite, hire, book, or collaborate with Kyle — keynotes, guest lectures, master classes, workshops, panels, consulting, artistic bookings, supervision, and event programming.
 nav_include: true
-nav_order: 2
+nav_order: 3
 ---
 
 I take on a small number of speaking, teaching, consulting, artistic, and
