@@ -54,9 +54,10 @@ history are on the [CV](/cv.html) page.
   Developing World** (Materials Science and Engineering). Created
   and led, Winter 2017, 2018. Three-week experiential subject
   partnering MIT students with co-designers in India; this course
-  evolved into the
-  [Project Aakaar](/cv.html#roles) international 3D-printing
-  exchange programme.
+  evolved into Project Aakaar, an international 3D-printing exchange
+  programme that paired middle-school students in Cambridge,
+  Massachusetts with peers and educators in India to co-design and
+  3D-print tactile teaching aids for blind students.
 - **3.016 — Computational Methods for Materials Science and
   Engineering** (MSE). Lead 2015–2018.
 - **3.017 — Modeling, Problem-Solving, Computing, and Visualization**
