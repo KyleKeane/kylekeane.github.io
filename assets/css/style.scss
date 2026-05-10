@@ -96,6 +96,15 @@ header nav[aria-label="Main navigation"] a:focus {
   text-decoration: underline;
 }
 
+/* Divider between the social-icon row and the main navigation —
+   same medium-thickness currentColor rule as the bottom-of-header
+   divider. */
+header nav[aria-label="Find Kyle on the web"] {
+  border-bottom: 3px solid currentColor;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
 /* Social profile list: small canonical icons in a horizontal row
    directly below the site title. Visually non-obtrusive; the
    screen-reader label for each link lives in an aria-label on the
