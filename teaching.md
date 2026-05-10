@@ -86,7 +86,25 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
 - **Methods of Modelling and Simulation for Materials Science.**
   Same scope, Imperial College graduate seminar — see
   [Imperial College news on the Mathematica Masterclass](https://www.imperial.ac.uk/news/174451/mathematica-masterclass-visualising-materials-science/)
-  (TSM-CDT, Hermes 2016).
+  (Whitely Suite, 25–27 July 2016, with W. Craig Carter and George
+  Varnavides; TSM-CDT pre-Hermes warm-up).
+- **ASSIST HEIDI Summer School at FH Technikum Wien, Vienna.**
+  Co-design summer school in which international student teams
+  develop assistive solutions with co-designers — the acronym HEIDI
+  stands for *Human BEIngs with DisabilIties*. I have contributed as
+  faculty co-designer in 2022 and 2025. The 2022 inaugural edition
+  is documented in
+  [the FH Technikum Wien news release](https://www.technikum-wien.at/en/news/summer-school-international-students-developed-smart-assistance-solutions/);
+  the 2025 *Accessible Gaming* edition is on the
+  [ASSIST HEIDI 2025 summer-school page](https://www.technikum-wien.at/en/assist-heidi-summer-school-2025/)
+  with the
+  [studyathome schedule](https://hub.studyathome.technikum-wien.at/studyathome/summer-school/),
+  the
+  [course continuity page](https://www.technikum-wien.at/en/course-assist-heidi/),
+  the
+  [official 2025 flyer (PDF)](https://media-hp.technikum-wien.at/media/20250218085412/PDF-Assist-Heidi-Summer-School-2025-flyer.pdf),
+  and
+  [the Summer Schools in Europe directory listing](https://www.summerschoolsineurope.eu/course/assist-heidi-summer-school-2025-international-summer-school-for-accessible-gaming/).
 - **Wolfram Summer School and Wolfram Summer Camp.** Program Director
   2018; Instructor 2015, 2017. Faculty bios:
   [Wolfram Summer School](https://education.wolfram.com/summer-school/faculty/),
@@ -133,12 +151,40 @@ technology before facilitating team formation with a local community
 partner with a disability, around a year-long co-design project.
 
 - UTEC, Uruguay — June 2022.
-- Al-Faisal University, Riyadh, Saudi Arabia — May 2022 and
-  January 2019.
-- IIT Delhi, India — January 2018, January 2019.
+- **Al-Faisal University, Riyadh, Saudi Arabia** — January 2019,
+  January 2020, and a multi-day visit in early 2022. The 2020
+  closing exhibition is documented in
+  [the Alfaisal CoCreate 2020 news release](https://news.alfaisal.edu/alfaisal-university-hosts-cocreate-fellowship-program-projects-exhibition-of-2020/)
+  and
+  [the CoCreate Program at Alfaisal page](https://news.alfaisal.edu/the-cocreate-program-at-alfaisal-university/);
+  the early-2022 visit is documented in three Alfaisal photo
+  galleries —
+  [the Dr. Kyle Keane Tour, 17 February 2022](https://photogallery.alfaisal.edu/index.php?%2Fcategory%2F467=)
+  (38 photos),
+  [the AI Seminar with Dr. Kyle Keane, 20 February 2022](https://photogallery.alfaisal.edu/content/1.index/index.php?/category/324)
+  (7 photos), and a CoCreate session;
+  the partnership is also profiled on the MIT
+  [Ibn Khaldun Fellowship CoCreate write-up](https://ibk.mit.edu/news/cocreating-for-inclusivity-and-innovation/),
+  with peer-reviewed academic documentation in the Springer book
+  chapter
+  [*Empowering Assistive Technology Communities to Make Strategic
+  Use of Intellectual Property: Three Case Studies from the CoCreate
+  Program*](https://link.springer.com/chapter/10.1007/978-3-030-60149-2_2).
+- **IIT Delhi, India** — January 2018 and January 2019. The
+  three-day exchange in the Department of Design is described in
+  [the IIT Delhi institutional release](https://intladm.iitd.ac.in/news-mit.php).
 - IIT Madras, Chennai, India — January 2018, January 2019.
-- LV Prasad Eye Institute, Hyderabad, India — January 2018.
+- **LV Prasad Eye Institute, Hyderabad, India** — January 2018 and
+  January 2019. The 2019 visit, co-hosted with Dr. Beula Christy, is
+  documented in
+  [the LVPEI press release of 19 January 2019](https://www.lvpei.org/press-event/25).
 - Independent education startup, Chennai, India — July 2017.
+
+The cross-trip retrospective on this programme is on the MIT MISTI
+[Humanistic design workshops in India: impact and reach](https://misti.mit.edu/humanistic-design-workshops-india-impact-and-reach)
+page; my MIT Global Partnerships Fund seed-grant cycle is recorded
+on the
+[MISTI Past Seed Fund Winners archive](https://misti-archive.mit.edu/faculty-funds/past-seed-fund-winners).
 
 ### Intentionally Inclusive Interaction Design
 

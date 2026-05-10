@@ -428,3 +428,45 @@ In addition, please include two short prefatory notes:
    typecasting coverage that engages with disability rather than with
    the work, plus any duplicates of §2 entries you almost included.
    This is useful diagnostic information about the search itself.
+
+## 7. Follow-ups from previous research passes
+
+These items remain under-evidenced online after research batch 2
+(May 2026) and require Kyle's own action — they are not productive
+for the next deep-web research run. Recorded here so the next pass
+can skip them and focus elsewhere.
+
+- **Uruguay (UTEC, Fray Bentos, June 2022).** No Spanish-language
+  press, US Embassy Montevideo social-media post, or UTEC newsroom
+  hit surfaced. Kyle to ask UTEC Comunicaciones
+  (`comunicaciones@utec.edu.uy`) and the public-affairs office of US
+  Embassy Montevideo for internal records and Facebook posts that
+  may not index in Google.
+- **Switzerland — EPFL summer school + the Swiss-national-TV
+  episode.** EPFL News archive has nothing on Kyle. The Swiss TV
+  episode (involving Biped.ai or a blind musician) was not located
+  on RTS / SRF / RSI. Kyle to (a) request from EPFL Materials
+  Institute (IMX) the MSE-641 course archive listing visiting
+  instructors 2016–2022, and (b) search his own email for any
+  RTS/SRF production-team correspondence; alternatively contact
+  Maël Fabien at Biped (`mael@biped.ai`) directly.
+- **China — Sichuan University (June 2022).** No SCU newsroom or
+  Weibo hit. Kyle to request via SCU College of Computer Science
+  international office.
+- **Singapore — SUTD (2018).** No SUTD or MIT-SUTD Collaboration
+  archive hit. Likely needs Kyle to contact MIT International
+  Science and Technology Initiatives (MISTI) directly.
+- **Saudi Arabia — Feb vs May 2022 date.** Alfaisal photo gallery
+  dates a "Dr. Kyle Keane Tour" and "AI Seminar with Dr. Kyle Keane"
+  to 17 and 20 February 2022, while the site lists May 2022. Kyle
+  to verify against passport stamps. The teaching page has been
+  updated to "early 2022" pending resolution.
+
+## 8. What's already been added (research-additions batches 1 and 2)
+
+For the next research run, the URLs added by batches 1 and 2 are
+considered "already on the site" — do not return them as
+candidates. Re-run the URL-extraction grep on `index.md`,
+`philosophy.md`, `engage.md`, `upcoming.md`, `research.md`,
+`teaching.md`, `creative.md`, and `cv.md` against the latest `main`
+to refresh §2 before the next pass.

@@ -74,7 +74,10 @@ conversation about collaborating on them.
   8 May 2025.
 - **Speaker,** *The importance of spatial reasoning in AI systems to help
   blind users* — [Math4VIP lecture announcement](https://www.math4vip.de/inhalt/aktuelles/ki-systeme-und-wie-sie-blinden-nutzern-helfen-vortrag-von-dr-kyle-keane/),
-  University of Marburg, 2 April 2025.
+  University of Marburg, 2 April 2025; the parallel
+  [ACCESS@KIT Math4VIP workshop report](https://www.access.kit.edu/english/1627.php)
+  describes the related Karlsruhe Institute of Technology session
+  on creative work with mathematics.
 - **Speaker,** *The Subtleties of the Automated Production of
   Audio-Tactile Graphics*, Blindenstudienanstalt (College for the Blind),
   Marburg, 1 April 2025; ACCESS at Karlsruhe Institute of Technology,
