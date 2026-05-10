@@ -183,6 +183,31 @@ Done in PR #8.
 - [x] **Apple Siri integration source** intentionally not linked
   (current `skills.md` framing is accurate without a public source)
 
+## Speaking restructure + Upcoming page + Bristol supervision
+
+Done in PR #11.
+
+- [x] `speaking.md` restructured: new `## Keynote speeches` and
+  `## Panel discussions` H2s above `## Recent and invited talks`.
+  Existing chronological structure preserved below.
+- [x] Four new entries added (all placeholders pending dates):
+  Cambodia keynote (2025), *XR for Good* panel at Bristol, London
+  Technology Club at the Savile Club, Nanyang Technological
+  University (NTU) Singapore seminar.
+- [x] New `upcoming.md` page (nav 15) — chronological list of
+  confirmed upcoming engagements, each tagged by type (`[Keynote]`,
+  `[Performance]`, `[Event]`, `[Exhibition]`). Two entries on launch:
+  Monterrey, Mexico keynote (late Oct 2026) and Audio Developer
+  Conference (ADC) keynote in Bristol (Nov 2026).
+- [x] `media.md` `nav_order` 15 → 16 to accommodate Upcoming.
+- [x] `teaching.md` COMS30054 updated to "Co-teacher". New "Bristol
+  student supervision" sub-section under "Taught courses at Bristol"
+  with a forward-link to advising.md.
+- [x] `advising.md` got a new "Bristol student supervision" H2
+  above "Featured advisees" capturing dissertation supervision and
+  the MSc supervision activities (conversion MSc + immersive
+  technology MSc team).
+
 ## Events / Performances / Exhibitions
 
 Done in PR #10. Three new top-level pages were added to surface
