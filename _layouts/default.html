@@ -40,7 +40,10 @@
         </ul>
       </nav>
       {%- endif -%}
-      {{ content }}
+      {{ content
+        | replace: '<h2 id="', '<h2 tabindex="-1" id="'
+        | replace: '<h3 id="', '<h3 tabindex="-1" id="'
+        | replace: '<h4 id="', '<h4 tabindex="-1" id="' }}
     </main>
   </body>
 </html>
