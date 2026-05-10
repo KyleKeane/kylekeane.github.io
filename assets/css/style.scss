@@ -85,17 +85,21 @@ header nav[aria-label="Main navigation"] a:focus {
   text-decoration: underline;
 }
 
-/* Social profile list: small canonical icons, stacked vertically
-   below the site title. Visually non-obtrusive; the screen-reader
-   label for each link lives in an aria-label on the <a>. */
+/* Social profile list: small canonical icons in a horizontal row
+   directly below the site title. Visually non-obtrusive; the
+   screen-reader label for each link lives in an aria-label on the
+   <a>. */
 .site-socials {
   list-style: none;
   padding: 0;
   margin: 0.5rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
 }
 
 .site-socials li {
-  margin: 0.25rem 0;
+  margin: 0;
 }
 
 .site-socials a {
