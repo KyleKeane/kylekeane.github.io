@@ -9,7 +9,7 @@ nav_order: 3
 
 I take on a small number of speaking, teaching, consulting, artistic, and
 collaborative engagements each year. Recent and forthcoming hosts include
-the *New York Times*-cited reSOUND New York at Rockefeller Center,
+reSOUND New York at Rockefeller Center (cited in the *New York Times*),
 WBUR *On Point*, the United Nations, Microsoft, Harvard Law School, the
 University of Marburg, the Karlsruhe Institute of Technology, MIT, and
 the Audio Developer Conference. This page sets out the categories I
