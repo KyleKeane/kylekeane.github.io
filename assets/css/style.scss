@@ -56,29 +56,41 @@ header nav[aria-label="Main navigation"] a,
 .page-sections a {
   display: inline-block;
   padding: 0.1rem 0.3rem;
+  background-color: #fff;
   color: #111;
   border: 1px solid currentColor;
   border-radius: 0.5rem;
   text-decoration: none;
 }
 
-header nav[aria-label="Main navigation"] a {
-  background-color: #fff;
-}
-
 header nav[aria-label="Main navigation"] a:hover,
-header nav[aria-label="Main navigation"] a:focus {
+header nav[aria-label="Main navigation"] a:focus,
+.page-sections a:hover,
+.page-sections a:focus {
   background-color: #f0f0f0;
   text-decoration: underline;
 }
 
-.page-sections a {
-  background-color: #f5f5f5;
+/* Footer with back-to-top link, matching the pill style. */
+.page-footer {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  text-align: center;
 }
 
-.page-sections a:hover,
-.page-sections a:focus {
-  background-color: #e8e8e8;
+.page-footer a {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  background-color: #fff;
+  color: #111;
+  border: 1px solid currentColor;
+  border-radius: 0.5rem;
+  text-decoration: none;
+}
+
+.page-footer a:hover,
+.page-footer a:focus {
+  background-color: #f0f0f0;
   text-decoration: underline;
 }
 
@@ -163,26 +175,19 @@ header nav[aria-label="Find Kyle on the web"] {
   }
 
   header nav[aria-label="Main navigation"] a,
-  .page-sections a {
+  .page-sections a,
+  .page-footer a {
+    background-color: #444;
     color: #f5f5f5;
   }
 
-  header nav[aria-label="Main navigation"] a {
-    background-color: #444;
-  }
-
   header nav[aria-label="Main navigation"] a:hover,
-  header nav[aria-label="Main navigation"] a:focus {
-    background-color: #555;
-  }
-
-  .page-sections a {
-    background-color: #333;
-  }
-
+  header nav[aria-label="Main navigation"] a:focus,
   .page-sections a:hover,
-  .page-sections a:focus {
-    background-color: #404040;
+  .page-sections a:focus,
+  .page-footer a:hover,
+  .page-footer a:focus {
+    background-color: #555;
   }
 }
 
