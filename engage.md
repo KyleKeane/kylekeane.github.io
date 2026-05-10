@@ -99,10 +99,9 @@ design, and inclusive curriculum development. I have delivered these in
 short-course format at the King Salman Center for Disability Research
 (Riyadh), Alfaisal University, IIT Delhi, the LV Prasad Eye Institute
 (Hyderabad), MIT Independent Activities Period, and Wolfram Summer
-School, and as recurring faculty co-designer at the
-[ASSIST HEIDI Summer School](https://www.technikum-wien.at/en/news/summer-school-international-students-developed-smart-assistance-solutions/)
-at FH Technikum Wien, Vienna (2022 inaugural and the 2025
-*Accessible Gaming* edition). Workshops can run from a single day
+School, and as faculty co-designer at the
+[2022 inaugural ASSIST HEIDI Summer School](https://www.technikum-wien.at/en/news/summer-school-international-students-developed-smart-assistance-solutions/)
+at FH Technikum Wien, Vienna. Workshops can run from a single day
 through a multi-week intensive; I also custom-design programmes
 against a host curriculum.
 
@@ -133,20 +132,10 @@ Simulations.
 ## Artistic booking and installations
 
 I work in spatial and immersive audio, sonification, audio-tactile
-graphics, and large-scale installation. The headline currently running:
-*[ECHO](https://resound-nyc.com/artwork/echo)* at reSOUND New York
-inside HERO at Rockefeller Center, October 2025 – October 2026 — an
-8-channel kinetic sound and light installation built with d'strict,
-MATTE Projects, MIT Spatial Sound Lab, and Prof. Erin Kara of the MIT
-Department of Physics, sonifying X-ray light-echo data from
-stellar-mass black-hole binaries.
-
-Recent live performance: *Sound, Body, Dance* at
-[Dissolve Music 2024](https://spatialsoundlab.mit.edu/dissolve-music-2024/),
-MIT Spatial Sound Lab; takeover of the ECHO installation with
-[Joshue Ott](https://www.joshueott.com/) (SuperDraw); *Buckets* and
-*Gong — at the boundary of realities* at the MIT Spatial Sound Lab;
-spatial-DJ and wave-field-synthesis work at the University of Bristol.
+graphics, and large-scale installation. The headline currently running
+is *ECHO* at reSOUND New York inside HERO at Rockefeller Center,
+October 2025 – October 2026. The full installation, performance, and
+recording catalogue lives on the [Creative](/creative.html) page.
 
 I am open to bookings for festivals, museums, galleries, residencies,
 and one-off commissions. I bring my own technical brief and can work
@@ -194,7 +183,7 @@ proposed dates, the audience, and a note on the production setup —
 venue, format, supporting staff, materials timeline. Starting the
 conversation in that shape lets me give you a real answer quickly.
 
-- Email: kyle ~at~ kylekeane.com
 - LinkedIn: [KyleKeane](https://www.linkedin.com/in/KyleKeane)
 - GitHub: [KyleKeane](https://github.com/KyleKeane)
 - ORCID: [0000-0003-3243-4412](https://orcid.org/0000-0003-3243-4412)
+- Bristol Pure profile: [Kyle M. Keane](https://research-information.bris.ac.uk/en/persons/kyle-m-keane/)

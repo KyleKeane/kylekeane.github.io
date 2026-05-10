@@ -91,20 +91,9 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
 - **ASSIST HEIDI Summer School at FH Technikum Wien, Vienna.**
   Co-design summer school in which international student teams
   develop assistive solutions with co-designers — the acronym HEIDI
-  stands for *Human BEIngs with DisabilIties*. I have contributed as
-  faculty co-designer in 2022 and 2025. The 2022 inaugural edition
-  is documented in
-  [the FH Technikum Wien news release](https://www.technikum-wien.at/en/news/summer-school-international-students-developed-smart-assistance-solutions/);
-  the 2025 *Accessible Gaming* edition is on the
-  [ASSIST HEIDI 2025 summer-school page](https://www.technikum-wien.at/en/assist-heidi-summer-school-2025/)
-  with the
-  [studyathome schedule](https://hub.studyathome.technikum-wien.at/studyathome/summer-school/),
-  the
-  [course continuity page](https://www.technikum-wien.at/en/course-assist-heidi/),
-  the
-  [official 2025 flyer (PDF)](https://media-hp.technikum-wien.at/media/20250218085412/PDF-Assist-Heidi-Summer-School-2025-flyer.pdf),
-  and
-  [the Summer Schools in Europe directory listing](https://www.summerschoolsineurope.eu/course/assist-heidi-summer-school-2025-international-summer-school-for-accessible-gaming/).
+  stands for *Human BEIngs with DisabilIties*. Faculty co-designer
+  for the 2022 inaugural edition,
+  [documented in the FH Technikum Wien news release](https://www.technikum-wien.at/en/news/summer-school-international-students-developed-smart-assistance-solutions/).
 - **Wolfram Summer School and Wolfram Summer Camp.** Program Director
   2018; Instructor 2015, 2017. Faculty bios:
   [Wolfram Summer School](https://education.wolfram.com/summer-school/faculty/),
