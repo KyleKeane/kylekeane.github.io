@@ -29,11 +29,22 @@ You can see examples of my approach on MIT's OpenCourseWare, including
 
 ### COMS30054 — Interactive Devices
 
-*University of Bristol, School of Computer Science.*
+*University of Bristol, School of Computer Science. Co-teacher.*
 
 Explores the design and function of interactive hardware systems,
 emphasising user interaction, embedded technologies, and the principles
 behind modern device interfaces.
+
+### Bristol student supervision
+
+*University of Bristol, School of Computer Science.*
+
+I supervise final-year computer science dissertations and MSc
+projects (a conversion MSc student in Computer Science, plus a team
+of immersive technology MSc students). Specific student names,
+years, and project titles are on the
+[Advising](/advising.html#bristol-student-supervision) page as I
+populate them.
 
 ## Semester-long subjects I have taught at MIT
 

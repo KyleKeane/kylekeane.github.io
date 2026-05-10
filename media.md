@@ -4,7 +4,7 @@ title: Media
 permalink: /media.html
 description: Press coverage, podcasts, and external articles featuring my research, teaching, and advocacy.
 nav_include: true
-nav_order: 15
+nav_order: 16
 ---
 
 ## 2025

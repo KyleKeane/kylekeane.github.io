@@ -7,8 +7,22 @@ nav_include: true
 nav_order: 7
 ---
 
+## Keynote speeches
+
+- **Keynote,** Cambodia — 2025. (Title, venue, and exact date to be
+  confirmed.)
+
+## Panel discussions
+
+- **Panelist,** *XR for Good* — University of Bristol, Bristol,
+  England. (Date to be confirmed.)
+
 ## Recent and invited talks *(from CV)*
 
+- **Guest,** London Technology Club at the Savile Club, London,
+  England. (Exact date to be confirmed; recent.)
+- **Seminar Speaker,** Nanyang Technological University (NTU),
+  Singapore. (Title, exact date, and host school to be confirmed.)
 - **Lightning-Talk Speaker,** "Frontiers of Accessible Technology" —
   October 3, 2025, Dissolve Music 2025, MIT Building W97, Cambridge,
   Massachusetts.

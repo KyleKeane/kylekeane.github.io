@@ -13,6 +13,21 @@ bright, and socially-minded students. It has become a personal
 imperative for me to find ways to support these students in their
 pursuit of affecting positive and inclusive change in the world.
 
+## Bristol student supervision
+
+*University of Bristol, School of Computer Science.* Specific student
+names, project titles, and years are being filled in incrementally;
+this section captures the supervision activities themselves.
+
+- **Final-year computer science dissertations** — supervising
+  multiple students per academic year on independent projects
+  spanning assistive technology, accessibility, multisensory
+  interaction, and human–computer interaction.
+- **MSc Computer Science (conversion)** — supervising a conversion
+  MSc student.
+- **MSc Immersive Technologies (team project)** — supervising a
+  team of MSc students on an immersive-technology project.
+
 ## Featured advisees
 
 - **George Varnavides** — Materials Science and Engineering, BS 2016.
