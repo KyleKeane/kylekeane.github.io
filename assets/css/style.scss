@@ -31,10 +31,11 @@ body > header {
   float: none;
 }
 
-/* Main site nav and per-page sections nav: same outlined-pill
-   aesthetic — compact pills with a 1px currentColor outline on a
-   light-gray background. The outline uses currentColor so it stays
-   visible in both light and dark modes without a separate rule. */
+/* Main site nav and per-page sections nav share the pill structure
+   (size, border, gap, hover behaviour) but differ in surface colour.
+   The main nav sits on the gray header band so its pills are white
+   for contrast; the page-sections nav sits on the white content area
+   so its pills are light gray. */
 header nav[aria-label="Main navigation"] ul,
 .page-sections ul {
   list-style: none;
@@ -55,15 +56,26 @@ header nav[aria-label="Main navigation"] a,
 .page-sections a {
   display: inline-block;
   padding: 0.1rem 0.3rem;
-  background-color: #f5f5f5;
   color: #111;
   border: 1px solid currentColor;
   border-radius: 0.5rem;
   text-decoration: none;
 }
 
+header nav[aria-label="Main navigation"] a {
+  background-color: #fff;
+}
+
 header nav[aria-label="Main navigation"] a:hover,
-header nav[aria-label="Main navigation"] a:focus,
+header nav[aria-label="Main navigation"] a:focus {
+  background-color: #f0f0f0;
+  text-decoration: underline;
+}
+
+.page-sections a {
+  background-color: #f5f5f5;
+}
+
 .page-sections a:hover,
 .page-sections a:focus {
   background-color: #e8e8e8;
@@ -152,12 +164,22 @@ header nav[aria-label="Find Kyle on the web"] {
 
   header nav[aria-label="Main navigation"] a,
   .page-sections a {
-    background-color: #333;
     color: #f5f5f5;
   }
 
+  header nav[aria-label="Main navigation"] a {
+    background-color: #444;
+  }
+
   header nav[aria-label="Main navigation"] a:hover,
-  header nav[aria-label="Main navigation"] a:focus,
+  header nav[aria-label="Main navigation"] a:focus {
+    background-color: #555;
+  }
+
+  .page-sections a {
+    background-color: #333;
+  }
+
   .page-sections a:hover,
   .page-sections a:focus {
     background-color: #404040;
