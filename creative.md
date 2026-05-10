@@ -2,99 +2,154 @@
 layout: default
 title: Creative
 permalink: /creative.html
-description: My creative side — photography, music, percussion, and video.
+description: Sound art, sonification, immersive installations, and performances — including the ECHO installation at reSOUND New York and ongoing work with the MIT Spatial Sound Lab and the University of Bristol.
 nav_include: true
 nav_order: 7
 ---
 
-I approach creativity as both an artistic practice and a scientific
-exploration. As an immersive, multisensory artist and experimental
-technologist, I'm drawn to the outer edges of human perception, where
-data becomes sound, sensation becomes insight, and technology becomes a
-medium for reimagining reality.
+I work as an immersive, multisensory artist and experimental
+technologist at the outer edges of human perception. My practice
+treats data as a sonic medium and treats the body's non-visual senses
+as full-resolution channels for complex information. Booking
+enquiries are welcome via the [Engage](/engage.html) page.
 
-My creative work is rooted in deep curiosity and a commitment to
-accessibility. I design experiences that translate the invisible into
-the tangible: sonifying the warping of spacetime, crafting AI-powered
-tools for non-visual cognition, and building tactile-auditory
-landscapes that help people understand complex ideas through embodied
-interaction. Whether in research labs, hacker spaces, or co-design
-workshops, I thrive on the creative collision of disciplines and
-perspectives.
+## Installations
 
-From MIT to Bristol, and from international collaborations to local
-communities, I'm intrigued to explore opportunities at the intersection
-of science, art, and inclusion. I'm always open to a good conversation
-about new collaborations at the edges of perception, sound, AI, and
-storytelling.
+### ECHO — reSOUND New York
 
-## Textures of my Life
+*HERO at Rockefeller Center, 610 5th Avenue, Rink Level, New York.
+1 October 2025 – 31 October 2026, daily 11am–7pm.*
 
-After walking the same streets for four years, I decided to capture all
-the beautiful detail I have learned to appreciate. I call them the
-textures of my life.
+*ECHO* is an 8-channel kinetic sound and light installation presented
+by [d'strict](https://www.dstrict.com/) and
+[MATTE Projects](https://matteprojects.com/) as part of the BOUNDLESS
+sequence inside [reSOUND New York](https://resound-nyc.com/). The work
+spatially embodies the gravitational distortion of a black hole and
+physical theories including the Doppler effect and general relativity,
+translating black-hole observation data into a sensory experience from
+the perspective of photons.
 
-## Buddha Around Town
+I provided the black-hole sonification with Prof. Erin Kara of the MIT
+Department of Physics, translating X-ray light-echo data from
+stellar-mass black-hole binaries into audible pitch. Collaborators on
+the installation: d'strict Art Project (creative direction), Erin Kara
+(data and physics), Ian Condry (founder of the MIT Spatial Sound Lab),
+oOps.50656 (eight-channel sonification and sound design), and KKOL
+Studio (light and sound installation build).
 
-I made this when I got my iPad using iMovie. The pictures are taken
-along the route as the close-up photos shown in "Textures of my Life" —
-see if you can spot any of the same locations.
+[ECHO at reSOUND New York](https://resound-nyc.com/artwork/echo).
 
-## Animation Farm
+## Performances
 
-Some silly animated GIFs I have created. I have many of these tiny
-widgets, mostly for my own entertainment.
+### Dissolve Music 2024 — *Sound, Body, Dance*
 
-## Kirtan Percussion Accompaniment
+*4 October 2024, MIT Building W97 black-box theater, Cambridge,
+Massachusetts. MIT Spatial Sound Lab.*
+
+A live spatial-sound performance and talkback in the Friday-night
+programme *Sound, Body, Dance: live spatial sound and dance
+improvisation*. On the same bill: Stefanie Egedy (*B.A.S.: Bodies and
+Subwoofers*), Justin Looper, Rachel Devorah and Isabella Koen, Arthur
+King (*Spatial Mixtape*), Wenhua Shi & Leftroman; dance by Rebecca
+Sandlin, Dan Safer, and Thomas F. DeFrantz; live visuals by Jessica
+Stringham; live captions and audio descriptions by Access Lab and
+Library, Melbourne. Co-organised by Ian Condry, Justin Looper, and
+Nelly Kate.
+
+[Dissolve Music 2024 programme](https://spatialsoundlab.mit.edu/dissolve-music-2024/).
+
+### ECHO takeover with Joshue Ott
+
+*Inside the ECHO installation at HERO, Rockefeller Center.*
+
+A live takeover inside the ECHO installation: a hand-drawn SuperDraw
+render specialised for the room, paired with a handheld speaker
+carrying the black-hole sonification. With
+[Joshue Ott](https://www.joshueott.com/) — creator of SuperDraw — and
+a frequent collaborator with the MIT Spatial Sound Lab cohort.
+
+### Buckets
+
+*MIT Spatial Sound Lab.*
+
+A quadraphonic standing-wave performance using closely-detuned
+frequencies and distributed Bluetooth speakers as audience-interactive
+sound objects, in dialogue with the Spatial Sound Lab's ongoing
+exploration of detuning, beat patterns, and portable speaker arrays.
+
+### Gong — *at the boundary of realities*
+
+*MIT Spatial Sound Lab.*
+
+A spatial performance using a contact-microphoned gong to bridge analog
+and digital sound worlds within the Lab's eight-channel programme.
+
+### DENORMALIZED
+
+*MIT Spatial Sound Lab. With Justin Looper (spatializer).*
+
+A quadraphonic AI-podcast feedback performance: a wearable AI
+voice-recording device generates podcast-style summaries of the
+performance in real time, which are then spatialised live across the
+Lab's quadraphonic system by Justin Looper, Spatial Sound Lab
+co-organiser.
+
+### Spatial DJ Sound Lounge
+
+*University of Bristol.*
+
+A spatial-DJ performance on a modified DJ rig, drawing on the Bristol
+Interaction Group's spatial-audio practice.
+
+### Good Vibrations
+
+*University of Bristol.*
+
+A wave-field-synthesis performance on a Bristol-side WFS array.
+
+## Recordings
+
+### Black Hole Reverb
+
+The black-hole sonification I produced with Erin Kara appears on
+*Black Hole Reverb*, a Leftroman / Ian Condry album mixed in 5.1 and
+Dolby Atmos and released through
+[Immersive Audio Album](https://immersiveaudioalbum.com/product/black-hole-reverb-ian-condry-5-1-flac-dolby-atmos-mkv-mp4/).
+The original sonification can also be heard on YouTube:
+[the black-hole sonification](https://www.youtube.com/watch?v=iIeIag2Ji8k).
+
+## Earlier creative practice
+
+Before the spatial-sound and installation work, my practice ran more
+quietly through photography, animation, and percussion. The artefacts
+below are kept for the historical record; the active practice is in
+the sections above.
+
+### Textures of my Life
+
+After walking the same streets for four years, I decided to capture
+the detail I had learned to appreciate.
+
+### Buddha Around Town
+
+A short iMovie piece, made when I first got an iPad. The pictures
+share locations with *Textures of my Life*.
+
+### Animation Farm
+
+A small collection of animated GIFs I made for my own entertainment.
+
+### Kirtan percussion
 
 After years of traditional training in contemporary ensemble-based
-percussive arts, I have transitioned into a much less rigid musical
-form known as kirtan. For me it is a folksy, acoustic jazz with audience
-participation. The structured improvisation and adjustments made for
-audience involvement really challenge me as a musician and help me to
-maintain a sense of appropriate response in my relations with the
-world; it is my therapy. I have had some really fun times playing
-around the Riverside area with my friend and collaborator Kathy Bolte.
-Our style is to start each song very slowly and quietly and to gradually
-increase the tempo, rhythmic complexity, and volume; we then return to
-the beginning of the song to allow the audience to compare and contrast
-how they feel at the end to how they remember themselves feeling at the
-beginning. My drumming therefore picks up mainly in the middle of the
-piece.
+percussive arts, I have spent time playing kirtan — a folksy, acoustic
+jazz with audience participation. Recordings exist of an Anusara
+invocation and a *Jai Maa Durga* set played around the Riverside area
+with my friend and collaborator Kathy Bolte.
 
-### Anusara Invocation
+### High school indoor drumline
 
-This is the mantra used to begin yoga classes taught in the Anusara
-style. I am always impressed at how quickly people can mimic and
-integrate a string of nonsensical syllables when they are put to a
-catchy melody. *To hear me drumming, skip to about the 7-minute mark.*
-
-### Jai Maa Durga
-
-Celebrating the women who never back down and push us to become
-everything we can. Thank you Mom! *I start really going at about the
-8-minute mark.*
-
-## High School Indoor Drumline
-
-In high school I was part of an award-winning percussion ensemble. We
-competed across the country and were consistently in the top of our
-division. This experience not only gave me great training in percussion
-technique, it also taught me how to effectively work with a large group
-of people to accomplish a goal. I was a student leader in the group and
-developed a great appreciation for example-based learning.
-
-### "Puzzles"
-
-As far as obsessive attention to technical details is concerned, this
-was a horrendous show. However, in enjoyment and complexity it was off
-the charts. *This was a fun year because I was marching with the second
-smallest bass drum.*
-
-### "Opportunities"
-
-This was my senior year and I certainly had the time of my life. Still
-wondering if it is I who create my own opportunities. This was my
-favorite year because *I got to lead the tenor/quint section, the people
-running around with five small drums strapped to their chest. I am the
-one in the middle.*
+I was part of an award-winning percussion ensemble in high school —
+*Puzzles* and *Opportunities* are the two shows I came back to most.
+The training in technique and group co-ordination still shows up in
+the Spatial Sound Lab work today.
