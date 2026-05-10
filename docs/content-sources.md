@@ -50,6 +50,24 @@ Audio Developer Conference poster, Bristol.
 
 ## Page → seed.md section map
 
+> **Restructure note (May 2026).** The table below reflects the
+> pre-Phase-6 12-page layout. Phase 6 consolidated those pages into
+> the current 7-page nav + a long-form `cv.md`. The table is kept as
+> a historical migration record so future research runs can trace
+> where any seed.md section ended up. Where each retired page now
+> lives:
+>
+> - `work.md` / `publications.md` / `funding.md` / `skills.md` /
+>   `media.md` → consolidated into `cv.md`
+> - `speaking.md` / `events.md` → `engage.md`
+> - `exhibitions.md` / `performances.md` → `creative.md`
+> - `advising.md` → `teaching.md` (Bristol supervision section) and
+>   `engage.md` (research collaboration / PhD supervision)
+> - `advocacy.md` → re-cast as `philosophy.md`
+>
+> The 11 retired pages still exist as redirect-only stubs at their
+> original permalinks for inbound-link continuity.
+
 | Page | seed.md section | seed.md line range |
 |---|---|---|
 | `index.md` | About | 17–47 |

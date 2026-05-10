@@ -44,20 +44,22 @@ The accessibility checklist for a new page is in
 
 ```
 .
-├── index.md                        # Home / About. permalink: /
-├── work.md                         # permalink: /work.html
-├── teaching.md                     # permalink: /teaching.html
-├── research.md                     # permalink: /research.html
-├── advocacy.md                     # permalink: /advocacy.html
-├── advising.md                     # permalink: /advising.html
-├── speaking.md                     # permalink: /speaking.html
-├── publications.md                 # permalink: /publications.html
-├── funding.md                      # permalink: /funding.html
-├── skills.md                       # permalink: /skills.html
-├── creative.md                     # permalink: /creative.html
-├── media.md                        # permalink: /media.html
-├── _config.yml                     # title, description, exclude rules
-├── _layouts/default.html           # the only layout
+├── index.md                        # About (home). nav 1, permalink: /
+├── philosophy.md                   # nav 2, permalink: /philosophy.html
+├── engage.md                       # nav 3, permalink: /engage.html
+├── upcoming.md                     # nav 4, permalink: /upcoming.html
+├── research.md                     # nav 5, permalink: /research.html
+├── teaching.md                     # nav 6, permalink: /teaching.html
+├── creative.md                     # nav 7, permalink: /creative.html
+├── cv.md                           # nav 8 — long-form record, permalink: /cv.html
+├── work.md, publications.md, funding.md, skills.md, media.md,
+│                                   # 11 redirect-only stubs using
+├── speaking.md, events.md, exhibitions.md, performances.md,
+│                                   # _layouts/redirect.html; each forwards
+├── advising.md, advocacy.md        # to one of the 8 pages above
+├── _config.yml                     # title, description, plugins, exclude
+├── _layouts/default.html           # main page layout
+├── _layouts/redirect.html          # redirect-stub layout
 ├── _includes/header.html           # skip link, site title, nav
 ├── assets/css/style.scss           # custom CSS
 ├── _briefing/                      # source material; NOT published
@@ -65,11 +67,15 @@ The accessibility checklist for a new page is in
 │   ├── seed.md                     # the spine — original unified outline
 │   ├── claude-cv-verification.txt  # fact-checked CV verification
 │   ├── website-updates.txt         # 2024–2025 Bristol-era updates
-│   └── recent-records.txt          # recent publication / poster records
+│   ├── recent-records.txt          # recent publication / poster records
+│   ├── performances-and-events.md  # artistic-practice source material
+│   └── external-research-brief.md  # external-research evidence brief
 ├── docs/                           # project docs; NOT published
 │   ├── plan.md                     # phased roadmap with checkboxes
-│   ├── open-questions.md           # things to confirm with Kyle
+│   ├── open-questions.md           # historical record of resolved questions
+│   ├── open-items.md               # active backlog of placeholders / gaps
 │   ├── content-sources.md          # what to merge from each _briefing/ file
+│   ├── briefing-audit.md           # Phase 2.5 briefing-folder audit
 │   └── style-guide.md              # accessibility + markdown conventions
 ├── README.md                       # project overview
 ├── CLAUDE.md                       # this file
@@ -100,8 +106,10 @@ Then write the body in markdown. **Do not write your own H1** in the body —
 the layout produces it from `title`. Start your body content at H2 (`##`).
 
 If a page should not appear in the top nav, omit `nav_include` (or set it
-to `false`). The nav order today is set by `nav_order: 1..12` matching the
-seed.md outline.
+to `false`). The nav order today is set by `nav_order: 1..8` (the seven
+public sections — About, Philosophy, Engage, Upcoming, Research, Teaching,
+Creative — plus CV at 8). Retired pages use `_layouts/redirect.html` and
+are not in the nav.
 
 ## Source-of-truth hierarchy
 
@@ -134,7 +142,8 @@ there with enough context that he can answer cold.
 
 ## Working-branch convention
 
-The current development branch is **`claude/audit-restructure-website-3vJZx`**.
+Develop on a fresh `claude/<short-topic>` branch off `main`. Past
+branches are merged into `main` — do not resurrect them.
 
 - Develop and commit on a `claude/...` branch
 - Push with `git push -u origin <branch>`

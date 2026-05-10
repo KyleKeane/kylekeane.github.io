@@ -27,50 +27,51 @@ serve as a log of what was outstanding.
 
 ## Speaking engagements with placeholders
 
-(`speaking.md`)
+(`engage.md`)
 
 - **Cambodia keynote (2025)** — title, venue, exact date.
-  *Location:* `## Keynote speeches` section.
+  *Location:* `## Keynotes and invited talks` section.
   *To resolve:* swap the placeholder bullet for a full entry
   matching the format of other talks.
 
 - **"XR for Good" panel at the University of Bristol** — date,
   co-panelists.
-  *Location:* `## Panel discussions` section.
+  *Location:* `## Panels and moderated discussions` section.
   *To resolve:* add the date and any co-panelists Kyle wants to
   credit.
 
 - **London Technology Club at the Savile Club, London** — exact
   date, talk title or topic.
-  *Location:* `## Recent and invited talks`, top of the list.
-  *To resolve:* add date and title; if the format was a panel or
-  keynote, move to the appropriate section above.
+  *Location:* `## Keynotes and invited talks` section.
+  *To resolve:* add date and title; if the format was a panel,
+  move to `## Panels and moderated discussions`.
 
 - **Nanyang Technological University (NTU) seminar, Singapore** —
   title, exact date, host school within NTU.
-  *Location:* `## Recent and invited talks`, second from top.
+  *Location:* `## Keynotes and invited talks` section.
   *To resolve:* fill in title, date, and host school.
 
 - **Macro Hive Conversations episode** — specific episode title.
-  *Location:* `## Recent and invited talks`.
+  *Location:* `## Keynotes and invited talks` section.
   *Status:* podcast and host (Bilal Hafeez) are linked; only the
   episode title is still flagged as "Full details to come" in
   `_briefing/website-updates.txt`. Optional fill-in.
 
 ## Performances with placeholders
 
-(`performances.md`)
+(`creative.md`)
 
 - **Spatial DJ Sound Lounge (Bristol)** — full date, venue,
   collaborator names.
-  *Location:* `## Spatial DJ Sound Lounge` H2.
+  *Location:* `### Spatial DJ Sound Lounge` H3 under
+  `## Performances`.
   *To resolve:* swap the placeholder description for verified
   details. The brief at `_briefing/performances-and-events.md` §6
   notes nothing was findable on the open web.
 
 - **Good Vibrations (Bristol, wave field synthesis)** — full date,
   venue, collaborator names.
-  *Location:* `## Good Vibrations` H2.
+  *Location:* `### Good Vibrations` H3 under `## Performances`.
   *To resolve:* same as above; brief §7 has no findable docs.
 
 ## Upcoming engagements with placeholders
@@ -90,11 +91,12 @@ serve as a log of what was outstanding.
 
 ## Bristol student supervision details
 
-(`teaching.md` and `advising.md`)
+(`teaching.md`; mirror in `engage.md`
+`## Research collaboration and PhD supervision` as needed)
 
 - **Final-year Computer Science dissertation supervisees** — names,
   project titles, academic years.
-  *Location:* `advising.md` `## Bristol student supervision`.
+  *Location:* `teaching.md` `### Bristol student supervision`.
   *To resolve:* one bullet per student, e.g. "**Student Name** —
   Final-year CS dissertation, *Project title*, 2024–25." A
   per-year structure works well as the list grows.
@@ -112,20 +114,20 @@ serve as a log of what was outstanding.
 
 ## Conferences and events attended
 
-(`skills.md`)
+(`cv.md`)
 
-The existing `## Conferences and events attended *(from CV)*` section
-on `skills.md` is current to 2023 only. Kyle wants every conference
-he's attended documented, even if only as an attendee. Bristol-era
-attendance (2024–2026) needs to be surfaced and added.
+The existing `## Conferences and events attended` section on `cv.md`
+is current to 2023 only. Kyle wants every conference he's attended
+documented, even if only as an attendee. Bristol-era attendance
+(2024–2026) needs to be surfaced and added.
 
 - **Bristol-era conferences attended (2024–present)** — list of
   conferences Kyle has attended since joining Bristol, even if only
   as an attendee.
-  *Location:* `skills.md` `## Conferences and events attended`,
-  under the appropriate sub-section (Science and engineering /
-  Software and education / Accessibility and disability advocacy)
-  or a new "Bristol era" sub-section if useful.
+  *Location:* `cv.md` `## Conferences and events attended`, under
+  the appropriate sub-section (Science and engineering / Software
+  and education / Accessibility and disability advocacy) or a new
+  "Bristol era" sub-section if useful.
   *To resolve:* one bullet per conference with name, year(s), and
   city if useful. Pattern: "Conference Name: 2024, 2025".
 
@@ -143,17 +145,17 @@ needed.
   conferences Kyle plans to attend in the next 12 months.
   *To resolve:* one bullet per planned trip on `upcoming.md` with a
   type tag (`[Attending]` for attendee-only) and city. After the
-  conference, the bullet can move to the `skills.md` "Conferences
-  and events attended" section.
+  conference, the bullet can move to the `cv.md` "Conferences and
+  events attended" section.
 
 ## External evidence links
 
-(`media.md` and elsewhere)
+(`cv.md`)
 
 - **NYT 2022 black-hole article URL** — Kyle confirmed the citation
   ("Scientists tune into new ways of perceiving black holes",
   May 7, 2022); the URL itself isn't on file.
-  *Location:* `media.md` `## 2022`, top entry.
+  *Location:* `cv.md` `## Press and media`, `### 2022`, top entry.
   *To resolve:* wrap a hyperlink around the existing italicized
   title.
 
@@ -174,10 +176,10 @@ needed.
 - **Wolfram MicroMasters AI+D dates** — role title and platform
   (MITx/edX) known; dates not. Kyle chose to leave the role off the
   public site (PR #10 dropped the audit-trail mention). If dates
-  surface later, add a `work.md` entry between MIT EECS Lecturer
-  and AI Research Scientist.
+  surface later, add an entry to `cv.md` `## Roles` between
+  MIT EECS Lecturer and AI Research Scientist.
 
-- **Apple Siri integration source URL** — current `skills.md`
+- **Apple Siri integration source URL** — current `cv.md` `## Skills`
   framing ("XML parser and natural language generation code that
   allowed Apple's Siri to speak the quantitative results...") is
   conservative and accurate. Kyle confirmed no URL hunt (PR #8).

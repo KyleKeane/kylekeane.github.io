@@ -28,9 +28,11 @@ Notes:
 - `nav_include: true` puts the page in the top nav; omit (or set
   `false`) to keep a page off the nav.
 - `nav_order` controls the order of nav items. Current order:
-  1. About (homepage), 2. Work, 3. Teaching, 4. Research, 5. Advocacy,
-  6. Advising, 7. Speaking, 8. Publications, 9. Funding, 10. Skills,
-  11. Creative, 12. Media.
+  1. About (homepage), 2. Philosophy, 3. Engage, 4. Upcoming,
+  5. Research, 6. Teaching, 7. Creative, 8. CV. The 11 retired pages
+  (`work`, `publications`, `funding`, `skills`, `media`, `speaking`,
+  `events`, `exhibitions`, `performances`, `advising`, `advocacy`)
+  are redirect stubs and are not in the nav.
 
 ## Heading hierarchy
 

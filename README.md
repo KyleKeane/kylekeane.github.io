@@ -20,8 +20,8 @@ at the University of Bristol. Lives at <https://kylekeane.github.io>.
 
 The fastest path:
 
-1. Open the markdown file for the page you want to edit (`work.md`,
-   `teaching.md`, etc., or `index.md` for the home / About page).
+1. Open the markdown file for the page you want to edit (`teaching.md`,
+   `creative.md`, etc., or `index.md` for the home / About page).
 2. Edit the markdown. Don't change the YAML front matter at the top unless
    you mean to.
 3. Commit and push. GitHub Pages rebuilds in about a minute.
@@ -33,13 +33,17 @@ to add a new page — live in [`docs/style-guide.md`](docs/style-guide.md).
 
 ```
 .
-├── index.md              # Home page (= About)
-├── work.md               # /work.html
-├── teaching.md           # /teaching.html
-├── research.md, advocacy.md, advising.md, speaking.md,
-├── publications.md, funding.md, skills.md, creative.md, media.md
-├── _config.yml           # Site title, description, exclude rules
-├── _layouts/default.html # The single HTML layout used by every page
+├── index.md              # About (home)
+├── philosophy.md, engage.md, upcoming.md, research.md,
+├── teaching.md, creative.md       # the other six top-nav pages
+├── cv.md                 # /cv.html — long-form record (nav 8)
+├── work.md, publications.md, funding.md, skills.md, media.md,
+├── speaking.md, events.md, exhibitions.md, performances.md,
+├── advising.md, advocacy.md       # 11 redirect stubs forwarding to
+│                                  # one of the 8 pages above
+├── _config.yml           # Site title, description, plugins, exclude rules
+├── _layouts/default.html # Main HTML layout
+├── _layouts/redirect.html # Layout used by the redirect stubs
 ├── _includes/header.html # Skip link, site title, nav
 ├── assets/css/style.scss # Custom CSS (dark mode, 150% font, skip-link styling)
 ├── _briefing/            # Source material — NOT published. See _briefing/README.md
