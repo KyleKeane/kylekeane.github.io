@@ -15,6 +15,29 @@ resources, my work has been cited over 480 times (Google Scholar, late
 [`0000-0003-3243-4412`](https://orcid.org/0000-0003-3243-4412) is the
 canonical record of my publications.
 
+## Architecting Perceptible Space — A Perceptually Validated Spatial Audio System for Echolocation Training
+
+- A. Thompson and Kyle Keane
+- Poster presentation, Audio Developer Conference (ADC25),
+  10–12 November 2025, Bristol, England.
+
+## What the visual system can learn from the non-dominant hand: the effect of graphomotor engagement on visual discrimination
+
+- Shlomit Ben-Ami, Batel Buaron, Ori Yaron, Kyle Keane, Virginia H.
+  Sun, Flip Phillips, Jason Friedman, Pawan Sinha, and Roy Mukamel
+- *Memory & Cognition*, **53**(1), 325–340 (2025)
+- [Memory & Cognition article (DOI 10.3758/s13421-024-01628-2)](https://doi.org/10.3758/s13421-024-01628-2)
+- [Open-access preprint on PsychArchives](https://www.psycharchives.org/en/item/429f2a4e-aa8f-49cc-8b0e-0147a2ef1d90)
+
+## Sense-O-Nary — Exploring children's crossmodal metaphors through playful crossmodal interactions
+
+- Tegan Joy Roberts-Morgan, Brooke Morris, Elaine Czech, Suhan Neema,
+  Abigale Stangl, Kyle Michael Keane, Matthew Horton, Janet Read, and
+  Oussama Metatla
+- *IDC '24: Proceedings of the 23rd Annual ACM Interaction Design and
+  Children Conference* (2024)
+- [ACM Digital Library entry (DOI 10.1145/3628516.3655785)](https://doi.org/10.1145/3628516.3655785)
+
 ## Open-innovation ecosystems for assistive technology *(from CV)*
 
 > **A review of innovation strategies and processes to improve access to

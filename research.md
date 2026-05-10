@@ -15,6 +15,12 @@ arrives through unconventional sensory channels. Active themes include
 AI for assistive technology, immersive audio, acoustics, human-computer
 interaction, and tactile representations of complex data.
 
+Going forward, I'm developing research questions around sonification,
+tactile data representation, and inclusive AI systems — building on
+years of designing tools for real-world learners. I'm actively
+interested in new collaborations on multisensory human–information
+interaction.
+
 ## Earlier research themes
 
 My research interests span computational science, educational

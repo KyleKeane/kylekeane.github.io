@@ -9,6 +9,57 @@ nav_order: 7
 
 ## Recent and invited talks *(from CV)*
 
+- **Guest,** "How AI tools are transforming the lives of people with
+  disabilities" — July 9, 2025,
+  [WBUR On Point live stream](https://www.wbur.org/radio/programs/onpoint/episode).
+- **Guest,** *Macro Hive Conversations with Bilal Hafeez* podcast —
+  July 7, 2025.
+  [Macro Hive Conversations on Apple Podcasts](https://podcasts.apple.com/gb/podcast/macro-hive-conversations-with-bilal-hafeez/id1502904619).
+- **Panelist,** "From Vibration to Visualization: Sensemaking within
+  Multimodal Technologies" — May 8, 2025, Uncommon Senses V, Concordia
+  University, Montréal, Canada.
+- **Guest Speaker,** "The importance of robust adaptive management to
+  empower scientists with disabilities" — May 8, 2025,
+  [United Nations Web TV](https://webtv.un.org/en/asset/k1j/k1j9m9yqma).
+- **Guest Speaker,** "The importance of spatial reasoning in AI systems
+  to help blind users, and a proposed approach to get there" — April 2,
+  2025, University of Marburg, Marburg, Germany.
+- **Guest Speaker,** "The Subtleties of the Automated Production of
+  Audio-Tactile Graphics" — April 1, 2025, Blindenstudienanstalt
+  (College for the Blind), Marburg, Germany.
+- **Guest Speaker,** "The Subtleties of the Automated Production of
+  Audio-Tactile Graphics" — March 31, 2025, ACCESS at Karlsruhe
+  Institute of Technology, Karlsruhe, Germany.
+- **Guest Speaker,** "Opportunities for More Inclusive Immersive Audio"
+  — March 19, 2025, MIT Spatial Sound Lab, Cambridge, Massachusetts.
+- **Guest Speaker,** "The Importance of Collaboration for Sustainable
+  Innovation of Assistive Technologies" — December 2024, Pervasive
+  Media Studio (Arts Council England Lunchtime Talks), Bristol,
+  England.
+  [Recording on YouTube](https://www.youtube.com/watch?v=Bel1Hp6cuu0).
+- **Conference Speaker,** "The Importance of Collaboration for
+  Sustainable Innovation of Assistive Technologies" — December 2024,
+  ReachSci Conference, Cambridge, England.
+- **Guest Lecturer,** "Using Psychoacoustics of Humans with Extreme
+  Perception to Improve Virtual Environments" — November 2024,
+  Immersive Interaction and Audio Design, University of Bristol,
+  Bristol, England.
+- **Symposium Speaker,** "Senselessly making sense of nonsensical
+  sensations" — November 2024, Centre for Doctoral Training, University
+  of Bristol, Bristol, England.
+- **Guest Speaker,** "The Importance of Collaboration for Sustainable
+  Innovation of Assistive Technologies" — November 2024, Microsoft
+  Norway, Oslo, Norway.
+- **Guest Lecturer,** "The Anthropology of Sound" — November 2024,
+  Comparative Media Studies, MIT, Cambridge, Massachusetts.
+- **Panelist,** "IDEAS and E+D IPA Give: Perkins School for the Blind
+  Innovation Panel" — October 2024, Microsoft Research Cambridge,
+  Cambridge, Massachusetts.
+- **Panel Member,** "Media Art, Culture, and Social Justice" — October
+  2024, Northeastern University, Boston, Massachusetts.
+- **Guest Lecturer,** "Case Studies in Public and Private Policy
+  Challenges of Artificial Intelligence" — April 2024, Harvard Law
+  School, Cambridge, Massachusetts.
 - **Colloquium Speaker,** "Intersensory pedagogical equivalence for more
   equitable multisensory human–computer interactions" — July 2023,
   University of Bristol, Bristol, England
