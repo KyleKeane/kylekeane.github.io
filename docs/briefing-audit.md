@@ -404,8 +404,9 @@ Small file — four pointers, all of which are 2024–2025 items.
    `claude-cv-verification.txt` says "NOT VERIFIED: no direct evidence
    of this affiliation found despite extensive searching." `seed.md` and
    `work.md` currently present it as a Jan 2016 – Jan 2017 role at MIT.
-   Kyle hasn't directly addressed this in our sessions.
-   **→ Surfaced as new open question in `docs/open-questions.md`.**
+   **→ Resolved (post-PR #3): Kyle confirms he was a research scientist
+   under Carl V. Thompson. The verifier's flag reflects sparse public
+   records, not inaccuracy. Entry stays as written.**
 
 2. **Aira intermediary role** —
    `claude-cv-verification.txt` says Kyle "Worked at Aira (AI-powered
@@ -449,9 +450,6 @@ One open-questions update:
 
 ## Open follow-ups
 
-- **Carl V. Thompson Research Group entry**: Kyle to confirm whether
-  this position is accurate. If yes, leave; if no, remove from
-  `work.md`.
 - **Phase 3 enrichment**: items above tagged ⏳ Phase 3 form the
   starting work-list for the next phase.
 - **Phase 4 2024–2025 material**: items above tagged ⏳ Phase 4 form
