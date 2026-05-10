@@ -2,7 +2,7 @@
 layout: default
 title: Media
 permalink: /media.html
-description: Press coverage and external articles featuring my work.
+description: Press coverage, podcasts, and external articles featuring my research, teaching, and advocacy.
 nav_include: true
 nav_order: 12
 ---

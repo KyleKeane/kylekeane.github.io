@@ -171,13 +171,25 @@ content to surface. The verbatim rewrites remain in
 
 ## Phase 5 — Polish
 
-- [ ] Add `jekyll-sitemap` plugin (whitelisted on GitHub Pages) to
-  `_config.yml`. Generates `/sitemap.xml` automatically.
-- [ ] Per-page `description:` front-matter values reviewed by Kyle
-- [ ] Open Graph meta tags if Kyle wants social previews
-- [ ] Sweep all pages for `click here` / bare-URL link text
-- [ ] Check heading hierarchy across all generated pages
-  (`grep -oE '<h[1-6]' _site/*.html` and eyeball the result)
+Done in PR #7. The link-text sweep and heading-hierarchy audit turned
+out to already be enforced by the `accessibility` job in
+`.github/workflows/pr-build-check.yml` (one H1 per page, no
+heading-skips, no "click here" / "read more" anchor text, every img
+has alt). Site-wide audit confirmed zero violations.
+
+- [x] Added `jekyll-sitemap` to a new `plugins:` block in
+  `_config.yml`. GitHub Pages auto-generates `/sitemap.xml`.
+- [x] Per-page descriptions reviewed; enhanced four short ones
+  (`advising.md`, `speaking.md`, `creative.md`, `media.md`) to be
+  more specific about what each page covers.
+- [x] Open Graph + Twitter Card + canonical meta tags added to
+  `_layouts/default.html` `<head>`. Twitter card type is `summary`
+  (no canonical image yet); `og:image` is conditional on a
+  `page.image` front-matter field for future use.
+- [x] **Link-text sweep** — already enforced by CI. No source
+  violations.
+- [x] **Heading hierarchy** — already enforced by CI. No source
+  violations.
 
 ## Out of scope (for now)
 

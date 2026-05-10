@@ -2,7 +2,7 @@
 layout: default
 title: Advising
 permalink: /advising.html
-description: Students I have worked with as an advisor and mentor.
+description: Students and mentees I've worked with on research, assistive technology, and accessibility design.
 nav_include: true
 nav_order: 6
 ---

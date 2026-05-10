@@ -2,7 +2,7 @@
 layout: default
 title: Creative
 permalink: /creative.html
-description: Creative side projects — photography, music, animation.
+description: My creative side — photography, music, percussion, and video.
 nav_include: true
 nav_order: 11
 ---
