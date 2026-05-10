@@ -22,7 +22,10 @@ localisation, fingertip haptics, and perception-aware robotics. Continuing
 affiliation as Researcher at the
 [MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/), co-leading the
 *Accessible Technology and Disability Justice* research theme with
-Nelly Kate Anderson.
+Nelly Kate Anderson — see the
+[Spatial Sound Lab Research page](https://spatialsoundlab.mit.edu/research/)
+for the theme description and the ongoing Kara/Keane sonification
+collaboration.
 
 ### Lecturer
 

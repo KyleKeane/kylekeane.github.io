@@ -431,36 +431,66 @@ In addition, please include two short prefatory notes:
 
 ## 7. Follow-ups from previous research passes
 
-These items remain under-evidenced online after research batch 2
-(May 2026) and require Kyle's own action — they are not productive
-for the next deep-web research run. Recorded here so the next pass
-can skip them and focus elsewhere.
+These items remain under-evidenced online after research batches 2
+and 3 (May 2026) and require Kyle's own action — they are not
+productive for the next deep-web research run. Recorded here so the
+next pass can skip them and focus elsewhere.
 
 - **Uruguay (UTEC, Fray Bentos, June 2022).** No Spanish-language
   press, US Embassy Montevideo social-media post, or UTEC newsroom
-  hit surfaced. Kyle to ask UTEC Comunicaciones
-  (`comunicaciones@utec.edu.uy`) and the public-affairs office of US
-  Embassy Montevideo for internal records and Facebook posts that
-  may not index in Google.
+  hit surfaced after three research passes. The
+  `idss.mit.edu/.../utec-uruguay/` page and the UTEC Fray Bentos
+  building inauguration coverage describe the institutional
+  partnership but do not name Kyle. Kyle to contact UTEC at
+  `comunicacion@utec.edu.uy` and `inclusion@utec.edu.uy`; possible
+  UTEC counterpart is Alejandra Martínez (Director of Innovation &
+  Entrepreneurship). For the MIT-side record, contact Justin Leahey
+  (`leahey@mit.edu`, MISTI Global Seed Funds Assistant Director).
 - **Switzerland — EPFL summer school + the Swiss-national-TV
-  episode.** EPFL News archive has nothing on Kyle. The Swiss TV
-  episode (involving Biped.ai or a blind musician) was not located
-  on RTS / SRF / RSI. Kyle to (a) request from EPFL Materials
-  Institute (IMX) the MSE-641 course archive listing visiting
-  instructors 2016–2022, and (b) search his own email for any
-  RTS/SRF production-team correspondence; alternatively contact
-  Maël Fabien at Biped (`mael@biped.ai`) directly.
-- **China — Sichuan University (June 2022).** No SCU newsroom or
-  Weibo hit. Kyle to request via SCU College of Computer Science
-  international office.
+  episode.** EPFL News archive has nothing on Kyle; the Imperial
+  Mathematica Masterclass article (already on `teaching.md`) is the
+  only third-party evidence of the EPFL co-teach with W. Craig
+  Carter and George Varnavides. The Swiss TV episode (involving
+  Biped.ai or a blind musician) was not located on RTS / SRF / RSI.
+  Kyle to (a) request from EPFL Materials Institute (IMX) the
+  MSE-641 course archive listing visiting instructors 2016–2022,
+  and (b) contact Maël Fabien at Biped (`mael@biped.ai`) directly.
+- **China — Sichuan University (June 2022).** Resolved as
+  remote / virtual delivery. The teaching page now reads "Delivered
+  remotely to Sichuan University." No further newsroom search
+  needed — the absence of in-person Chinese-language press is
+  expected for a virtual engagement.
 - **Singapore — SUTD (2018).** No SUTD or MIT-SUTD Collaboration
   archive hit. Likely needs Kyle to contact MIT International
   Science and Technology Initiatives (MISTI) directly.
 - **Saudi Arabia — Feb vs May 2022 date.** Alfaisal photo gallery
   dates a "Dr. Kyle Keane Tour" and "AI Seminar with Dr. Kyle Keane"
   to 17 and 20 February 2022, while the site lists May 2022. Kyle
-  to verify against passport stamps. The teaching page has been
-  updated to "early 2022" pending resolution.
+  to verify against passport stamps. For Arabic-language press that
+  may not surface in English-language search, ask Areej Al-Wabil or
+  Mohamed Hassan whether Alfaisal's media-monitoring office holds
+  any internal file.
+- **Korea — d'strict / Culture Station Seoul 284 (June–August
+  2024).** Korean-language press for the Seoul edition is sparse in
+  English-indexed sources. Ask d'strict's press contact whether
+  Kyle was named in printed exhibition catalogues — Korean
+  museum-publication catalogues are routinely paywalled or
+  unindexed online.
+
+**Structural caveats for the next research pass.** Batch 3 confirmed
+several systemic limits worth recording so the next agent does not
+re-spend effort on them:
+
+- Twitter/X post-2022 indexing degraded substantially after the
+  Google deal lapsed; do not expect to find tweets via Google Search.
+- Facebook is largely un-indexed by Google; institutional Facebook
+  pages must be searched in-platform to surface anything.
+- Instagram requires in-platform scrolling and has no public search
+  API.
+- The MISTI past-winners archive at
+  `misti-archive.mit.edu/faculty-funds/past-seed-fund-winners`
+  redirects rather than serving the historical list; for past GSF
+  cycles ask Justin Leahey directly rather than searching the page.
 
 ## 8. What's already been added (research-additions batches 1 and 2)
 
