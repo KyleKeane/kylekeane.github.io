@@ -68,28 +68,30 @@ question entry says which.
 
 ## Phase 2.5 — Briefing-folder content audit
 
-A safety net before Phase 3 enrichment begins. Goal: confirm every
-discrete piece of content in each `_briefing/` file is either
-(a) already migrated to a public page, (b) intentionally not migrated
-(with reason), or (c) explicitly deferred to Phase 3 or 4.
+Done. Output: [`docs/briefing-audit.md`](briefing-audit.md). Findings:
 
-Output: a new file `docs/briefing-audit.md` with one checklist section
-per briefing file, each listing the discrete content items and their
-disposition.
-
-- [ ] Audit `_briefing/seed.md` — most content was extracted in Phase 1;
-  flag any sub-sections that were dropped (e.g., editorial blockquotes
-  are intentional drops; verify nothing else was lost)
-- [ ] Audit `_briefing/claude-cv-verification.txt` — every CV claim
-  cross-checked against the corresponding page; mark items as already
-  matched, scheduled for Phase 3, or intentionally not migrated
-- [ ] Audit `_briefing/website-updates.txt` — every 2024–2025 item
-  scheduled for Phase 4
-- [ ] Audit `_briefing/recent-records.txt` — every record scheduled for
-  Phase 4
-
-Run this phase **before** Phase 3 so enrichment work doesn't redo what's
-already published.
+- [x] Audit `_briefing/seed.md` — 80 H3 sub-sections audited. 75 ✅
+  Migrated, 2 🚧 fixed in this PR (outdated `[In progress at MIT]` /
+  `[In progress on MITx]` markers removed from `research.md`),
+  1 ❌ Intentionally not migrated (Get-in-touch, removed in PR #2),
+  1 ⚠️ Conflict surfaced (Carl V. Thompson Research Group affiliation
+  — added to `docs/open-questions.md` for Kyle's confirmation), and
+  the 6.450 cross-listing already-resolved by PR #2.
+- [x] Audit `_briefing/claude-cv-verification.txt` — every CV claim
+  cross-checked. The bulk is sourced enrichment material that feeds
+  Phase 3 (citation counts, course evaluations, specific student
+  projects, computational-thinking framework, Bristol research
+  interests, Project Aakaar). All "NOT VERIFIED" flags resolved by
+  Kyle's PR #2 answers, except Thompson group (now in
+  `open-questions.md`). Aira intermediary claim resolved by Kyle's
+  May-2024 MIT end date — no Aira layover.
+- [x] Audit `_briefing/website-updates.txt` — most items map to Phase 3
+  (Bristol-era rewrites of About, Teaching, Research, Advocacy,
+  Creative, Work) or Phase 4 (COMS30054 course, 2024–2025 talks, recent
+  publications). Two outdated in-progress markers removed in this PR.
+- [x] Audit `_briefing/recent-records.txt` — four pointers, all 2024–
+  2025 material; all defer to Phase 4. One new item not in
+  `website-updates.txt`: Thompson & Keane (2025) ADC poster.
 
 ## Phase 3 — Enrich from `_briefing/claude-cv-verification.txt`
 
@@ -122,7 +124,10 @@ From `_briefing/website-updates.txt` and `_briefing/recent-records.txt`:
 - [ ] Add to `publications.md`:
   - Ben-Ami et al. (2025), *Memory & Cognition*
   - Roberts-Morgan et al. (IDC '24), *Sense-O-Nary*
-  - Thompson & Keane (2025), Audio Developer Conference poster
+  - Thompson & Keane (2025), Audio Developer Conference poster —
+    *Architecting Perceptible Space: A Perceptually Validated Spatial
+    Audio System for Echolocation Training* (surfaced by Phase 2.5
+    audit; from `_briefing/recent-records.txt`)
 - [ ] Update `index.md` (About) with current Bristol research framing
 - [ ] Update `work.md` Bristol entry with current activities
 

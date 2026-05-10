@@ -18,8 +18,6 @@ research questions remain active.
 
 ## Effectiveness of computer programming to bolster STEM learning
 
-*[In progress at MIT]*
-
 In my role as computational curriculum advisor in the Department of
 Materials Science and Engineering I have been consulting with other
 departments looking to incorporate computer programming into the core
@@ -30,8 +28,6 @@ type of interactive graphics we will be incorporating, see Stephen
 Wolfram's [blog post on computational essays](http://blog.stephenwolfram.com/2017/11/what-is-a-computational-essay/).
 
 ## Pedagogical effectiveness of interactive STEM graphics
-
-*[In progress on MITx]*
 
 In my role as computational curriculum advisor, I have been tasked with
 the incorporation of interactive visualizations embedded inside online
