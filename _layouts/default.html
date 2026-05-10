@@ -32,9 +32,9 @@
       <nav class="page-sections" aria-label="Sections on this page">
         <ul>
           {%- for chunk in h2_chunks offset:1 -%}
-            {%- assign section_id = chunk | split: '"' | first -%}
-            {%- assign after_open = chunk | split: '">' | last -%}
-            {%- assign section_text = after_open | split: '</h2>' | first | strip_html | strip -%}
+            {%- assign h2_inner = chunk | split: '</h2>' | first -%}
+            {%- assign section_id = h2_inner | split: '"' | first -%}
+            {%- assign section_text = h2_inner | split: '">' | last | strip_html | strip -%}
             <li><a href="#{{ section_id }}">{{ section_text }}</a></li>
           {%- endfor -%}
         </ul>
