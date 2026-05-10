@@ -7,15 +7,23 @@ nav_include: true
 nav_order: 5
 ---
 
-I have spent a great deal of my life looking for ways to use my
-experience and skills to build technology (and help others build
-technology) that impacts the lives of people who face burdens due to
-either disability or disadvantage. One of my core missions is to help
-achieve equitable access to electronic information and training in
-modern digital skills for people with visual disabilities. I am grateful
-for the opportunities I have had to contribute to this field, and I am
-committed to supporting this cause in larger and larger ways as my
-career progresses.
+A core focus of my career has been advocating for equity in access to
+technology, education, and digital information, particularly for people
+with visual disabilities and others facing systemic disadvantage. I've
+dedicated much of my work to designing inclusive tools and empowering
+others to do the same, to transform how marginalized communities engage
+with modern technology.
+
+My mission is to help achieve equitable access to electronic
+information and digital skill-building opportunities, particularly in
+fields like computing, science, and engineering. I believe technology
+should reduce barriers, not reinforce them. I'm committed to using my
+expertise to shift that balance.
+
+I'm grateful for the opportunities I've had to contribute to this field
+and remain deeply committed to expanding my impact through research,
+teaching, mentorship, and public engagement. As my career evolves, so
+too does my resolve to amplify accessibility as a design priority.
 
 ## DIAGRAM Center
 

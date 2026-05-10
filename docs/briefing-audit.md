@@ -359,12 +359,11 @@ content).
 ### About Me — replace text
 
 Kyle's preferred 2024 bio is more specific about Bristol, perception
-science, and the 2024 framing. → ❌ **Intentionally not migrated**
-verbatim per Kyle's Phase 4 decision ("keep existing prose, add only
-new content"). PR #6 added a short "Recent work at Bristol" H2 to
-`index.md` capturing the new Bristol focus areas. The full rewrite
-remains in `_briefing/website-updates.txt` for a possible future
-adoption.
+science, and the 2024 framing. → ✅ **Migrated** in PR #9. Adopted
+the rewrite's first 2 paragraphs as the new "About me" body on
+`index.md`. Career summary stays unchanged (preserves the "didn't use
+a computer until college" line from PR #5); Education and
+"Recent work at Bristol" stay unchanged.
 
 ### About Me — Get-in-touch lines (LinkedIn, GitHub, email)
 
@@ -373,10 +372,11 @@ Already removed in PR #2 per Kyle's instruction. He'll repopulate later.
 
 ### Teaching — replace text
 
-Bristol-era framing for the Teaching intro. → ❌ **Intentionally not
-migrated** verbatim per Kyle's Phase 4 decision. The existing intro
-stays; new Bristol content lives in the new "Taught courses at Bristol"
-section.
+Bristol-era framing for the Teaching intro. → ✅ **Migrated** in
+PR #9. Adopted the rewrite's three paragraphs as the new
+`teaching.md` intro, with the closing sentence tweaked to keep the
+specific MIT OCW "Learn to Build Your Own Videogame" link. The
+"Taught courses at Bristol" section (PR #6, COMS30054) stays below.
 
 ### Teaching — Bristol course COMS30054 Interactive Devices
 
@@ -385,11 +385,10 @@ section.
 
 ### Research — replace text
 
-Bristol-era framing for Research. → ❌ **Intentionally not migrated**
-verbatim per Kyle's Phase 4 decision. PR #6 instead extended the
-existing "Current research at Bristol" section (which PR #5 introduced)
-with a forward-looking paragraph on sonification, tactile data
-representation, and inclusive AI.
+Bristol-era framing for Research. → ✅ **Migrated** in PR #9.
+Adopted the rewrite as a new "Research direction" H2 placed between
+the existing "Current research at Bristol" and "Earlier research
+themes" sections. Both existing sections stay unchanged.
 
 ### Research — Remove "[In progress at MIT]" line
 
@@ -404,10 +403,9 @@ graphics" section. → 🚧 **Should be added now** (this PR).
 
 ### Advocacy — replace text
 
-Bristol-era framing for Advocacy. → ❌ **Intentionally not migrated**
-verbatim per Kyle's Phase 4 decision. The existing intro and Project
-Aakaar (added in PR #5) stand. The rewrite remains in
-`_briefing/website-updates.txt`.
+Bristol-era framing for Advocacy. → ✅ **Migrated** in PR #9.
+Adopted the rewrite's three paragraphs as the new `advocacy.md`
+intro. Project Aakaar (PR #5) and everything below stays unchanged.
 
 ### Speaking — 2024–2025 engagements
 
@@ -425,10 +423,15 @@ Already on `speaking.md`. → ✅ Migrated.
 
 ### Creative — replace text
 
-A more "immersive multisensory artist" framing. → ❌ **Intentionally
-not migrated** verbatim per Kyle's Phase 4 decision. The seed.md
-intro stays. The expanded manifesto remains in
-`_briefing/website-updates.txt`.
+A more "immersive multisensory artist" framing. → ✅ **Migrated** in
+PR #9 with paragraph 3's bolder phrasings softened. Paragraphs 1 and
+2 are verbatim. Paragraph 3 drops "asking wild questions, following
+intuition, and building strange, beautiful things with others";
+"quantum consciousness, perception-hacking AI, or storytelling across
+sensory dimensions"; and "co-create something radical" — replaced
+with a grounded close that keeps the MIT-to-Bristol arc and the
+open-to-collaborations invitation. Existing creative items (Textures,
+Buddha, Animation Farm, Kirtan, Drumline) stay below.
 
 ### Publications — Ben-Ami et al. (2025) Memory & Cognition
 
@@ -444,9 +447,12 @@ PsychArchives preprint as a secondary link.
 
 More specific Bristol research focus (multisensory interaction, immersive
 audio, agentic AI, human echolocation, fingertip haptics, etc.).
-→ ✅ **Migrated** in PR #6 (Phase 4) as a sub-list of "Recent research
-and teaching themes" and "Collaborations" under the existing Bristol
-description (existing description retained).
+→ ✅ **Migrated** in PR #6 as a sub-list of "Recent research and
+teaching themes" and "Collaborations" beneath the existing description.
+PR #9 then replaced the prose description above the sub-list with the
+verbatim rewrite. Net: the rewrite's prose describes the role; the
+sub-list scans the same themes for screen-reader users who prefer
+bullets.
 
 ## `_briefing/recent-records.txt` (per-item)
 

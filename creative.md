@@ -7,7 +7,26 @@ nav_include: true
 nav_order: 11
 ---
 
-I try to make time to let my creative side explore and express.
+I approach creativity as both an artistic practice and a scientific
+exploration. As an immersive, multisensory artist and experimental
+technologist, I'm drawn to the outer edges of human perception, where
+data becomes sound, sensation becomes insight, and technology becomes a
+medium for reimagining reality.
+
+My creative work is rooted in deep curiosity and a commitment to
+accessibility. I design experiences that translate the invisible into
+the tangible: sonifying the warping of spacetime, crafting AI-powered
+tools for non-visual cognition, and building tactile-auditory
+landscapes that help people understand complex ideas through embodied
+interaction. Whether in research labs, hacker spaces, or co-design
+workshops, I thrive on the creative collision of disciplines and
+perspectives.
+
+From MIT to Bristol, and from international collaborations to local
+communities, I'm intrigued to explore opportunities at the intersection
+of science, art, and inclusion. I'm always open to a good conversation
+about new collaborations at the edges of perception, sound, AI, and
+storytelling.
 
 ## Textures of my Life
 
