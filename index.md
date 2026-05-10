@@ -58,3 +58,13 @@ positive psychology, wellness, community building, and performance.
   Superconducting Qubits.*
 - **MS, Physics** — University of California, Riverside, 2009.
 - **BS, Physics** — California State University, Fullerton, 2007.
+
+## Recent work at Bristol
+
+My recent work at the University of Bristol focuses on the practical
+edges of intersensory perception: the automated production of
+audio-tactile graphics for blind learners, immersive and spatial
+audio for echolocation training, and spatial reasoning in AI systems
+that need to communicate with people through non-visual channels.
+More on the [Research](/research.html), [Speaking](/speaking.html),
+and [Publications](/publications.html) pages.

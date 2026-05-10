@@ -106,14 +106,15 @@ the cross-listing (6.450 / 6.811 / 2.78 / HST.420).
 
 | Sub-section | Status | Page | Notes |
 |---|---|---|---|
-| Recent and invited talks *(from CV)* | ✅ | `speaking.md` | Pre-2024 only; 2024–2025 talks deferred to Phase 4 |
+| Recent and invited talks *(from CV)* | ✅ | `speaking.md` | Pre-2024 plus 17 × 2024–2025 talks added in PR #6 (Phase 4) |
 | Earlier engagements | ✅ | `speaking.md` | |
 
 ### Publications (10)
 
 Every publication listed in `seed.md` lines 679–744 is present in
 `publications.md` with the correct citation. The 2024–2025 papers
-(Ben-Ami et al., Sense-O-Nary, Thompson & Keane) are deferred to Phase 4.
+(Ben-Ami et al., Sense-O-Nary, Thompson & Keane) were added in PR #6
+(Phase 4).
 
 | Sub-section | Status | Page | Notes |
 |---|---|---|---|
@@ -164,9 +165,9 @@ All four sub-sections are present; dollar amounts were removed in PR #2.
 
 ### Media (7)
 
-Every year-section (2015, 2017, 2018, 2019, 2020, 2021, 2022) is present
-in `media.md`. 2024–2025 press (WBUR On Point, Macro Hive Conversations)
-is captured in `_briefing/website-updates.txt` and deferred to Phase 4.
+Every year-section (2015, 2017, 2018, 2019, 2020, 2021, 2022, 2025) is
+present in `media.md`. The 2025 section was added in PR #6 (Phase 4)
+with WBUR On Point and Macro Hive Conversations.
 
 | Sub-section | Status | Page | Notes |
 |---|---|---|---|
@@ -306,10 +307,12 @@ with reasons.
 - ⏳ **Wolfram|Alpha step-by-step solver** → no canonical public URL.
   Future audit pass.
 
-### ⏳ Phase 4 — items dependent on 2024–2025 material
+### ✅ Phase 4 — items dependent on 2024–2025 material
 
-- **Memory & Cognition (Ben-Ami et al. 2025)** → `publications.md`
-- **WBUR On Point (July 2025)** → `media.md` and `speaking.md`
+- ✅ **Memory & Cognition (Ben-Ami et al. 2025)** → `publications.md`
+  (added in PR #6)
+- ✅ **WBUR On Point (July 2025)** → `media.md` 2025 section and
+  `speaking.md` (added in PR #6)
 - ✅ **DeepLearn 2022 Spring** instructor role → `speaking.md`
   (added in PR #5 with "Spring 2022" date)
 
@@ -341,8 +344,12 @@ content).
 ### About Me — replace text
 
 Kyle's preferred 2024 bio is more specific about Bristol, perception
-science, and the 2024 framing. The current `index.md` text is the
-seed.md version. → ⏳ **Phase 3** for the rewrite.
+science, and the 2024 framing. → ❌ **Intentionally not migrated**
+verbatim per Kyle's Phase 4 decision ("keep existing prose, add only
+new content"). PR #6 added a short "Recent work at Bristol" H2 to
+`index.md` capturing the new Bristol focus areas. The full rewrite
+remains in `_briefing/website-updates.txt` for a possible future
+adoption.
 
 ### About Me — Get-in-touch lines (LinkedIn, GitHub, email)
 
@@ -351,15 +358,23 @@ Already removed in PR #2 per Kyle's instruction. He'll repopulate later.
 
 ### Teaching — replace text
 
-Bristol-era framing for the Teaching intro. → ⏳ **Phase 3**.
+Bristol-era framing for the Teaching intro. → ❌ **Intentionally not
+migrated** verbatim per Kyle's Phase 4 decision. The existing intro
+stays; new Bristol content lives in the new "Taught courses at Bristol"
+section.
 
 ### Teaching — Bristol course COMS30054 Interactive Devices
 
-Brand-new course, not currently in `teaching.md`. → ⏳ **Phase 4**.
+✅ **Migrated** in PR #6 under a new "Taught courses at Bristol" H2 in
+`teaching.md`.
 
 ### Research — replace text
 
-Bristol-era framing for Research. → ⏳ **Phase 3**.
+Bristol-era framing for Research. → ❌ **Intentionally not migrated**
+verbatim per Kyle's Phase 4 decision. PR #6 instead extended the
+existing "Current research at Bristol" section (which PR #5 introduced)
+with a forward-looking paragraph on sonification, tactile data
+representation, and inclusive AI.
 
 ### Research — Remove "[In progress at MIT]" line
 
@@ -374,16 +389,20 @@ graphics" section. → 🚧 **Should be added now** (this PR).
 
 ### Advocacy — replace text
 
-Bristol-era framing for Advocacy. → ⏳ **Phase 3**.
+Bristol-era framing for Advocacy. → ❌ **Intentionally not migrated**
+verbatim per Kyle's Phase 4 decision. The existing intro and Project
+Aakaar (added in PR #5) stand. The rewrite remains in
+`_briefing/website-updates.txt`.
 
 ### Speaking — 2024–2025 engagements
 
-Twelve+ new engagements (WBUR On Point, Macro Hive, Uncommon Senses V,
+Seventeen new engagements (WBUR On Point, Macro Hive, Uncommon Senses V,
 UN Web TV, Karlsruhe Institute, Marburg Blindenstudienanstalt, Marburg
 Univ., MIT Spatial Sound Lab, Pervasive Media Studio, ReachSci, Bristol
 CDT, Bristol Immersive Interaction, Microsoft Norway, MIT Comparative
 Media Studies, Microsoft Research Cambridge MA, Northeastern, Harvard
-Law). → ⏳ **Phase 4**.
+Law). → ✅ **Migrated** in PR #6 (Phase 4) at the top of `speaking.md`
+"Recent and invited talks".
 
 ### Speaking — pre-existing engagements (Bristol July 2023, UTEC 2022, etc.)
 
@@ -391,24 +410,28 @@ Already on `speaking.md`. → ✅ Migrated.
 
 ### Creative — replace text
 
-A more "immersive multisensory artist" framing. The current `creative.md`
-text is the seed.md version. → ⏳ **Phase 3** (rewrite of intro).
-Existing items (Textures, Buddha, Animation Farm, Kirtan, High School
-Drumline) stay either way.
+A more "immersive multisensory artist" framing. → ❌ **Intentionally
+not migrated** verbatim per Kyle's Phase 4 decision. The seed.md
+intro stays. The expanded manifesto remains in
+`_briefing/website-updates.txt`.
 
 ### Publications — Ben-Ami et al. (2025) Memory & Cognition
 
-→ ⏳ **Phase 4**.
+✅ **Migrated** in PR #6 (Phase 4) with the canonical *Memory &
+Cognition* citation (DOI 10.3758/s13421-024-01628-2) and the
+PsychArchives preprint as a secondary link.
 
 ### Publications — Sense-O-Nary IDC '24
 
-→ ⏳ **Phase 4**.
+✅ **Migrated** in PR #6 (Phase 4) with the ACM DOI link.
 
 ### Work — UoB Senior Lecturer description rewrite
 
 More specific Bristol research focus (multisensory interaction, immersive
 audio, agentic AI, human echolocation, fingertip haptics, etc.).
-→ ⏳ **Phase 3**.
+→ ✅ **Migrated** in PR #6 (Phase 4) as a sub-list of "Recent research
+and teaching themes" and "Collaborations" under the existing Bristol
+description (existing description retained).
 
 ## `_briefing/recent-records.txt` (per-item)
 
@@ -416,10 +439,10 @@ Small file — four pointers, all of which are 2024–2025 items.
 
 | Item | Status | Page | Notes |
 |---|---|---|---|
-| Thompson, A. & Keane, K. (2025) — *Architecting Perceptible Space* — ADC25 poster | ⏳ Phase 4 | `publications.md` and/or `speaking.md` | Bristol; co-author affiliation worth noting in author intro |
-| Ben-Ami et al. (2025) Memory & Cognition | ⏳ Phase 4 | `publications.md` | Duplicate of `website-updates.txt` entry |
-| Lecture at Harvard Law (April 2024) | ⏳ Phase 4 | `speaking.md` | Duplicate of `website-updates.txt` entry |
-| Sense-O-Nary IDC '24 | ⏳ Phase 4 | `publications.md` | Duplicate of `website-updates.txt` entry |
+| Thompson, A. & Keane, K. (2025) — *Architecting Perceptible Space* — ADC25 poster | ✅ | `publications.md` | Added in PR #6 (Phase 4) |
+| Ben-Ami et al. (2025) Memory & Cognition | ✅ | `publications.md` | Added in PR #6 (Phase 4) |
+| Lecture at Harvard Law (April 2024) | ✅ | `speaking.md` | Added in PR #6 (Phase 4) |
+| Sense-O-Nary IDC '24 | ✅ | `publications.md` | Added in PR #6 (Phase 4) |
 
 ## Conflicts surfaced (consolidated)
 
@@ -473,7 +496,13 @@ One open-questions update:
 
 ## Open follow-ups
 
-- **Phase 3 enrichment**: items above tagged ⏳ Phase 3 form the
-  starting work-list for the next phase.
-- **Phase 4 2024–2025 material**: items above tagged ⏳ Phase 4 form
-  the work-list for the phase after Phase 3.
+- **Phase 3 enrichment**: shipped in PR #5.
+- **Phase 4 2024–2025 material**: shipped in PR #6 (this PR). Six
+  prose rewrites (About / Teaching intro / Research intro / Advocacy
+  intro / Creative intro / Work-Bristol entry) from
+  `_briefing/website-updates.txt` were intentionally **not** adopted
+  verbatim per Kyle's "keep existing prose, add only new content"
+  rule, and remain available there if Kyle later wants to adopt them.
+- **Future evidence-link sweep** (Phase 5 polish): NYT 2022 black-hole
+  article URL, Apple Siri integration source, Wolfram|Alpha
+  step-by-step solver canonical URL, Wolfram MicroMasters dates.

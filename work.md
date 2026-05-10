@@ -19,6 +19,13 @@ of a physicist and the precision of an engineer to design technologies
 that translate complex information into interpretable, multi-sensory
 experiences.
 
+- **Recent research and teaching themes:** multisensory interaction,
+  human–computer interaction, immersive audio, agentic AI, human
+  echolocation and localisation, fingertip haptics, and
+  perception-aware robotics.
+- **Collaborations:** partnerships with academics, industry, and
+  communities to explore inclusive, human-centered technologies.
+
 ## Lecturer
 
 - **Institution:** Massachusetts Institute of Technology (MIT)

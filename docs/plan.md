@@ -134,26 +134,40 @@ claims so the public site is one click from a verifiable source.
 
 ## Phase 4 — Add 2024–2025 Bristol material
 
-From `_briefing/website-updates.txt` and `_briefing/recent-records.txt`:
+Done. Per Kyle's "keep existing prose, add only new content" rule, the
+2024 rewrites of About / Teaching intro / Research intro / Advocacy
+intro / Creative intro / Work-Bristol entry from
+`_briefing/website-updates.txt` were **not** adopted verbatim. Instead,
+each page received targeted Bristol-era additions where there was new
+content to surface. The verbatim rewrites remain in
+`_briefing/website-updates.txt` if Kyle ever wants to adopt them.
 
-- [ ] Add **COMS30054 Interactive Devices** to `teaching.md` under a
-  "Bristol" subsection
-- [ ] Add 2024–2025 talks to `speaking.md`:
-  - WBUR On Point (July 2025)
-  - Macro Hive Conversations (July 2025)
-  - Uncommon Senses V + UN Web TV (May 2025)
-  - Germany guest lectures (April 2025)
-  - Karlsruhe Institute (March 2025)
-  - MIT Spatial Sound Lab (March 2025)
-- [ ] Add to `publications.md`:
-  - Ben-Ami et al. (2025), *Memory & Cognition*
+- [x] Added **COMS30054 Interactive Devices** to `teaching.md` under a
+  new "Taught courses at Bristol" H2 above the MIT subjects
+- [x] Added 17 × 2024–2025 talks to the top of `speaking.md` "Recent
+  and invited talks":
+  - WBUR On Point (July 2025); Macro Hive Conversations (July 2025);
+    Uncommon Senses V + UN Web TV (May 2025); Marburg + Karlsruhe
+    (March / April 2025); MIT Spatial Sound Lab (March 2025); Pervasive
+    Media Studio + ReachSci (December 2024); Bristol Immersive
+    Interaction + Bristol CDT + Microsoft Norway + MIT Comparative
+    Media Studies + Microsoft Research Cambridge + Northeastern
+    (October–November 2024); Harvard Law School (April 2024)
+- [x] Added to `publications.md`:
+  - Ben-Ami et al. (2025), *Memory & Cognition*, **53**(1), 325–340
   - Roberts-Morgan et al. (IDC '24), *Sense-O-Nary*
-  - Thompson & Keane (2025), Audio Developer Conference poster —
-    *Architecting Perceptible Space: A Perceptually Validated Spatial
-    Audio System for Echolocation Training* (surfaced by Phase 2.5
-    audit; from `_briefing/recent-records.txt`)
-- [ ] Update `index.md` (About) with current Bristol research framing
-- [ ] Update `work.md` Bristol entry with current activities
+  - Thompson & Keane (2025), Audio Developer Conference (ADC25) poster
+    — *Architecting Perceptible Space*
+- [x] Added a new "Recent work at Bristol" H2 to `index.md` after
+  Education, summarizing the Bristol focus areas
+- [x] Extended `work.md` Bristol entry with a sub-list of current
+  research/teaching themes and partnerships
+- [x] Extended `research.md` "Current research at Bristol" with a
+  forward-looking paragraph on sonification, tactile data
+  representation, and inclusive AI
+- [x] Added a new "## 2025" section to `media.md` with the WBUR On
+  Point and Macro Hive Conversations interviews (also linked from
+  `speaking.md`)
 
 ## Phase 5 — Polish
 

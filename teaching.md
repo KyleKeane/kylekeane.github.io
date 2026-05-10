@@ -17,6 +17,16 @@ disenfranchised person or population. You can see videos of my teaching
 style on the [MIT OpenCourseWare resource for Learn to Build Your Own
 Videogame](https://ocw.mit.edu/resources/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/).
 
+## Taught courses at Bristol
+
+### COMS30054 — Interactive Devices
+
+*University of Bristol, School of Computer Science.*
+
+Explores the design and function of interactive hardware systems,
+emphasising user interaction, embedded technologies, and the principles
+behind modern device interfaces.
+
 ## Semester-long subjects I have taught at MIT
 
 ### 6.3900 — Introduction to Machine Learning *(from CV)*
