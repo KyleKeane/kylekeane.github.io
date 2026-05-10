@@ -52,8 +52,8 @@ Recent and forthcoming highlights:
   November 2026.
 - **Keynote (forthcoming),** Monterrey, Mexico, October 2026.
 - **Guest,** *How AI tools are transforming the lives of people with
-  disabilities*, [WBUR *On Point*](https://www.wbur.org/radio/programs/onpoint/episode),
-  July 2025.
+  disabilities*, [WBUR *On Point*](https://www.wbur.org/onpoint/2025/07/09/ai-tools-disabilities-artificial-intelligence),
+  9 July 2025.
 - **Speaker,** *The importance of robust adaptive management to empower
   scientists with disabilities*, [United Nations Web TV](https://webtv.un.org/en/asset/k1j/k1j9m9yqma),
   May 2025.
@@ -65,6 +65,17 @@ Recent and forthcoming highlights:
   April 2024.
 
 The full archive of invited talks is on the [CV](/cv.html) page.
+
+### Long-form conversations and recordings
+
+- **Podcast,** *Scaffolding the Fantastical*, episode 15 of the
+  [Simon Mellins Consulting podcast](https://www.simonmellins.com/podcast/episode15)
+  ([video on YouTube](https://www.youtube.com/watch?v=B1soiP2DsHc)) —
+  long-form work-substance conversation across the career arc and
+  current technical work on accessing scientific content.
+- **Talk recording,** *Sustainable Innovation of Assistive
+  Technologies*, Pervasive Media Studio at the Watershed, Bristol —
+  [full talk on YouTube](https://www.youtube.com/watch?v=Bel1Hp6cuu0).
 
 ## Guest lectures and master classes
 

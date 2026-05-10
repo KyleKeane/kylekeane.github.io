@@ -41,6 +41,11 @@ Studio (light and sound installation build).
 
 ## Performances
 
+The performances below sit inside the broader programme of the
+[MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/) — see also
+[MIT Arts on Ian Condry's *Sound, Learning, and Democracy*](https://arts.mit.edu/people/ian-condrys-sound-learning-democracy/)
+for the wider context of the Lab's work.
+
 ### Dissolve Music 2024 — *Sound, Body, Dance*
 
 *4 October 2024, MIT Building W97 black-box theater, Cambridge,

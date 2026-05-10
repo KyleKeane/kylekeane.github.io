@@ -32,7 +32,8 @@ Practices of Assistive Technology* (cross-listed as 6.450 / 6.811 / 2.78 /
 HST.420), the capstone engineering subject pairing student teams with a
 community member to co-invent technology that improves their independence
 on a specific task. Co-instructor of *6.3900: Introduction to Machine
-Learning*.
+Learning*. Departmental
+[MIT EECS people page](https://www.eecs.mit.edu/people/kyle-keane/).
 
 ### AI Research Scientist
 
@@ -57,7 +58,9 @@ including *Computational Methods for Materials Science and Engineering*,
 *Principles and Practices of Assistive Technology*, and *Making for
 Innovation, Science, and Outreach*. Computational Curriculum Advisor on the
 Undergraduate Committee. Staff sponsor and advisor for MIT's Assistive
-Technology Hackathon (ATHack).
+Technology Hackathon (ATHack). 2018 MIT Institute Award (James N. Murphy)
+and Infinite Mile Award. Faculty / fellowship-team page on the
+[CoCreate Fellowship](https://cocreate20.org/team/kyle-keane/).
 
 ### Research Scientist (Interactive Materials Education Laboratory)
 
@@ -65,6 +68,7 @@ MIT — Materials Science and Engineering, June 2015 – September 2019.
 Founder and director of an undergraduate research lab using technology to
 increase public engagement, data literacy, and science education through
 designed interactive experiences.
+[IMEL @ MIT homepage](https://imel.mit.edu/).
 
 ### Technical Consultant
 
@@ -94,7 +98,13 @@ step-by-step solution of calculations including physical units —
 deployed to millions of students through the
 [Wolfram\|Alpha step-by-step solver](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions).
 Built a customisable curriculum-development platform for educators
-teaching computer programming to children.
+teaching computer programming to children. My Wolfram-side authored
+posts and discussions live on the
+[Wolfram Blog author archive](https://blog.wolfram.com/author/kyle-keane/)
+and the
+[Wolfram Community member profile](https://community.wolfram.com/web/kylek);
+2018 conference talks are listed on the
+[Wolfram Technology Conference 2018 presentations page](https://www.wolfram.com/events/technology-conference/2018/presentations/).
 
 ### Research Programmer — Special Projects
 
@@ -147,7 +157,9 @@ Across peer-reviewed journals, conference proceedings, and educational
 resources, my work has been cited over 480 times (Google Scholar, late
 2025). My ORCID identifier
 [`0000-0003-3243-4412`](https://orcid.org/0000-0003-3243-4412) is the
-canonical record.
+canonical record. The Bristol-side publication and collaboration record
+auto-updates on the
+[University of Bristol Pure portal](https://research-information.bris.ac.uk/en/persons/kyle-m-keane/).
 
 ### Recent
 
@@ -250,7 +262,10 @@ canonical record.
 
 - *TranscribeGlass: An affordable heads-up augmented-reality real-time
   captioning device for the Deaf* — India–United States Technology
-  Transfer Fund.
+  Transfer Fund. Continuing advisor; project records on
+  [MIT Solve](https://solve.mit.edu/challenges/re-engage-learners/solutions/62192)
+  and the
+  [companion MIT Solve solution page](https://solve.mit.edu/solutions/62010).
 - *MIT UROP.*
 
 ### 2020
@@ -352,17 +367,26 @@ canonical record.
 
 ### 2025
 
-- [How AI tools are transforming the lives of people with disabilities — WBUR On Point](https://www.wbur.org/radio/programs/onpoint/episode).
+- [How AI tools are transforming the lives of people with disabilities — WBUR On Point](https://www.wbur.org/onpoint/2025/07/09/ai-tools-disabilities-artificial-intelligence).
+- [Scaffolding the Fantastical — Simon Mellins Consulting podcast, episode 15](https://www.simonmellins.com/podcast/episode15)
+  ([video on YouTube](https://www.youtube.com/watch?v=B1soiP2DsHc)).
 - [Macro Hive Conversations with Bilal Hafeez podcast featuring Kyle Keane](https://podcasts.apple.com/gb/podcast/macro-hive-conversations-with-bilal-hafeez/id1502904619).
 
 ### 2024
 
+- [Sustainable Innovation of Assistive Technologies — Pervasive Media Studio at the Watershed (talk recording on YouTube)](https://www.youtube.com/watch?v=Bel1Hp6cuu0).
 - [Black Hole Reverb (Leftroman / Ian Condry, with my and Erin Kara's sonifications) on Immersive Audio Album](https://immersiveaudioalbum.com/product/black-hole-reverb-ian-condry-5-1-flac-dolby-atmos-mkv-mp4/).
+
+### 2023
+
+- [Listening to What Cannot Be Seen: MIT's Spatial Sound Lab Hosts an Open House — The Harvard Crimson](https://www.thecrimson.com/article/2023/5/30/mit-spatial-sound-lab-open-house-mitnano-immersion-lab/), 30 May 2023.
 
 ### 2022
 
 - *Scientists tune into new ways of perceiving black holes* — *The New
   York Times*, 7 May 2022.
+- [Astronomers are making maps using black hole echoes — BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/making-maps-black-hole-echoes).
+- [Astronomy and Sonification — Perkins School for the Blind](https://www.perkins.org/resource/astronomy-and-sonification/).
 - [Intersensory data representations of a black hole — MIT Schwarzman College of Computing](https://sqi.mit.edu/news/intersensory-data-representations-black-hole).
 - [Watch the black-hole sonification on YouTube](https://www.youtube.com/watch?v=iIeIag2Ji8k).
 - [Intersensory data representations of black hole — MIT Quest for Intelligence](https://quest.mit.edu/news/intersensory-data-representations-black-hole).

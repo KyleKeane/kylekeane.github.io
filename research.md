@@ -16,6 +16,13 @@ actually are. I take collaborators and PhD students; the
 [Engage](/engage.html) page is the right place to start that
 conversation.
 
+The canonical Bristol-side publication and collaboration record is on
+the
+[University of Bristol Pure portal](https://research-information.bris.ac.uk/en/persons/kyle-m-keane/);
+my lab affiliation is with the
+[Bristol Interaction Group (BIG)](https://biglab.co.uk/member/kyle-keane/);
+and selected work and full lists are on the [CV](/cv.html) page.
+
 ## Current research at Bristol
 
 My active research at the University of Bristol is on intersensory
