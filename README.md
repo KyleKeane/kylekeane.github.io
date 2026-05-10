@@ -42,13 +42,13 @@ to add a new page — live in [`docs/style-guide.md`](docs/style-guide.md).
 ├── _layouts/default.html # The single HTML layout used by every page
 ├── _includes/header.html # Skip link, site title, nav
 ├── assets/css/style.scss # Custom CSS (dark mode, 150% font, skip-link styling)
-├── _research/            # Source material — NOT published. See _research/README.md
+├── _briefing/            # Source material — NOT published. See _briefing/README.md
 ├── docs/                 # Project plan, style guide, open questions — NOT published
 ├── CLAUDE.md             # Guide for Claude Code sessions working on this repo
 └── .github/workflows/    # GitHub Pages deploy workflow
 ```
 
-The `_research/` and `docs/` folders are excluded from the build by
+The `_briefing/` and `docs/` folders are excluded from the build by
 `_config.yml` — they live in the repo so the project plan, open questions,
 and source material travel with the code, but they don't appear on the
 public site.

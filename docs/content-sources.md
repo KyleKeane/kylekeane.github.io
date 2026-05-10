@@ -1,12 +1,12 @@
-# Content sources — what's in `_research/`
+# Content sources — what's in `_briefing/`
 
-The `_research/` folder holds source material the site is built from.
+The `_briefing/` folder holds source material the site is built from.
 This file describes each source and the order in which to consult them
 when extending or correcting a page.
 
 ## The four sources
 
-### 1. `_research/seed.md` — the spine
+### 1. `_briefing/seed.md` — the spine
 
 A single unified markdown source with every section the website is meant
 to have. Each `##` heading maps 1:1 to a page (see the page-to-file map
@@ -18,7 +18,7 @@ The original seed had editorial blockquotes (`> **Page slug:** ...`,
 been moved into front-matter (`permalink:`, `description:`) on the
 generated pages and should not be re-introduced into the body.
 
-### 2. `_research/claude-cv-verification.txt` — the fact-check
+### 2. `_briefing/claude-cv-verification.txt` — the fact-check
 
 A detailed verification report covering every claim in Kyle's CV with
 external sources and citation data. Best for:
@@ -30,7 +30,7 @@ external sources and citation data. Best for:
 When seed.md and the verification disagree, the verification usually
 wins — but log the disagreement in `docs/open-questions.md`.
 
-### 3. `_research/website-updates.txt` — 2024–2025 Bristol updates
+### 3. `_briefing/website-updates.txt` — 2024–2025 Bristol updates
 
 Kyle's editing instructions for bringing the site up to date with
 Bristol-era material that postdates seed.md. Includes:
@@ -42,7 +42,7 @@ Bristol-era material that postdates seed.md. Includes:
   IDC '24)
 - Updates to the About bio framing
 
-### 4. `_research/recent-records.txt` — record-system extract
+### 4. `_briefing/recent-records.txt` — record-system extract
 
 Small, reinforces the other files plus one item not prominent
 elsewhere: Thompson & Keane (2025), *Architecting Perceptible Space*,
@@ -83,5 +83,5 @@ Audio Developer Conference poster, Bristol.
 - **Don't import editorial metadata** (the `> **Page slug:**`
   blockquotes from seed.md) into the body of a page. Front-matter is
   the right home.
-- **Don't move or rename `_research/` files casually.** Other files
+- **Don't move or rename `_briefing/` files casually.** Other files
   reference them by name (this doc, `CLAUDE.md`, `docs/plan.md`).

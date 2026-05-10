@@ -80,7 +80,7 @@ jobs:
         run: |
           set -euxo pipefail
           leaks=$(find _site \( \
-              -path '*_research*' \
+              -path '*_briefing*' \
               -o -name 'seed*' \
               -o -name 'claude-cv-verification*' \
               -o -name 'website-updates*' \

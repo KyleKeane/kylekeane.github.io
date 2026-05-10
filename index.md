@@ -56,10 +56,3 @@ positive psychology, wellness, community building, and performance.
   Superconducting Qubits.*
 - **MS, Physics** — University of California, Riverside, 2009.
 - **BS, Physics** — California State University, Fullerton, 2007.
-
-## Get in touch
-
-- **LinkedIn:** [Kyle Keane on LinkedIn](https://www.linkedin.com/in/kylekeane/)
-- **GitHub:** [Kyle Keane on GitHub](https://github.com/KyleKeane)
-- **Email:** kyle ~at~ kylekeane.com
-- **Phone *(from CV)*:** +1 (951) 532-3813

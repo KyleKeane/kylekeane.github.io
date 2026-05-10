@@ -96,7 +96,7 @@ A screen reader announces lists explicitly ("list of 5 items, 1 of 5,
 
 ## Voice and provenance
 
-- Keep the voice from `_research/seed.md`. First person, direct, warm.
+- Keep the voice from `_briefing/seed.md`. First person, direct, warm.
 - Preserve **`*(from CV)*`** annotations when copying from seed.md.
   They're useful provenance and they don't get in the way of a screen
   reader.
@@ -136,5 +136,5 @@ Before opening a PR, run through:
   (`grep -i 'click here\|read more' *.md`)
 - [ ] Every image has alt text
 - [ ] Heading hierarchy is sequential on every page
-- [ ] `_research/` files are not in `_site/` after build
+- [ ] `_briefing/` files are not in `_site/` after build
   (`find _site -name 'seed*'` returns nothing)

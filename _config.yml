@@ -11,7 +11,7 @@ lang: en
 theme: minima
 
 exclude:
-  - _research/
+  - _briefing/
   - docs/
   - README.md
   - CLAUDE.md
