@@ -46,11 +46,13 @@ site. New questions accumulate here.
   Resolved Phase 2 by removing the **entire** "Get in touch" section
   from About — phone, email, LinkedIn, GitHub. Kyle will repopulate the
   contact section himself when he's decided what to publish.
-- [ ] **Bristol-era material gap.** *Affects: most pages.* Recent
-  Bristol grant funding totals, full Bristol publication list, and any
-  Bristol-era teaching after 2023 are not in `_briefing/seed.md`. Some
-  are in `_briefing/website-updates.txt`; Kyle should flag any other
-  pieces he wants prioritized (Phase 4 in `docs/plan.md`).
+- [x] **Bristol-era material gap.** *Affects: most pages.* Resolved
+  by Phase 4 (2024–2025 Bristol additions across teaching, speaking,
+  publications, work, research, media) and Phase 6 (Bristol courses
+  and supervision in `teaching.md`, current research themes in
+  `research.md`, Bristol-era talks consolidated in `engage.md`, the
+  Bristol Senior Lecturer role and Spatial Sound Lab affiliation in
+  `cv.md`).
 - [x] **Carl V. Thompson Research Group affiliation.** *Affects:
   `work.md`.* Surfaced by the Phase 2.5 briefing audit
   (`docs/briefing-audit.md`). The "Research Scientist (Solid-State

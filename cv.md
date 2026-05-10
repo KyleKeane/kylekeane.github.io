@@ -3,7 +3,8 @@ layout: default
 title: CV
 permalink: /cv.html
 description: Full record — roles, publications, grants and awards, press, and skills.
-nav_include: false
+nav_include: true
+nav_order: 8
 ---
 
 The full archival record. The other pages are curated; this one is

@@ -63,8 +63,8 @@ question entry says which.
   confirmed; keep all visible
 - [x] Phone number on public site (`index.md`) — removed; entire
   Get-in-touch section dropped pending Kyle's repopulation
-- [ ] Bristol-era material gap (Phase 4 covers this, but flag any
-  pieces Kyle wants prioritized)
+- [x] Bristol-era material gap — resolved by Phase 4 + Phase 6
+  Bristol-era additions across all 7 pages
 
 ## Phase 2.5 — Briefing-folder content audit
 
@@ -126,10 +126,10 @@ claims so the public site is one click from a verifiable source.
 - [x] **Work, Funding, Skills, Creative, Media** — verified against the
   briefing; no Phase-3-class additions warranted (Funding fully covered
   by Phase 2's dollar-amount removal)
-- [ ] **Future evidence-link sweep** (Phase 5 polish): NYT 2022
+- [x] **Future evidence-link sweep** (Phase 5 polish): NYT 2022
   black-hole article URL, Apple Siri integration source, Wolfram|Alpha
-  step-by-step solver canonical URL — all flagged in the briefing audit
-  as needing verifiable canonical URLs before linking
+  step-by-step solver canonical URL — resolved in the
+  "Audit follow-up — evidence links" section below
 
 ## Phase 4 — Add 2024–2025 Bristol material
 
@@ -353,6 +353,24 @@ Teaching · Creative**.
 - [x] Add `jekyll-redirect-from` to `_config.yml` plugins.
 
 PR: [#13](https://github.com/KyleKeane/kylekeane.github.io/pull/13).
+
+## Phase 7 — Stabilization (May 2026)
+
+Doc-cleanup pass after content stabilised. Three external-research
+batches merged (PRs #15, #16, #17); Kyle paused content additions
+for the foreseeable future. This pass brings the project docs in
+sync with the post-restructure site.
+
+- [x] Add `cv.md` to the top nav as the 8th item.
+- [x] Update `CLAUDE.md` file-layout tree, nav-order line, and
+  working-branch convention.
+- [x] Update `README.md` file tree and editing guidance.
+- [x] Update `docs/style-guide.md` nav-order list.
+- [x] Annotate `docs/content-sources.md` page-map table with the
+  Phase 6 restructure note.
+- [x] Update `docs/open-items.md` to reference current pages
+  (`engage.md`, `creative.md`, `cv.md`) instead of retired ones.
+- [x] Resolve the `Bristol-era material gap` open question.
 
 ## Out of scope (for now)
 
