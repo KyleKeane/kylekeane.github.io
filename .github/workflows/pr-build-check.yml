@@ -172,5 +172,8 @@ jobs:
       - name: Run lychee on built HTML (offline)
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --offline --no-progress --include-fragments _site/**/*.html
+          # --base _site tells lychee where root-relative links like /work.html
+          # resolve to. Without it, the nav links from header.html all error out
+          # with "Cannot convert path '/' to a URI".
+          args: --offline --no-progress --include-fragments --base _site _site/**/*.html
           fail: true
