@@ -13,6 +13,24 @@ body {
   color: #111111;
 }
 
+/* Social-profile row in the header */
+.site-socials {
+  list-style: none;
+  padding: 0;
+  margin: 0.25rem 0 0.75rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+}
+
+.site-socials li {
+  margin: 0;
+}
+
+.site-socials a {
+  padding: 0.2rem 0.4rem;
+}
+
 /* Make nav links wrap instead of needing a hamburger */
 .site-nav .trigger {
   display: flex;
