@@ -34,7 +34,7 @@ the MIT Department of Physics, who provided the X-ray light-echo data
 from stellar-mass black-hole binaries that I translated into audible
 pitch. Collaborators on the installation: d'strict Art Project
 (creative direction), Erin Kara (data and physics), Ian Condry (founder
-of the MIT Spatial Sound Lab), oOps.50656 (eight-channel sonification
+of the MIT Spatial Sound Lab), oOps.50656 (8-channel sonification
 and sound design), and KKOL Studio (light and sound installation
 build).
 
@@ -104,7 +104,7 @@ exploration of detuning, beat patterns, and portable speaker arrays.
 *MIT Spatial Sound Lab.*
 
 A spatial performance using a contact-microphoned gong to bridge analog
-and digital sound worlds within the Lab's eight-channel programme.
+and digital sound worlds within the Lab's 8-channel programme.
 
 ### DENORMALIZED
 

@@ -5,6 +5,11 @@ It exists because Claude Code sessions sometimes lose their connection to
 the GitHub MCP and have to restart, so the repo itself is the canonical
 source of truth for the project plan and procedures.
 
+[`README.md`](README.md) is the orientation document for human
+contributors — stack, build flow, common-task recipes (add a page,
+retire a page, edit the nav, change styles, edit the header social row).
+Read it for anything the file below doesn't cover.
+
 ## Who Kyle is and why this matters
 
 Kyle is **blind and uses a screen reader.** Every decision in this repo

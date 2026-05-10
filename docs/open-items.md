@@ -159,6 +159,22 @@ needed.
   *To resolve:* wrap a hyperlink around the existing italicized
   title.
 
+## Missing publication metadata
+
+(`cv.md`)
+
+- **Holloway et al. *Assistive Technology* paper — publication
+  year.** The entry on `cv.md` `## Publications` → `### Recent`
+  cites *A review of innovation strategies and processes to improve
+  access to AT* in *Assistive Technology* **33**(sup1), 68–86 — but
+  has no year. The volume number suggests 2021 (the journal's
+  volume 33 covers 2021), but this hasn't been verified against the
+  journal record.
+  *Location:* `cv.md` `## Publications` → `### Recent`, fourth bullet.
+  *To resolve:* confirm the year and add it after the page range,
+  matching the format of the surrounding entries (e.g. "**33**(sup1),
+  68–86 (2021)").
+
 ## Major gaps
 
 - **Get-in-touch section on `index.md`** — removed in PR #2 per
