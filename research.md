@@ -58,12 +58,12 @@ generation. The *Memory & Cognition* paper with Ben-Ami et al. (2025)
 on the effect of graphomotor engagement on visual discrimination is a
 recent piece of foundational work in this thread.
 
-### Cross-modal interaction design and inclusive HCI
+### Multisensory interaction and inclusive HCI
 
-Children's crossmodal metaphors and playful crossmodal interactions —
-*Sense-O-Nary* (Roberts-Morgan et al., IDC '24) — and broader work on
-how multisensory interfaces should be designed when one or more
-sensory channels are not available.
+Work on how multisensory interfaces should be designed when one or more
+sensory channels are not available. Recent contribution:
+*Sense-O-Nary* with Roberts-Morgan et al. (IDC '24) — see the
+publication entry on the [CV](/cv.html#publications).
 
 ## Earlier research themes
 

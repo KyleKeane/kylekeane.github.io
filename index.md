@@ -45,17 +45,11 @@ to start that conversation.
 - For sound art, performances, and installations — [Creative](/creative.html)
 - For full career history, publications, grants, awards, and press — [CV](/cv.html)
 
-## Background
+## Education
 
 - **PhD, Physics** — University of California, Riverside, 2012. Dissertation:
   *Quantum State Protection and Transfer Using Superconducting Qubits.*
 - **MS, Physics** — University of California, Riverside, 2009.
 - **BS, Physics** — California State University, Fullerton, 2007.
 
-Career arc: trained as a theoretical and computational physicist; spent
-seven years at Wolfram Research contributing to Wolfram\|Alpha
-and to the first computational answers in Apple Siri; eight years on the
-MIT faculty designing and teaching courses on humanistic co-design and
-assistive technology; joined the University of Bristol as Senior Lecturer
-in Assistive Technologies in June 2024. The full record is on the
-[CV](/cv.html) page.
+Full role-by-role career history is on the [CV](/cv.html#roles) page.

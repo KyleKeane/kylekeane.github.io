@@ -16,11 +16,9 @@ to add to this list.
 ## Confirmed forthcoming engagements
 
 - **[ECHO](https://resound-nyc.com/artwork/echo) — currently running.**
-  8-channel kinetic sound and light installation, on view through
-  31 October 2026 at HERO at Rockefeller Center inside reSOUND New York,
-  610 5th Avenue, Rink Level, daily 11am–7pm. Built with d'strict, MATTE
-  Projects, MIT Spatial Sound Lab, and Prof. Erin Kara of the MIT
-  Department of Physics; black-hole sonification by me and Erin Kara.
+  On view through 31 October 2026 at HERO at Rockefeller Center inside
+  reSOUND New York; daily 11am–7pm. Full description on the
+  [Creative](/creative.html#echo--resound-new-york) page.
 - **Keynote, Monterrey, Mexico — late October 2026.** Title, venue, and
   exact date to be confirmed.
 - **Keynote, Audio Developer Conference (ADC) — November 2026, Bristol,
@@ -47,43 +45,22 @@ conversation about collaborating on them.
 
 ## Recently
 
+A representative slice of the past year. The full archive of invited
+talks, performances, exhibitions, and events is on the
+[CV](/cv.html) page.
+
 - **[Access Bristol](https://www.accessbristol.org/),** the two-day
   assistive-technology accelerator I organised with GitHub and Smartbox
   as lead industry sponsors at the University of Bristol, 8–9 November
   2025 — [outcomes here](https://accessbristol.org/outcomes.html).
 - **Lightning-Talk Speaker,** *Frontiers of Accessible Technology*,
-  Dissolve Music 2025, MIT Building W97, Cambridge, 3 October 2025.
-  [Dissolve Music 2025 at the MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/events/).
+  Dissolve Music 2025, MIT Spatial Sound Lab, 3 October 2025.
 - **Guest,** *How AI tools are transforming the lives of people with
   disabilities*, [WBUR *On Point*](https://www.wbur.org/onpoint/2025/07/09/ai-tools-disabilities-artificial-intelligence),
   9 July 2025.
-- **Guest,** *Macro Hive Conversations with Bilal Hafeez* podcast,
-  7 July 2025.
-  [Macro Hive on Apple Podcasts](https://podcasts.apple.com/gb/podcast/macro-hive-conversations-with-bilal-hafeez/id1502904619).
 - **[Emergent Harmonics](https://biglab.co.uk/event/emergent-harmonics),**
   one-day symposium I hosted at The Watershed, Bristol, 14 July 2025 —
-  keynote by Daniel Kish (World Access for the Blind). See also the
-  [Sound Without Sight write-up](https://soundwithoutsight.org/news/event-bristol-online-emergent-harmonics-innovation-in-assistive-tech-art-echolocation/).
-- **Panelist,** *From Vibration to Visualization: Sensemaking within
-  Multimodal Technologies*, Uncommon Senses V (with Mark Paterson,
-  David Parisi, and Crystal Lee), Concordia University, Montréal,
-  8 May 2025 —
-  [final program (PDF)](https://www.sensorystudies.org/wordpress/wp-content/uploads/2025/05/UCS-V-Final-Program.pdf).
+  keynote by Daniel Kish (World Access for the Blind).
 - **Speaker,** *The importance of robust adaptive management to empower
   scientists with disabilities*, [United Nations Web TV](https://webtv.un.org/en/asset/k1j/k1j9m9yqma),
   8 May 2025.
-- **Speaker,** *The importance of spatial reasoning in AI systems to help
-  blind users* — [Math4VIP lecture announcement](https://www.math4vip.de/inhalt/aktuelles/ki-systeme-und-wie-sie-blinden-nutzern-helfen-vortrag-von-dr-kyle-keane/),
-  University of Marburg, 2 April 2025; the parallel
-  [ACCESS@KIT Math4VIP workshop report](https://www.access.kit.edu/english/1627.php)
-  describes the related Karlsruhe Institute of Technology session
-  on creative work with mathematics.
-- **Speaker,** *The Subtleties of the Automated Production of
-  Audio-Tactile Graphics*, Blindenstudienanstalt (College for the Blind),
-  Marburg, 1 April 2025; ACCESS at Karlsruhe Institute of Technology,
-  31 March 2025.
-- **Speaker,** *Opportunities for More Inclusive Immersive Audio*, MIT
-  Spatial Sound Lab, 19 March 2025.
-
-The full archive of invited talks, performances, exhibitions, and events
-is on the [CV](/cv.html) page.
