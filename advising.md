@@ -21,10 +21,13 @@ pursuit of affecting positive and inclusive change in the world.
   that could be used to take a picture of a wall to detect the stress
   and straining present in the architecture.
 - **Mark Vrablic** — Electrical Engineering and Computer Science, BS
-  2019. Mark and I worked on a software framework for publishing video
-  games using the Unity game engine and Microsoft Kinect that would
-  include natural gestures. The platform supports games built in HTML5
-  or Unity.
+  2019, MEng 2020. Mark and I worked on a software framework for
+  publishing video games using the Unity game engine and Microsoft
+  Kinect that would include natural gestures. The platform supports
+  games built in HTML5 or Unity. Mark also became my close teaching
+  partner: we co-developed and co-taught two MIT IAP workshops, on
+  Arduino microcontrollers and on Unity-based videogame creation, both
+  published on MIT OpenCourseWare.
 - **Emma Vargo** — Materials Science and Engineering, BS 2017. Emma and
   I worked together on an algorithm that used an adaptive mesh search
   algorithm for the inverse design of photonic crystals.
@@ -53,6 +56,17 @@ pursuit of affecting positive and inclusive change in the world.
   I worked on data analysis and interface design of a software platform
   for engaging students in quantitative self-reflection in order to
   facilitate metacognition and bolster learning.
+
+## Workshop collaborators
+
+A few people aren't formal advisees but were essential collaborators
+on MIT teaching. They deserve credit alongside the students above:
+
+- **Andrew Ringler** — co-developed and co-taught the MIT IAP workshops
+  on Arduino microcontrollers and on Unity-based videogame creation,
+  both published on MIT OpenCourseWare.
+- **Abhinav Gandhi** — co-developed the same Arduino and Unity workshops
+  and helped pilot the humanistic co-design program in Chennai (2018).
 
 ## Full supervision roster by year *(from CV)*
 

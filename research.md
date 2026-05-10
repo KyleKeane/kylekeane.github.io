@@ -7,6 +7,16 @@ nav_include: true
 nav_order: 4
 ---
 
+## Current research at Bristol
+
+My current research at the University of Bristol focuses on intersensory
+perception science: how humans build meaning from information that
+arrives through unconventional sensory channels. Active themes include
+AI for assistive technology, immersive audio, acoustics, human-computer
+interaction, and tactile representations of complex data.
+
+## Earlier research themes
+
 My research interests span computational science, educational
 effectiveness, human-centered design, and equivalent access for people
 with disabilities. I have a track record in a traditional academic
@@ -26,6 +36,14 @@ inclusion of specially designed computer programming exercises can
 improve learning outcomes in online STEM education. For examples of the
 type of interactive graphics we will be incorporating, see Stephen
 Wolfram's [blog post on computational essays](http://blog.stephenwolfram.com/2017/11/what-is-a-computational-essay/).
+
+Building on this work, I co-developed the **Computational Thinking
+Framework** with Dr. Peter Barendse — a curriculum-design model for
+activating computational thinking on MITx using Wolfram technologies.
+Its goal is to broaden the conversation around computing in education
+so students learn to think computationally within the context of their
+core subject matter, rather than as an isolated skill. The framework
+has been deployed across a wide range of MITx components.
 
 ## Pedagogical effectiveness of interactive STEM graphics
 
@@ -61,12 +79,15 @@ I am pleased at the reception of my message that we need to start
 thinking about how to offer pedagogically-equivalent information to
 blind users of interactive graphics. My recommendations for a separation
 of intent from action spurred the creation of the User-Intent Working
-Group in the W3C. My guidelines for verbal description have been adopted
-by the team at the University of Colorado who are building a library of
-interactive science teaching tools called PhET simulations. These
-simulations are the best examples of accessible interactive graphics for
-science education, and I am deeply grateful for the chance to contribute
-to their development.
+Group at the
+[W3C Web Accessibility Initiative](https://www.w3.org/WAI/). My
+guidelines for verbal description have been adopted by the team at the
+University of Colorado who are building a library of interactive
+science teaching tools called
+[PhET Interactive Simulations](https://phet.colorado.edu/). These
+simulations are the best examples of accessible interactive graphics
+for science education, and I am deeply grateful for the chance to
+contribute to their development.
 
 More details are on the Advocacy section of this site or on the
 [DIAGRAM Center page on Accessible Dynamic Scientific Graphics](http://diagramcenter.org/accessible-dynamic-scientific-graphics.html).

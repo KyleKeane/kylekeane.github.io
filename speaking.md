@@ -16,6 +16,9 @@ nav_order: 7
   Ecosystems" — June 2022, UTEC, Frey Bentos, Uruguay
 - **Honorarium Speaker,** "AI for Tactile Human–Computer Interfaces" —
   May 2022, Al-Faisal University, Riyadh, Saudi Arabia
+- **Instructor,** "An Introductory Course on Machine Learning and Deep
+  Learning with Mathematica/Wolfram Language" — Spring 2022, DeepLearn
+  (online).
 - **Speaker,** "Assistive Technology for Opening Minds, Hands, and
   Hearts" — April 2019, xTalks@MIT, Cambridge, Massachusetts.
   [MIT Open Learning article on why assistive technology matters](https://openlearning.mit.edu/news/why-assistive-technology-matters-and-how-you-can-get-involved).
