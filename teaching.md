@@ -7,15 +7,23 @@ nav_include: true
 nav_order: 3
 ---
 
-I love to teach. I have worked with all ages from elementary children
-through retirees. I have run afterschool programs, professional
-development workshops, mentored at hackathons, and taught university
-classes. Most often, I teach about programming or electronics
-prototyping. When possible, I teach about human-centered design and
-building technology that makes an impact on a disadvantaged, disabled, or
-disenfranchised person or population. You can see videos of my teaching
-style on the [MIT OpenCourseWare resource for Learn to Build Your Own
-Videogame](https://ocw.mit.edu/resources/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/).
+I'm passionate about teaching and mentoring learners of all ages, from
+elementary school students to retirees. Over the years, I've led
+afterschool programs, professional development workshops, university
+courses, and hackathon mentoring sessions. I find deep satisfaction in
+helping people build confidence through technical and creative
+exploration.
+
+At the University of Bristol and previously at MIT, my teaching focuses
+on programming, electronics prototyping, and human-centered design. I
+especially enjoy guiding students in building technologies that create
+meaningful impact, particularly for disabled, disadvantaged, or
+underrepresented communities.
+
+Whether in a classroom, makerspace, or online environment, my teaching
+emphasizes hands-on learning, collaboration, and real-world relevance.
+You can see examples of my approach on MIT's OpenCourseWare, including
+[Learn to Build Your Own Videogame](https://ocw.mit.edu/resources/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/).
 
 ## Taught courses at Bristol
 

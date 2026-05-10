@@ -186,6 +186,35 @@ Done in PR #8.
 - [x] **Wolfram MicroMasters AI+D role** intentionally not added (no
   dates; long-term defer)
 
+## Bristol-era prose rewrites
+
+Done in PR #9. The six "Replace text with" rewrites that Kyle had
+parked in `_briefing/website-updates.txt` were adopted across the
+public site, with per-page tweaks to preserve content already shipped
+in earlier PRs.
+
+- [x] **About** (`index.md`) — adopted the rewrite's first 2
+  paragraphs as the new "About me". Career summary (incl. the "didn't
+  use a computer until college" line from PR #5), Education, and
+  "Recent work at Bristol" stay unchanged.
+- [x] **Teaching** (`teaching.md`) — adopted the rewrite, with the
+  closing sentence tweaked to keep the specific MIT OCW
+  "Learn to Build Your Own Videogame" link.
+- [x] **Research** (`research.md`) — adopted the rewrite as a new
+  "Research direction" section between "Current research at Bristol"
+  and "Earlier research themes". Both existing sections stay.
+- [x] **Advocacy** (`advocacy.md`) — adopted the 3-paragraph rewrite
+  as the new intro. Project Aakaar (PR #5) stays.
+- [x] **Creative** (`creative.md`) — adopted with paragraph 3's
+  bolder phrasings ("quantum consciousness", "co-create something
+  radical", etc.) softened to a grounded close.
+- [x] **Work** (`work.md`) — replaced the existing 2-paragraph
+  Bristol description with the rewrite's 2 sentences. The PR #6
+  sub-list stays underneath.
+- [x] `docs/briefing-audit.md` — six rows flipped from ❌ to ✅.
+- [x] `_briefing/website-updates.txt` — annotated with a note at top
+  that all six rewrites have been adopted.
+
 ## Phase 5 — Polish
 
 Done in PR #7. The link-text sweep and heading-hierarchy audit turned

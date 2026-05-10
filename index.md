@@ -9,26 +9,21 @@ nav_order: 1
 ## About me
 
 Dr. Kyle Keane is a Senior Lecturer in Assistive Technologies at the
-University of Bristol, where he leads research at the intersection of
-artificial intelligence, human cognition, and assistive technology
-design. Inspired to compensate for his early-onset blindness from a
-degenerative retinal condition, Kyle's dynamically changing visual
-impairment provides unique insight, perspective, and motivation to
-investigate the limits and potential for humans to interpret meaningful
-information from interactive technologies. With a background in quantum
-computing and computational physics, he applies the scientific rigor of
-a physicist to push the boundaries of human perception and the precision
-of an engineer to design technologies that translate complex information
-into interpretable, multi-sensory experiences.
+University of Bristol, where he contributes to innovative research and
+teaching at the intersection of artificial intelligence, human
+cognition, and inclusive technology design. His work focuses on
+building intelligent, perception-aware systems that expand how people,
+particularly those with disabilities, interact with complex
+information through multisensory experiences.
 
-His research on intersensory perception science explores how information
-can be sonified, tactilely represented, or synthesized across multiple
-senses to create meaningful cognitive representations, including
-pioneering auditory and tactile data representation methods to make
-computational science accessible to blind users. His goal is to redefine
-how humans interact with information, leveraging insights from cognitive
-science, AI, and accessibility engineering to augment human capabilities
-through intelligent, perception-aware systems.
+Kyle's motivation is deeply personal. Born with a degenerative retinal
+condition, his lived experience with progressively changing vision has
+provided unique insight and empathy that drive his passion for
+designing technologies that are not only accessible, but also
+transformative. He brings a multidisciplinary approach to his work,
+drawing on a background in quantum computing and computational physics
+to bring scientific rigor, design precision, and human-centered values
+to his work.
 
 ## Career summary
 

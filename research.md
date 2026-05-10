@@ -21,6 +21,26 @@ years of designing tools for real-world learners. I'm actively
 interested in new collaborations on multisensory human–information
 interaction.
 
+## Research direction
+
+My research sits at the intersection of computational science,
+human-centered design, educational technology, cognitive psychology,
+and accessibility engineering. I'm particularly interested in creating
+equivalent access to complex information for people with disabilities,
+especially through multisensory interfaces, perception-aware systems,
+and inclusive design strategies.
+
+I have a growing portfolio of new research questions around
+intersensory perception, sonification, tactile data representation, and
+inclusive AI systems, many of which build on years of hands-on
+experience designing tools for real-world learners and users.
+
+I have a strong foundation in traditional academic publishing and
+regularly advise students conducting original research. Going forward,
+I'm excited to lead new projects, form collaborations, and contribute
+to the academic discourse around inclusive computing, assistive
+technology, and the future of human–information interaction.
+
 ## Earlier research themes
 
 My research interests span computational science, educational

@@ -13,11 +13,11 @@ nav_order: 2
 - **Department:** School of Computer Science
 - **Years:** June 2024 – present
 
-Leads research at the intersection of artificial intelligence, human
-cognition, and assistive technology design. Applies the scientific rigor
-of a physicist and the precision of an engineer to design technologies
-that translate complex information into interpretable, multi-sensory
-experiences.
+Teaching and research focusing on multisensory interaction,
+human–computer interaction, immersive audio, agentic AI, human
+echolocation and localisation, fingertip haptics, and perception-aware
+robotics. Partnering with academics, industry, and communities to
+explore inclusive, human-centered technologies.
 
 - **Recent research and teaching themes:** multisensory interaction,
   human–computer interaction, immersive audio, agentic AI, human

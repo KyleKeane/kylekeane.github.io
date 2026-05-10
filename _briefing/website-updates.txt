@@ -1,3 +1,7 @@
+Note (PR #9): All six "Replace text with" rewrites in this file have
+been adopted across the public site, with per-page tweaks documented
+in docs/briefing-audit.md.
+
 Website
 About Me
 Replace text with:
