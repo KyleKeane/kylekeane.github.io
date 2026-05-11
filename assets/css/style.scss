@@ -34,37 +34,31 @@ body > header {
    The main nav sits on the gray header band so its pills are white
    for contrast; the page-sections nav sits on the white content area
    so its pills are light gray. */
-/* Main site nav: equal-width rectangular tabs. Width is fixed via
-   flex-basis so every tab is the same size regardless of label
-   length, sized to comfortably fit the longest label ("Philosophy").
-   flex-wrap: wrap lets the row reflow into multiple rows on narrow
-   viewports. Adjacent tabs share a single 1px divider via
-   margin-left: -1px on every tab after the first. */
+/* Main site nav: outlined-pill style. Each tab is content-sized,
+   has its own 1px outline, rounded corners, and a small gap to its
+   neighbours. The active page is marked aria-current="page" and
+   gets a perceivably darker fill plus black (900) font weight. */
 header nav[aria-label="Main navigation"] ul {
   list-style: none;
   padding: 0;
   margin: 0.5rem 0 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 0;
+  row-gap: 0.25rem;
+  column-gap: 0.4rem;
 }
 
 header nav[aria-label="Main navigation"] li {
   margin: 0;
-  flex: 0 0 7rem;
-}
-
-header nav[aria-label="Main navigation"] li:not(:first-child) a {
-  margin-left: -1px;
 }
 
 header nav[aria-label="Main navigation"] a {
-  display: block;
-  padding: 0.3rem 0.5rem;
+  display: inline-block;
+  padding: 0.1rem 0.5rem;
   background-color: #fff;
   color: #111;
   border: 1px solid currentColor;
-  text-align: center;
+  border-radius: 0.5rem;
   text-decoration: none;
 }
 
@@ -77,37 +71,6 @@ header nav[aria-label="Main navigation"] a:focus {
 header nav[aria-label="Main navigation"] a[aria-current="page"] {
   background-color: #c8c8c8;
   font-weight: 900;
-}
-
-/* Per-page sections nav: outlined-pill style. */
-.page-sections ul {
-  list-style: none;
-  padding: 0;
-  margin: 0.5rem 0;
-  display: flex;
-  flex-wrap: wrap;
-  row-gap: 0.25rem;
-  column-gap: 0.4rem;
-}
-
-.page-sections li {
-  margin: 0;
-}
-
-.page-sections a {
-  display: inline-block;
-  padding: 0.1rem 0.3rem;
-  background-color: #fff;
-  color: #111;
-  border: 1px solid currentColor;
-  border-radius: 0.5rem;
-  text-decoration: none;
-}
-
-.page-sections a:hover,
-.page-sections a:focus {
-  background-color: #f0f0f0;
-  text-decoration: underline;
 }
 
 /* Footer with back-to-top link, matching the pill style. */
@@ -214,7 +177,6 @@ header nav[aria-label="Find Kyle on the web"] {
   }
 
   header nav[aria-label="Main navigation"] a,
-  .page-sections a,
   .page-footer a {
     background-color: #444;
     color: #f5f5f5;
@@ -222,8 +184,6 @@ header nav[aria-label="Find Kyle on the web"] {
 
   header nav[aria-label="Main navigation"] a:hover,
   header nav[aria-label="Main navigation"] a:focus,
-  .page-sections a:hover,
-  .page-sections a:focus,
   .page-footer a:hover,
   .page-footer a:focus {
     background-color: #555;
