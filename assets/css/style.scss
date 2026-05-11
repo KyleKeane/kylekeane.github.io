@@ -13,13 +13,11 @@ body {
   color: #111111;
 }
 
-/* Site header: subtle gray background plus a medium-thickness
-   bottom rule that visually separates header navigation from main
-   content. Border uses currentColor so it stays visible in dark
-   mode (light rule on dark background) without a separate rule. */
+/* Site header: subtle gray background. The bottom of the header is
+   visually terminated by the main-nav tab strip rather than a hard
+   rule. */
 body > header {
   background-color: #f5f5f5;
-  border-bottom: 3px solid currentColor;
   padding-bottom: 0.5rem;
   margin-bottom: 1rem;
 }
@@ -36,7 +34,51 @@ body > header {
    The main nav sits on the gray header band so its pills are white
    for contrast; the page-sections nav sits on the white content area
    so its pills are light gray. */
-header nav[aria-label="Main navigation"] ul,
+/* Main site nav: a row of touching rectangles (tabs). The outline
+   lives on the wrapping <ul>; adjacent tabs share a single vertical
+   divider via a left-border on every li after the first. The active
+   page is marked with aria-current="page" and gets a slightly darker
+   background so the current tab reads as "pressed in". */
+header nav[aria-label="Main navigation"] ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border: 1px solid currentColor;
+  border-radius: 0.4rem;
+  overflow: hidden;
+}
+
+header nav[aria-label="Main navigation"] li {
+  margin: 0;
+}
+
+header nav[aria-label="Main navigation"] li + li {
+  border-left: 1px solid currentColor;
+}
+
+header nav[aria-label="Main navigation"] a {
+  display: block;
+  padding: 0.3rem 0.7rem;
+  background-color: #fff;
+  color: #111;
+  text-decoration: none;
+}
+
+header nav[aria-label="Main navigation"] a:hover,
+header nav[aria-label="Main navigation"] a:focus {
+  background-color: #f0f0f0;
+  text-decoration: underline;
+}
+
+header nav[aria-label="Main navigation"] a[aria-current="page"] {
+  background-color: #d8d8d8;
+  font-weight: bold;
+}
+
+/* Per-page sections nav: outlined-pill style. */
 .page-sections ul {
   list-style: none;
   padding: 0;
@@ -47,12 +89,10 @@ header nav[aria-label="Main navigation"] ul,
   column-gap: 0.4rem;
 }
 
-header nav[aria-label="Main navigation"] li,
 .page-sections li {
   margin: 0;
 }
 
-header nav[aria-label="Main navigation"] a,
 .page-sections a {
   display: inline-block;
   padding: 0.1rem 0.3rem;
@@ -63,8 +103,6 @@ header nav[aria-label="Main navigation"] a,
   text-decoration: none;
 }
 
-header nav[aria-label="Main navigation"] a:hover,
-header nav[aria-label="Main navigation"] a:focus,
 .page-sections a:hover,
 .page-sections a:focus {
   background-color: #f0f0f0;
@@ -188,6 +226,10 @@ header nav[aria-label="Find Kyle on the web"] {
   .page-footer a:hover,
   .page-footer a:focus {
     background-color: #555;
+  }
+
+  header nav[aria-label="Main navigation"] a[aria-current="page"] {
+    background-color: #2a2a2a;
   }
 }
 
