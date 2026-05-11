@@ -34,46 +34,38 @@ body > header {
    The main nav sits on the gray header band so its pills are white
    for contrast; the page-sections nav sits on the white content area
    so its pills are light gray. */
-/* Main site nav: a row of rectangular tabs sized to the widest
-   label. `display: inline-grid` shrinks the <ul> to its content;
-   `grid-auto-flow: column` + `grid-auto-columns: 1fr` lays the
-   items out as columns that share equal width — the grid algorithm
-   resolves each `1fr` to the widest item's max-content, so every
-   tab ends up the same width as the longest one. No gap between
-   tabs; adjacent tabs share a single border via removing the
-   left-border on every tab after the first. If the row is wider
-   than the viewport, the nav scrolls horizontally rather than
-   forcing a page-wide horizontal scrollbar. */
-header nav[aria-label="Main navigation"] {
-  overflow-x: auto;
-}
-
+/* Main site nav: equal-width rectangular tabs. Width is fixed via
+   flex-basis so every tab is the same size regardless of label
+   length, sized to comfortably fit the longest label ("Philosophy").
+   flex-wrap: wrap lets the row reflow into multiple rows on narrow
+   viewports. Adjacent tabs share a single 1px divider via
+   margin-left: -1px on every tab after the first. */
 header nav[aria-label="Main navigation"] ul {
   list-style: none;
   padding: 0;
   margin: 0.5rem 0 0;
-  display: inline-grid;
-  grid-auto-flow: column;
-  grid-auto-columns: 1fr;
+  display: flex;
+  flex-wrap: wrap;
   gap: 0;
 }
 
 header nav[aria-label="Main navigation"] li {
   margin: 0;
+  flex: 0 0 7rem;
+}
+
+header nav[aria-label="Main navigation"] li:not(:first-child) a {
+  margin-left: -1px;
 }
 
 header nav[aria-label="Main navigation"] a {
   display: block;
-  padding: 0.3rem 0.7rem;
+  padding: 0.3rem 0.5rem;
   background-color: #fff;
   color: #111;
   border: 1px solid currentColor;
   text-align: center;
   text-decoration: none;
-}
-
-header nav[aria-label="Main navigation"] li:not(:first-child) a {
-  border-left: 0;
 }
 
 header nav[aria-label="Main navigation"] a:hover,
@@ -83,8 +75,8 @@ header nav[aria-label="Main navigation"] a:focus {
 }
 
 header nav[aria-label="Main navigation"] a[aria-current="page"] {
-  background-color: #d8d8d8;
-  font-weight: bold;
+  background-color: #c8c8c8;
+  font-weight: 900;
 }
 
 /* Per-page sections nav: outlined-pill style. */
@@ -238,7 +230,7 @@ header nav[aria-label="Find Kyle on the web"] {
   }
 
   header nav[aria-label="Main navigation"] a[aria-current="page"] {
-    background-color: #2a2a2a;
+    background-color: #1a1a1a;
   }
 }
 
