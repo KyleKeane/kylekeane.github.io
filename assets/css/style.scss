@@ -34,29 +34,22 @@ body > header {
    The main nav sits on the gray header band so its pills are white
    for contrast; the page-sections nav sits on the white content area
    so its pills are light gray. */
-/* Main site nav: a row of touching rectangles (tabs). The outline
-   lives on the wrapping <ul>; adjacent tabs share a single vertical
-   divider via a left-border on every li after the first. The active
-   page is marked with aria-current="page" and gets a slightly darker
-   background so the current tab reads as "pressed in". */
+/* Main site nav: a row of rectangular tabs. Each tab carries its
+   own 1px outline so the row reflows cleanly when it wraps onto
+   multiple lines. The active page (aria-current="page") gets a
+   darker fill + bold weight — no border or shape change — so it
+   reads as the selected tab. */
 header nav[aria-label="Main navigation"] ul {
   list-style: none;
   padding: 0;
   margin: 0.5rem 0 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 0;
-  border: 1px solid currentColor;
-  border-radius: 0.4rem;
-  overflow: hidden;
+  gap: 0.15rem;
 }
 
 header nav[aria-label="Main navigation"] li {
   margin: 0;
-}
-
-header nav[aria-label="Main navigation"] li + li {
-  border-left: 1px solid currentColor;
 }
 
 header nav[aria-label="Main navigation"] a {
@@ -64,6 +57,7 @@ header nav[aria-label="Main navigation"] a {
   padding: 0.3rem 0.7rem;
   background-color: #fff;
   color: #111;
+  border: 1px solid currentColor;
   text-decoration: none;
 }
 
