@@ -35,21 +35,22 @@ body > header {
    for contrast; the page-sections nav sits on the white content area
    so its pills are light gray. */
 /* Main site nav: a row of rectangular tabs. Each tab carries its
-   own 1px outline so the row reflows cleanly when it wraps onto
-   multiple lines. The active page (aria-current="page") gets a
-   darker fill + bold weight — no border or shape change — so it
-   reads as the selected tab. */
+   own 1px outline (no border on the wrapping <ul>). Tabs share equal
+   width within their row so wrapping produces a tidy grid; on a
+   phone-width viewport each tab takes a full row, stacking the nav
+   into a clean column. */
 header nav[aria-label="Main navigation"] ul {
   list-style: none;
   padding: 0;
   margin: 0.5rem 0 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.15rem;
+  gap: 0.2rem;
 }
 
 header nav[aria-label="Main navigation"] li {
   margin: 0;
+  flex: 1 1 8rem;
 }
 
 header nav[aria-label="Main navigation"] a {
@@ -58,6 +59,7 @@ header nav[aria-label="Main navigation"] a {
   background-color: #fff;
   color: #111;
   border: 1px solid currentColor;
+  text-align: center;
   text-decoration: none;
 }
 
@@ -70,6 +72,14 @@ header nav[aria-label="Main navigation"] a:focus {
 header nav[aria-label="Main navigation"] a[aria-current="page"] {
   background-color: #d8d8d8;
   font-weight: bold;
+}
+
+/* On phone-width viewports, each tab takes a full row so the nav
+   becomes a vertical stack of full-width buttons. */
+@media (max-width: 30rem) {
+  header nav[aria-label="Main navigation"] li {
+    flex-basis: 100%;
+  }
 }
 
 /* Per-page sections nav: outlined-pill style. */
