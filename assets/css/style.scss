@@ -71,6 +71,32 @@ header nav[aria-label="Main navigation"] a:focus {
 header nav[aria-label="Main navigation"] a[aria-current="page"] {
   background-color: #c8c8c8;
   font-weight: 900;
+  /* Inset shadow doubles the outline thickness without changing
+     the pill's outer size — gives the active tab a visibly bolder
+     border. */
+  box-shadow: inset 0 0 0 1px currentColor;
+}
+
+/* Table of contents: keep the <ul>/<li> list semantics so screen
+   readers still announce it as a navigable list, but suppress the
+   default bullet character and draw a small CSS circle via ::before.
+   Because ::before's content is the empty string, there is no text
+   in the accessibility tree for screen readers to announce — the
+   bullet is purely visual. */
+.toc {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc li::before {
+  content: '';
+  display: inline-block;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: currentColor;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  vertical-align: middle;
 }
 
 /* Footer with back-to-top link, matching the pill style. */
