@@ -30,7 +30,7 @@
       {%- assign h2_chunks = content | split: '<h2 id="' -%}
       {%- if h2_chunks.size > 1 -%}
       <h2>Table of contents</h2>
-      <ul>
+      <ul class="toc">
         {%- for chunk in h2_chunks offset:1 -%}
           {%- assign h2_inner = chunk | split: '</h2>' | first -%}
           {%- assign section_id = h2_inner | split: '"' | first -%}
