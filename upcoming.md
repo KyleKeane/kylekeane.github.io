@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Overview
 
-*Last updated: May 2026.*
+*Last updated: June 2026.*
 
 Here's where you can hear me, see my work, or meet me in person over the
 coming months. The [Engage](/engage.html) page describes how to invite me
@@ -23,11 +23,8 @@ to add to this list.
   [Creative](/creative.html#echo--resound-new-york) page.
 - **Keynote, Monterrey, Mexico — late October 2026.** Title, venue, and
   exact date to be confirmed.
-- **Keynote, Audio Developer Conference (ADC) — November 2026, Bristol,
-  England.** Title and exact date to be confirmed.
-- **[Zero Project Conference 2026](https://zerocon26.zeroproject.org/participants/3323364)
-  — UN Office, Vienna.** Listed participant offering research
-  cooperations on AT for inclusion.
+- **Keynote, [Audio Developer Conference (ADC Bristol 26)](https://audio.dev/)
+  — 9–11 November 2026, Bristol, England.** Talk title to be confirmed.
 
 ## Currently working on
 
@@ -51,10 +48,14 @@ A representative slice of the past year. The full archive of invited
 talks, performances, exhibitions, and events is on the
 [CV](/cv.html) page.
 
+- **Speaker, [Zero Project Conference 2026](https://zerocon26.zeroproject.org/participants/3323364),**
+  UN Office, Vienna, 18–20 February 2026 — sessions on hardware and
+  smartphones designed for blind and low-vision users, and on the Zero
+  Project regional conferences.
 - **[Access Bristol](https://www.accessbristol.org/),** the two-day
   assistive-technology accelerator I organised with GitHub and Smartbox
   as lead industry sponsors at the University of Bristol, 8–9 November
-  2025 — [outcomes here](https://accessbristol.org/outcomes.html).
+  2025 — see the [Access Bristol outcomes report](https://accessbristol.org/outcomes.html).
 - **Lightning-Talk Speaker,** *Frontiers of Accessible Technology*,
   Dissolve Music 2025, MIT Spatial Sound Lab, 3 October 2025.
 - **Guest,** *How AI tools are transforming the lives of people with

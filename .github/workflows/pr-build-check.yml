@@ -36,6 +36,20 @@ jobs:
           ruby --version || true
           gem list jekyll 2>/dev/null || true
 
+      - name: Check every CV entry has persona tags
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -d _cv ]; then
+            untagged=$(grep -rL 'personas: \[' _cv --include='*.md' | grep -v 'README.md' || true)
+            if [ -n "$untagged" ]; then
+              echo "::error::CV entries missing a 'personas: [...]' front-matter line:"
+              echo "$untagged"
+              exit 1
+            fi
+            echo "All CV entries carry persona tags."
+          fi
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

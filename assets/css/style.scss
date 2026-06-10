@@ -99,6 +99,18 @@ header nav[aria-label="Main navigation"] a[aria-current="page"] {
   vertical-align: middle;
 }
 
+/* CV entries render their markdown bodies through Liquid's markdownify,
+   which wraps single-paragraph list items in <p> tags. Collapse the
+   paragraph margins inside list items so spacing matches hand-written
+   markdown lists. */
+li > p:first-child {
+  margin-top: 0;
+}
+
+li > p:last-child {
+  margin-bottom: 0;
+}
+
 /* Footer with back-to-top link, matching the pill style. */
 .page-footer {
   margin-top: 2rem;

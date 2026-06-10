@@ -84,10 +84,13 @@ serve as a log of what was outstanding.
   *To resolve:* fill in title, host institution, and exact date.
 
 - **Audio Developer Conference (ADC) keynote, Bristol (November
-  2026)** — title, exact date.
-  *Location:* `## 2026` section, second entry.
-  *To resolve:* fill in title and exact date. ADC25 ran November
-  10–12, 2025; ADC26 is likely a similar mid-November window.
+  2026)** — title.
+  *Location:* `upcoming.md` confirmed-engagements list.
+  *Status update (June 2026):* conference dates confirmed as 9–11
+  November 2026 (Bristol Marriott Hotel City Centre) and added to
+  `upcoming.md`; Kyle is not yet on the public speaker listing, so
+  the keynote itself still rests on his confirmation. Talk title
+  still needed.
 
 ## Bristol student supervision details
 
@@ -150,42 +153,75 @@ needed.
 
 ## External evidence links
 
-(`cv.md`)
+(`cv.md` / `_cv/`)
 
-- **NYT 2022 black-hole article URL** — Kyle confirmed the citation
+- ~~**NYT 2022 black-hole article URL** — Kyle confirmed the citation
   ("Scientists tune into new ways of perceiving black holes",
-  May 7, 2022); the URL itself isn't on file.
-  *Location:* `cv.md` `## Press and media`, `### 2022`, top entry.
-  *To resolve:* wrap a hyperlink around the existing italicized
-  title.
+  May 7, 2022); the URL itself isn't on file.~~ **Resolved in the
+  persona-CV redesign PR (June 2026):** the article is
+  [nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html](https://www.nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html),
+  online title *Hear the Weird Sounds of a Black Hole Singing*
+  (Dennis Overbye). Kyle's remembered title is kept in the entry
+  as the print headline — Kyle to confirm that's right.
 
 ## Missing publication metadata
 
-(`cv.md`)
+(`cv.md` / `_cv/`)
 
-- **Holloway et al. *Assistive Technology* paper — publication
-  year.** The entry on `cv.md` `## Publications` → `### Recent`
-  cites *A review of innovation strategies and processes to improve
-  access to AT* in *Assistive Technology* **33**(sup1), 68–86 — but
-  has no year. The volume number suggests 2021 (the journal's
-  volume 33 covers 2021), but this hasn't been verified against the
-  journal record.
-  *Location:* `cv.md` `## Publications` → `### Recent`, fourth bullet.
-  *To resolve:* confirm the year and add it after the page range,
-  matching the format of the surrounding entries (e.g. "**33**(sup1),
-  68–86 (2021)").
+- ~~**Holloway et al. *Assistive Technology* paper — publication
+  year.**~~ **Resolved in the persona-CV redesign PR (June 2026):**
+  confirmed 2021, 33(sup1), 68–86, DOI 10.1080/10400435.2021.1970653;
+  year and DOI link added to
+  `_cv/publications/recent-040-holloway-at-innovation-review.md`.
 
 ## Major gaps
 
-- **Get-in-touch section on `index.md`** — removed in PR #2 per
-  Kyle's request, never repopulated. The site has no contact
-  surface today.
-  *Location:* `index.md`, after `## Recent work at Bristol`.
-  *To resolve:* Kyle to provide which channels to publish (LinkedIn,
-  GitHub, email, ORCID, etc.) and the format he wants. The 2024
-  rewrite in `_briefing/website-updates.txt` lines 14–17 lists
-  LinkedIn (`KyleKeane`), GitHub (`KyleKeane`), and an email of
-  the form `kyle ~at~ kylekeane.com`.
+- ~~**Get-in-touch section on `index.md`** — removed in PR #2 per
+  Kyle's request, never repopulated.~~ **Resolved in the persona-CV
+  redesign PR (June 2026):** restored as the final H2 on `index.md`
+  with links only (LinkedIn, GitHub, ORCID, Bristol Pure) plus a
+  pointer to the Engage page; Kyle chose not to publish an email
+  address.
+
+## New items from the June 2026 research pass
+
+- **ECHO closing date vs. the reSENSE season.** `upcoming.md` and
+  `creative.md` say *ECHO* runs through 31 October 2026, but
+  reSOUND New York launched a new season called *reSENSE*
+  (23 April – 18 October 2026) per an I Love NY listing.
+  *To resolve:* Kyle to confirm whether ECHO continues inside the
+  reSENSE season and through what date, then align both pages.
+
+- **Wolfram Blog 2018 Summer School recap byline.** The
+  [blog.wolfram.com author archive](https://blog.wolfram.com/author/kyle-keane/)
+  shows one post — "The 2018 Wolfram Summer School: A Recap"
+  (21 Aug 2018) bylined "Kyle Keane, Education Specialist, Outreach
+  & Communications". Consistent with his 2018 Program Director role,
+  but the staff title doesn't match his consultant arrangement.
+  *To resolve:* Kyle to confirm the post is his; if so it could be
+  cited from the teaching or CV pages.
+
+- **CHI 2020 ATHack paper authorship.** A CHI extended abstract
+  "ATHack: Co-Design and Education in Assistive Technology
+  Development" exists
+  ([ACM DL](https://dl.acm.org/doi/fullHtml/10.1145/3334480.3383096));
+  Kyle's authorship was not verified.
+  *To resolve:* if Kyle is an author, add a `_cv/publications/`
+  entry.
+
+- **Scaffolding the Fantastical podcast year.** The episode page
+  dates it 14 January 2026, but the CV lists it under press 2025
+  (perhaps recording date). *To resolve:* Kyle to confirm which year
+  it should sit under; moving it is a one-line `year:` change plus a
+  file rename in `_cv/press/`.
+
+- **Monterrey October 2026 keynote** still has no public web
+  footprint (searched English and Spanish, June 2026) — title,
+  venue, and date all rest on Kyle's confirmation.
+
+- **Persona tags need Kyle's review.** Every `_cv/` entry was tagged
+  during the June 2026 migration; the judgment calls are listed for
+  adjudication in `docs/open-questions.md`.
 
 ## Long-term defers (resolved by skip; revisit if Kyle surfaces details)
 
