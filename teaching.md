@@ -47,7 +47,9 @@ history are on the [CV](/cv.html) page.
   capstone subject pairing student teams with a community member with
   a disability to co-invent a technological intervention. Honours the
   legacy of Prof. Seth Teller. Student evaluations consistently
-  6.2–6.4 out of 7.0.
+  6.2–6.4 out of 7.0. Past syllabi and student projects are preserved
+  on the [PPAT course archive](http://ppat.mit.edu/) and the
+  [PPAT pages at MIT CSAIL](https://courses.csail.mit.edu/PPAT/).
 - **6.3900 — Introduction to Machine Learning** (EECS). Co-instructor,
   Fall 2023. Hands-on survey across regression, multivariate calculus
   for optimisation, and Python implementation of standard ML
@@ -173,9 +175,15 @@ partner with a disability, around a year-long co-design project.
 
 The cross-trip retrospective on this programme is on the MIT MISTI
 [Humanistic design workshops in India: impact and reach](https://misti.mit.edu/humanistic-design-workshops-india-impact-and-reach)
-page; my MIT Global Partnerships Fund seed-grant cycle is recorded
+page; MISTI also published
+[Cultivating a humanistic design framework in India, an interview with me about the programme](https://misti.mit.edu/cultivating-humanistic-design-framework-india-interview-professor-kyle-keane)
+with a
+[companion video interview on YouTube](https://www.youtube.com/watch?v=cZy152KFHyU).
+My MIT Global Partnerships Fund seed-grant cycle is recorded
 on the
-[MISTI Past Seed Fund Winners archive](https://misti-archive.mit.edu/faculty-funds/past-seed-fund-winners).
+[MISTI Past Seed Fund Winners archive](https://misti-archive.mit.edu/faculty-funds/past-seed-fund-winners);
+the IIT Delhi exchange was also covered in the Indian press by
+[BioSpectrum India, 24 January 2020](https://www.biospectrumindia.com/news/68/15633/iit-d-to-work-with-mit-on-assistive-technology.html).
 
 ### Intentionally Inclusive Interaction Design
 

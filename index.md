@@ -55,3 +55,15 @@ to start that conversation.
 - **BS, Physics** — California State University, Fullerton, 2007.
 
 Full role-by-role career history is on the [CV](/cv.html#roles) page.
+
+## Get in touch
+
+- [Kyle Keane on LinkedIn](https://www.linkedin.com/in/KyleKeane) — best
+  for direct messages
+- [KyleKeane on GitHub](https://github.com/KyleKeane)
+- [ORCID record 0000-0003-3243-4412](https://orcid.org/0000-0003-3243-4412)
+- [University of Bristol Pure research profile](https://research-information.bris.ac.uk/en/persons/kyle-m-keane/)
+
+For speaking, consulting, collaboration, or supervision inquiries, the
+[Engage page explains how to reach me](/engage.html#how-to-reach-me)
+and what to include.
