@@ -34,6 +34,46 @@ Notes:
   `events`, `exhibitions`, `performances`, `advising`, `advocacy`)
   are redirect stubs and are not in the nav.
 
+## CV entries (`_cv/`)
+
+The CV pages are generated from one-file-per-entry markdown under
+`_cv/`. Two front-matter shapes:
+
+**List-item entries** (publications, grants, grant-support, awards,
+scholarships, press, affiliations):
+
+```yaml
+---
+section: press            # which CV section this belongs to
+year: 2026                # press and grants only — drives year grouping
+group: recent             # publications only — recent, educational-resources,
+                          # reports, chapters, dissertation, physics
+personas: [academic, advocate]   # REQUIRED; academic, educator, creative, advocate
+specialties: [spatial-audio]     # optional, free-form kebab-case
+---
+```
+
+**Titled-subsection entries** (roles, skills, events) add:
+
+```yaml
+title: "Senior Lecturer in Assistive Technologies"   # ALWAYS double-quoted
+anchor: rd-fellow         # optional; overrides the H3 id to keep an old anchor
+```
+
+Body rules:
+
+- Plain markdown, **no headings** (they'd break the page outline), no
+  leading `- ` (the include adds list markup).
+- Filenames control order: `YYYY-a-slug.md` inside press/grants years
+  (a, b, c... within the year; years render newest first); numeric
+  prefixes `010-`, `020-`, ... elsewhere (lower renders first; leave
+  gaps so entries can be inserted without renumbering).
+- Persona tags decide which filtered views (`/cv-academic.html`,
+  `/cv-educator.html`, `/cv-creative.html`, `/cv-advocacy.html`) show
+  the entry; everything shows on `/cv.html`. When unsure which personas
+  apply, pick the closest and add a checkbox to `docs/open-questions.md`
+  for Kyle.
+
 ## Heading hierarchy
 
 - The layout produces **one `<h1>`** per page from `page.title`.

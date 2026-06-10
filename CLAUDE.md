@@ -56,7 +56,16 @@ The accessibility checklist for a new page is in
 ├── research.md                     # nav 5, permalink: /research.html
 ├── teaching.md                     # nav 6, permalink: /teaching.html
 ├── creative.md                     # nav 7, permalink: /creative.html
-├── cv.md                           # nav 8 — long-form record, permalink: /cv.html
+├── cv.md                           # nav 8 — unified CV generated from _cv/, permalink: /cv.html
+├── cv-academic.md, cv-educator.md, # persona-filtered CV views generated
+├── cv-creative.md, cv-advocacy.md  # from the same _cv/ entries; linked
+│                                   # from cv.md, NOT in the nav
+├── _cv/                            # CV database: one markdown file per
+│   │                               # entry, persona-tagged; cheat-sheet
+│   │                               # in _cv/README.md
+│   ├── roles/ affiliations/ publications/ grants/ grant-support/
+│   └── awards/ scholarships/ press/ skills/ events/
+├── _includes/cv-sections.html      # Liquid rendering the _cv/ entries
 ├── work.md, publications.md, funding.md, skills.md, media.md,
 │                                   # 11 redirect-only stubs using
 ├── speaking.md, events.md, exhibitions.md, performances.md,
@@ -114,7 +123,49 @@ If a page should not appear in the top nav, omit `nav_include` (or set it
 to `false`). The nav order today is set by `nav_order: 1..8` (the seven
 public sections — About, Philosophy, Engage, Upcoming, Research, Teaching,
 Creative — plus CV at 8). Retired pages use `_layouts/redirect.html` and
-are not in the nav.
+are not in the nav. The four persona CV views (`cv-academic.md`,
+`cv-educator.md`, `cv-creative.md`, `cv-advocacy.md`) deliberately omit
+`nav_include` — they are reached from links at the top of the CV page.
+
+## Adding a CV entry
+
+The five CV pages are generated from the `_cv/` collection — one small
+markdown file per entry. Every entry MUST carry a `personas:` list (one
+or more of `academic`, `educator`, `creative`, `advocate`; CI fails the
+build if it's missing). Optional `specialties:` adds free-form
+kebab-case tags. A new press item is one file,
+`_cv/press/2026-b-outlet-name.md`:
+
+```markdown
+---
+section: press
+year: 2026
+personas: [academic, advocate]
+---
+
+[Descriptive link text naming the piece and outlet](https://example.org/article).
+```
+
+Rules that matter:
+
+- **No headings inside entry bodies** — they would corrupt the page
+  outline that the layout's table of contents and screen readers
+  depend on.
+- Roles, skills, and events entries take a double-quoted `title:`
+  (rendered as the H3) and an optional `anchor:` to preserve an old
+  URL fragment.
+- Ordering is by filename: `YYYY-a-slug.md` within press/grants years,
+  `010-`/`020-` numeric prefixes elsewhere. Full schema in
+  [`_cv/README.md`](_cv/README.md).
+- **Curation vs. archive is intentional duplication.** A talk or press
+  item lives canonically as a `_cv/` entry and MAY also be hand-added to
+  a curated page (teaching.md, engage.md, creative.md, upcoming.md)
+  where it fits that page's narrative. Do not "deduplicate" the curated
+  mentions against the CV — both are supposed to exist.
+- `_includes/cv-sections.html` emits H2 tags with `id` as the first
+  attribute because `_layouts/default.html` string-matches on
+  `<h2 id="` to build the table of contents. Don't reorder those
+  attributes.
 
 ## Source-of-truth hierarchy
 

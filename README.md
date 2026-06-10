@@ -58,7 +58,18 @@ Read it before adding a page or making non-trivial content edits.
 ├── research.md                     # nav 5,  /research.html
 ├── teaching.md                     # nav 6,  /teaching.html
 ├── creative.md                     # nav 7,  /creative.html
-├── cv.md                           # nav 8,  /cv.html
+├── cv.md                           # nav 8,  /cv.html — unified CV,
+│                                   # generated from _cv/ entries
+├── cv-academic.md, cv-educator.md, # persona-filtered CV views
+├── cv-creative.md, cv-advocacy.md  # (linked from cv.md, not in nav)
+├── _cv/                            # CV database: one markdown file per
+│   ├── README.md                   # entry, tagged by persona — see the
+│   ├── roles/ affiliations/        # cheat-sheet in _cv/README.md
+│   ├── publications/ grants/
+│   ├── grant-support/ awards/
+│   ├── scholarships/ press/
+│   ├── skills/ events/
+├── _includes/cv-sections.html      # Liquid that renders _cv/ entries
 ├── work.md, publications.md, funding.md, skills.md, media.md,
 ├── speaking.md, events.md, exhibitions.md, performances.md,
 ├── advising.md, advocacy.md        # 11 redirect stubs forwarding
@@ -136,6 +147,33 @@ Content sources for non-trivial additions: see
    set it to `false`).
 4. The nav reorders automatically on next build.
 
+### Add a CV entry
+
+The CV pages are generated from the `_cv/` collection — one small
+markdown file per role, publication, grant, award, press item, etc.
+Each entry carries `personas:` tags (`academic`, `educator`, `creative`,
+`advocate`) that decide which filtered CV views it appears in
+(`/cv-academic.html`, `/cv-educator.html`, `/cv-creative.html`,
+`/cv-advocacy.html`); every entry appears on the unified `/cv.html`.
+
+To add a new press item, create `_cv/press/2026-b-outlet-name.md`:
+
+```markdown
+---
+section: press
+year: 2026
+personas: [academic, advocate]
+---
+
+[Descriptive link text naming the piece and the outlet](https://example.org/article).
+```
+
+One file, four front-matter lines, one markdown line — every relevant
+CV view updates on the next build. The full schema (sections, ordering,
+the `title:`/`anchor:` fields for roles/skills/events) is in
+[`_cv/README.md`](_cv/README.md) and
+[`docs/style-guide.md`](docs/style-guide.md).
+
 ### Retire a page (redirect-stub pattern)
 
 Use this when a page's content has been merged into another page but
@@ -201,7 +239,7 @@ four must pass to merge.
 
 | Job | What it checks |
 |---|---|
-| **Build site** | Jekyll builds the site without errors using the same `actions/jekyll-build-pages@v1` action that the deploy workflow uses. The built `_site/` is uploaded as an artifact for the other jobs. |
+| **Build site** | First verifies every `_cv/` entry has a `personas: [...]` line, then Jekyll builds the site without errors using the same `actions/jekyll-build-pages@v1` action that the deploy workflow uses. The built `_site/` is uploaded as an artifact for the other jobs. |
 | **Verify source material is not published** | Greps the built `_site/` for leaked `_briefing/`, `docs/`, `seed*`, `claude-cv-verification*`, `website-updates*`, `recent-records*`, or `CLAUDE.*` files. Fails if any are found. |
 | **Accessibility lint of built HTML** | For every HTML page in `_site/`: exactly one `<h1>`, no skipped heading levels, every `<img>` has `alt=`, no `click here` / `read more` link text. |
 | **Check internal links** | Runs [lychee](https://github.com/lycheeverse/lychee-action) in offline mode against the built HTML; fails on any broken internal link. |

@@ -69,6 +69,49 @@ site. New questions accumulate here.
   "NOT VERIFIED" flag reflects the limits of public records, not the
   accuracy of Kyle's account.**
 
+## Persona-CV redesign questions (June 2026)
+
+During the June 2026 migration, every CV entry in `_cv/` was tagged
+with one or more personas (`academic`, `educator`, `creative`,
+`advocate`) so the filtered views at `/cv-academic.html`,
+`/cv-educator.html`, `/cv-creative.html`, and `/cv-advocacy.html` can
+be generated. Most tags are obvious; these were judgment calls. To
+change one, edit the `personas:` line in the named file.
+
+- [ ] **Head of User Experience, Indico Data Solutions.** *Affects:
+  `_cv/roles/080-head-of-user-experience-indico.md`.* Tagged
+  `[educator]` (developer relations and documentation read as
+  education); it fits no persona perfectly. OK, or would you rather
+  tag it `[academic]` so it sits with the career-history strand?
+- [ ] **Bristol Senior Lecturer role tagged with all four personas.**
+  *Affects: `_cv/roles/010-senior-lecturer-bristol.md`.* The role
+  description spans teaching, research, sonification, and AT, so it
+  appears on every filtered view. Confirm that's the intent.
+- [ ] **Skills sections.** *Affects: `_cv/skills/*.md`.* Tagged:
+  programming languages → all four; software development →
+  academic+educator+advocate; accessibility → advocate;
+  quantitative analysis → academic; organisational →
+  academic+educator+advocate. Adjust to taste.
+- [ ] **WBUR On Point and Macro Hive press items.** *Affects:
+  `_cv/press/2025-a-wbur-on-point.md`,
+  `_cv/press/2025-c-macro-hive-conversations.md`.* Tagged
+  `[academic, advocate]` — they're expert commentary rather than
+  coverage of creative work. OK?
+- [ ] **Perkins "Astronomy and Sonification".** *Affects:
+  `_cv/press/2022-c-perkins-astronomy-sonification.md`.* Tagged
+  `[creative, advocate]` (blind-education resource about the
+  sonification). Should `academic` be added?
+- [ ] **UROP grants (one per year, 2015–2022).** *Affects:
+  `_cv/grants/*-mit-urop.md`.* All tagged `[academic, educator]`.
+  OK as a blanket rule?
+- [ ] **NYT print headline.** *Affects:
+  `_cv/press/2022-a-nyt-black-holes.md`.* The recovered article's
+  online title is *Hear the Weird Sounds of a Black Hole Singing*
+  (Dennis Overbye, 7 May 2022). Your remembered title — *Scientists
+  tune into new ways of perceiving black holes* — is kept in the
+  entry as the print headline. Confirm it appeared that way in print
+  (or drop the parenthetical).
+
 ## Adding to this list
 
 When a new question comes up, add a checkbox here with:

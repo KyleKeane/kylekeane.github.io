@@ -372,6 +372,40 @@ sync with the post-restructure site.
   (`engage.md`, `creative.md`, `cv.md`) instead of retired ones.
 - [x] Resolve the `Bristol-era material gap` open question.
 
+## Phase 8 — Persona-tagged CV + media recovery (June 2026)
+
+Kyle asked for a unified CV whose entries carry persona tags
+(academic, educator, creative, advocate) with filtered views per
+persona, plus a research pass to recover press coverage he had lost
+track of. No JavaScript; everything statically generated.
+
+- [x] Split `cv.md` into the `_cv/` collection (113 per-entry
+  markdown files, verbatim bodies, persona + specialty tags).
+- [x] Add `_includes/cv-sections.html` and regenerate `cv.md` from
+  the collection; rendered text verified identical to the old page
+  (only addition: the filtered-views list).
+- [x] Add the four persona views: `cv-academic.md`, `cv-educator.md`,
+  `cv-creative.md`, `cv-advocacy.md` (linked from cv.md, not in nav).
+- [x] CI: fail the build if any `_cv/` entry lacks `personas:`.
+- [x] Recover and add press: NYT URL (2022), CNN (2022), Time Out
+  New York (2025), M. Leona Godin (2026), BioSpectrum India (2020),
+  G3ict (2019), MISTI interview + video (2021).
+- [x] Fix Holloway et al. year/DOI (2021); move the MIT News
+  black-hole-echoes item from 2021 to 2022; update citation count to
+  500+ with a Google Scholar link.
+- [x] Restore the Get-in-touch section on `index.md` (links only).
+- [x] `upcoming.md`: Zero Project Conference (Feb 2026) moved to
+  Recently with session details; ADC Bristol 26 dates added.
+- [x] `teaching.md`: PPAT archives, MISTI interview, BioSpectrum
+  India links.
+- [x] Docs: CLAUDE.md / README / style-guide CV-entry recipes;
+  open-items resolutions; persona-tag adjudication checklist in
+  open-questions.md.
+- [ ] Kyle reviews the persona-tag judgment calls
+  (`docs/open-questions.md`, June 2026 section).
+- [ ] Kyle confirms ECHO's closing date vs. the reSENSE season
+  (`docs/open-items.md`).
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)
