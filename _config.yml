@@ -10,6 +10,13 @@ lang: en
 
 theme: minima
 
+# CV entries: one markdown file per item under _cv/, tagged by persona.
+# output: false keeps the entries out of _site (they render only through
+# the cv-sections.html include on the CV pages).
+collections:
+  cv:
+    output: false
+
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from

@@ -1,0 +1,10 @@
+---
+section: grants
+year: 2020
+personas: [educator, advocate]
+---
+
+*CoCreATe Riyadh* — Al-Faisal University. Funding from Saudi sources
+via Al-Faisal for an MIT cohort fellowship launch and remote
+mentorship of 20 engineering teams working with local individuals
+living with disabilities.

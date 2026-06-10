@@ -1,0 +1,142 @@
+{%- comment -%}
+Renders the CV sections from the _cv/ collection.
+
+Usage:
+  {% include cv-sections.html %}                    full unified CV
+  {% include cv-sections.html persona="academic" %} filtered view
+
+Every entry in _cv/ carries a `personas:` list (academic, educator,
+creative, advocate). When a persona parameter is given, only entries
+tagged with it are rendered, and sections with no matching entries are
+omitted entirely.
+
+IMPORTANT: H2 tags must be emitted with `id` as the FIRST attribute —
+_layouts/default.html builds the table of contents and injects
+tabindex="-1" by string-matching on the literal text '<h2 id="'.
+The hardcoded H2 ids below match the kramdown-generated slugs the CV
+page had before this include existed, so existing inbound anchors
+(e.g. /cv.html#roles) keep resolving.
+{%- endcomment -%}
+
+{%- assign cv_all = site.cv -%}
+{%- if include.persona -%}
+  {%- assign cv_all = cv_all | where_exp: "item", "item.personas contains include.persona" -%}
+{%- endif -%}
+
+{%- assign roles = cv_all | where: "section", "roles" | sort: "path" -%}
+{%- if roles.size > 0 %}
+<h2 id="roles">Roles</h2>
+{%- for r in roles %}
+<h3 id="{% if r.anchor %}{{ r.anchor }}{% else %}{{ r.title | slugify }}{% endif %}">{{ r.title | escape }}</h3>
+{{ r.content | markdownify }}
+{%- endfor -%}
+{%- endif %}
+
+{%- assign affiliations = cv_all | where: "section", "affiliations" | sort: "path" -%}
+{%- if affiliations.size > 0 %}
+<h2 id="affiliations">Affiliations</h2>
+<ul>
+{%- for item in affiliations %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endif %}
+
+{%- assign pubs = cv_all | where: "section", "publications" -%}
+{%- assign pub_entries = pubs | where_exp: "item", "item.group != 'intro'" -%}
+{%- if pub_entries.size > 0 %}
+<h2 id="publications">Publications</h2>
+{%- assign pub_intro = pubs | where: "group", "intro" -%}
+{%- for item in pub_intro %}
+{{ item.content | markdownify }}
+{%- endfor %}
+{%- assign pub_groups = "recent|Recent;educational-resources|Educational resources;reports|Reports and standards work;chapters|Edited and contributed chapters;dissertation|Doctoral dissertation;physics|Peer-reviewed (physics)" | split: ";" -%}
+{%- for g in pub_groups -%}
+{%- assign g_parts = g | split: "|" -%}
+{%- assign g_items = pub_entries | where: "group", g_parts[0] | sort: "path" -%}
+{%- if g_items.size > 0 %}
+<h3 id="{{ g_parts[1] | slugify }}">{{ g_parts[1] }}</h3>
+<ul>
+{%- for item in g_items %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endif -%}
+{%- endfor -%}
+{%- endif %}
+
+{%- assign grants = cv_all | where: "section", "grants" | sort: "path" -%}
+{%- if grants.size > 0 %}
+<h2 id="grants-as-pi--co-pi">Grants as PI / co-PI</h2>
+{%- assign grant_years = grants | group_by: "year" | sort: "name" | reverse -%}
+{%- for g in grant_years %}
+<h3 id="grants-{{ g.name }}">{{ g.name }}</h3>
+<ul>
+{%- for item in g.items %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endfor -%}
+{%- endif %}
+
+{%- assign grant_support = cv_all | where: "section", "grant-support" | sort: "path" -%}
+{%- if grant_support.size > 0 %}
+<h2 id="grant-support-as-researcher">Grant support as researcher</h2>
+<ul>
+{%- for item in grant_support %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endif %}
+
+{%- assign awards = cv_all | where: "section", "awards" | sort: "path" -%}
+{%- if awards.size > 0 %}
+<h2 id="awards">Awards</h2>
+<ul>
+{%- for item in awards %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endif %}
+
+{%- assign scholarships = cv_all | where: "section", "scholarships" | sort: "path" -%}
+{%- if scholarships.size > 0 %}
+<h2 id="scholarships">Scholarships</h2>
+<ul>
+{%- for item in scholarships %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endif %}
+
+{%- assign press = cv_all | where: "section", "press" | sort: "path" -%}
+{%- if press.size > 0 %}
+<h2 id="press-and-media">Press and media</h2>
+{%- assign press_years = press | group_by: "year" | sort: "name" | reverse -%}
+{%- for g in press_years %}
+<h3 id="press-{{ g.name }}">{{ g.name }}</h3>
+<ul>
+{%- for item in g.items %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endfor -%}
+{%- endif %}
+
+{%- assign skills = cv_all | where: "section", "skills" | sort: "path" -%}
+{%- if skills.size > 0 %}
+<h2 id="skills">Skills</h2>
+{%- for s in skills %}
+<h3 id="{% if s.anchor %}{{ s.anchor }}{% else %}{{ s.title | slugify }}{% endif %}">{{ s.title | escape }}</h3>
+{{ s.content | markdownify }}
+{%- endfor -%}
+{%- endif %}
+
+{%- assign cv_events = cv_all | where: "section", "events" | sort: "path" -%}
+{%- if cv_events.size > 0 %}
+<h2 id="conferences-and-events-attended">Conferences and events attended</h2>
+{%- for e in cv_events %}
+<h3 id="{% if e.anchor %}{{ e.anchor }}{% else %}{{ e.title | slugify }}{% endif %}">{{ e.title | escape }}</h3>
+{{ e.content | markdownify }}
+{%- endfor -%}
+{%- endif %}
