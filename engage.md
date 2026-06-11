@@ -59,6 +59,10 @@ Recent and forthcoming highlights:
 - **Speaker,** *The importance of robust adaptive management to empower
   scientists with disabilities*, [United Nations Web TV](https://webtv.un.org/en/asset/k1j/k1j9m9yqma),
   May 2025.
+- **Keynote,** *The Importance of Collaboration for Sustainable
+  Innovation of Assistive Technologies*,
+  [ReachSci Global Conference 2024](https://reachsci.com/reachsci-conference-2024),
+  University of Cambridge, 10 December 2024.
 - **Speaker,** *The Importance of Collaboration for Sustainable
   Innovation of Assistive Technologies*, Microsoft Norway, Oslo,
   November 2024.

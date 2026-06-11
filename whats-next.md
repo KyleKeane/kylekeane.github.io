@@ -88,7 +88,8 @@ talks, performances, exhibitions, and events is on the
   9 July 2025.
 - **[Emergent Harmonics](https://biglab.co.uk/event/emergent-harmonics),**
   one-day symposium I hosted at The Watershed, Bristol, 14 July 2025 —
-  keynote by Daniel Kish (World Access for the Blind).
+  keynote by Daniel Kish (World Access for the Blind);
+  [session recordings on YouTube](https://youtube.com/playlist?list=PLuDhYTU_hDHWav0RJb4qKESUsSpiYFg_M).
 - **Speaker,** *The importance of robust adaptive management to empower
   scientists with disabilities*, [United Nations Web TV](https://webtv.un.org/en/asset/k1j/k1j9m9yqma),
   8 May 2025.

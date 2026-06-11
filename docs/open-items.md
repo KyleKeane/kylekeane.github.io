@@ -244,6 +244,44 @@ needed.
   "via the [Creative] page" became "via the [Performances section
   below]" on `every-sense.md`.
 
+## Leads from the June 2026 deep research waves (snippet-confidence — verify before adding)
+
+These surfaced in searches but could not be fetched/confirmed; each
+could become a `_cv/` entry or a curated link once verified:
+
+- **Equitable AI Alliance webinar (Zero Project).** A snippet says
+  Kyle hosted a webinar on inclusive/accessible AI with David Banes
+  and Jutta Treviranus —
+  [Zero Project Equitable AI Alliance page](https://zeroproject.org/initiatives/equitable-ai-alliance).
+- **LVPEI MITra co-design page.**
+  [lvpmitra.com/hcdknowmore](https://lvpmitra.com/hcdknowmore)
+  describes the Humanistic Co-design workshop with Dr. Beula Christy;
+  site refused connections during research.
+- **CoCreate Saudi Arabia 2022 page at the King Salman Center's ICDR
+  site** — [icdr.org.sa/en/CoCreate](https://www.icdr.org.sa/en/CoCreate);
+  refused connections.
+- **Project Aakaar listing on MIT Solve** —
+  [solve.mit.edu/solutions/60870](https://solve.mit.edu/solutions/60870)
+  (snippet does not name Kyle; the Aakaar lineage is documented in the
+  MISTI retrospective already linked from Build with people).
+- **MIT BeaverWorks online course pages** (bwsix.mit.edu, Design of
+  Assistive Technologies 2019/2020/2021) — returned 503 during
+  research; would make good links for the BeaverWorks entries.
+- **CSUN 2021 pre-conference workshop** — a Google-indexed snippet of
+  the CSUN session index shows a Humanistic Co-Design pre-conference
+  workshop with Kyle's bio; the page now requires a session. Kyle to
+  confirm; if real it belongs in `_cv/events/` or engage.md.
+- **Wolfram Demonstrations Project** — snippets say Kyle authored
+  31 Demonstrations; the author page could not be fetched to
+  enumerate. A link could join the Wolfram-era role entry.
+- **Marburg University Library lecture, 2 April 2025** — "AI-Systems
+  and how they help blind users" surfaced unattributed; plausibly
+  Kyle's Marburg guest session. Confirm before adding.
+- **Blindness-podcast circuit absence.** Searches of Eyes on Success,
+  Blind Abilities, Living Blindfully, Double Tap, AT Banter, AppleVis,
+  ACB/NFB archives found no Kyle appearances — noted as an outreach
+  opportunity rather than a gap in the record.
+
 ## Long-term defers (resolved by skip; revisit if Kyle surfaces details)
 
 - **Wolfram MicroMasters AI+D dates** — role title and platform

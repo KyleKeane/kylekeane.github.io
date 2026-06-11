@@ -112,6 +112,25 @@ change one, edit the `personas:` line in the named file.
   entry as the print headline. Confirm it appeared that way in print
   (or drop the parenthetical).
 
+## June 2026 deep-research questions
+
+- [ ] **"Researcher at Aira" billing.** *Affects: `cv.md` Roles /
+  Affiliations.* The
+  [ReachSci Global Conference 2024 page](https://reachsci.com/reachsci-conference-2024)
+  bills you as "Senior Lecturer, University of Bristol, and Researcher
+  at Aira" (December 2024). Aira isn't anywhere on the site. Is/was
+  this a real affiliation that should become a `_cv/roles/` or
+  `_cv/affiliations/` entry?
+- [ ] **CodeSeal talk year corrected to 2017.** *Affects:
+  `rigor-across-boundaries.md`, `_cv/press/2017-c-...`.* The site
+  previously dated the CodeSeal platform talk to 2018 (from the
+  YouTube upload date); the Wolfram Technology Conference 2017
+  presentations page dates it 20 October 2017. Corrected — confirm.
+- [ ] **PhD completion date.** *Affects: `index.md`, `cv.md`.* The
+  site says PhD 2012; one search snippet of the eScholarship record
+  says the dissertation was completed "February 2013". Which year do
+  you want shown?
+
 ## Adding to this list
 
 When a new question comes up, add a checkbox here with:

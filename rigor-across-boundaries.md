@@ -55,9 +55,19 @@ introductory physics.
   [YouTube](https://www.youtube.com/watch?v=yHSVVKpPsd0)
   ([event listing](https://openlearning.mit.edu/events/interactivity-connectedness-classroom-digital-tools-collaborative-learning),
   [calendar entry](https://calendar.mit.edu/event/xtalk_with_peter_barendse_kyle_keane)).
+- *Code Seal: A System for Teaching the Art of Scientific Narratives*
+  — Wolfram Technology Conference 2016, with George Varnavides, on
+  [the Wolfram broadcast archive](https://www.wolfram.com/broadcast/video.php?v=1688).
 - *CodeSeal: A Platform for Evidence-Based Computational Curriculum*
-  — Wolfram Technology Conference 2018, with Michael Kaminsky, on
-  [YouTube](https://www.youtube.com/watch?v=iJwsFvcO1c8).
+  — Wolfram Technology Conference 2017, with Michael Kaminsky, on
+  [the Wolfram broadcast archive](https://www.wolfram.com/broadcast/video.php?v=2041)
+  and [YouTube](https://www.youtube.com/watch?v=iJwsFvcO1c8).
+- *Wolfram Language throughout MIT's Undergraduate Curriculum*
+  — Wolfram Technology Conference 2018, on
+  [the Wolfram broadcast archive](https://www.wolfram.com/broadcast/video.php?v=2446).
+- *Wolfram Tech in Online Course Platforms like edX/Moodle/Coursera*
+  — Wolfram Technology Conference 2018, with Andrea Griffin, on
+  [the Wolfram broadcast archive](https://www.wolfram.com/broadcast/video.php?v=2425).
 - Companion student write-up:
   [*A student's view: Interactivity & Connectedness in the Classroom*](https://openlearning.mit.edu/news/students-view-interactivity-connectedness-classroom)
   by Ivory Zhu (MIT Open Learning).
@@ -76,7 +86,11 @@ and core publications are listed on the [CV](/cv.html) page.
 ### Earlier topics
 
 Selected earlier research projects include inverse design of photonic
-crystals using an adaptive mesh search algorithm, GPU-parallelised
+crystals using an adaptive mesh search algorithm (presented with Emma
+Vargo as
+[*Designing Nanostructures That Reproduce Colors* at the Wolfram Technology Conference 2017](https://www.wolfram.com/broadcast/video.php?v=2033),
+also [on YouTube](https://www.youtube.com/watch?v=K3v_pRTDNgE)),
+GPU-parallelised
 atomistic kinetic Monte Carlo simulation of solid-state dewetting in
 thin metal films (Carl V. Thompson group, MIT), simulation of the
 thermodynamic self-assembly of virus capsids (Roya Zandi group, UC
