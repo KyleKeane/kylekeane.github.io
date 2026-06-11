@@ -1,5 +1,6 @@
 ---
 section: grants
+about: diagram-guidelines
 year: 2014
 personas: [academic, advocate]
 principles: [full-participation, every-sense, rigor]

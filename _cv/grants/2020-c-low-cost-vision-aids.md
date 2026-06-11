@@ -1,5 +1,6 @@
 ---
 section: grants
+about: hcdi
 year: 2020
 personas: [advocate]
 principles: [full-participation]

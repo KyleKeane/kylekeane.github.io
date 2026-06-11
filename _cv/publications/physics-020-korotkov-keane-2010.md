@@ -1,5 +1,6 @@
 ---
 section: publications
+about: measurement-reversal
 group: physics
 personas: [academic]
 principles: [rigor]

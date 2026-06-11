@@ -1,5 +1,6 @@
 ---
 section: publications
+about: diagram-guidelines
 group: reports
 personas: [academic, advocate]
 principles: [full-participation, every-sense, rigor]

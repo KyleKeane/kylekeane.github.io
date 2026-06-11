@@ -1,5 +1,6 @@
 ---
 section: grants
+about: hcdi
 year: 2017
 personas: [educator, advocate]
 principles: [full-participation, build-with-people]

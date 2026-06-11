@@ -57,7 +57,17 @@ page had before this include existed, so existing inbound anchors
 {%- for w in works %}
 <h3 id="{% if w.anchor %}{{ w.anchor }}{% else %}{{ w.title | slugify }}{% endif %}">{{ w.title | escape }}{% if w.years %} ({{ w.years }}){% endif %}</h3>
 {{ w.content | markdownify }}
-{%- assign coverage = site.cv | where: "section", "press" | where: "about", w.slug | sort: "path" -%}
+{%- assign related = site.cv | where: "about", w.slug -%}
+{%- assign records = related | where_exp: "item", "item.section != 'press'" | sort: "path" -%}
+{%- if records.size > 0 %}
+<p>Related grants and publications ({{ records.size }} entries):</p>
+<ul>
+{%- for item in records %}
+<li>{{ item.content | markdownify }}</li>
+{%- endfor %}
+</ul>
+{%- endif -%}
+{%- assign coverage = related | where: "section", "press" | sort: "path" -%}
 {%- if coverage.size > 0 %}
 <p>Coverage and recognition ({{ coverage.size }} items):</p>
 <ul>

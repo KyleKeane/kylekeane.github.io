@@ -1,5 +1,6 @@
 ---
 section: grants
+about: codeseal
 year: 2019
 personas: [academic, educator]
 principles: [build-with-people, rigor]

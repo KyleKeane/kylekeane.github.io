@@ -1,5 +1,6 @@
 ---
 section: publications
+about: hcdi
 group: chapters
 personas: [academic, educator, advocate]
 principles: [full-participation, build-with-people, rigor]

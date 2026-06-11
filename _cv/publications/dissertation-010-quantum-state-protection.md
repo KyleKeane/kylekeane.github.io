@@ -1,5 +1,6 @@
 ---
 section: publications
+about: measurement-reversal
 group: dissertation
 personas: [academic]
 principles: [rigor]
