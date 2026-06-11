@@ -3,7 +3,7 @@ section: publications
 group: recent
 personas: [academic, creative, advocate]
 principles: [full-participation, every-sense, rigor]
-specialties: [spatial-audio, echolocation]
+specialties: [spatial-audio, echolocation, university-of-bristol, uk, wave-physics, perception, psychometrics]
 ---
 
 **A. Thompson and Kyle Keane**, *Architecting Perceptible Space — A

@@ -3,6 +3,7 @@ section: grants
 year: 2020
 personas: [academic, advocate]
 principles: [full-participation, every-sense, rigor]
+specialties: [mit, tactile-graphics, haptics, assistive-technology, supervision, 3d-printing]
 ---
 
 *TactionTablet: An Affordable Tactile Graphics Display for the Blind*

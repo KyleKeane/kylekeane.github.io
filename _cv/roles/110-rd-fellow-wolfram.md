@@ -4,7 +4,7 @@ title: "R&D Fellow"
 anchor: rd-fellow
 personas: [advocate]
 principles: [full-participation]
-specialties: [accessibility]
+specialties: [accessibility, wolfram-research, usa, section-508, blind-users]
 ---
 
 Wolfram Research — Special Projects, July 2012 – October 2012.

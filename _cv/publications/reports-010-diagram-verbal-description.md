@@ -1,9 +1,10 @@
 ---
 section: publications
+about: diagram-guidelines
 group: reports
 personas: [academic, advocate]
 principles: [full-participation, every-sense, rigor]
-specialties: [accessibility, standards]
+specialties: [accessibility, standards, diagram-center, w3c, phet, tactile-graphics, verbal-description, wolfram-research]
 ---
 
 **Kyle Keane and Christina Laverentz,** *Interactive Scientific

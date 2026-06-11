@@ -3,6 +3,7 @@ section: skills
 title: "Quantitative analysis"
 personas: [academic]
 principles: [rigor]
+specialties: [simulation, statistics, quantum-information, physics]
 ---
 
 Open-source statistical forecasting models for urban university

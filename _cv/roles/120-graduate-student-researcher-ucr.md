@@ -3,7 +3,7 @@ section: roles
 title: "Graduate Student Researcher"
 personas: [academic]
 principles: [rigor]
-specialties: [quantum]
+specialties: [uc-riverside, california, usa, quantum-information, superconducting-qubits, wave-physics, physics]
 ---
 
 University of California, Riverside — Department of Electrical

@@ -3,6 +3,7 @@ section: events
 title: "Accessibility and disability advocacy"
 personas: [advocate]
 principles: [full-participation]
+specialties: [accessibility, disability-advocacy, conferences, csun]
 ---
 
 - HCR@Work: 2023

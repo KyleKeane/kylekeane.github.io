@@ -1,8 +1,10 @@
 ---
 section: press
+type: institutional-feature
 year: 2025
 personas: [advocate, academic]
 principles: [full-participation]
+specialties: [austria, vienna, fh-technikum-wien, zero-project, assistive-technology]
 ---
 
 [Zero Project Conference and Assistive Technology Get-Together — FH Technikum Wien news](https://www.technikum-wien.at/en/news/zeroproject-conference-and-assistive-technology-get-together/),

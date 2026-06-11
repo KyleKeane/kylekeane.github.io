@@ -3,6 +3,7 @@ section: skills
 title: "Organisational and administrative"
 personas: [academic, educator, advocate]
 principles: [full-participation, build-with-people, rigor]
+specialties: [grant-writing, leadership, workshops, education]
 ---
 
 Multiple concurrent research grants written and managed; teams of

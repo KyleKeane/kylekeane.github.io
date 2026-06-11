@@ -3,6 +3,7 @@ section: grants
 year: 2018
 personas: [educator]
 principles: [build-with-people]
+specialties: [mit, sutd, singapore, electronics, education, co-design]
 ---
 
 *Collaborative Design using Arduino* — SUTD–MIT Educational Innovation

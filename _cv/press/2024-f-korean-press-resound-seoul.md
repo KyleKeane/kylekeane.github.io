@@ -1,8 +1,11 @@
 ---
 section: press
+type: news-article
+about: echo-installation
 year: 2024
 personas: [creative]
 principles: [every-sense]
+specialties: [seoul, south-korea, installation-art, sonification, black-holes]
 ---
 
 Korean press coverage of *ECHO* at the reSOUND exhibition, Culture

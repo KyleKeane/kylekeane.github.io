@@ -24,8 +24,16 @@ That's it — one file, five front-matter lines, one markdown line.
 
 ## Rules
 
-- `section:` is one of: roles, affiliations, publications, grants,
-  grant-support, awards, scholarships, press, skills, events.
+- `section:` is one of: works, roles, affiliations, publications,
+  grants, grant-support, awards, scholarships, press, skills, events.
+- **Works** are the major accomplishments (`_cv/works/`); each has a
+  `slug:` and a `years:` display string. Press entries that cover a
+  work carry `about: <slug>` and are auto-collected under that work
+  as "Coverage and recognition" on every CV view.
+- `type:` (press only, optional) labels the artifact: news-article,
+  syndication, talk-recording, lecture-video, podcast, radio,
+  institutional-feature, event-listing, interview, blog-post, album,
+  video.
 - `personas:` is REQUIRED, one or more of: academic, educator, creative,
   advocate. CI fails the build if it's missing.
 - `principles:` is REQUIRED, one or more of: full-participation,
@@ -34,7 +42,11 @@ That's it — one file, five front-matter lines, one markdown line.
   missing. Drives the evidence views (`/cv-full-participation.html`,
   `/cv-every-sense.html`, `/cv-build-with-people.html`,
   `/cv-rigor.html`).
-- `specialties:` is optional, free-form kebab-case tags.
+- `specialties:` is the free-form topic-tag list (kebab-case):
+  places, institutions, subjects, formats — tag generously. Every tag
+  automatically appears on `/topics.html`; a filtered page per tag
+  lives in `topics/<tag>.md` (copy any existing one to add a page for
+  a brand-new tag).
 - `year:` is required for press and grants entries (drives the year
   grouping on the page).
 - `title:` (roles, skills, events only) is the H3 heading; always wrap

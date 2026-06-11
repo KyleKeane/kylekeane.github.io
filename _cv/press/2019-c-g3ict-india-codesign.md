@@ -1,8 +1,11 @@
 ---
 section: press
+type: syndication
+about: hcdi
 year: 2019
 personas: [educator, advocate]
 principles: [full-participation, build-with-people]
+specialties: [india, co-design, assistive-technology, syndication-of-mit-news]
 ---
 
 [Co-designing assistive technologies in India — G3ict (Global Initiative for Inclusive ICTs)](https://g3ict.org/headlines/co-designing-assistive-technologies-in-india).

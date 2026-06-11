@@ -1,9 +1,10 @@
 ---
 section: publications
+about: measurement-reversal
 group: physics
 personas: [academic]
 principles: [rigor]
-specialties: [quantum]
+specialties: [uc-riverside, quantum-information, superconducting-qubits, wave-physics, physics]
 ---
 
 **Kyle Keane and Alexander Korotkov,** *Simplified quantum error

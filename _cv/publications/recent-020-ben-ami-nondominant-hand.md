@@ -3,7 +3,7 @@ section: publications
 group: recent
 personas: [academic]
 principles: [every-sense, rigor]
-specialties: [perception]
+specialties: [perception, mit, psychometrics, cognition, vision-science]
 ---
 
 **Shlomit Ben-Ami, Batel Buaron, Ori Yaron, Kyle Keane, Virginia H.

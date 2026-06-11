@@ -3,7 +3,7 @@ section: publications
 group: physics
 personas: [academic]
 principles: [rigor]
-specialties: [physics]
+specialties: [physics, csu-fullerton, electron-scattering, atomic-physics]
 ---
 
 **B. R. Yates, K. Keane, and M. A. Khakoo,** *Near-threshold electron

@@ -3,6 +3,7 @@ section: grants
 year: 2021
 personas: [educator, advocate]
 principles: [full-participation, every-sense, build-with-people]
+specialties: [mit, india, assistive-technology, captioning, deaf, augmented-reality]
 ---
 
 *TranscribeGlass: An affordable heads-up augmented-reality real-time

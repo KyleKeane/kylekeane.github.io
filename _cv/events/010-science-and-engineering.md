@@ -3,6 +3,7 @@ section: events
 title: "Science and engineering"
 personas: [academic]
 principles: [rigor]
+specialties: [physics, materials-science, conferences]
 ---
 
 - Annual MRS Meeting: 2015, 2016, 2017

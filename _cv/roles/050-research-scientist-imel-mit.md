@@ -3,7 +3,7 @@ section: roles
 title: "Research Scientist (Interactive Materials Education Laboratory)"
 personas: [academic, educator]
 principles: [build-with-people, rigor]
-specialties: [education, interactive-media]
+specialties: [education, interactive-media, mit, usa, simulation, materials-science]
 ---
 
 MIT — Materials Science and Engineering, June 2015 – September 2019.

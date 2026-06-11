@@ -176,6 +176,13 @@ Rules that matter:
   a curated page (build-with-people.md, engage.md, every-sense.md, whats-next.md)
   where it fits that page's narrative. Do not "deduplicate" the curated
   mentions against the CV — both are supposed to exist.
+- **Works are the accomplishment records** (`_cv/works/`, each with a
+  `slug:`); press entries covering a work carry `about: <slug>` and
+  are auto-collected under it as "Coverage and recognition".
+  `specialties:` topic tags (places, institutions, subjects, formats)
+  drive `/topics.html` and the per-tag pages in `topics/`; press
+  entries also take a `type:` label. Full schema in
+  [`_cv/README.md`](_cv/README.md).
 - `_includes/cv-sections.html` emits H2 tags with `id` as the first
   attribute because `_layouts/default.html` string-matches on
   `<h2 id="` to build the table of contents. Don't reorder those

@@ -3,7 +3,7 @@ section: roles
 title: "Lecturer (Materials Science)"
 personas: [academic, educator, advocate]
 principles: [full-participation, build-with-people, rigor]
-specialties: [assistive-technology, computation, india]
+specialties: [assistive-technology, computation, india, mit, usa, materials-science, co-design, computational-thinking, teaching, hackathons]
 ---
 
 MIT — Materials Science and Engineering, June 2015 – September 2019.

@@ -3,7 +3,7 @@ section: publications
 group: recent
 personas: [academic, advocate]
 principles: [full-participation, rigor]
-specialties: [inclusive-design]
+specialties: [inclusive-design, simulation, mit, sutd, assistive-technology]
 ---
 
 **Sujithra Raviselvam, Shiroq Al-Megren, Kyle Keane, Katja

@@ -3,6 +3,7 @@ section: events
 title: "Hackathons mentored"
 personas: [educator, advocate]
 principles: [full-participation, build-with-people]
+specialties: [hackathons, mentorship, assistive-technology]
 ---
 
 - HackMIT: 2018, 2019, 2022

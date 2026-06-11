@@ -4,7 +4,7 @@ title: "Research Programmer — Special Projects"
 anchor: research-programmer--special-projects
 personas: [advocate]
 principles: [full-participation, every-sense]
-specialties: [accessibility, software]
+specialties: [accessibility, software, wolfram-research, usa, blind-users]
 ---
 
 Wolfram Research — Special Projects, November 2012 – December 2013.

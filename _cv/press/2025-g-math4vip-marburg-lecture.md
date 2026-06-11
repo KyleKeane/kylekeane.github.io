@@ -1,8 +1,10 @@
 ---
 section: press
+type: event-listing
 year: 2025
 personas: [academic, advocate]
 principles: [full-participation, every-sense, rigor]
+specialties: [germany, marburg, ai, accessibility, spatial-reasoning]
 ---
 
 [KI-Systeme und wie sie blinden Nutzern helfen — Vortrag von Dr. Kyle Keane (Math4VIP, Universität Marburg and KIT)](https://www.math4vip.de/inhalt/aktuelles/ki-systeme-und-wie-sie-blinden-nutzern-helfen-vortrag-von-dr-kyle-keane/),

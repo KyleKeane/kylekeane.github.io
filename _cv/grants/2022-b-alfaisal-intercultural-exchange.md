@@ -1,8 +1,10 @@
 ---
 section: grants
+about: hcdi
 year: 2022
 personas: [educator, advocate]
 principles: [full-participation, build-with-people]
+specialties: [mit, alfaisal-university, saudi-arabia, riyadh, co-design, accessibility, hackathons]
 ---
 
 *Intercultural Education Exchange* — Al-Faisal University. Funding for

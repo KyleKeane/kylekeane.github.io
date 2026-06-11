@@ -1,8 +1,11 @@
 ---
 section: press
+type: news-article
+about: echo-installation
 year: 2025
 personas: [creative]
 principles: [every-sense]
+specialties: [new-york, usa, installation-art, sonification, black-holes]
 ---
 
 [The multisensory reSOUND exhibition has opened at Rockefeller Center — ForumDaily New York](https://newyork.forumdaily.com/en/v-rokfeller-centre-otkrylas-multisensornaya-vystavka-resound/),

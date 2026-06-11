@@ -3,7 +3,7 @@ section: roles
 title: "Head of User Experience"
 personas: [educator]
 principles: [build-with-people]
-specialties: [software, ux]
+specialties: [software, ux, indico, usa, boston, machine-learning, developer-relations]
 ---
 
 Indico Data Solutions, March 2015 – October 2015. Managed website design
