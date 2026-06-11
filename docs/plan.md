@@ -434,6 +434,10 @@ of contents and prominent future-focused content. One anchor value
   re-pointed (16 stubs total).
 - [x] Principle-page skeleton documented in docs/style-guide.md.
 - [x] Docs updated (CLAUDE.md, README, style-guide, open-items).
+- [x] `principles:` tags on every `_cv/` entry (one action, many
+  principles) + four evidence views (`/cv-full-participation.html`,
+  `/cv-every-sense.html`, `/cv-build-with-people.html`,
+  `/cv-rigor.html`) + CI lint + schema docs.
 - [ ] Comprehensive media-sweep findings integrated as `_cv/press/`
   entries (sweep in progress at time of writing).
 - [ ] Kyle fills the sparse future-focused slots on whats-next.md and
