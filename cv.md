@@ -10,8 +10,9 @@ nav_order: 8
 ## Overview
 
 The full archival record. The other pages are curated; this one is
-comprehensive. For current research, see [Research](/research.html); for
-forthcoming engagements, [Upcoming](/upcoming.html); for engagement
+comprehensive. For current research, see
+[Every sense at full resolution](/every-sense.html); for
+forthcoming engagements, ["What's next"](/whats-next.html); for engagement
 categories, [Engage](/engage.html).
 
 Every entry below is tagged by the strand of my work it belongs to, and

@@ -16,36 +16,38 @@ are. PhD in physics from UC Riverside; seven years in Wolfram Research as
 a Research Programmer and R&D Fellow; eight years on the MIT faculty in
 Materials Science and Engineering before joining Bristol in June 2024.
 
-The work is multidisciplinary by intention, not by accident — the same
-training that produced peer-reviewed quantum-information papers also
-produced the step-by-step physics solver in Wolfram\|Alpha, the
-first voice-assistant integration that spoke computational results, and
-the black-hole sonification that took the NASA Chandra data into the
-*New York Times*. The [Philosophy](/philosophy.html) page explains the
-framing I bring to it; the rest of the site shows what the framing
-produces.
+Everything on this site serves one value: the full participation of
+disabled people in STEM and in culture. The
+[Full participation](/full-participation.html) page states that value in
+my own terms; three principle pages show what it produces in practice;
+and the [CV](/cv.html) holds the complete archival evidence.
 
-## What I'm working on now
+## What's on this site
 
-Current research at Bristol focuses on intersensory perception — how
-people build meaning from information that arrives through unconventional
-sensory channels. Active threads include automated production of
-audio-tactile graphics for blind and low-vision learners, immersive and
-spatial audio for echolocation training, and spatial reasoning in AI
-systems that need to communicate with people through non-visual channels.
-I am actively interested in new collaborations, supervision, and
-consulting in these areas; the [Engage](/engage.html) page describes how
-to start that conversation.
-
-## Where to go from here
-
-- For the framing I bring to my work — [Philosophy](/philosophy.html)
-- To hire, book, or collaborate — [Engage](/engage.html)
-- For confirmed forthcoming talks, performances, and events — [Upcoming](/upcoming.html)
-- For research themes and selected publications — [Research](/research.html)
-- For courses and supervision — [Teaching](/teaching.html)
-- For sound art, performances, and installations — [Creative](/creative.html)
-- For full career history, publications, grants, awards, and press — [CV](/cv.html)
+- **[Full participation](/full-participation.html)** — the value
+  underneath everything here: the full participation of disabled people
+  in STEM and in culture, named on my terms.
+- **[Every sense at full resolution](/every-sense.html)** — research,
+  sound art, and installations that treat the body's non-visual senses
+  as full-resolution channels for complex information: audio-tactile
+  graphics, echolocation training, perception-aware AI, and the *ECHO*
+  installation at reSOUND New York.
+- **[Build with people, not for them](/build-with-people.html)** —
+  courses, supervision, co-design workshops, summer schools, and
+  hackathons built with the people they serve, from the MIT
+  assistive-technology capstone to programmes in India, Saudi Arabia,
+  and Uruguay.
+- **[Rigor across boundaries](/rigor-across-boundaries.html)** — the
+  multidisciplinary arc from quantum information through Wolfram\|Alpha
+  to assistive technology, and the research behind it.
+- **[What's next](/whats-next.html)** — confirmed forthcoming
+  engagements, current threads of work, and where each principle's work
+  is heading.
+- **[Engage](/engage.html)** — how to hire, book, or collaborate, and
+  the standards I expect from the people who book me.
+- **[CV](/cv.html)** — the full archival record: roles, publications,
+  grants, awards, press, and skills, with filtered views for the
+  academic, educator, creative, and advocacy strands.
 
 ## Education
 
