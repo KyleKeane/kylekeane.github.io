@@ -130,6 +130,18 @@ change one, edit the `personas:` line in the named file.
   site says PhD 2012; one search snippet of the eScholarship record
   says the dissertation was completed "February 2013". Which year do
   you want shown?
+- [ ] **Ayala drumline era details.** *Affects: `every-sense.md`
+  "High school indoor drumline".* Research sourced the ensemble's
+  record to wgi.org: 1999 WGI Scholastic A World Championship
+  (96.75), 2000 PSO 6th, 2001 PSO 7th, 2002 PSO silver (92.65, 0.20
+  behind Choctawhatchee), with Caleb Rothe (now WGI Hall of Fame)
+  instructing and Mark Stone directing the band. The enriched section
+  assumes you marched during the 1999–2002 window (inferred from your
+  2002 Governor's Scholarshare award at Ayala). Confirm the seasons
+  you marched and whether *Puzzles* / *Opportunities* map to specific
+  years — the pre-2004 show titles are not on the indexable web
+  (Wayback captures of the old Ayala band site are the remaining
+  lead).
 - [ ] **"NASA Chandra data" wording.** *Affects: `index.md` Overview,
   `rigor-across-boundaries.md`.* Your sentence says the sonification
   "took the NASA Chandra data into the *New York Times*". The 2022
@@ -139,6 +151,24 @@ change one, edit the `personas:` line in the named file.
   does not credit you. Confirm whether "Chandra" is the right word or
   whether it should be "NICER" / "X-ray" — left unedited because the
   sentence is yours.
+
+- [ ] **Springer CoCreate chapter authorship.** *Affects:
+  `_cv/publications/chapters-010-springer-cocreate-ip.md`.* Your CV
+  listed the chapter as "Al-Wabil, Al-Megren, Keane, et al.", but the
+  indexed author list (Semantic Scholar) is Almoaiqel, Al-Megren,
+  Oleksak, Alfajhan, Al-Wabil — no Keane. Per the source-conflict
+  rule the entry now shows the indexed authors and frames your
+  relationship as founder of the initiative it documents. If you
+  contributed a section or should be credited differently, say how
+  and the entry will be updated. (If you are not an author at all, it
+  may belong as a supporting link on Build with people rather than in
+  your publications.)
+- [ ] **CoCreate 2020 exhibition date.** *Affects:
+  `build-with-people.md`.* Sources conflict on whether the concluding
+  CoCreate exhibition at Alfaisal College of Engineering was
+  31 January 2020 (launch month) or 31 January 2021 (end of the
+  year-long fellowship, matching the Hopin virtual showcase). Which
+  is right?
 
 ## Adding to this list
 

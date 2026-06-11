@@ -368,3 +368,48 @@ could become a `_cv/` entry or a curated link once verified:
   results for "Kyle Keane" are dominated by the YouTuber Primink
   (whose real name is also Kyle Keane) and an audio engineer "Kyle
   Kean" — exclude both when hunting for coverage.
+
+## Leads from the early-life and HCDI research (June 2026)
+
+- **CoCreate KSA scale figures recovered from search indexes of the
+  dead cocreate20.org site**: 18 fellows, 18 mentors, 138
+  co-creators, 16 affiliates, 25 projects, with fellows committing
+  5-10 hours/week for the year. Pending verification against the
+  Wayback snapshot
+  ([cocreate20.org, 24 May 2022](http://web.archive.org/web/20220524032709/https://cocreate20.org/))
+  before publishing the numbers; the humanistic.app self-description
+  is likewise recoverable from
+  [its 19 July 2024 snapshot](http://web.archive.org/web/20240719110348/https://www.humanistic.app/).
+- **Alfaisal CoCreate continuity**: search snippets show a 30 January
+  2023 exhibit (refreshable tangible graphics for blind users; MND
+  voice bank) and a 17 January 2024 "Social Innovation Exhibit"
+  combining MIT Solv[ED] and CoCreate projects
+  ([Alfaisal News](https://news.alfaisal.edu/social-innovation-exhibit/),
+  server 503s to robots). Confirm and add to build-with-people.md.
+- **CoCreate fellow testimony**: Dr. Sarah Almoaiqel's CV lists
+  "Co-Create Fellowship in the Humanistic Co-Design Initiative,
+  2020-2021" — a named fellow whose career the programme touched.
+- **Kellogg honour naming**: Cal Poly Pomona's programme is the
+  "Kellogg University Scholars Program" ("the highest distinction
+  offered to students in the incoming freshman class" per
+  PolyCentric 2003); the CV says "Kellogg Scholar (2002)". Kyle may
+  want the fuller name and description.
+- **Computational-physics origin story**: the MITili Q&A names
+  Dr. Gregory Childers and Dr. James Feagin as the CSUF professors
+  whose computational physics classes were Kyle's first computer use
+  (second year of college) — natural material for the
+  "Sight loss in my life" section on full-participation.md when Kyle
+  writes the personal voice.
+- **Project Aakaar lineage detail** (MISTI, confirmed): launched at
+  the January 2019 LVPEI workshop; founding team Shantanu Landore,
+  Sarthak Kapoor, Daksh Pamar; implemented at SKEI Bangalore with a
+  Buckingham Browne & Nichols exchange; top-20 in the MIT PKG IDEAS
+  Social Innovation Challenge 2021. Could enrich the 3.008 bullet on
+  build-with-people.md if Kyle wants the detail.
+
+- **Probable-named syndication leads (fetch-blocked, June 2026)**:
+  Newswise and ScienceBlog verbatim reposts of the May 2022 MIT
+  echoes release; GuruMeditation (French, gurumed.org, 3 May 2022);
+  MSN syndicated videos "How Black Hole Observations Were Turned Into
+  Sound". Each almost certainly carries the Keane/Condry paragraph;
+  verify before adding.

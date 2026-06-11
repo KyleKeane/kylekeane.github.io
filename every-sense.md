@@ -254,8 +254,18 @@ with my friend and collaborator Kathy Bolte.
 
 I was part of an award-winning percussion ensemble in high school —
 *Puzzles* and *Opportunities* are the two shows I came back to most.
-The training in technique and group co-ordination still shows up in
-the Spatial Sound Lab work today.
+The ensemble was the Ruben S. Ayala High School indoor percussion
+line in the era of its first World Championship medals: the
+[1999 WGI Percussion Scholastic A World Championship](https://www.wgi.org/historical_score_per/1999/)
+(96.75 — still among the highest scores in the class's history) and
+the
+[2002 WGI Percussion Scholastic Open silver medal](https://www.wgi.org/historical_score_per/2002/),
+with instructors including
+[future WGI Hall of Famer Caleb Rothe](https://www.wgi.org/hall-of-fame-caleb-rothe/).
+The programme went on to become the most decorated scholastic
+percussion programme in WGI history. The training in technique and
+group co-ordination still shows up in the Spatial Sound Lab work
+today.
 
 ## Where this is heading
 

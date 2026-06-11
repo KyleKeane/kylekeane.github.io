@@ -140,7 +140,25 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
 
 ### Humanistic Co-Design Initiative — Fellowship Launch Weekends
 
-A three-day community engagement workshop educating engineering and
+I founded the Humanistic Co-Design Initiative at MIT — a cooperative
+of individuals, organisations, and institutions applying design and
+engineering skills in collaboration with people with disabilities,
+through year-long co-design fellowships seeded by intensive launch
+events. The founding story is profiled by the
+[MIT Ibn Khaldun Fellowship](https://ibk.mit.edu/news/cocreating-for-inclusivity-and-innovation/).
+The Saudi arm — the **CoCreate fellowship** — launched in Riyadh in
+January 2020 with Dr. Areej Al-Wabil (Alfaisal University) and
+Dr. Shiroq Al-Megren, hosted by the Saudi Authority for Intellectual
+Property with support from the Saudi Health Council and the National
+Laboratory for Emerging Health Technologies; the King Salman Center
+for Disability Research invited us to discuss scaling the programme
+nationally. The Indian arm ran with the
+[Headstart Network's Co-CreATe'20 workshop in Chennai](https://headstart.in/events/co-create-20)
+(with SPI Edge and FN+). The CoCreate community's own writing lives on
+[the CoCreate KSA publication on Medium](https://medium.com/co-create-ksa).
+
+The Fellowship Launch Weekend is the initiative's signature format: a
+three-day community engagement workshop educating engineering and
 design students about disability, accessibility, and assistive
 technology before facilitating team formation with a local community
 partner with a disability, around a year-long co-design project.
@@ -172,7 +190,11 @@ partner with a disability, around a year-long co-design project.
 - **LV Prasad Eye Institute, Hyderabad, India** — January 2018 and
   January 2019. The 2019 visit, co-hosted with Dr. Beula Christy, is
   documented in
-  [the LVPEI press release of 19 January 2019](https://www.lvpei.org/press-event/25).
+  [the LVPEI press release of 19 January 2019](https://www.lvpei.org/press-event/25)
+  and LVPEI's own page on
+  [the Humanistic Co-Design for the Visually Impaired workshop](https://www.lvpei.org/news-event/humanistic-co-design-for-the-visually-impaired)
+  (17–19 January 2019, roughly sixty design and engineering
+  students).
 - Independent education startup, Chennai, India — July 2017.
 
 The cross-trip retrospective on this programme is on the MIT MISTI
