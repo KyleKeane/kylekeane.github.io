@@ -130,6 +130,15 @@ change one, edit the `personas:` line in the named file.
   site says PhD 2012; one search snippet of the eScholarship record
   says the dissertation was completed "February 2013". Which year do
   you want shown?
+- [ ] **"NASA Chandra data" wording.** *Affects: `index.md` Overview,
+  `rigor-across-boundaries.md`.* Your sentence says the sonification
+  "took the NASA Chandra data into the *New York Times*". The 2022
+  echo search behind the sonification used NICER data per MIT's
+  release, and research confirmed the NASA/Chandra V404 Cygni
+  sonification (Nov 2022, SYSTEM Sounds) is a separate project that
+  does not credit you. Confirm whether "Chandra" is the right word or
+  whether it should be "NICER" / "X-ray" — left unedited because the
+  sentence is yours.
 
 ## Adding to this list
 

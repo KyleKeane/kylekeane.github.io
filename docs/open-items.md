@@ -281,6 +281,16 @@ could become a `_cv/` entry or a curated link once verified:
   Blind Abilities, Living Blindfully, Double Tap, AT Banter, AppleVis,
   ACB/NFB archives found no Kyle appearances — noted as an outreach
   opportunity rather than a gap in the record.
+- **Rockefeller Center HERO page credit.** A search snippet of
+  [rockefellercenter.com/hero-experience](https://www.rockefellercenter.com/hero-experience/)
+  shows the full named ECHO credit (Kara, Condry, Keane, oOps.50656,
+  KKOL Studio); the page returned 403 during research — verify
+  manually and link from `every-sense.md` if good.
+- **Ars Technica, May 2022.** "Listen to the X-ray echoes of a black
+  hole as it devours a companion star" (Jennifer Ouellette) exists but
+  the site blocks automated fetching, so whether it names Kyle is
+  unverified —
+  [probable URL](https://arstechnica.com/science/2022/05/listen-to-the-x-ray-echoes-of-a-black-hole-as-it-devours-a-companion-star/).
 
 ## Long-term defers (resolved by skip; revisit if Kyle surfaces details)
 
