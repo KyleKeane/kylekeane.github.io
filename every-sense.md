@@ -1,4 +1,4 @@
 ---
-redirect_to: /creative.html
+redirect_to: /artist.html
 sitemap: false
 ---

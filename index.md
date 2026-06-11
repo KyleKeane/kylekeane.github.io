@@ -18,18 +18,16 @@ Materials Science and Engineering before joining Bristol in June 2024.
 
 One value runs under all of it — the
 [full participation](/full-participation.html) of disabled people in
-STEM and in culture — refracted through four facets:
+STEM and in culture — refracted through three personas:
 
-- **[Research](/research.html)** — intersensory perception: how people
-  build meaning through sound and touch, from audio-tactile graphics
-  and echolocation to perception-aware AI.
-- **[Teaching](/teaching.html)** — courses, supervision, and the
+- **[Academic](/academic.html)** — research and teaching:
+  intersensory perception science, the MIT course archive, and the
   global co-design programmes where students build technology with
   disabled co-designers, not for them.
-- **[Creative](/creative.html)** — sound art and immersive
+- **[Artist](/artist.html)** — sound art and immersive
   installation: black-hole data you can hear, currently on view at
   Rockefeller Center.
-- **[Advocacy](/advocacy.html)** — structural change through
+- **[Advocate](/advocate.html)** — structural change through
   accessibility engineering, standards, and consulting.
 
 ## Selected highlights

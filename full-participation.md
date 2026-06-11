@@ -20,9 +20,9 @@ record. The rest of this page explains what that assumption actually looks
 like in practice.
 
 This is the value underneath everything on this site. It shows up in
-the work across all four facets — [Research](/research.html),
-[Teaching](/teaching.html), [Creative](/creative.html), and
-[Advocacy](/advocacy.html) — and every archival CV entry that
+the work across all three personas — [Academic](/academic.html),
+[Artist](/artist.html), and [Advocate](/advocate.html) — and every
+archival CV entry that
 evidences it is collected on
 [the Full participation evidence view](/cv-full-participation.html).
 

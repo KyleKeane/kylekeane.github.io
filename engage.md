@@ -4,7 +4,7 @@ title: Engage
 permalink: /engage.html
 description: How to invite, hire, book, or collaborate with Kyle — keynotes, guest lectures and master classes, workshops, panels, consulting, artistic bookings, supervision, and event programming.
 nav_include: true
-nav_order: 7
+nav_order: 6
 ---
 
 ## Overview
@@ -145,7 +145,7 @@ I work in spatial and immersive audio, sonification, audio-tactile
 graphics, and large-scale installation. The headline currently running
 is *ECHO* at reSOUND New York inside HERO at Rockefeller Center,
 October 2025 – October 2026. The full installation, performance, and
-recording catalogue lives on the [Creative](/creative.html) page.
+recording catalogue lives on the [Artist](/artist.html) page.
 
 I am open to bookings for festivals, museums, galleries, residencies,
 and one-off commissions. I bring my own technical brief and can work
@@ -163,7 +163,7 @@ prospective PhD students with relevant background, and from external
 research groups looking for a co-investigator on grants in these
 areas.
 
-For prospective Bristol students, the [Teaching](/teaching.html) page
+For prospective Bristol students, the [Academic](/academic.html) page
 describes current supervision and the application route.
 
 ## Symposia and events I organise
