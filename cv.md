@@ -4,13 +4,13 @@ title: CV
 permalink: /cv.html
 description: Full record — roles, publications, grants and awards, press, and skills.
 nav_include: true
-nav_order: 8
+nav_order: 7
 ---
 
 ## Overview
 
 The full archival record. The other pages are curated; this one is
-comprehensive. For current research, see [Research](/research.html); for
+comprehensive. For current research, see [Academic](/academic.html); for
 forthcoming engagements, ["What's next"](/whats-next.html); for engagement
 categories, [Engage](/engage.html).
 

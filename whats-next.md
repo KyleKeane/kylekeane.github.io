@@ -4,7 +4,7 @@ title: "What's next"
 permalink: /whats-next.html
 description: Where to hear me, see my work, or meet me in person over the coming months — confirmed forthcoming engagements, current threads of work, and where each principle's work is heading.
 nav_include: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Overview
@@ -20,7 +20,7 @@ to add to this list.
 - **[ECHO](https://resound-nyc.com/artwork/echo) — currently running.**
   On view through 31 October 2026 at HERO at Rockefeller Center inside
   reSOUND New York; daily 11am–7pm. Full description on the
-  [Creative](/creative.html#echo--resound-new-york) page.
+  [Artist](/artist.html#echo--resound-new-york) page.
 - **Keynote, Monterrey, Mexico — late October 2026.** Title, venue, and
   exact date to be confirmed.
 - **Keynote, [Audio Developer Conference (ADC Bristol 26)](https://audio.dev/)
@@ -48,11 +48,11 @@ to start that conversation.
 - Continued performance and installation work with the MIT Spatial
   Sound Lab cohort.
 - Supervision and course development at Bristol continue — see
-  [current teaching on the Teaching page](/teaching.html#current-teaching-at-bristol).
+  [current teaching on the Academic page](/academic.html#current-teaching-at-bristol).
   Forthcoming workshops and cross-field collaborations will be listed
   here as they are confirmed.
 
-The [Research](/research.html) page describes these threads in more
+The [Academic](/academic.html) page describes these threads in more
 depth; the [Engage](/engage.html) page is the right place to start a
 conversation about collaborating on them.
 

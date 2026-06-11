@@ -9,7 +9,7 @@ description: Every CV entry that evidences the cross-disciplinary rigor principl
 
 A filtered view of [the full CV](/cv.html) showing every action that
 evidences the cross-disciplinary rigor principle — the arc shown on
-[Research](/research.html) —
+[Academic](/academic.html) —
 research roles, publications across physics, HCI, cognition, and
 assistive technology, grants, and scholarships. One action can
 evidence several principles, so entries here may also appear on the

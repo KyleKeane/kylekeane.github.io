@@ -1,4 +1,4 @@
 ---
-redirect_to: /research.html
+redirect_to: /academic.html
 sitemap: false
 ---

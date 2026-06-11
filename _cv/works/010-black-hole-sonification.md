@@ -16,4 +16,4 @@ reached the *New York Times*, CNN, and syndication in at least five
 languages, appears on the *Black Hole Reverb* album, and became the
 heart of the *ECHO* installation. Listen on
 [YouTube](https://www.youtube.com/watch?v=iIeIag2Ji8k); the full story
-is on the [Creative](/creative.html) page.
+is on the [Artist](/artist.html) page.

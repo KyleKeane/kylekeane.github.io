@@ -490,6 +490,15 @@ pattern for deep-divers and machines.
   skeleton).
 - [ ] Kyle reviews the facet pitches and highlight selections.
 
+## Phase 12 — Alliterative persona nav (June 2026)
+
+- [x] Nav personas: Academic (absorbing Research + Teaching), Artist
+  (was Creative), Advocate (was Advocacy) — alliterative, three of
+  them, per Kyle. Nav: About, Academic, Artist, Advocate, What's
+  next, Engage, CV.
+- [x] research/teaching/creative/advocacy retired to redirects; all
+  links and chained stubs re-pointed; docs updated.
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)

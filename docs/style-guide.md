@@ -32,20 +32,19 @@ Notes:
   resolution"). The visible label IS the accessible name — never pair
   it with a different `aria-label`.
 - `nav_order` controls the order of nav items. The surface is a
-  facet-first portfolio. Current order: 1. About, 2. Research,
-  3. Teaching, 4. Creative, 5. Advocacy, 6. What's next, 7. Engage,
-  8. CV. The 15 retired pages (`philosophy`, `upcoming`,
-  `every-sense`, `build-with-people`, `rigor-across-boundaries`,
-  `work`, `publications`, `funding`, `skills`, `media`, `speaking`,
-  `events`, `exhibitions`, `performances`, `advising`) are redirect
-  stubs and are not in the nav; `full-participation.md` (the values
-  page) is live but off-nav.
+  persona-first portfolio. Current order: 1. About, 2. Academic,
+  3. Artist, 4. Advocate, 5. What's next, 6. Engage, 7. CV. The 19
+  retired pages (`philosophy`, `upcoming`, `every-sense`,
+  `build-with-people`, `rigor-across-boundaries`, `research`,
+  `teaching`, `creative`, `advocacy`, `work`, `publications`,
+  `funding`, `skills`, `media`, `speaking`, `events`, `exhibitions`,
+  `performances`, `advising`) are redirect stubs and are not in the
+  nav; `full-participation.md` (the values page) is live but off-nav.
 
-## Facet pages
+## Persona pages
 
-The four facet pages (`research.md`, `teaching.md`, `creative.md`,
-`advocacy.md`) follow a stable skeleton so new content drops in
-predictably:
+The three persona pages (`academic.md`, `artist.md`, `advocate.md`)
+follow a stable skeleton so new content drops in predictably:
 
 ```markdown
 ## Overview              <- short elevator pitch (Kyle's voice) +
