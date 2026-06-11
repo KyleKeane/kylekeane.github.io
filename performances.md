@@ -1,4 +1,4 @@
 ---
-redirect_to: /creative.html
+redirect_to: /every-sense.html
 sitemap: false
 ---

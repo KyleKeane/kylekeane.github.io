@@ -2,6 +2,7 @@
 section: skills
 title: "Accessibility"
 personas: [advocate]
+principles: [full-participation, every-sense]
 ---
 
 Section 508 assessments of desktop and web applications; published

@@ -406,6 +406,43 @@ track of. No JavaScript; everything statically generated.
 - [ ] Kyle confirms ECHO's closing date vs. the reSENSE season
   (`docs/open-items.md`).
 
+## Phase 9 — VALUE → PRINCIPLES → EVIDENCE reflow (June 2026)
+
+Kyle asked for a complete informational-architecture redesign: the
+site should flow from his anchor value through principles to the
+evidence of work done, with a homepage that reads as a semantic table
+of contents and prominent future-focused content. One anchor value
+(Full participation); three principles as nav sections.
+
+- [x] `nav_label` support in `_includes/header.html` (short nav pills
+  for long titles).
+- [x] `full-participation.md` — the value hub (philosophy.md verbatim
+  + "The principles" section), nav 2.
+- [x] `every-sense.md` — principle page absorbing research.md +
+  creative.md, nav 3.
+- [x] `build-with-people.md` — principle page absorbing teaching.md,
+  nav 4.
+- [x] `rigor-across-boundaries.md` — principle page (career arc,
+  earlier research themes, talk recordings), nav 5.
+- [x] `whats-next.md` — broadened upcoming.md with per-principle
+  "Where the work is heading" sections, nav 6.
+- [x] index.md — value statement + "What's on this site" semantic ToC
+  (page name first, then description).
+- [x] engage.md nav 3→7; links to renamed pages updated site-wide.
+- [x] philosophy/research/teaching/creative/upcoming converted to
+  redirect stubs; advocacy/exhibitions/performances/advising
+  re-pointed (16 stubs total).
+- [x] Principle-page skeleton documented in docs/style-guide.md.
+- [x] Docs updated (CLAUDE.md, README, style-guide, open-items).
+- [x] `principles:` tags on every `_cv/` entry (one action, many
+  principles) + four evidence views (`/cv-full-participation.html`,
+  `/cv-every-sense.html`, `/cv-build-with-people.html`,
+  `/cv-rigor.html`) + CI lint + schema docs.
+- [ ] Comprehensive media-sweep findings integrated as `_cv/press/`
+  entries (sweep in progress at time of writing).
+- [ ] Kyle fills the sparse future-focused slots on whats-next.md and
+  reviews the reflow judgment calls in docs/open-items.md.
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)

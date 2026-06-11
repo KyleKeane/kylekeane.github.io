@@ -14,12 +14,13 @@ Create `_cv/press/2026-b-outlet-name.md`:
 section: press
 year: 2026
 personas: [academic, advocate]
+principles: [full-participation, rigor]
 ---
 
 [Descriptive link text naming the piece and the outlet](https://example.org/article).
 ```
 
-That's it — one file, four front-matter lines, one markdown line.
+That's it — one file, five front-matter lines, one markdown line.
 
 ## Rules
 
@@ -27,6 +28,12 @@ That's it — one file, four front-matter lines, one markdown line.
   grant-support, awards, scholarships, press, skills, events.
 - `personas:` is REQUIRED, one or more of: academic, educator, creative,
   advocate. CI fails the build if it's missing.
+- `principles:` is REQUIRED, one or more of: full-participation,
+  every-sense, build-with-people, rigor. One action can evidence many
+  principles — tag every one that applies. CI fails the build if it's
+  missing. Drives the evidence views (`/cv-full-participation.html`,
+  `/cv-every-sense.html`, `/cv-build-with-people.html`,
+  `/cv-rigor.html`).
 - `specialties:` is optional, free-form kebab-case tags.
 - `year:` is required for press and grants entries (drives the year
   grouping on the page).

@@ -2,6 +2,7 @@
 section: publications
 group: physics
 personas: [academic]
+principles: [rigor]
 specialties: [physics]
 ---
 

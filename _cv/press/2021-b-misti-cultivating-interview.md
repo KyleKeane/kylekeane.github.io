@@ -2,6 +2,7 @@
 section: press
 year: 2021
 personas: [educator, advocate]
+principles: [full-participation, build-with-people]
 ---
 
 [Cultivating a humanistic design framework in India: an interview with Professor Kyle Keane — MIT MISTI](https://misti.mit.edu/cultivating-humanistic-design-framework-india-interview-professor-kyle-keane)

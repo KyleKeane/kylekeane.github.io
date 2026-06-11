@@ -2,6 +2,7 @@
 section: roles
 title: "Lecturer"
 personas: [academic, educator, advocate]
+principles: [full-participation, build-with-people, rigor]
 specialties: [assistive-technology, machine-learning]
 ---
 

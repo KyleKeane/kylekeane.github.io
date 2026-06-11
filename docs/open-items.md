@@ -59,7 +59,7 @@ serve as a log of what was outstanding.
 
 ## Performances with placeholders
 
-(`creative.md`)
+(`every-sense.md`)
 
 - **Spatial DJ Sound Lounge (Bristol)** — full date, venue,
   collaborator names.
@@ -76,7 +76,7 @@ serve as a log of what was outstanding.
 
 ## Upcoming engagements with placeholders
 
-(`upcoming.md`)
+(`whats-next.md`)
 
 - **Monterrey, Mexico keynote (late October 2026)** — title, exact
   venue, exact date.
@@ -85,21 +85,21 @@ serve as a log of what was outstanding.
 
 - **Audio Developer Conference (ADC) keynote, Bristol (November
   2026)** — title.
-  *Location:* `upcoming.md` confirmed-engagements list.
+  *Location:* `whats-next.md` confirmed-engagements list.
   *Status update (June 2026):* conference dates confirmed as 9–11
   November 2026 (Bristol Marriott Hotel City Centre) and added to
-  `upcoming.md`; Kyle is not yet on the public speaker listing, so
+  `whats-next.md`; Kyle is not yet on the public speaker listing, so
   the keynote itself still rests on his confirmation. Talk title
   still needed.
 
 ## Bristol student supervision details
 
-(`teaching.md`; mirror in `engage.md`
+(`build-with-people.md`; mirror in `engage.md`
 `## Research collaboration and PhD supervision` as needed)
 
 - **Final-year Computer Science dissertation supervisees** — names,
   project titles, academic years.
-  *Location:* `teaching.md` `### Bristol student supervision`.
+  *Location:* `build-with-people.md` `### Bristol student supervision`.
   *To resolve:* one bullet per student, e.g. "**Student Name** —
   Final-year CS dissertation, *Project title*, 2024–25." A
   per-year structure works well as the list grows.
@@ -136,17 +136,17 @@ documented, even if only as an attendee. Bristol-era attendance
 
 ## Upcoming travel and conference attendance
 
-(`upcoming.md`)
+(`whats-next.md`)
 
 Kyle wants forthcoming travel — including conferences he's
 attending purely as an attendee — surfaced so collaborators know
-where to find him. The intro on `upcoming.md` was extended in PR #12
+where to find him. The intro on `whats-next.md` was extended in PR #12
 to invite attendance-only entries; entries themselves are still
 needed.
 
 - **Forthcoming conference attendances** — names, dates, cities for
   conferences Kyle plans to attend in the next 12 months.
-  *To resolve:* one bullet per planned trip on `upcoming.md` with a
+  *To resolve:* one bullet per planned trip on `whats-next.md` with a
   type tag (`[Attending]` for attendee-only) and city. After the
   conference, the bullet can move to the `cv.md` "Conferences and
   events attended" section.
@@ -185,10 +185,13 @@ needed.
 
 ## New items from the June 2026 research pass
 
-- **ECHO closing date vs. the reSENSE season.** `upcoming.md` and
-  `creative.md` say *ECHO* runs through 31 October 2026, but
+- **ECHO closing date vs. the reSENSE season.** `whats-next.md` and
+  `every-sense.md` say *ECHO* runs through 31 October 2026, but
   reSOUND New York launched a new season called *reSENSE*
-  (23 April – 18 October 2026) per an I Love NY listing.
+  (23 April – 18 October 2026) per an I Love NY listing — and a June
+  2026 fetch of resound-nyc.com found the current season's artwork
+  list no longer includes ECHO. It looks likely ECHO has rotated out;
+  Kyle to confirm so both pages can be updated.
   *To resolve:* Kyle to confirm whether ECHO continues inside the
   reSENSE season and through what date, then align both pages.
 
@@ -201,13 +204,11 @@ needed.
   *To resolve:* Kyle to confirm the post is his; if so it could be
   cited from the teaching or CV pages.
 
-- **CHI 2020 ATHack paper authorship.** A CHI extended abstract
-  "ATHack: Co-Design and Education in Assistive Technology
-  Development" exists
-  ([ACM DL](https://dl.acm.org/doi/fullHtml/10.1145/3334480.3383096));
-  Kyle's authorship was not verified.
-  *To resolve:* if Kyle is an author, add a `_cv/publications/`
-  entry.
+- ~~**CHI 2020 ATHack paper authorship.**~~ **Resolved negative
+  (June 2026):** the Semantic Scholar record lists the authors as
+  Narain, Ananthabhotla, Méndez, Taylor, Siu, Brugnaro, and Mallozzi —
+  Kyle is not among them. Not added. (Whether he appears in its
+  acknowledgments is unchecked; ACM blocks fetching.)
 
 - **Scaffolding the Fantastical podcast year.** The episode page
   dates it 14 January 2026, but the CV lists it under press 2025
@@ -222,6 +223,107 @@ needed.
 - **Persona tags need Kyle's review.** Every `_cv/` entry was tagged
   during the June 2026 migration; the judgment calls are listed for
   adjudication in `docs/open-questions.md`.
+
+## New items from the June 2026 VALUE → PRINCIPLES → EVIDENCE reflow
+
+- **Sparse future-focused sections on `whats-next.md`.** The
+  `### Build with people, not for them` and
+  `### Rigor across boundaries` H3s under "Where the work is heading"
+  have only connective sentences — they are the slots for Kyle's
+  forthcoming workshops, programmes, and cross-field collaborations.
+  *To resolve:* Kyle supplies items; one bullet each.
+
+- **Placement of "Talk recordings on computational thinking and
+  curriculum."** Moved from the old teaching.md to
+  `rigor-across-boundaries.md` (it documents the Computational
+  Thinking Framework, which lives there). Defensible to move it to
+  `build-with-people.md` instead — Kyle to confirm.
+
+- **Two link-text edits inside Kyle's prose** made during the reflow,
+  for his sign-off: `engage.md` "the [Philosophy] page" became "the
+  [Full participation] page"; the spatial-audio research thread's
+  "via the [Creative] page" became "via the [Performances section
+  below]" on `every-sense.md`.
+
+## Leads from the June 2026 deep research waves (snippet-confidence — verify before adding)
+
+These surfaced in searches but could not be fetched/confirmed; each
+could become a `_cv/` entry or a curated link once verified:
+
+- ~~**Equitable AI Alliance webinar (Zero Project).**~~ **Resolved
+  (June 2026):** confirmed by fetch on the
+  [Equitable AI Alliance page](https://zeroproject.org/initiatives/equitable-ai-alliance) —
+  Kyle co-hosted *Equitable AI Dialogues: How to ensure diversity in
+  the world of AI* with David Banes and Jutta Treviranus; now
+  mentioned on engage.md. The webinar's date is still unknown — add
+  it (and a `_cv/press/` entry) once Kyle supplies it.
+- **LVPEI MITra co-design page.**
+  [lvpmitra.com/hcdknowmore](https://lvpmitra.com/hcdknowmore)
+  describes the Humanistic Co-design workshop with Dr. Beula Christy;
+  site refused connections during research.
+- **CoCreate Saudi Arabia 2022 page at the King Salman Center's ICDR
+  site** — [icdr.org.sa/en/CoCreate](https://www.icdr.org.sa/en/CoCreate);
+  refused connections.
+- **Project Aakaar listing on MIT Solve** —
+  [solve.mit.edu/solutions/60870](https://solve.mit.edu/solutions/60870)
+  (snippet does not name Kyle; the Aakaar lineage is documented in the
+  MISTI retrospective already linked from Build with people).
+- **MIT BeaverWorks online course pages** (bwsix.mit.edu, Design of
+  Assistive Technologies 2019/2020/2021) — returned 503 during
+  research; would make good links for the BeaverWorks entries.
+- **CSUN 2021 pre-conference workshop** — a Google-indexed snippet of
+  the CSUN session index shows a Humanistic Co-Design pre-conference
+  workshop with Kyle's bio; the page now requires a session. Kyle to
+  confirm; if real it belongs in `_cv/events/` or engage.md.
+- **Wolfram Demonstrations Project** — snippets say Kyle authored
+  31 Demonstrations; the author page could not be fetched to
+  enumerate. A link could join the Wolfram-era role entry.
+- ~~**Marburg University Library lecture, 2 April 2025**~~ **Resolved
+  (June 2026):** confirmed by fetch — the
+  [Math4VIP listing](https://www.math4vip.de/inhalt/aktuelles/ki-systeme-und-wie-sie-blinden-nutzern-helfen-vortrag-von-dr-kyle-keane/)
+  names Kyle and gives the talk title (*The Importance of Spatial
+  Reasoning in AI Systems to Help Blind Users...*); added to
+  `_cv/press/2025-g-math4vip-marburg-lecture.md`.
+- **Blindness-podcast circuit absence.** Searches of Eyes on Success,
+  Blind Abilities, Living Blindfully, Double Tap, AT Banter, AppleVis,
+  ACB/NFB archives found no Kyle appearances — noted as an outreach
+  opportunity rather than a gap in the record.
+- **Rockefeller Center HERO page credit.** A search snippet of
+  [rockefellercenter.com/hero-experience](https://www.rockefellercenter.com/hero-experience/)
+  shows the full named ECHO credit (Kara, Condry, Keane, oOps.50656,
+  KKOL Studio); the page returned 403 during research — verify
+  manually and link from `every-sense.md` if good.
+- **Ars Technica, May 2022.** "Listen to the X-ray echoes of a black
+  hole as it devours a companion star" (Jennifer Ouellette) exists but
+  the site blocks automated fetching, so whether it names Kyle is
+  unverified —
+  [probable URL](https://arstechnica.com/science/2022/05/listen-to-the-x-ray-echoes-of-a-black-hole-as-it-devours-a-companion-star/).
+- **Dead project sites with confirmed Wayback snapshots.** The
+  CoCreate site (cocreate20.org) refuses connections and
+  humanistic.app is a parked domain, but snapshots exist that Kyle
+  (or a future session with archive access) can open directly:
+  [cocreate20.org snapshot, 21 January 2021](http://web.archive.org/web/20210121045640/https://www.cocreate20.org/);
+  [kylekeane.com snapshot, 22 December 2014](http://web.archive.org/web/20141222154613/http://www.kylekeane.com:80/);
+  [kylekeane.com snapshot, 26 December 2017](http://web.archive.org/web/20171226170351/http://www.kylekeane.com:80/).
+  Consider preserving CoCreate content somewhere durable.
+- **Possible thesis acknowledgments** (MIT DSpace blocks fetching):
+  Halie Nakamura's 2025 MEng thesis (continuation of the
+  Sinha/Keane facial-recognition line,
+  [DSpace PDF](https://dspace.mit.edu/bitstream/handle/1721.1/163037/nakamura-halnak-meng-eecs-2025-thesis.pdf))
+  and Mihir Trivedi's 2022 MEng thesis
+  ([DSpace PDF](https://dspace.mit.edu/bitstream/handle/1721.1/143139/Trivedi-mihirt-meng-eecs-2022-thesis.pdf))
+  surfaced on Keane-acknowledgment searches — verify involvement
+  before citing.
+- **Wolfram Summer Research Program 2013 faculty page** — a snippet
+  suggests Kyle appears on the
+  [2013 faculty listing](https://education.wolfram.com/summer-research-high-school/faculty/2013/)
+  (fetch returned 403). If real, his summer-school involvement starts
+  two years earlier than the site currently says (2015).
+- **January 2016 Arduino IAP corroboration** — collaborator Andrew
+  Ringler's
+  [teaching archive](https://andrewringler.com/tag/teaching/)
+  (confirmed-fetched) documents a January 2016 run of the Arduino
+  course with Kyle, a year before the OCW-published 2017 edition.
 
 ## Long-term defers (resolved by skip; revisit if Kyle surfaces details)
 
@@ -253,3 +355,16 @@ needed.
 - Don't add items to this file that have already been addressed by
   documented decisions in `docs/briefing-audit.md`. Cross-check
   before adding anything new.
+
+- **Wolfram Library Archive: "Math and Mathematica 9 for Blind
+  Students and Blind Users."** Search snippets attribute this
+  conference record (~March 2015) to "Kyle Keane, PhD (Education and
+  Accessibility Consultant, Wolfram Research Inc.)" —
+  [library.wolfram.com record](https://library.wolfram.com/infocenter/Conferences/8544/)
+  (fetch returned 403). If confirmed, it is the earliest public
+  accessibility-talk artifact from the Wolfram era.
+
+- **Namesake warning for future research sessions.** YouTube search
+  results for "Kyle Keane" are dominated by the YouTuber Primink
+  (whose real name is also Kyle Keane) and an audio engineer "Kyle
+  Kean" — exclude both when hunting for coverage.

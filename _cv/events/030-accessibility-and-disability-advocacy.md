@@ -2,6 +2,7 @@
 section: events
 title: "Accessibility and disability advocacy"
 personas: [advocate]
+principles: [full-participation]
 ---
 
 - HCR@Work: 2023

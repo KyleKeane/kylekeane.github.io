@@ -2,6 +2,7 @@
 section: roles
 title: "Undergraduate Researcher"
 personas: [academic]
+principles: [rigor]
 specialties: [physics]
 ---
 

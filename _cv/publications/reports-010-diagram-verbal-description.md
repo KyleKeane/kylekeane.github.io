@@ -2,6 +2,7 @@
 section: publications
 group: reports
 personas: [academic, advocate]
+principles: [full-participation, every-sense, rigor]
 specialties: [accessibility, standards]
 ---
 

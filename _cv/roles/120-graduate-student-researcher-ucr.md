@@ -2,6 +2,7 @@
 section: roles
 title: "Graduate Student Researcher"
 personas: [academic]
+principles: [rigor]
 specialties: [quantum]
 ---
 

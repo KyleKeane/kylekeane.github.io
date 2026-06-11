@@ -2,6 +2,7 @@
 section: grants
 year: 2022
 personas: [educator, advocate]
+principles: [full-participation, build-with-people]
 ---
 
 *Intercultural Education Exchange* — United States Embassy of Uruguay.

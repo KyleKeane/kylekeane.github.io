@@ -2,6 +2,7 @@
 section: roles
 title: "Technical Consultant"
 personas: [educator, advocate]
+principles: [full-participation, build-with-people]
 specialties: [accessibility, outreach]
 ---
 

@@ -2,6 +2,7 @@
 section: skills
 title: "Programming languages"
 personas: [academic, educator, creative, advocate]
+principles: [full-participation, every-sense, build-with-people, rigor]
 ---
 
 - **Fluent:** Mathematica / Wolfram Language; JavaScript, HTML, CSS.

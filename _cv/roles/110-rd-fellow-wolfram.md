@@ -3,6 +3,7 @@ section: roles
 title: "R&D Fellow"
 anchor: rd-fellow
 personas: [advocate]
+principles: [full-participation]
 specialties: [accessibility]
 ---
 

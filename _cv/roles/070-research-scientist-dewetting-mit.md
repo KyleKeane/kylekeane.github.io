@@ -2,6 +2,7 @@
 section: roles
 title: "Research Scientist (Solid-State Dewetting)"
 personas: [academic]
+principles: [rigor]
 specialties: [computation, simulation]
 ---
 

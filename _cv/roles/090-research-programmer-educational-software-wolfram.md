@@ -3,6 +3,7 @@ section: roles
 title: "Research Programmer — Educational Software"
 anchor: research-programmer--educational-software
 personas: [educator]
+principles: [build-with-people, rigor]
 specialties: [software, education]
 ---
 

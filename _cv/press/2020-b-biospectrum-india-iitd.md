@@ -2,6 +2,7 @@
 section: press
 year: 2020
 personas: [educator, advocate]
+principles: [full-participation, build-with-people]
 ---
 
 [IIT-D to work with MIT on assistive technology — BioSpectrum India](https://www.biospectrumindia.com/news/68/15633/iit-d-to-work-with-mit-on-assistive-technology.html),

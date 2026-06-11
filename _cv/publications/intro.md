@@ -2,6 +2,7 @@
 section: publications
 group: intro
 personas: [academic, educator, creative, advocate]
+principles: [full-participation, every-sense, build-with-people, rigor]
 ---
 
 Across peer-reviewed journals, conference proceedings, and educational

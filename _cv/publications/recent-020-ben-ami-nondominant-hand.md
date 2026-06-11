@@ -2,6 +2,7 @@
 section: publications
 group: recent
 personas: [academic]
+principles: [every-sense, rigor]
 specialties: [perception]
 ---
 

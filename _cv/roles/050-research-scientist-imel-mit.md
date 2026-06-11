@@ -2,6 +2,7 @@
 section: roles
 title: "Research Scientist (Interactive Materials Education Laboratory)"
 personas: [academic, educator]
+principles: [build-with-people, rigor]
 specialties: [education, interactive-media]
 ---
 

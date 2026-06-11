@@ -2,6 +2,7 @@
 section: skills
 title: "Software development"
 personas: [academic, educator, advocate]
+principles: [full-participation, build-with-people, rigor]
 ---
 
 Large multi-contributor Python codebases for AI in interdisciplinary

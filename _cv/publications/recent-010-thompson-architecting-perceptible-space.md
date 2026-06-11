@@ -2,6 +2,7 @@
 section: publications
 group: recent
 personas: [academic, creative, advocate]
+principles: [full-participation, every-sense, rigor]
 specialties: [spatial-audio, echolocation]
 ---
 

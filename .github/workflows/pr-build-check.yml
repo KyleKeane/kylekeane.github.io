@@ -36,7 +36,7 @@ jobs:
           ruby --version || true
           gem list jekyll 2>/dev/null || true
 
-      - name: Check every CV entry has persona tags
+      - name: Check every CV entry has persona and principle tags
         shell: bash
         run: |
           set -euo pipefail
@@ -47,7 +47,13 @@ jobs:
               echo "$untagged"
               exit 1
             fi
-            echo "All CV entries carry persona tags."
+            unprincipled=$(grep -rL 'principles: \[' _cv --include='*.md' | grep -v 'README.md' || true)
+            if [ -n "$unprincipled" ]; then
+              echo "::error::CV entries missing a 'principles: [...]' front-matter line:"
+              echo "$unprincipled"
+              exit 1
+            fi
+            echo "All CV entries carry persona and principle tags."
           fi
 
       - name: Build with Jekyll

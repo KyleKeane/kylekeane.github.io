@@ -1,4 +1,4 @@
 ---
-redirect_to: /philosophy.html
+redirect_to: /full-participation.html
 sitemap: false
 ---
