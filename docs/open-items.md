@@ -59,7 +59,7 @@ serve as a log of what was outstanding.
 
 ## Performances with placeholders
 
-(`creative.md`)
+(`every-sense.md`)
 
 - **Spatial DJ Sound Lounge (Bristol)** — full date, venue,
   collaborator names.
@@ -76,7 +76,7 @@ serve as a log of what was outstanding.
 
 ## Upcoming engagements with placeholders
 
-(`upcoming.md`)
+(`whats-next.md`)
 
 - **Monterrey, Mexico keynote (late October 2026)** — title, exact
   venue, exact date.
@@ -85,21 +85,21 @@ serve as a log of what was outstanding.
 
 - **Audio Developer Conference (ADC) keynote, Bristol (November
   2026)** — title.
-  *Location:* `upcoming.md` confirmed-engagements list.
+  *Location:* `whats-next.md` confirmed-engagements list.
   *Status update (June 2026):* conference dates confirmed as 9–11
   November 2026 (Bristol Marriott Hotel City Centre) and added to
-  `upcoming.md`; Kyle is not yet on the public speaker listing, so
+  `whats-next.md`; Kyle is not yet on the public speaker listing, so
   the keynote itself still rests on his confirmation. Talk title
   still needed.
 
 ## Bristol student supervision details
 
-(`teaching.md`; mirror in `engage.md`
+(`build-with-people.md`; mirror in `engage.md`
 `## Research collaboration and PhD supervision` as needed)
 
 - **Final-year Computer Science dissertation supervisees** — names,
   project titles, academic years.
-  *Location:* `teaching.md` `### Bristol student supervision`.
+  *Location:* `build-with-people.md` `### Bristol student supervision`.
   *To resolve:* one bullet per student, e.g. "**Student Name** —
   Final-year CS dissertation, *Project title*, 2024–25." A
   per-year structure works well as the list grows.
@@ -136,17 +136,17 @@ documented, even if only as an attendee. Bristol-era attendance
 
 ## Upcoming travel and conference attendance
 
-(`upcoming.md`)
+(`whats-next.md`)
 
 Kyle wants forthcoming travel — including conferences he's
 attending purely as an attendee — surfaced so collaborators know
-where to find him. The intro on `upcoming.md` was extended in PR #12
+where to find him. The intro on `whats-next.md` was extended in PR #12
 to invite attendance-only entries; entries themselves are still
 needed.
 
 - **Forthcoming conference attendances** — names, dates, cities for
   conferences Kyle plans to attend in the next 12 months.
-  *To resolve:* one bullet per planned trip on `upcoming.md` with a
+  *To resolve:* one bullet per planned trip on `whats-next.md` with a
   type tag (`[Attending]` for attendee-only) and city. After the
   conference, the bullet can move to the `cv.md` "Conferences and
   events attended" section.
@@ -185,8 +185,8 @@ needed.
 
 ## New items from the June 2026 research pass
 
-- **ECHO closing date vs. the reSENSE season.** `upcoming.md` and
-  `creative.md` say *ECHO* runs through 31 October 2026, but
+- **ECHO closing date vs. the reSENSE season.** `whats-next.md` and
+  `every-sense.md` say *ECHO* runs through 31 October 2026, but
   reSOUND New York launched a new season called *reSENSE*
   (23 April – 18 October 2026) per an I Love NY listing.
   *To resolve:* Kyle to confirm whether ECHO continues inside the
@@ -222,6 +222,27 @@ needed.
 - **Persona tags need Kyle's review.** Every `_cv/` entry was tagged
   during the June 2026 migration; the judgment calls are listed for
   adjudication in `docs/open-questions.md`.
+
+## New items from the June 2026 VALUE → PRINCIPLES → EVIDENCE reflow
+
+- **Sparse future-focused sections on `whats-next.md`.** The
+  `### Build with people, not for them` and
+  `### Rigor across boundaries` H3s under "Where the work is heading"
+  have only connective sentences — they are the slots for Kyle's
+  forthcoming workshops, programmes, and cross-field collaborations.
+  *To resolve:* Kyle supplies items; one bullet each.
+
+- **Placement of "Talk recordings on computational thinking and
+  curriculum."** Moved from the old teaching.md to
+  `rigor-across-boundaries.md` (it documents the Computational
+  Thinking Framework, which lives there). Defensible to move it to
+  `build-with-people.md` instead — Kyle to confirm.
+
+- **Two link-text edits inside Kyle's prose** made during the reflow,
+  for his sign-off: `engage.md` "the [Philosophy] page" became "the
+  [Full participation] page"; the spatial-audio research thread's
+  "via the [Creative] page" became "via the [Performances section
+  below]" on `every-sense.md`.
 
 ## Long-term defers (resolved by skip; revisit if Kyle surfaces details)
 

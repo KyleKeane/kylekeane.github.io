@@ -50,12 +50,16 @@ The accessibility checklist for a new page is in
 ```
 .
 ├── index.md                        # About (home). nav 1, permalink: /
-├── philosophy.md                   # nav 2, permalink: /philosophy.html
-├── engage.md                       # nav 3, permalink: /engage.html
-├── upcoming.md                     # nav 4, permalink: /upcoming.html
-├── research.md                     # nav 5, permalink: /research.html
-├── teaching.md                     # nav 6, permalink: /teaching.html
-├── creative.md                     # nav 7, permalink: /creative.html
+│                                   #   value statement + semantic ToC
+├── full-participation.md           # nav 2 — THE VALUE (was philosophy.md)
+├── every-sense.md                  # nav 3 — principle: Every sense at full
+│                                   #   resolution (absorbed research+creative)
+├── build-with-people.md            # nav 4 — principle: Build with people,
+│                                   #   not for them (absorbed teaching)
+├── rigor-across-boundaries.md      # nav 5 — principle: Rigor across
+│                                   #   boundaries (career arc + earlier research)
+├── whats-next.md                   # nav 6 — future-focused (was upcoming.md)
+├── engage.md                       # nav 7, permalink: /engage.html
 ├── cv.md                           # nav 8 — unified CV generated from _cv/, permalink: /cv.html
 ├── cv-academic.md, cv-educator.md, # persona-filtered CV views generated
 ├── cv-creative.md, cv-advocacy.md  # from the same _cv/ entries; linked
@@ -66,11 +70,12 @@ The accessibility checklist for a new page is in
 │   ├── roles/ affiliations/ publications/ grants/ grant-support/
 │   └── awards/ scholarships/ press/ skills/ events/
 ├── _includes/cv-sections.html      # Liquid rendering the _cv/ entries
+├── philosophy.md, research.md, teaching.md, creative.md, upcoming.md,
 ├── work.md, publications.md, funding.md, skills.md, media.md,
-│                                   # 11 redirect-only stubs using
+│                                   # 16 redirect-only stubs using
 ├── speaking.md, events.md, exhibitions.md, performances.md,
 │                                   # _layouts/redirect.html; each forwards
-├── advising.md, advocacy.md        # to one of the 8 pages above
+├── advising.md, advocacy.md        # to one of the 8 nav pages above
 ├── _config.yml                     # title, description, plugins, exclude
 ├── _layouts/default.html           # main page layout
 ├── _layouts/redirect.html          # redirect-stub layout
@@ -113,6 +118,7 @@ permalink: /<slug>.html
 description: <One-sentence summary used in <meta name="description">>
 nav_include: true
 nav_order: <integer; lower numbers come first in the nav>
+nav_label: <optional short label for the nav pill; defaults to title>
 ---
 ```
 
@@ -120,12 +126,16 @@ Then write the body in markdown. **Do not write your own H1** in the body —
 the layout produces it from `title`. Start your body content at H2 (`##`).
 
 If a page should not appear in the top nav, omit `nav_include` (or set it
-to `false`). The nav order today is set by `nav_order: 1..8` (the seven
-public sections — About, Philosophy, Engage, Upcoming, Research, Teaching,
-Creative — plus CV at 8). Retired pages use `_layouts/redirect.html` and
-are not in the nav. The four persona CV views (`cv-academic.md`,
-`cv-educator.md`, `cv-creative.md`, `cv-advocacy.md`) deliberately omit
-`nav_include` — they are reached from links at the top of the CV page.
+to `false`). The site's information architecture flows VALUE →
+PRINCIPLES → EVIDENCE: nav order is `1..8` — About, Full participation
+(the value), the three principle pages (Every sense at full resolution,
+Build with people not for them, Rigor across boundaries), What's next,
+Engage, and CV at 8. Principle pages follow a stable skeleton documented
+in [`docs/style-guide.md`](docs/style-guide.md) ("Principle pages").
+Retired pages use `_layouts/redirect.html` and are not in the nav. The
+four persona CV views (`cv-academic.md`, `cv-educator.md`,
+`cv-creative.md`, `cv-advocacy.md`) deliberately omit `nav_include` —
+they are reached from links at the top of the CV page.
 
 ## Adding a CV entry
 
@@ -159,7 +169,7 @@ Rules that matter:
   [`_cv/README.md`](_cv/README.md).
 - **Curation vs. archive is intentional duplication.** A talk or press
   item lives canonically as a `_cv/` entry and MAY also be hand-added to
-  a curated page (teaching.md, engage.md, creative.md, upcoming.md)
+  a curated page (build-with-people.md, engage.md, every-sense.md, whats-next.md)
   where it fits that page's narrative. Do not "deduplicate" the curated
   mentions against the CV — both are supposed to exist.
 - `_includes/cv-sections.html` emits H2 tags with `id` as the first

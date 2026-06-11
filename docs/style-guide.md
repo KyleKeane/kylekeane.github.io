@@ -27,12 +27,43 @@ Notes:
   describing what's on the page in plain language.
 - `nav_include: true` puts the page in the top nav; omit (or set
   `false`) to keep a page off the nav.
-- `nav_order` controls the order of nav items. Current order:
-  1. About (homepage), 2. Philosophy, 3. Engage, 4. Upcoming,
-  5. Research, 6. Teaching, 7. Creative, 8. CV. The 11 retired pages
-  (`work`, `publications`, `funding`, `skills`, `media`, `speaking`,
-  `events`, `exhibitions`, `performances`, `advising`, `advocacy`)
-  are redirect stubs and are not in the nav.
+- `nav_label` (optional) gives a short label for the nav pill when the
+  full `title` is too long (e.g. "Every sense" for "Every sense at full
+  resolution"). The visible label IS the accessible name — never pair
+  it with a different `aria-label`.
+- `nav_order` controls the order of nav items. The information
+  architecture flows VALUE → PRINCIPLES → EVIDENCE. Current order:
+  1. About (homepage), 2. Full participation (the value),
+  3. Every sense at full resolution, 4. Build with people not for
+  them, 5. Rigor across boundaries (the principles), 6. What's next,
+  7. Engage, 8. CV. The 16 retired pages (`philosophy`, `research`,
+  `teaching`, `creative`, `upcoming`, `work`, `publications`,
+  `funding`, `skills`, `media`, `speaking`, `events`, `exhibitions`,
+  `performances`, `advising`, `advocacy`) are redirect stubs and are
+  not in the nav.
+
+## Principle pages
+
+The three principle pages (`every-sense.md`, `build-with-people.md`,
+`rigor-across-boundaries.md`) follow a stable H2 skeleton so new
+content drops in predictably:
+
+```markdown
+## The principle                      <- Kyle's framing prose
+## What this looks like in practice   <- routing + active work + a link
+                                         to the matching CV persona view
+## <Evidence section H2s>             <- page-specific; one H3 per body
+                                         of evidence
+## Earlier work                       <- optional archive section
+## Where this is heading              <- short + link to this page's H3
+                                         on /whats-next.html
+```
+
+To add new evidence: one H3 under the right evidence H2, plus
+(optionally) its `_cv/` entry — the curation-vs-archive duplication is
+intentional (see CLAUDE.md). Each principle has a matching H3 on
+`whats-next.md` under "Where the work is heading" for future-focused
+items.
 
 ## CV entries (`_cv/`)
 

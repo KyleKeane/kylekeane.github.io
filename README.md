@@ -51,13 +51,17 @@ Read it before adding a page or making non-trivial content edits.
 
 ```
 .
-├── index.md                        # About (home).        nav 1, /
-├── philosophy.md                   # nav 2,  /philosophy.html
-├── engage.md                       # nav 3,  /engage.html
-├── upcoming.md                     # nav 4,  /upcoming.html
-├── research.md                     # nav 5,  /research.html
-├── teaching.md                     # nav 6,  /teaching.html
-├── creative.md                     # nav 7,  /creative.html
+├── index.md                        # About (home). nav 1, / — value
+│                                   # statement + semantic ToC
+├── full-participation.md           # nav 2 — the VALUE (full participation)
+├── every-sense.md                  # nav 3 — principle: every sense at
+│                                   # full resolution (research + sound art)
+├── build-with-people.md            # nav 4 — principle: build with people,
+│                                   # not for them (teaching + co-design)
+├── rigor-across-boundaries.md      # nav 5 — principle: rigor across
+│                                   # boundaries (career arc + earlier research)
+├── whats-next.md                   # nav 6 — future-focused engagements
+├── engage.md                       # nav 7,  /engage.html
 ├── cv.md                           # nav 8,  /cv.html — unified CV,
 │                                   # generated from _cv/ entries
 ├── cv-academic.md, cv-educator.md, # persona-filtered CV views
@@ -70,9 +74,10 @@ Read it before adding a page or making non-trivial content edits.
 │   ├── scholarships/ press/
 │   ├── skills/ events/
 ├── _includes/cv-sections.html      # Liquid that renders _cv/ entries
+├── philosophy.md, research.md, teaching.md, creative.md, upcoming.md,
 ├── work.md, publications.md, funding.md, skills.md, media.md,
 ├── speaking.md, events.md, exhibitions.md, performances.md,
-├── advising.md, advocacy.md        # 11 redirect stubs forwarding
+├── advising.md, advocacy.md        # 16 redirect stubs forwarding
 │                                   # to one of the 8 pages above
 ├── _config.yml                     # site title, plugins, exclude rules
 ├── _layouts/default.html           # main page layout
@@ -87,7 +92,11 @@ Read it before adding a page or making non-trivial content edits.
 ```
 
 The eight pages with `nav_include: true` make up the top nav, ordered
-by `nav_order: 1..8`. The eleven redirect stubs exist for inbound-link
+by `nav_order: 1..8`; the nav reads left-to-right as value (Full
+participation) → principles (Every sense, Build with people, Rigor) →
+future (What's next) → action (Engage) → archive (CV). Long titles use
+the optional `nav_label` front-matter field for a short nav pill. The
+sixteen redirect stubs exist for inbound-link
 continuity from earlier versions of the site — each one is a six-line
 markdown file using `_layouts/redirect.html` and a `redirect_to:`
 front-matter field.
@@ -198,7 +207,7 @@ you still want the old URL to resolve.
    works for users with refresh disabled.
 3. Don't include `nav_include` — retired pages stay out of the nav.
 
-There are eleven examples already at the repo root (`work.md`,
+There are sixteen examples already at the repo root (`work.md`,
 `publications.md`, `funding.md`, `skills.md`, `media.md`, `speaking.md`,
 `events.md`, `exhibitions.md`, `performances.md`, `advising.md`,
 `advocacy.md`) — copy any of them as a starting point.
