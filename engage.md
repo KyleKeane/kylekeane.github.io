@@ -119,7 +119,11 @@ Bristol), *From Vibration to Visualization: Sensemaking within
 Multimodal Technologies* (Uncommon Senses V, Concordia University),
 the IDEAS / E+D IPA Give Innovation Panel at Microsoft Research
 Cambridge, and *Media Art, Culture, and Social Justice* at
-Northeastern University. I am happy to chair as well as participate.
+Northeastern University. With the Zero Project's
+[Equitable AI Alliance](https://zeroproject.org/initiatives/equitable-ai-alliance)
+I co-hosted the webinar *Equitable AI Dialogues: How to ensure
+diversity in the world of AI* with David Banes and Jutta Treviranus.
+I am happy to chair as well as participate.
 
 ## Consulting and advisory
 

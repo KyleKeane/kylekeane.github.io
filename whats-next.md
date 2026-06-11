@@ -80,7 +80,9 @@ talks, performances, exhibitions, and events is on the
 - **[Access Bristol](https://www.accessbristol.org/),** the two-day
   assistive-technology accelerator I organised with GitHub and Smartbox
   as lead industry sponsors at the University of Bristol, 8–9 November
-  2025 — see the [Access Bristol outcomes report](https://accessbristol.org/outcomes.html).
+  2025 — see the [Access Bristol outcomes report](https://accessbristol.org/outcomes.html)
+  and the
+  [University of Bristol's video about the accelerator](https://www.youtube.com/watch?v=XZGZZ-g1GGQ).
 - **Lightning-Talk Speaker,** *Frontiers of Accessible Technology*,
   Dissolve Music 2025, MIT Spatial Sound Lab, 3 October 2025.
 - **Guest,** *How AI tools are transforming the lives of people with

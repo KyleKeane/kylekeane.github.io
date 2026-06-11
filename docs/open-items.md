@@ -188,7 +188,10 @@ needed.
 - **ECHO closing date vs. the reSENSE season.** `whats-next.md` and
   `every-sense.md` say *ECHO* runs through 31 October 2026, but
   reSOUND New York launched a new season called *reSENSE*
-  (23 April – 18 October 2026) per an I Love NY listing.
+  (23 April – 18 October 2026) per an I Love NY listing — and a June
+  2026 fetch of resound-nyc.com found the current season's artwork
+  list no longer includes ECHO. It looks likely ECHO has rotated out;
+  Kyle to confirm so both pages can be updated.
   *To resolve:* Kyle to confirm whether ECHO continues inside the
   reSENSE season and through what date, then align both pages.
 
@@ -201,13 +204,11 @@ needed.
   *To resolve:* Kyle to confirm the post is his; if so it could be
   cited from the teaching or CV pages.
 
-- **CHI 2020 ATHack paper authorship.** A CHI extended abstract
-  "ATHack: Co-Design and Education in Assistive Technology
-  Development" exists
-  ([ACM DL](https://dl.acm.org/doi/fullHtml/10.1145/3334480.3383096));
-  Kyle's authorship was not verified.
-  *To resolve:* if Kyle is an author, add a `_cv/publications/`
-  entry.
+- ~~**CHI 2020 ATHack paper authorship.**~~ **Resolved negative
+  (June 2026):** the Semantic Scholar record lists the authors as
+  Narain, Ananthabhotla, Méndez, Taylor, Siu, Brugnaro, and Mallozzi —
+  Kyle is not among them. Not added. (Whether he appears in its
+  acknowledgments is unchecked; ACM blocks fetching.)
 
 - **Scaffolding the Fantastical podcast year.** The episode page
   dates it 14 January 2026, but the CV lists it under press 2025
@@ -249,10 +250,13 @@ needed.
 These surfaced in searches but could not be fetched/confirmed; each
 could become a `_cv/` entry or a curated link once verified:
 
-- **Equitable AI Alliance webinar (Zero Project).** A snippet says
-  Kyle hosted a webinar on inclusive/accessible AI with David Banes
-  and Jutta Treviranus —
-  [Zero Project Equitable AI Alliance page](https://zeroproject.org/initiatives/equitable-ai-alliance).
+- ~~**Equitable AI Alliance webinar (Zero Project).**~~ **Resolved
+  (June 2026):** confirmed by fetch on the
+  [Equitable AI Alliance page](https://zeroproject.org/initiatives/equitable-ai-alliance) —
+  Kyle co-hosted *Equitable AI Dialogues: How to ensure diversity in
+  the world of AI* with David Banes and Jutta Treviranus; now
+  mentioned on engage.md. The webinar's date is still unknown — add
+  it (and a `_cv/press/` entry) once Kyle supplies it.
 - **LVPEI MITra co-design page.**
   [lvpmitra.com/hcdknowmore](https://lvpmitra.com/hcdknowmore)
   describes the Humanistic Co-design workshop with Dr. Beula Christy;
@@ -274,9 +278,12 @@ could become a `_cv/` entry or a curated link once verified:
 - **Wolfram Demonstrations Project** — snippets say Kyle authored
   31 Demonstrations; the author page could not be fetched to
   enumerate. A link could join the Wolfram-era role entry.
-- **Marburg University Library lecture, 2 April 2025** — "AI-Systems
-  and how they help blind users" surfaced unattributed; plausibly
-  Kyle's Marburg guest session. Confirm before adding.
+- ~~**Marburg University Library lecture, 2 April 2025**~~ **Resolved
+  (June 2026):** confirmed by fetch — the
+  [Math4VIP listing](https://www.math4vip.de/inhalt/aktuelles/ki-systeme-und-wie-sie-blinden-nutzern-helfen-vortrag-von-dr-kyle-keane/)
+  names Kyle and gives the talk title (*The Importance of Spatial
+  Reasoning in AI Systems to Help Blind Users...*); added to
+  `_cv/press/2025-g-math4vip-marburg-lecture.md`.
 - **Blindness-podcast circuit absence.** Searches of Eyes on Success,
   Blind Abilities, Living Blindfully, Double Tap, AT Banter, AppleVis,
   ACB/NFB archives found no Kyle appearances — noted as an outreach
@@ -291,6 +298,32 @@ could become a `_cv/` entry or a curated link once verified:
   the site blocks automated fetching, so whether it names Kyle is
   unverified —
   [probable URL](https://arstechnica.com/science/2022/05/listen-to-the-x-ray-echoes-of-a-black-hole-as-it-devours-a-companion-star/).
+- **Dead project sites with confirmed Wayback snapshots.** The
+  CoCreate site (cocreate20.org) refuses connections and
+  humanistic.app is a parked domain, but snapshots exist that Kyle
+  (or a future session with archive access) can open directly:
+  [cocreate20.org snapshot, 21 January 2021](http://web.archive.org/web/20210121045640/https://www.cocreate20.org/);
+  [kylekeane.com snapshot, 22 December 2014](http://web.archive.org/web/20141222154613/http://www.kylekeane.com:80/);
+  [kylekeane.com snapshot, 26 December 2017](http://web.archive.org/web/20171226170351/http://www.kylekeane.com:80/).
+  Consider preserving CoCreate content somewhere durable.
+- **Possible thesis acknowledgments** (MIT DSpace blocks fetching):
+  Halie Nakamura's 2025 MEng thesis (continuation of the
+  Sinha/Keane facial-recognition line,
+  [DSpace PDF](https://dspace.mit.edu/bitstream/handle/1721.1/163037/nakamura-halnak-meng-eecs-2025-thesis.pdf))
+  and Mihir Trivedi's 2022 MEng thesis
+  ([DSpace PDF](https://dspace.mit.edu/bitstream/handle/1721.1/143139/Trivedi-mihirt-meng-eecs-2022-thesis.pdf))
+  surfaced on Keane-acknowledgment searches — verify involvement
+  before citing.
+- **Wolfram Summer Research Program 2013 faculty page** — a snippet
+  suggests Kyle appears on the
+  [2013 faculty listing](https://education.wolfram.com/summer-research-high-school/faculty/2013/)
+  (fetch returned 403). If real, his summer-school involvement starts
+  two years earlier than the site currently says (2015).
+- **January 2016 Arduino IAP corroboration** — collaborator Andrew
+  Ringler's
+  [teaching archive](https://andrewringler.com/tag/teaching/)
+  (confirmed-fetched) documents a January 2016 run of the Arduino
+  course with Kyle, a year before the OCW-published 2017 edition.
 
 ## Long-term defers (resolved by skip; revisit if Kyle surfaces details)
 
@@ -322,3 +355,16 @@ could become a `_cv/` entry or a curated link once verified:
 - Don't add items to this file that have already been addressed by
   documented decisions in `docs/briefing-audit.md`. Cross-check
   before adding anything new.
+
+- **Wolfram Library Archive: "Math and Mathematica 9 for Blind
+  Students and Blind Users."** Search snippets attribute this
+  conference record (~March 2015) to "Kyle Keane, PhD (Education and
+  Accessibility Consultant, Wolfram Research Inc.)" —
+  [library.wolfram.com record](https://library.wolfram.com/infocenter/Conferences/8544/)
+  (fetch returned 403). If confirmed, it is the earliest public
+  accessibility-talk artifact from the Wolfram era.
+
+- **Namesake warning for future research sessions.** YouTube search
+  results for "Kyle Keane" are dominated by the YouTuber Primink
+  (whose real name is also Kyle Keane) and an audio engineer "Kyle
+  Kean" — exclude both when hunting for coverage.

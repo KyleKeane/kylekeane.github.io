@@ -83,7 +83,10 @@ Verbal Description* report I wrote at Wolfram for the DIAGRAM Center
 is the underpinning of the audio-tactile graphics work I'm doing now.
 The recommendation to separate intent from action led to the
 formation of the W3C User-Intent Working Group; the verbal-description
-guidelines are in continued use at PhET and elsewhere.
+guidelines are in continued use at PhET and elsewhere — the PhET
+team's chapter
+[*Keyboard and Screen Reader Accessibility in Complex Interactive Science Simulations* (Springer, 2018)](https://link.springer.com/chapter/10.1007/978-3-319-92049-8_28)
+cites the recommended practices directly.
 
 Every archival CV entry that evidences this principle is collected on
 [the Every sense evidence view](/cv-every-sense.html); the creative and
