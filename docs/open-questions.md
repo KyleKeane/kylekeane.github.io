@@ -130,6 +130,18 @@ change one, edit the `personas:` line in the named file.
   site says PhD 2012; one search snippet of the eScholarship record
   says the dissertation was completed "February 2013". Which year do
   you want shown?
+- [ ] **Ayala drumline era details.** *Affects: `every-sense.md`
+  "High school indoor drumline".* Research sourced the ensemble's
+  record to wgi.org: 1999 WGI Scholastic A World Championship
+  (96.75), 2000 PSO 6th, 2001 PSO 7th, 2002 PSO silver (92.65, 0.20
+  behind Choctawhatchee), with Caleb Rothe (now WGI Hall of Fame)
+  instructing and Mark Stone directing the band. The enriched section
+  assumes you marched during the 1999–2002 window (inferred from your
+  2002 Governor's Scholarshare award at Ayala). Confirm the seasons
+  you marched and whether *Puzzles* / *Opportunities* map to specific
+  years — the pre-2004 show titles are not on the indexable web
+  (Wayback captures of the old Ayala band site are the remaining
+  lead).
 - [ ] **"NASA Chandra data" wording.** *Affects: `index.md` Overview,
   `rigor-across-boundaries.md`.* Your sentence says the sonification
   "took the NASA Chandra data into the *New York Times*". The 2022
