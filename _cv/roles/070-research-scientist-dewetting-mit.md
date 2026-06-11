@@ -3,7 +3,7 @@ section: roles
 title: "Research Scientist (Solid-State Dewetting)"
 personas: [academic]
 principles: [rigor]
-specialties: [computation, simulation]
+specialties: [computation, simulation, mit, usa, materials-science, gpu-computing]
 ---
 
 MIT — Carl V. Thompson Research Group, Materials Science and Engineering,

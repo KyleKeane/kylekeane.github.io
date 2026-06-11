@@ -3,7 +3,7 @@ section: publications
 group: physics
 personas: [academic]
 principles: [rigor]
-specialties: [physics]
+specialties: [physics, csu-fullerton, electron-scattering, atomic-physics]
 ---
 
 **M. A. Khakoo, K. Keane, C. Campbell, N. Guzman, and K. Hazlett,**

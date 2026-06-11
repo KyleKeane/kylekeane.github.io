@@ -3,7 +3,7 @@ section: publications
 group: dissertation
 personas: [academic]
 principles: [rigor]
-specialties: [quantum]
+specialties: [uc-riverside, quantum-information, superconducting-qubits, wave-physics, physics]
 ---
 
 **Kyle Keane,** *Quantum State Protection and Transfer Using

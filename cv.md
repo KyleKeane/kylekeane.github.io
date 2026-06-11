@@ -39,4 +39,14 @@ By value and principle:
 - [Evidence for Build with people, not for them](/cv-build-with-people.html)
 - [Evidence for Rigor across boundaries](/cv-rigor.html)
 
+By topic — places, institutions, subjects, and formats:
+
+- [Browse the full record by topic](/topics.html) — every tag gets its
+  own filtered view (for example
+  [India](/topic-india.html), [sonification](/topic-sonification.html),
+  [percussion](/topic-percussion.html), or [MIT](/topic-mit.html)).
+
+The Selected works section below gathers the major accomplishments,
+each with its media coverage attached.
+
 {% include cv-sections.html %}

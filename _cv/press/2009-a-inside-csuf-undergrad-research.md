@@ -1,8 +1,10 @@
 ---
 section: press
+type: institutional-feature
 year: 2009
 personas: [academic]
 principles: [rigor]
+specialties: [csu-fullerton, california, electron-scattering, physics, undergraduate-research]
 ---
 
 [Preparing Undergraduates for the Rigors of Original Research — Inside CSUF](http://calstate.fullerton.edu/news/Inside/2009/integrating-undergraduate-research.html),

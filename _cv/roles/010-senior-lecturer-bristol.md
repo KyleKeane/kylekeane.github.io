@@ -3,7 +3,7 @@ section: roles
 title: "Senior Lecturer in Assistive Technologies"
 personas: [academic, educator, creative, advocate]
 principles: [full-participation, every-sense, build-with-people, rigor]
-specialties: [assistive-technology, spatial-audio, hci]
+specialties: [assistive-technology, spatial-audio, hci, university-of-bristol, uk, bristol, immersive-audio, echolocation, haptics, ai, teaching, supervision]
 ---
 
 University of Bristol — School of Computer Science, June 2024 – present.

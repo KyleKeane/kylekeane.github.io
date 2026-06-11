@@ -3,7 +3,7 @@ section: roles
 title: "Undergraduate Researcher"
 personas: [academic]
 principles: [rigor]
-specialties: [physics]
+specialties: [physics, csu-fullerton, california, usa, electron-scattering, atomic-physics, instrumentation]
 ---
 
 California State University, Fullerton — Physics and Astronomy,

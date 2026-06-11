@@ -3,7 +3,7 @@ section: publications
 group: recent
 personas: [academic, advocate]
 principles: [full-participation, rigor]
-specialties: [assistive-technology]
+specialties: [assistive-technology, innovation, who, global-health, accessibility]
 ---
 
 **Catherine Holloway, Dafne Zuleima Morgado Ramirez, Tigmanshu

@@ -3,7 +3,7 @@ section: publications
 group: educational-resources
 personas: [educator]
 principles: [build-with-people]
-specialties: [electronics, education]
+specialties: [electronics, education, mit, opencourseware, co-design]
 ---
 
 **Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark Vrablic,**

@@ -3,6 +3,7 @@ section: grants
 year: 2022
 personas: [academic, advocate]
 principles: [full-participation, rigor]
+specialties: [johns-hopkins, disability-advocacy, social-network, assistive-technology]
 ---
 
 *Niche Advice Sharing Social Network for Individuals with Disabilities*

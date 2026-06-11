@@ -443,6 +443,28 @@ of contents and prominent future-focused content. One anchor value
 - [ ] Kyle fills the sparse future-focused slots on whats-next.md and
   reviews the reflow judgment calls in docs/open-items.md.
 
+## Phase 10 — Works, coverage metadata, and the topic layer (June 2026)
+
+Kyle asked for accomplishment-centric organization: each major work as
+a primary record with its media coverage attached as metadata, plus an
+obsessive topic-tag layer filterable from the website.
+
+- [x] `_cv/works/` section: 12 major accomplishments (sonification,
+  ECHO, HCDI, PPAT, the Wolfram|Alpha/Siri engineering, the DIAGRAM
+  standards, measurement reversal, CodeSeal, Access Bristol, Emergent
+  Harmonics, the Ayala drumline era, Project Aakaar), each carrying
+  the full tag set and rendered as "Selected works" on every CV view.
+- [x] `about:` keys on press entries attach coverage to works;
+  auto-collected "Coverage and recognition" sublists.
+- [x] `type:` labels on all press entries (news-article, syndication,
+  talk-recording, podcast, ...).
+- [x] Obsessive `specialties:` tags on all ~160 entries: places,
+  institutions, subjects, formats (~150 distinct tags).
+- [x] `/topics.html` auto-enumerating index + one filtered page per
+  tag (topics/<tag>.md, generated; include gains a specialty param).
+- [x] Entry points from cv.md and the homepage semantic ToC.
+- [ ] Kyle reviews the works framing and tag vocabulary.
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)

@@ -4,7 +4,7 @@ title: "Research Programmer — Educational Software"
 anchor: research-programmer--educational-software
 personas: [educator]
 principles: [build-with-people, rigor]
-specialties: [software, education]
+specialties: [software, education, wolfram-research, usa, physics, curriculum-design]
 ---
 
 Wolfram Research — Educational Technology and Software, January 2014 –

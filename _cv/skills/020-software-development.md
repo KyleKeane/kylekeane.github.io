@@ -3,6 +3,7 @@ section: skills
 title: "Software development"
 personas: [academic, educator, advocate]
 principles: [full-participation, build-with-people, rigor]
+specialties: [software, ai, accessibility, natural-language, wolfram-research]
 ---
 
 Large multi-contributor Python codebases for AI in interdisciplinary

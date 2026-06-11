@@ -3,7 +3,7 @@ section: publications
 group: chapters
 personas: [academic, educator, advocate]
 principles: [full-participation, build-with-people, rigor]
-specialties: [assistive-technology]
+specialties: [assistive-technology, alfaisal-university, saudi-arabia, riyadh, co-design, intellectual-property, fellowship]
 ---
 
 **Sarah Almoaiqel, Shiroq Al-Megren, Mark Oleksak, Ghadeer Alfajhan,

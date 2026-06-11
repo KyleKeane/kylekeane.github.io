@@ -1,8 +1,10 @@
 ---
 section: press
+type: institutional-feature
 year: 2011
 personas: [academic]
 principles: [rigor]
+specialties: [csu-fullerton, california, electron-scattering, atomic-physics]
 ---
 
 [CSUF News "People" item, November 2011](http://calstate.fullerton.edu/archive/people/2011/11.aspx)

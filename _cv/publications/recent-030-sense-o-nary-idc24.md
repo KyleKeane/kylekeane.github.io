@@ -3,7 +3,7 @@ section: publications
 group: recent
 personas: [academic]
 principles: [every-sense, rigor]
-specialties: [hci, crossmodal]
+specialties: [hci, crossmodal, university-of-bristol, perception, children, education]
 ---
 
 **Tegan Joy Roberts-Morgan, Brooke Morris, Elaine Czech, Suhan Neema,

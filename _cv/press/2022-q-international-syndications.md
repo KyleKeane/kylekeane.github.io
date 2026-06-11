@@ -1,8 +1,11 @@
 ---
 section: press
+type: syndication
+about: black-hole-sonification
 year: 2022
 personas: [academic, creative]
 principles: [every-sense, rigor]
+specialties: [sonification, black-holes, astrophysics, chile, germany, brazil, italy]
 ---
 
 International syndications of the black-hole-echoes story naming me as

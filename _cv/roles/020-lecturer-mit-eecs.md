@@ -3,7 +3,7 @@ section: roles
 title: "Lecturer"
 personas: [academic, educator, advocate]
 principles: [full-participation, build-with-people, rigor]
-specialties: [assistive-technology, machine-learning]
+specialties: [assistive-technology, machine-learning, mit, usa, boston, co-design, teaching]
 ---
 
 Massachusetts Institute of Technology — Electrical Engineering and Computer

@@ -2,6 +2,7 @@
 section: grant-support
 personas: [academic]
 principles: [rigor]
+specialties: [uc-riverside, quantum-information, superconducting-qubits, physics]
 ---
 
 *Multi-qubit algorithms in Josephson phase qubits* — ARO/IARPA,

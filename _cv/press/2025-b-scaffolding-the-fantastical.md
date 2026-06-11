@@ -1,8 +1,10 @@
 ---
 section: press
+type: podcast
 year: 2025
 personas: [advocate]
 principles: [full-participation]
+specialties: [accessibility, design, disability-advocacy]
 ---
 
 [Scaffolding the Fantastical — Simon Mellins Consulting podcast, episode 15](https://www.simonmellins.com/podcast/episode15)

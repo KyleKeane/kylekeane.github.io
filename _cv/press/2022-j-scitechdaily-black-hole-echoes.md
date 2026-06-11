@@ -1,8 +1,11 @@
 ---
 section: press
+type: syndication
+about: black-hole-sonification
 year: 2022
 personas: [academic, creative]
 principles: [every-sense, rigor]
+specialties: [sonification, black-holes, astrophysics]
 ---
 
 [Hear the Eerie Sounds of a Black Hole Echo — SciTechDaily](https://scitechdaily.com/hear-the-eerie-sounds-of-a-black-hole-echo-search-reveals-8-new-sources-of-black-hole-echoes/),

@@ -4,7 +4,7 @@ title: "Teaching Assistant / Laboratory Instructor"
 anchor: teaching-assistant--laboratory-instructor
 personas: [academic, educator]
 principles: [build-with-people, rigor]
-specialties: [physics, education]
+specialties: [physics, education, uc-riverside, california, usa, teaching]
 ---
 
 UC Riverside — Physics and Astronomy, September 2007 – December 2008

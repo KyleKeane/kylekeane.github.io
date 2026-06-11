@@ -1,8 +1,10 @@
 ---
 section: press
+type: talk-recording
 year: 2017
 personas: [academic]
 principles: [rigor]
+specialties: [wolfram-research, mit, photonics, simulation, materials-science]
 ---
 
 [Designing Nanostructures That Reproduce Colors: An Adaptive Mesh Search Technique — Wolfram Technology Conference 2017 (talk recording)](https://www.wolfram.com/broadcast/video.php?v=2033),

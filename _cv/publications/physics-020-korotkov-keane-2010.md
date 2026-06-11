@@ -3,7 +3,7 @@ section: publications
 group: physics
 personas: [academic]
 principles: [rigor]
-specialties: [quantum]
+specialties: [uc-riverside, quantum-information, superconducting-qubits, wave-physics, physics]
 ---
 
 **Alexander N. Korotkov and Kyle Keane,** *Decoherence suppression by

@@ -3,6 +3,7 @@ section: grants
 year: 2020
 personas: [educator, advocate]
 principles: [full-participation, build-with-people]
+specialties: [mit, alfaisal-university, saudi-arabia, riyadh, co-design, assistive-technology, fellowship, incubator]
 ---
 
 *CoCreATe Riyadh* — Al-Faisal University. Funding from Saudi sources

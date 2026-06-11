@@ -45,9 +45,10 @@ and the [CV](/cv.html) holds the complete archival evidence.
   is heading.
 - **[Engage](/engage.html)** — how to hire, book, or collaborate, and
   the standards I expect from the people who book me.
-- **[CV](/cv.html)** — the full archival record: roles, publications,
-  grants, awards, press, and skills, with filtered views for the
-  academic, educator, creative, and advocacy strands.
+- **[CV](/cv.html)** — the full archival record: selected works with
+  their media coverage, roles, publications, grants, awards, press,
+  and skills, with filtered views by persona, by principle, and
+  [by topic](/topics.html).
 
 ## Education
 

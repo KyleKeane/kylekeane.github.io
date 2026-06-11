@@ -3,7 +3,7 @@ section: roles
 title: "AI Research Scientist"
 personas: [academic, advocate]
 principles: [full-participation, every-sense, rigor]
-specialties: [ai, accessibility]
+specialties: [ai, accessibility, mit, usa, perception, cognition, psychometrics, tactile-graphics, simulation]
 ---
 
 MIT — College of Computing, Quest for Intelligence, September 2019 –
