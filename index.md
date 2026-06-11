@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: Senior Lecturer in Assistive Technologies at the University of Bristol — researcher, educator, consultant, and artist working in AI, human cognition, and multisensory interaction.
+description: Senior Lecturer in Assistive Technologies at the University of Bristol — researcher, educator, artist, and advocate working in AI, human cognition, and multisensory interaction.
 nav_include: true
 nav_order: 1
 ---
@@ -16,39 +16,54 @@ are. PhD in physics from UC Riverside; seven years in Wolfram Research as
 a Research Programmer and R&D Fellow; eight years on the MIT faculty in
 Materials Science and Engineering before joining Bristol in June 2024.
 
-Everything on this site serves one value: the full participation of
-disabled people in STEM and in culture. The
-[Full participation](/full-participation.html) page states that value in
-my own terms; three principle pages show what it produces in practice;
-and the [CV](/cv.html) holds the complete archival evidence.
+One value runs under all of it — the
+[full participation](/full-participation.html) of disabled people in
+STEM and in culture — refracted through four facets:
 
-## What's on this site
+- **[Research](/research.html)** — intersensory perception: how people
+  build meaning through sound and touch, from audio-tactile graphics
+  and echolocation to perception-aware AI.
+- **[Teaching](/teaching.html)** — courses, supervision, and the
+  global co-design programmes where students build technology with
+  disabled co-designers, not for them.
+- **[Creative](/creative.html)** — sound art and immersive
+  installation: black-hole data you can hear, currently on view at
+  Rockefeller Center.
+- **[Advocacy](/advocacy.html)** — structural change through
+  accessibility engineering, standards, and consulting.
 
-- **[Full participation](/full-participation.html)** — the value
-  underneath everything here: the full participation of disabled people
-  in STEM and in culture, named on my terms.
-- **[Every sense at full resolution](/every-sense.html)** — research,
-  sound art, and installations that treat the body's non-visual senses
-  as full-resolution channels for complex information: audio-tactile
-  graphics, echolocation training, perception-aware AI, and the *ECHO*
-  installation at reSOUND New York.
-- **[Build with people, not for them](/build-with-people.html)** —
-  courses, supervision, co-design workshops, summer schools, and
-  hackathons built with the people they serve, from the MIT
-  assistive-technology capstone to programmes in India, Saudi Arabia,
-  and Uruguay.
-- **[Rigor across boundaries](/rigor-across-boundaries.html)** — the
-  multidisciplinary arc from quantum information through Wolfram\|Alpha
-  to assistive technology, and the research behind it.
-- **[What's next](/whats-next.html)** — confirmed forthcoming
-  engagements, current threads of work, and where each principle's work
-  is heading.
-- **[Engage](/engage.html)** — how to hire, book, or collaborate, and
-  the standards I expect from the people who book me.
-- **[CV](/cv.html)** — the full archival record: selected works with
-  their media coverage, roles, publications, grants, awards, press,
-  and skills, with filtered views by persona, by principle, and
-  [by topic](/topics.html).
+## Selected highlights
+
+- **The black-hole sonification** that took X-ray echo data into the
+  [*New York Times*](https://www.nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html),
+  CNN, and press in five languages —
+  [the full story with all coverage](/cv.html#black-hole-sonification).
+- **[ECHO](/cv.html#echo-kinetic-sound-and-light-installation)**, the
+  kinetic sound-and-light installation built on it: 110,000 visitors in
+  Seoul, now at HERO, Rockefeller Center.
+- **[The Humanistic Co-Design Initiative](/cv.html#humanistic-co-design-initiative)**,
+  the incubator and fellowship programme I founded, with programmes
+  across India, Saudi Arabia, and Uruguay.
+- **[The Wolfram|Alpha step-by-step solver and the Siri integration](/cv.html#wolfram-alpha-step-by-step-solver-and-the-siri-integration)**
+  — computational answers, spoken aloud, for millions.
+
+For what's coming up — talks, installations, and current threads — see
+[What's next](/whats-next.html). To hire, book, or collaborate, see
+[Engage](/engage.html). The complete archival record, filterable by
+facet, value, and [topic](/topics.html), is the [CV](/cv.html).
+
+## Going deeper
+
+The quick path above is the human one: facets, highlights, archive.
+There is a second, deeper pattern for anyone — person or machine — who
+wants to understand the why: the value of
+[full participation](/full-participation.html) (the participation
+model of disability, my language, my expectations), and the principle
+threads through the record —
+[every sense at full resolution](/cv-every-sense.html),
+[build with people, not for them](/cv-build-with-people.html), and
+[rigor across boundaries](/cv-rigor.html) — where every tagged
+accomplishment evidences the principles it lived by.
 
 ## Education
 

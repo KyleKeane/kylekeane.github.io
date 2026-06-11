@@ -16,4 +16,4 @@ intensive launch weekends. Programmes ran across India (Delhi,
 Chennai, Hyderabad), Saudi Arabia (the CoCreate fellowship), and
 Uruguay, with spin-offs including Project Aakaar. The founding story
 and partner network are on
-[Build with people, not for them](/build-with-people.html#international-workshops-and-intensives).
+the [Teaching](/teaching.html#international-workshops-and-intensives) page.

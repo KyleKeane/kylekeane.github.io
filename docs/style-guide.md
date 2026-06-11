@@ -31,39 +31,35 @@ Notes:
   full `title` is too long (e.g. "Every sense" for "Every sense at full
   resolution"). The visible label IS the accessible name — never pair
   it with a different `aria-label`.
-- `nav_order` controls the order of nav items. The information
-  architecture flows VALUE → PRINCIPLES → EVIDENCE. Current order:
-  1. About (homepage), 2. Full participation (the value),
-  3. Every sense at full resolution, 4. Build with people not for
-  them, 5. Rigor across boundaries (the principles), 6. What's next,
-  7. Engage, 8. CV. The 16 retired pages (`philosophy`, `research`,
-  `teaching`, `creative`, `upcoming`, `work`, `publications`,
-  `funding`, `skills`, `media`, `speaking`, `events`, `exhibitions`,
-  `performances`, `advising`, `advocacy`) are redirect stubs and are
-  not in the nav.
+- `nav_order` controls the order of nav items. The surface is a
+  facet-first portfolio. Current order: 1. About, 2. Research,
+  3. Teaching, 4. Creative, 5. Advocacy, 6. What's next, 7. Engage,
+  8. CV. The 15 retired pages (`philosophy`, `upcoming`,
+  `every-sense`, `build-with-people`, `rigor-across-boundaries`,
+  `work`, `publications`, `funding`, `skills`, `media`, `speaking`,
+  `events`, `exhibitions`, `performances`, `advising`) are redirect
+  stubs and are not in the nav; `full-participation.md` (the values
+  page) is live but off-nav.
 
-## Principle pages
+## Facet pages
 
-The three principle pages (`every-sense.md`, `build-with-people.md`,
-`rigor-across-boundaries.md`) follow a stable H2 skeleton so new
-content drops in predictably:
+The four facet pages (`research.md`, `teaching.md`, `creative.md`,
+`advocacy.md`) follow a stable skeleton so new content drops in
+predictably:
 
 ```markdown
-## The principle                      <- Kyle's framing prose
-## What this looks like in practice   <- routing + active work + a link
-                                         to the matching CV persona view
-## <Evidence section H2s>             <- page-specific; one H3 per body
-                                         of evidence
-## Earlier work                       <- optional archive section
-## Where this is heading              <- short + link to this page's H3
-                                         on /whats-next.html
+## Overview              <- short elevator pitch (Kyle's voice) +
+                            a Highlights list of 3-5 works linking
+                            to /cv.html#<work-anchor>
+## <Content section H2s> <- page-specific curated detail; one H3 per
+                            body of work
+## Full record           <- links to the matching persona CV view and
+                            2-3 example topic pages
 ```
 
-To add new evidence: one H3 under the right evidence H2, plus
+To add new evidence: one H3 under the right content H2, plus
 (optionally) its `_cv/` entry — the curation-vs-archive duplication is
-intentional (see CLAUDE.md). Each principle has a matching H3 on
-`whats-next.md` under "Where the work is heading" for future-focused
-items.
+intentional (see CLAUDE.md).
 
 ## CV entries (`_cv/`)
 

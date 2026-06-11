@@ -465,6 +465,31 @@ obsessive topic-tag layer filterable from the website.
 - [x] Entry points from cv.md and the homepage semantic ToC.
 - [ ] Kyle reviews the works framing and tag vocabulary.
 
+## Phase 11 — Facet-first portfolio teardown (June 2026)
+
+Kyle's verdict on Phase 9: principles as nav buried the content. The
+rebuild inverts the surface — a facet-first professional portfolio for
+humans (elevator pitch → highlights → archive), with the
+value/principle layer preserved as the deeper second refraction
+pattern for deep-divers and machines.
+
+- [x] Nav: About, Research, Teaching, Creative, Advocacy, What's next,
+  Engage, CV (facet pages revived at their original URLs).
+- [x] Each facet page: short Overview pitch + Highlights (works links
+  into /cv.html anchors) + curated detail + "Full record" archive
+  links.
+- [x] index.md: elevator pitch, facet cards, selected highlights, the
+  "Going deeper" second-pattern section, education, contact.
+- [x] full-participation.md off-nav (content untouched); principle
+  pages converted to redirects (every-sense→creative,
+  build-with-people→teaching, rigor→research); chained stubs
+  re-pointed; advocacy.md revived as a facet page.
+- [x] All links rewired; whats-next simplified; evidence views and
+  topic layer untouched.
+- [x] Docs updated (CLAUDE.md two-pattern IA, style-guide facet
+  skeleton).
+- [ ] Kyle reviews the facet pitches and highlight selections.
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)

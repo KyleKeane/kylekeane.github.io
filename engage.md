@@ -145,7 +145,7 @@ I work in spatial and immersive audio, sonification, audio-tactile
 graphics, and large-scale installation. The headline currently running
 is *ECHO* at reSOUND New York inside HERO at Rockefeller Center,
 October 2025 – October 2026. The full installation, performance, and
-recording catalogue lives on the [Every sense at full resolution](/every-sense.html) page.
+recording catalogue lives on the [Creative](/creative.html) page.
 
 I am open to bookings for festivals, museums, galleries, residencies,
 and one-off commissions. I bring my own technical brief and can work
@@ -163,7 +163,7 @@ prospective PhD students with relevant background, and from external
 research groups looking for a co-investigator on grants in these
 areas.
 
-For prospective Bristol students, the [Build with people, not for them](/build-with-people.html) page
+For prospective Bristol students, the [Teaching](/teaching.html) page
 describes current supervision and the application route.
 
 ## Symposia and events I organise
