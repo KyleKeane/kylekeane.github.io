@@ -152,6 +152,24 @@ change one, edit the `personas:` line in the named file.
   whether it should be "NICER" / "X-ray" — left unedited because the
   sentence is yours.
 
+- [ ] **Springer CoCreate chapter authorship.** *Affects:
+  `_cv/publications/chapters-010-springer-cocreate-ip.md`.* Your CV
+  listed the chapter as "Al-Wabil, Al-Megren, Keane, et al.", but the
+  indexed author list (Semantic Scholar) is Almoaiqel, Al-Megren,
+  Oleksak, Alfajhan, Al-Wabil — no Keane. Per the source-conflict
+  rule the entry now shows the indexed authors and frames your
+  relationship as founder of the initiative it documents. If you
+  contributed a section or should be credited differently, say how
+  and the entry will be updated. (If you are not an author at all, it
+  may belong as a supporting link on Build with people rather than in
+  your publications.)
+- [ ] **CoCreate 2020 exhibition date.** *Affects:
+  `build-with-people.md`.* Sources conflict on whether the concluding
+  CoCreate exhibition at Alfaisal College of Engineering was
+  31 January 2020 (launch month) or 31 January 2021 (end of the
+  year-long fellowship, matching the Hopin virtual showcase). Which
+  is right?
+
 ## Adding to this list
 
 When a new question comes up, add a checkbox here with:
