@@ -2,6 +2,7 @@
 section: roles
 title: "Head of User Experience"
 personas: [educator]
+principles: [build-with-people]
 specialties: [software, ux]
 ---
 

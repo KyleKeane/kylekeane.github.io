@@ -36,8 +36,11 @@ principles below are how it shows up in the work.
   multidisciplinary arc from quantum information through Wolfram\|Alpha
   to assistive technology, and the publications behind it.
 
-The rest of this page states the value itself. The archival evidence
-for this strand of the work is on the [Advocacy CV](/cv-advocacy.html).
+The rest of this page states the value itself. Every archival CV entry
+that evidences this value is collected on
+[the Full participation evidence view](/cv-full-participation.html);
+the advocacy strand of the record is also readable as the
+[Advocacy CV](/cv-advocacy.html).
 
 ## A participation model of disability
 

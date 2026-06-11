@@ -1,6 +1,7 @@
 ---
 section: grant-support
 personas: [academic]
+principles: [rigor]
 ---
 
 *Multi-qubit algorithms in Josephson phase qubits* — ARO/IARPA,

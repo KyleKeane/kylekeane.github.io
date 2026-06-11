@@ -2,6 +2,7 @@
 section: press
 year: 2026
 personas: [creative, advocate]
+principles: [full-participation, every-sense]
 ---
 
 [Black Hole Sonification by Blind Physicist Kyle Keane at reSOUND New York — M. Leona Godin](https://drmlgodin.com/2026/04/black-hole-sonification-by-blind-physicist-kyle-keane-at-resound-new-york/),

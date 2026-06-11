@@ -2,6 +2,7 @@
 section: roles
 title: "Lecturer (Materials Science)"
 personas: [academic, educator, advocate]
+principles: [full-participation, build-with-people, rigor]
 specialties: [assistive-technology, computation, india]
 ---
 

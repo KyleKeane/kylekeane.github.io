@@ -3,6 +3,7 @@ section: roles
 title: "Research Programmer — Special Projects"
 anchor: research-programmer--special-projects
 personas: [advocate]
+principles: [full-participation, every-sense]
 specialties: [accessibility, software]
 ---
 

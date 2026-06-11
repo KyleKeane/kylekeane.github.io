@@ -139,18 +139,22 @@ they are reached from links at the top of the CV page.
 
 ## Adding a CV entry
 
-The five CV pages are generated from the `_cv/` collection — one small
-markdown file per entry. Every entry MUST carry a `personas:` list (one
-or more of `academic`, `educator`, `creative`, `advocate`; CI fails the
-build if it's missing). Optional `specialties:` adds free-form
-kebab-case tags. A new press item is one file,
-`_cv/press/2026-b-outlet-name.md`:
+The CV pages (unified + four persona views + four principle "evidence"
+views) are generated from the `_cv/` collection — one small markdown
+file per entry. Every entry MUST carry BOTH a `personas:` list (one or
+more of `academic`, `educator`, `creative`, `advocate`) AND a
+`principles:` list (one or more of `full-participation`, `every-sense`,
+`build-with-people`, `rigor` — one action can evidence many
+principles); CI fails the build if either is missing. Optional
+`specialties:` adds free-form kebab-case tags. A new press item is one
+file, `_cv/press/2026-b-outlet-name.md`:
 
 ```markdown
 ---
 section: press
 year: 2026
 personas: [academic, advocate]
+principles: [full-participation, rigor]
 ---
 
 [Descriptive link text naming the piece and outlet](https://example.org/article).

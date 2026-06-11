@@ -2,6 +2,7 @@
 section: press
 year: 2019
 personas: [educator, advocate]
+principles: [full-participation, build-with-people]
 ---
 
 [Co-designing assistive technologies in India — G3ict (Global Initiative for Inclusive ICTs)](https://g3ict.org/headlines/co-designing-assistive-technologies-in-india).

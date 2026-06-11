@@ -2,6 +2,7 @@
 section: roles
 title: "Senior Lecturer in Assistive Technologies"
 personas: [academic, educator, creative, advocate]
+principles: [full-participation, every-sense, build-with-people, rigor]
 specialties: [assistive-technology, spatial-audio, hci]
 ---
 

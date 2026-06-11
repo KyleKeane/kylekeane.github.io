@@ -3,6 +3,7 @@ section: roles
 title: "Teaching Assistant / Laboratory Instructor"
 anchor: teaching-assistant--laboratory-instructor
 personas: [academic, educator]
+principles: [build-with-people, rigor]
 specialties: [physics, education]
 ---
 

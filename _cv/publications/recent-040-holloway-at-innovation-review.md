@@ -2,6 +2,7 @@
 section: publications
 group: recent
 personas: [academic, advocate]
+principles: [full-participation, rigor]
 specialties: [assistive-technology]
 ---
 

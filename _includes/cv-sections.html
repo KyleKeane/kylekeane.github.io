@@ -2,13 +2,16 @@
 Renders the CV sections from the _cv/ collection.
 
 Usage:
-  {% include cv-sections.html %}                    full unified CV
-  {% include cv-sections.html persona="academic" %} filtered view
+  {% include cv-sections.html %}                          full unified CV
+  {% include cv-sections.html persona="academic" %}       persona view
+  {% include cv-sections.html principle="every-sense" %}  principle view
 
 Every entry in _cv/ carries a `personas:` list (academic, educator,
-creative, advocate). When a persona parameter is given, only entries
-tagged with it are rendered, and sections with no matching entries are
-omitted entirely.
+creative, advocate) and a `principles:` list (full-participation,
+every-sense, build-with-people, rigor) — one action can evidence many
+principles. When a persona or principle parameter is given, only
+entries tagged with it are rendered, and sections with no matching
+entries are omitted entirely.
 
 IMPORTANT: H2 tags must be emitted with `id` as the FIRST attribute —
 _layouts/default.html builds the table of contents and injects
@@ -21,6 +24,9 @@ page had before this include existed, so existing inbound anchors
 {%- assign cv_all = site.cv -%}
 {%- if include.persona -%}
   {%- assign cv_all = cv_all | where_exp: "item", "item.personas contains include.persona" -%}
+{%- endif -%}
+{%- if include.principle -%}
+  {%- assign cv_all = cv_all | where_exp: "item", "item.principles contains include.principle" -%}
 {%- endif -%}
 
 {%- assign roles = cv_all | where: "section", "roles" | sort: "path" -%}

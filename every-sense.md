@@ -85,7 +85,9 @@ The recommendation to separate intent from action led to the
 formation of the W3C User-Intent Working Group; the verbal-description
 guidelines are in continued use at PhET and elsewhere.
 
-The full archival evidence for this principle is on the
+Every archival CV entry that evidences this principle is collected on
+[the Every sense evidence view](/cv-every-sense.html); the creative and
+academic strands of the record are also readable as the
 [Creative CV](/cv-creative.html) and the
 [Academic CV](/cv-academic.html).
 

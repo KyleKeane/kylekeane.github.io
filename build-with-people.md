@@ -26,7 +26,10 @@ collaboration enquiries via the [Engage](/engage.html) page.
 The sections below are the working evidence: current teaching and
 supervision at Bristol, the MIT course archive, summer schools and
 intensives, the international co-design programmes, and hackathon
-mentorship. The archival record for this strand is on the
+mentorship. Every archival CV entry that evidences this principle is
+collected on
+[the Build with people evidence view](/cv-build-with-people.html);
+the teaching strand of the record is also readable as the
 [Educator CV](/cv-educator.html).
 
 ## Current teaching at Bristol

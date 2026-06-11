@@ -80,6 +80,9 @@ year: 2026                # press and grants only — drives year grouping
 group: recent             # publications only — recent, educational-resources,
                           # reports, chapters, dissertation, physics
 personas: [academic, advocate]   # REQUIRED; academic, educator, creative, advocate
+principles: [full-participation, rigor]  # REQUIRED; full-participation,
+                          # every-sense, build-with-people, rigor — tag
+                          # every principle the action evidences
 specialties: [spatial-audio]     # optional, free-form kebab-case
 ---
 ```

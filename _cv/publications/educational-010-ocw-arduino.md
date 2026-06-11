@@ -2,6 +2,7 @@
 section: publications
 group: educational-resources
 personas: [educator]
+principles: [build-with-people]
 specialties: [electronics, education]
 ---
 

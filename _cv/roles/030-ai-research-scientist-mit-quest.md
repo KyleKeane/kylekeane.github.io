@@ -2,6 +2,7 @@
 section: roles
 title: "AI Research Scientist"
 personas: [academic, advocate]
+principles: [full-participation, every-sense, rigor]
 specialties: [ai, accessibility]
 ---
 

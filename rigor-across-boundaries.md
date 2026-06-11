@@ -21,10 +21,13 @@ boundary the problem happens to sit on.
 ## What this looks like in practice
 
 The career arc itself is the evidence: the full role-by-role history
-is on the [CV roles section](/cv.html#roles), and the publication
-record across physics, human–computer interaction, cognition, and
-assistive technology is on the [Academic CV](/cv-academic.html). The
-sections below keep selected earlier research here for context.
+is on the [CV roles section](/cv.html#roles), and every archival CV
+entry that evidences this principle is collected on
+[the Rigor evidence view](/cv-rigor.html). The publication record
+across physics, human–computer interaction, cognition, and assistive
+technology is also readable as the
+[Academic CV](/cv-academic.html). The sections below keep selected
+earlier research here for context.
 
 ## Research across fields
 

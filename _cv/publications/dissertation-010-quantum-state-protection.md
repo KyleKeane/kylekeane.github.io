@@ -2,6 +2,7 @@
 section: publications
 group: dissertation
 personas: [academic]
+principles: [rigor]
 specialties: [quantum]
 ---
 

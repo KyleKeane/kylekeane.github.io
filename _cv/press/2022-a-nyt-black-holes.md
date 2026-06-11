@@ -2,6 +2,7 @@
 section: press
 year: 2022
 personas: [academic, creative]
+principles: [every-sense, rigor]
 ---
 
 [Hear the Weird Sounds of a Black Hole Singing — The New York Times](https://www.nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html),

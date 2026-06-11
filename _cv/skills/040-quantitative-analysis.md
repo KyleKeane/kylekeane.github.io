@@ -2,6 +2,7 @@
 section: skills
 title: "Quantitative analysis"
 personas: [academic]
+principles: [rigor]
 ---
 
 Open-source statistical forecasting models for urban university

@@ -2,6 +2,7 @@
 section: roles
 title: "Physics Tutor"
 personas: [educator]
+principles: [build-with-people]
 specialties: [physics, education]
 ---
 

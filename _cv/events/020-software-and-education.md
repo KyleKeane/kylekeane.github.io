@@ -2,6 +2,7 @@
 section: events
 title: "Software and education"
 personas: [educator]
+principles: [build-with-people]
 ---
 
 - Scratch@MIT: 2014, 2016

@@ -2,6 +2,7 @@
 section: grants
 year: 2020
 personas: [educator, advocate]
+principles: [full-participation, build-with-people]
 ---
 
 *CoCreATe Riyadh* — Al-Faisal University. Funding from Saudi sources
