@@ -1,4 +1,4 @@
 ---
-redirect_to: /build-with-people.html
+redirect_to: /teaching.html
 sitemap: false
 ---

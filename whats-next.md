@@ -20,7 +20,7 @@ to add to this list.
 - **[ECHO](https://resound-nyc.com/artwork/echo) — currently running.**
   On view through 31 October 2026 at HERO at Rockefeller Center inside
   reSOUND New York; daily 11am–7pm. Full description on the
-  [Every sense at full resolution](/every-sense.html#echo--resound-new-york) page.
+  [Creative](/creative.html#echo--resound-new-york) page.
 - **Keynote, Monterrey, Mexico — late October 2026.** Title, venue, and
   exact date to be confirmed.
 - **Keynote, [Audio Developer Conference (ADC Bristol 26)](https://audio.dev/)
@@ -38,8 +38,6 @@ I am actively interested in new collaborations, supervision, and
 consulting in these areas; the [Engage](/engage.html) page describes how
 to start that conversation.
 
-### Every sense at full resolution
-
 - Automated production of audio-tactile graphics for blind and
   low-vision learners.
 - Immersive and spatial audio for echolocation training, including the
@@ -49,23 +47,14 @@ to start that conversation.
   through non-visual channels.
 - Continued performance and installation work with the MIT Spatial
   Sound Lab cohort.
+- Supervision and course development at Bristol continue — see
+  [current teaching on the Teaching page](/teaching.html#current-teaching-at-bristol).
+  Forthcoming workshops and cross-field collaborations will be listed
+  here as they are confirmed.
 
-The [Every sense at full resolution](/every-sense.html) page describes
-these threads in more depth; the [Engage](/engage.html) page is the
-right place to start a conversation about collaborating on them.
-
-### Build with people, not for them
-
-Supervision and course development at Bristol continue — see
-[current teaching on the Build with people page](/build-with-people.html#current-teaching-at-bristol).
-Forthcoming workshops and programmes will be listed here as they are
-confirmed.
-
-### Rigor across boundaries
-
-New cross-field collaborations will be listed here as they take shape;
-the standing record is on the
-[Rigor across boundaries](/rigor-across-boundaries.html) page.
+The [Research](/research.html) page describes these threads in more
+depth; the [Engage](/engage.html) page is the right place to start a
+conversation about collaborating on them.
 
 ## Recently
 

@@ -3,8 +3,6 @@ layout: default
 title: Full participation
 permalink: /full-participation.html
 description: The value everything on this site serves — the full participation of disabled people in STEM and in culture, named on Kyle's terms.
-nav_include: true
-nav_order: 2
 ---
 
 ## Overview
@@ -21,26 +19,12 @@ am operating at the same level as anyone else with my training and track
 record. The rest of this page explains what that assumption actually looks
 like in practice.
 
-This is the value underneath everything on this site; the three
-principles below are how it shows up in the work.
-
-## The principles
-
-- **[Every sense at full resolution](/every-sense.html)** — research,
-  sound art, and installations that treat the body's non-visual senses
-  as full-resolution channels for complex information.
-- **[Build with people, not for them](/build-with-people.html)** —
-  courses, supervision, co-design workshops, summer schools, and
-  hackathons built with the people they serve.
-- **[Rigor across boundaries](/rigor-across-boundaries.html)** — the
-  multidisciplinary arc from quantum information through Wolfram\|Alpha
-  to assistive technology, and the publications behind it.
-
-The rest of this page states the value itself. Every archival CV entry
-that evidences this value is collected on
-[the Full participation evidence view](/cv-full-participation.html);
-the advocacy strand of the record is also readable as the
-[Advocacy CV](/cv-advocacy.html).
+This is the value underneath everything on this site. It shows up in
+the work across all four facets — [Research](/research.html),
+[Teaching](/teaching.html), [Creative](/creative.html), and
+[Advocacy](/advocacy.html) — and every archival CV entry that
+evidences it is collected on
+[the Full participation evidence view](/cv-full-participation.html).
 
 ## A participation model of disability
 

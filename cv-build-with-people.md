@@ -8,8 +8,8 @@ description: Every CV entry that evidences the co-design principle — courses, 
 ## Overview
 
 A filtered view of [the full CV](/cv.html) showing every action that
-evidences the principle on the
-[Build with people, not for them](/build-with-people.html) page —
+evidences the co-design principle — the work shown on
+[Teaching](/teaching.html) —
 courses, supervision, co-design workshops, educational software, and
 hackathon mentorship. One action can evidence several principles, so
 entries here may also appear on the other evidence views:

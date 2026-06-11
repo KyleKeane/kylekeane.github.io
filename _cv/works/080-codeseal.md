@@ -14,4 +14,4 @@ computational thinking on MITx using Wolfram technologies, deployed
 across a range of MITx components. Presented across three Wolfram
 Technology Conferences and an MIT xTalk; the recordings are listed in
 the coverage below and on
-[Rigor across boundaries](/rigor-across-boundaries.html#research-across-fields).
+the [Research](/research.html#earlier-research) page.

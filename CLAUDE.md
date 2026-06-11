@@ -49,17 +49,16 @@ The accessibility checklist for a new page is in
 
 ```
 .
-├── index.md                        # About (home). nav 1, permalink: /
-│                                   #   value statement + semantic ToC
-├── full-participation.md           # nav 2 — THE VALUE (was philosophy.md)
-├── every-sense.md                  # nav 3 — principle: Every sense at full
-│                                   #   resolution (absorbed research+creative)
-├── build-with-people.md            # nav 4 — principle: Build with people,
-│                                   #   not for them (absorbed teaching)
-├── rigor-across-boundaries.md      # nav 5 — principle: Rigor across
-│                                   #   boundaries (career arc + earlier research)
-├── whats-next.md                   # nav 6 — future-focused (was upcoming.md)
+├── index.md                        # About (home). nav 1 — elevator
+│                                   #   pitch, facets, highlights
+├── research.md                     # nav 2 — facet: Research
+├── teaching.md                     # nav 3 — facet: Teaching (incl. HCDI)
+├── creative.md                     # nav 4 — facet: Creative
+├── advocacy.md                     # nav 5 — facet: Advocacy
+├── whats-next.md                   # nav 6 — future-focused
 ├── engage.md                       # nav 7, permalink: /engage.html
+├── full-participation.md           # THE VALUE page — off-nav, linked
+│                                   #   from About/Engage (deep pattern)
 ├── cv.md                           # nav 8 — unified CV generated from _cv/, permalink: /cv.html
 ├── cv-academic.md, cv-educator.md, # persona-filtered CV views generated
 ├── cv-creative.md, cv-advocacy.md  # from the same _cv/ entries; linked
@@ -70,12 +69,13 @@ The accessibility checklist for a new page is in
 │   ├── roles/ affiliations/ publications/ grants/ grant-support/
 │   └── awards/ scholarships/ press/ skills/ events/
 ├── _includes/cv-sections.html      # Liquid rendering the _cv/ entries
-├── philosophy.md, research.md, teaching.md, creative.md, upcoming.md,
-├── work.md, publications.md, funding.md, skills.md, media.md,
-│                                   # 16 redirect-only stubs using
-├── speaking.md, events.md, exhibitions.md, performances.md,
+├── philosophy.md, upcoming.md, every-sense.md, build-with-people.md,
+├── rigor-across-boundaries.md, work.md, publications.md, funding.md,
+│                                   # 15 redirect-only stubs using
+├── skills.md, media.md, speaking.md, events.md, exhibitions.md,
 │                                   # _layouts/redirect.html; each forwards
-├── advising.md, advocacy.md        # to one of the 8 nav pages above
+├── performances.md, advising.md    # to a nav page above
+├── topics.md + topics/<tag>.md     # topic index + per-tag filtered views
 ├── _config.yml                     # title, description, plugins, exclude
 ├── _layouts/default.html           # main page layout
 ├── _layouts/redirect.html          # redirect-stub layout
@@ -126,16 +126,22 @@ Then write the body in markdown. **Do not write your own H1** in the body —
 the layout produces it from `title`. Start your body content at H2 (`##`).
 
 If a page should not appear in the top nav, omit `nav_include` (or set it
-to `false`). The site's information architecture flows VALUE →
-PRINCIPLES → EVIDENCE: nav order is `1..8` — About, Full participation
-(the value), the three principle pages (Every sense at full resolution,
-Build with people not for them, Rigor across boundaries), What's next,
-Engage, and CV at 8. Principle pages follow a stable skeleton documented
-in [`docs/style-guide.md`](docs/style-guide.md) ("Principle pages").
+to `false`). The site has TWO refraction patterns. The human-first
+surface is a portfolio: nav `1..8` — About (elevator pitch, facet
+cards, highlights), the four FACET pages (Research, Teaching, Creative,
+Advocacy: short pitch → highlights → curated detail → "Full record"
+links into the filtered archive), What's next, Engage, CV. The deeper
+pattern — for deep-divers and machines — is VALUE → PRINCIPLES →
+EVIDENCE: `full-participation.md` (the value, off-nav, linked from
+About/Engage/Advocacy), the principle evidence views
+(`cv-full-participation.md`, `cv-every-sense.md`,
+`cv-build-with-people.md`, `cv-rigor.md`), and the principle tags on
+every `_cv/` entry. Do not re-promote the philosophy layer into the
+nav; do not strip it either. Facet pages open with a short Overview
+pitch and a Highlights list linking to works on `/cv.html#<anchor>`.
 Retired pages use `_layouts/redirect.html` and are not in the nav. The
-four persona CV views (`cv-academic.md`, `cv-educator.md`,
-`cv-creative.md`, `cv-advocacy.md`) deliberately omit `nav_include` —
-they are reached from links at the top of the CV page.
+persona CV views, evidence views, topic pages, and full-participation
+deliberately omit `nav_include`.
 
 ## Adding a CV entry
 
