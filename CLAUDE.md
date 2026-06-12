@@ -51,12 +51,12 @@ The accessibility checklist for a new page is in
 .
 ├── index.md                        # About (home). nav 1 — elevator
 │                                   #   pitch, personas, highlights
-├── academic.md                     # nav 2 — persona: Academic
-│                                   #   (research + teaching + HCDI)
-├── artist.md                       # nav 3 — persona: Artist
-├── advocate.md                     # nav 4 — persona: Advocate
-├── whats-next.md                   # nav 5 — future-focused
-├── engage.md                       # nav 6, permalink: /engage.html
+├── research.md                     # nav 2 — persona: Research
+├── teaching.md                     # nav 3 — persona: Teaching (HCDI)
+├── creative.md                     # nav 4 — persona: Creative
+├── advocacy.md                     # nav 5 — persona: Advocacy
+├── upcoming.md                     # nav 6 — forthcoming + working
+│                                   #   with me (absorbed engage)
 ├── full-participation.md           # THE VALUE page — off-nav, linked
 │                                   #   from About/Engage (deep pattern)
 ├── cv.md                           # nav 8 — unified CV generated from _cv/, permalink: /cv.html
@@ -69,10 +69,10 @@ The accessibility checklist for a new page is in
 │   ├── roles/ affiliations/ publications/ grants/ grant-support/
 │   └── awards/ scholarships/ press/ skills/ events/
 ├── _includes/cv-sections.html      # Liquid rendering the _cv/ entries
-├── philosophy.md, upcoming.md, every-sense.md, build-with-people.md,
-├── rigor-across-boundaries.md, research.md, teaching.md, creative.md,
-│                                   # 19 redirect-only stubs using
-├── advocacy.md, work.md, publications.md, funding.md, skills.md,
+├── philosophy.md, every-sense.md, build-with-people.md, academic.md,
+├── rigor-across-boundaries.md, artist.md, advocate.md, engage.md,
+│                                   # 20 redirect-only stubs using
+├── whats-next.md, work.md, publications.md, funding.md, skills.md,
 │                                   # _layouts/redirect.html; each forwards
 ├── media.md, speaking.md, events.md, exhibitions.md, performances.md,
 ├── advising.md                     # to a nav page above
@@ -129,10 +129,11 @@ the layout produces it from `title`. Start your body content at H2 (`##`).
 If a page should not appear in the top nav, omit `nav_include` (or set it
 to `false`). The site has TWO refraction patterns. The human-first
 surface is a portfolio: nav `1..7` — About (elevator pitch, persona
-cards, highlights), the three alliterative PERSONA pages (Academic,
-Artist, Advocate: short pitch → highlights → curated detail → "Full
-record" links into the filtered archive; Academic includes research
-AND teaching), What's next, Engage, CV. The deeper
+cards, highlights), the four PERSONA pages (Research, Teaching,
+Creative, Advocacy: short pitch + philosophical outline → highlights →
+curated detail → "Full record" links into the filtered archive),
+Upcoming (forthcoming engagements + how to work with me — absorbed the
+old Engage page), and CV. The deeper
 pattern — for deep-divers and machines — is VALUE → PRINCIPLES →
 EVIDENCE: `full-participation.md` (the value, off-nav, linked from
 About/Engage/Advocacy), the principle evidence views

@@ -14,4 +14,4 @@ computational thinking on MITx using Wolfram technologies, deployed
 across a range of MITx components. Presented across three Wolfram
 Technology Conferences and an MIT xTalk; the recordings are listed in
 the coverage below and on
-the [Academic](/academic.html#earlier-research) page.
+the [Research](/research.html#earlier-research) page.

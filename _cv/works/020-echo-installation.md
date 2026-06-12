@@ -15,4 +15,4 @@ Seoul 284 (June–August 2024, roughly 110,000 visitors from 75
 countries), then reinterpreted for
 [reSOUND New York at HERO, Rockefeller Center](https://resound-nyc.com/artwork/echo)
 (from October 2025). Full description on
-the [Artist](/artist.html#echo--resound-new-york) page.
+the [Creative](/creative.html#echo--resound-new-york) page.

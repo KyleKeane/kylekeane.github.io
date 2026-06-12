@@ -9,8 +9,8 @@ description: Every CV entry that evidences the principle that non-visual senses 
 
 A filtered view of [the full CV](/cv.html) showing every action that
 evidences the principle that non-visual senses are full-resolution
-channels — the work shown on [Academic](/academic.html) and
-[Artist](/artist.html) —
+channels — the work shown on [Research](/research.html) and
+[Creative](/creative.html) —
 sonification, audio-tactile graphics, echolocation training,
 perception research, installations, and the press they have drawn.
 One action can evidence several principles, so entries here may also
