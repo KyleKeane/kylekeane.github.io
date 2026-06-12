@@ -84,8 +84,8 @@ recent piece of foundational work in this thread.
 
 Work on how multisensory interfaces should be designed when one or more
 sensory channels are not available. Recent contribution:
-*Sense-O-Nary* with Roberts-Morgan et al. (IDC '24) — see the
-publication entry on the [CV](/cv.html#publications).
+*Sense-O-Nary* with Roberts-Morgan et al. (IDC '24); the
+publication entry is on the [CV](/cv.html#publications).
 
 ### Standards work on accessible scientific graphics
 

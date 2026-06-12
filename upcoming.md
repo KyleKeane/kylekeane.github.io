@@ -45,7 +45,7 @@ Active research at Bristol — described in depth on the
   through non-visual channels.
 - Continued performance and installation work with the MIT Spatial
   Sound Lab cohort.
-- Supervision and course development at Bristol — see
+- Supervision and course development at Bristol — described under
   [current teaching on the Teaching page](/teaching.html#current-teaching-at-bristol).
 
 ## Recently
@@ -194,7 +194,7 @@ echolocation training, perception-aware AI systems, and inclusive
 human–computer interaction more broadly. I co-publish with my
 collaborators and supervise to completion. I welcome enquiries from
 prospective PhD students with relevant background, and from external
-research groups looking for a co-investigator on grants in these
+research groups seeking a co-investigator on grants in these
 areas.
 
 For prospective Bristol students, the [Teaching](/teaching.html) page
@@ -207,7 +207,7 @@ I host and convene events as well as speaking at them. Recent:
 - **[Access Bristol](https://www.accessbristol.org/),** a two-day
   assistive-technology accelerator at the University of Bristol with
   GitHub and Smartbox as lead industry sponsors, 8–9 November 2025 —
-  see the [Access Bristol outcomes report](https://accessbristol.org/outcomes.html)
+  the [Access Bristol outcomes report](https://accessbristol.org/outcomes.html) documents the results
   and the
   [University of Bristol's video about the accelerator](https://www.youtube.com/watch?v=XZGZZ-g1GGQ).
 - **[Emergent Harmonics](https://biglab.co.uk/event/emergent-harmonics),**

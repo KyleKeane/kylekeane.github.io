@@ -77,7 +77,7 @@ and I expect the people who work with me to use it.
 A separate and narrower point: many people without or with impaired
 eyesight are denied the resources, education, and environment they
 would need to develop the capabilities they otherwise could. The
-result can look, from the outside, like a flat lack of capability. It
+result can be mistaken, from the outside, for a flat lack of capability. It
 is conditioned and habituated, not intrinsic. The fix is structural —
 more resources, better tools, better expectations — and that
 structural fix is what my advocacy is for.
@@ -131,11 +131,12 @@ with a willingness to build one with me, and we'll do good work.
 
 ## Advocacy, on my terms
 
-I am a fierce advocate for the full participation of persons with disabilities in
-STEM and in culture. The advocacy is structural. I want the systems that
-produce researchers, educators, consultants, and artists to admit persons
-with disabilities on the same terms as anyone else — not to run separate
-disability-flavoured versions of those roles.
+The goal is the full participation of persons with disabilities in
+STEM and in culture. The approach is structural: the systems that
+produce researchers, educators, consultants, and artists should admit
+persons with disabilities on the same terms as anyone else — not run
+separate disability-flavoured versions of those roles. I build the
+engineering, standards, and programmes that make that the default.
 
 I will talk about disability when it is the subject of the work. I will
 also turn down invitations that exist only because I am blind. The

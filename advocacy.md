@@ -9,11 +9,14 @@ nav_order: 6
 
 ## Overview
 
-I am a fierce advocate for the full participation of persons with disabilities in
-STEM and in culture. The advocacy is structural. I want the systems that
-produce researchers, educators, consultants, and artists to admit persons
-with disabilities on the same terms as anyone else — not to run separate
-disability-flavoured versions of those roles. The full statement of that
+The goal is the full participation of persons with disabilities in
+STEM and in culture. The approach is structural and operational —
+a physicist's approach: identify the mechanism that blocks
+participation, build or specify the fix, test it, and standardise
+what works. The systems that produce researchers, educators,
+consultants, and artists should admit persons with disabilities on
+the same terms as anyone else; I build the engineering, standards,
+and programmes that make that the default rather than the exception. The full statement of that
 value — the participation model, my language, and what I expect from the
 people who work with me — is on the
 [Full participation](/full-participation.html) page.
@@ -28,7 +31,7 @@ Highlights:
   put co-designers with disabilities inside the engineering team.
 - **Accessibility engineering at Wolfram Research** — Section 508
   reviews, VPATs, and working access to Mathematica for blind users:
-  see the [Wolfram-era roles on the CV](/cv.html#roles).
+  the detail is in the [Wolfram-era roles on the CV](/cv.html#roles).
 
 ## How the advocacy works
 

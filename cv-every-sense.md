@@ -12,7 +12,7 @@ evidences the principle of full sensory engagement — sensory
 integration, extending every sense through tools — the work shown on
 [Research](/research.html) and [Creative](/creative.html) —
 sonification, audio-tactile graphics, echolocation training,
-perception research, installations, and the press they have drawn.
+perception research, installations, and the associated press coverage.
 One action can evidence several principles, so entries here may also
 appear on the other evidence views:
 [Full participation](/cv-full-participation.html),

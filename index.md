@@ -19,9 +19,15 @@ Materials Science and Engineering, the College of Computing's Quest
 for Intelligence, and Electrical Engineering and Computer Science —
 before joining Bristol in June 2024.
 
-One value runs under all of it — the
+The method throughout is a physicist's: state the principle, build
+the simplest thing that tests it, measure, and keep what works. I
+believe current technology does not yet help people develop and use
+their full capabilities — sensory, cognitive, or creative — and the
+record on this site is what acting on that belief has produced. One
+value runs under all of it — the
 [full participation](/full-participation.html) of persons with
-disabilities in STEM and in culture — refracted through four personas:
+disabilities in STEM and in culture — carried out through four
+personas:
 
 - **[Research](/research.html)** — intersensory perception: how
   people build meaning through sound and touch, from audio-tactile
@@ -51,7 +57,7 @@ disabilities in STEM and in culture — refracted through four personas:
   — computational answers, spoken aloud, for millions.
 
 For what's coming up — talks, installations, current threads, and
-how to hire, book, or collaborate — see [Upcoming](/upcoming.html). The complete archival record, filterable by
+how to hire, book, or collaborate — the [Upcoming](/upcoming.html) page lists it. The complete archival record, filterable by
 persona, value, and [topic](/topics.html), is the [CV](/cv.html).
 
 ## Going deeper
@@ -63,7 +69,7 @@ the hierarchy — the value of
 [full participation](/full-participation.html), the principles that
 carry it (Full sensory engagement; Build with, not for; One standard
 of rigor), and the evidence views where every tagged accomplishment
-shows the principles it lived by.
+shows the principles it evidences.
 
 ## Education
 
