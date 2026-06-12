@@ -13,7 +13,7 @@ evidences the value of
 engineering, standards work, assistive-technology co-design, and
 structural advocacy. One action can evidence several principles, so
 entries here may also appear on the other evidence views:
-[Every sense at full resolution](/cv-every-sense.html),
+[Perception beyond sight](/cv-every-sense.html),
 [Build with people, not for them](/cv-build-with-people.html), and
 [Rigor across boundaries](/cv-rigor.html).
 

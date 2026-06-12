@@ -32,8 +32,9 @@ Notes:
   resolution"). The visible label IS the accessible name — never pair
   it with a different `aria-label`.
 - `nav_order` controls the order of nav items. The surface is a
-  persona-first portfolio. Current order: 1. About, 2. Research,
-  3. Teaching, 4. Creative, 5. Advocacy, 6. Upcoming, 7. CV. The 20
+  persona-first portfolio. Current order: 1. About, 2. Values,
+  3. Research, 4. Teaching, 5. Creative, 6. Advocacy, 7. Upcoming,
+  8. CV. The 20
   retired pages (`philosophy`, `every-sense`, `build-with-people`,
   `rigor-across-boundaries`, `academic`, `artist`, `advocate`,
   `engage`, `whats-next`, `work`, `publications`, `funding`,

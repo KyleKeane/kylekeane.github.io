@@ -4,7 +4,7 @@ title: Creative
 permalink: /creative.html
 description: Sound art, sonification, immersive installations, and performance — including the ECHO installation at reSOUND New York and ongoing work with the MIT Spatial Sound Lab.
 nav_include: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## Overview

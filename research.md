@@ -4,7 +4,7 @@ title: Research
 permalink: /research.html
 description: Intersensory perception research at the University of Bristol — audio-tactile graphics, echolocation training, perception-aware AI — and the through-line back to quantum information.
 nav_include: true
-nav_order: 2
+nav_order: 3
 ---
 
 ## Overview

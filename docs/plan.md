@@ -512,6 +512,17 @@ pattern for deep-divers and machines.
 - [ ] Kyle reviews the philosophy paragraphs and the merged Upcoming
   page.
 
+## Phase 14 — Values layer in the nav (June 2026)
+
+- [x] New values.md (nav 2): the hierarchy hub — the value (full
+  participation) and its principles, each with a statement and a link
+  to its evidence view.
+- [x] The perception principle's display name is now "Perception
+  beyond sight" (Kyle's phrasing; the tag key stays `every-sense`).
+- [x] index.md "Going deeper" routes through the Values page.
+- [x] Kept Kyle's explicit "Upcoming" name (a stale option text
+  suggested "Future"; not applied).
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)

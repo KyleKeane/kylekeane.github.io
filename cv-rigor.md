@@ -15,7 +15,7 @@ assistive technology, grants, and scholarships. One action can
 evidence several principles, so entries here may also appear on the
 other evidence views:
 [Full participation](/cv-full-participation.html),
-[Every sense at full resolution](/cv-every-sense.html), and
+[Perception beyond sight](/cv-every-sense.html), and
 [Build with people, not for them](/cv-build-with-people.html).
 
 {% include cv-sections.html principle="rigor" %}

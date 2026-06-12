@@ -4,7 +4,7 @@ title: CV
 permalink: /cv.html
 description: Full record — roles, publications, grants and awards, press, and skills.
 nav_include: true
-nav_order: 7
+nav_order: 8
 ---
 
 ## Overview
@@ -34,7 +34,7 @@ By value and principle:
 
 - [Evidence for Full participation](/cv-full-participation.html) —
   every action that evidences the value itself
-- [Evidence for Every sense at full resolution](/cv-every-sense.html)
+- [Evidence for Perception beyond sight](/cv-every-sense.html)
 - [Evidence for Build with people, not for them](/cv-build-with-people.html)
 - [Evidence for Rigor across boundaries](/cv-rigor.html)
 

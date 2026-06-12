@@ -4,7 +4,7 @@ title: Advocacy
 permalink: /advocacy.html
 description: Structural disability advocacy — accessibility engineering, standards work, co-design programmes, and consulting that put disabled people in mainstream STEM and culture on the same terms as anyone else.
 nav_include: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Overview

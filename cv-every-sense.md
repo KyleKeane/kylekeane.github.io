@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Evidence: Every sense at full resolution"
+title: "Evidence: Perception beyond sight"
 permalink: /cv-every-sense.html
-description: Every CV entry that evidences the principle that non-visual senses are full-resolution channels — sonification, audio-tactile graphics, echolocation, perception research, and installations.
+description: Every CV entry that evidences the Perception beyond sight principle — non-visual senses as full-resolution channels — sonification, audio-tactile graphics, echolocation, perception research, and installations.
 ---
 
 ## Overview
