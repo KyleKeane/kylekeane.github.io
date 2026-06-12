@@ -10,8 +10,8 @@ nav_order: 2
 ## Overview
 
 Everything on this site serves one value: the
-[full participation](/full-participation.html) of disabled people in
-STEM and in culture — stated in full, on my terms, on that page. The
+[full participation](/full-participation.html) of persons with
+disabilities in STEM and in culture — stated in full, on my terms, on that page. The
 value lives through three principles. Each principle below carries a
 short statement and a link to its evidence: every tagged
 accomplishment in the record that instantiates it.

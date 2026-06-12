@@ -17,7 +17,7 @@ intensives at universities and design schools.
 
 The philosophy underneath this work: build with people, not for them.
 Technology worth making is made with the people who will use it — so
-my courses pair student teams with disabled co-designers, my
+my courses pair student teams with co-designers with disabilities, my
 programmes put community members inside the engineering team, and the
 classroom extends from Bristol to India, Saudi Arabia, and Uruguay.
 The deeper framing is on the
@@ -144,7 +144,7 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
 
 I founded the Humanistic Co-Design Initiative at MIT — a cooperative
 of individuals, organisations, and institutions applying design and
-engineering skills in collaboration with people with disabilities,
+engineering skills in collaboration with persons with disabilities,
 through year-long co-design fellowships seeded by intensive launch
 events. The founding story is profiled by the
 [MIT Ibn Khaldun Fellowship](https://ibk.mit.edu/news/cocreating-for-inclusivity-and-innovation/).

@@ -13,19 +13,22 @@ Researcher, educator, consultant, and artist working at the intersection
 of artificial intelligence, human cognition, multisensory interaction, and
 the design of computational systems that meet people where they actually
 are. PhD in physics from UC Riverside; seven years in Wolfram Research as
-a Research Programmer and R&D Fellow; eight years on the MIT faculty in
-Materials Science and Engineering before joining Bristol in June 2024.
+a Research Programmer and R&D Fellow; eight years at MIT as a research
+scientist and lecturer working across departments and disciplines —
+Materials Science and Engineering, the College of Computing's Quest
+for Intelligence, and Electrical Engineering and Computer Science —
+before joining Bristol in June 2024.
 
 One value runs under all of it — the
-[full participation](/full-participation.html) of disabled people in
-STEM and in culture — refracted through four personas:
+[full participation](/full-participation.html) of persons with
+disabilities in STEM and in culture — refracted through four personas:
 
 - **[Research](/research.html)** — intersensory perception: how
   people build meaning through sound and touch, from audio-tactile
   graphics and echolocation to perception-aware AI.
 - **[Teaching](/teaching.html)** — courses, supervision, and the
   global co-design programmes where students build technology with
-  disabled co-designers, not for them.
+  co-designers with disabilities, not for them.
 - **[Creative](/creative.html)** — sound art and immersive
   installation: black-hole data you can hear, currently on view at
   Rockefeller Center.
