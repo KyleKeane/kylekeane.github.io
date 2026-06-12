@@ -9,7 +9,7 @@ specialties: [assistive-technology, computation, india, mit, usa, materials-scie
 MIT — Materials Science and Engineering, June 2015 – September 2019.
 Created and led *3.008: Humanistic Co-design of Assistive Technology in the
 Developing World*, a three-week subject taking students to India to work
-with local people with disabilities. Co-taught undergraduate subjects
+with local persons with disabilities. Co-taught undergraduate subjects
 including *Computational Methods for Materials Science and Engineering*,
 *Principles and Practices of Assistive Technology*, and *Making for
 Innovation, Science, and Outreach*. Computational Curriculum Advisor on the

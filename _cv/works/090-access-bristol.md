@@ -10,7 +10,7 @@ specialties: [bristol, uk, assistive-technology, co-design, incubator, hackathon
 
 The two-day assistive-technology accelerator I organised at the
 University of Bristol (8–9 November 2025) with GitHub and Smartbox as
-lead industry sponsors — disabled creatives and engineering teams
+lead industry sponsors — creatives with disabilities and engineering teams
 turning problems into fundable proposals. See
 [accessbristol.org](https://www.accessbristol.org/) and the
 [outcomes report](https://accessbristol.org/outcomes.html).

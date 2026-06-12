@@ -2,7 +2,7 @@
 layout: default
 title: Full participation
 permalink: /full-participation.html
-description: The value everything on this site serves — the full participation of disabled people in STEM and in culture, named on Kyle's terms.
+description: The value everything on this site serves — the full participation of persons with disabilities in STEM and in culture, named on Kyle's terms.
 ---
 
 ## Overview
@@ -131,10 +131,10 @@ with a willingness to build one with me, and we'll do good work.
 
 ## Advocacy, on my terms
 
-I am a fierce advocate for the full participation of disabled people in
+I am a fierce advocate for the full participation of persons with disabilities in
 STEM and in culture. The advocacy is structural. I want the systems that
-produce researchers, educators, consultants, and artists to admit disabled
-people on the same terms as anyone else — not to run separate
+produce researchers, educators, consultants, and artists to admit persons
+with disabilities on the same terms as anyone else — not to run separate
 disability-flavoured versions of those roles.
 
 I will talk about disability when it is the subject of the work. I will
@@ -147,7 +147,8 @@ toward people whose primary practice is personal advocacy; mine is not.
 ## Where this comes from
 
 Lived experience, plus formal training, plus twenty years inside university
-physics, MIT engineering, Wolfram Research, and the University of Bristol's
+physics, research and teaching across MIT departments, Wolfram Research,
+and the University of Bristol's
 assistive-technology programme. The position is informed but not exhausted
 by personal biography. I am not asking for trust on the strength of
 identity. I am asking for the same evaluation any other senior contributor

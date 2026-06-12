@@ -204,7 +204,7 @@ you still want the old URL to resolve.
    http-equiv="refresh">` tag that bounces the browser. Both behaviors
    matter — the meta-refresh handles the common case; the descriptive
    link is the fallback that satisfies the accessibility lint and
-   works for users with refresh disabled.
+   works for users whose browsers do not follow the refresh.
 3. Don't include `nav_include` — retired pages stay out of the nav.
 
 There are sixteen examples already at the repo root (`work.md`,
