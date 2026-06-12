@@ -51,11 +51,13 @@ The accessibility checklist for a new page is in
 .
 ├── index.md                        # About (home). nav 1 — elevator
 │                                   #   pitch, personas, highlights
-├── research.md                     # nav 2 — persona: Research
-├── teaching.md                     # nav 3 — persona: Teaching (HCDI)
-├── creative.md                     # nav 4 — persona: Creative
-├── advocacy.md                     # nav 5 — persona: Advocacy
-├── upcoming.md                     # nav 6 — forthcoming + working
+├── values.md                       # nav 2 — the hierarchy: value →
+│                                   #   principles → evidence links
+├── research.md                     # nav 3 — persona: Research
+├── teaching.md                     # nav 4 — persona: Teaching (HCDI)
+├── creative.md                     # nav 5 — persona: Creative
+├── advocacy.md                     # nav 6 — persona: Advocacy
+├── upcoming.md                     # nav 7 — forthcoming + working
 │                                   #   with me (absorbed engage)
 ├── full-participation.md           # THE VALUE page — off-nav, linked
 │                                   #   from About/Engage (deep pattern)
@@ -128,8 +130,10 @@ the layout produces it from `title`. Start your body content at H2 (`##`).
 
 If a page should not appear in the top nav, omit `nav_include` (or set it
 to `false`). The site has TWO refraction patterns. The human-first
-surface is a portfolio: nav `1..7` — About (elevator pitch, persona
-cards, highlights), the four PERSONA pages (Research, Teaching,
+surface is a portfolio: nav `1..8` — About (elevator pitch, persona
+cards, highlights), Values (the hierarchy hub: value → principles —
+Full sensory engagement; Build with, not for; One standard of rigor —
+→ evidence-view links), the four PERSONA pages (Research, Teaching,
 Creative, Advocacy: short pitch + philosophical outline → highlights →
 curated detail → "Full record" links into the filtered archive),
 Upcoming (forthcoming engagements + how to work with me — absorbed the

@@ -55,14 +55,12 @@ persona, value, and [topic](/topics.html), is the [CV](/cv.html).
 
 The quick path above is the human one: personas, highlights, archive.
 There is a second, deeper pattern for anyone — person or machine — who
-wants to understand the why: the value of
-[full participation](/full-participation.html) (the participation
-model of disability, my language, my expectations), and the principle
-threads through the record —
-[every sense at full resolution](/cv-every-sense.html),
-[build with people, not for them](/cv-build-with-people.html), and
-[rigor across boundaries](/cv-rigor.html) — where every tagged
-accomplishment evidences the principles it lived by.
+wants to understand the why: the [Values](/values.html) page lays out
+the hierarchy — the value of
+[full participation](/full-participation.html), the principles that
+carry it (Full sensory engagement; Build with, not for; One standard
+of rigor), and the evidence views where every tagged accomplishment
+shows the principles it lived by.
 
 ## Education
 

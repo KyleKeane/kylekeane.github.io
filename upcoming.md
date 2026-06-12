@@ -4,7 +4,7 @@ title: Upcoming
 permalink: /upcoming.html
 description: Confirmed forthcoming engagements, current threads of work, recent activity, and how to invite, hire, book, or collaborate with Kyle.
 nav_include: true
-nav_order: 6
+nav_order: 7
 ---
 
 ## Overview

@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching.html
 description: Teaching and supervision at the University of Bristol, the MIT course archive, international co-design programmes including the Humanistic Co-Design Initiative, summer schools, and hackathon mentorship.
 nav_include: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Overview
