@@ -13,4 +13,4 @@ pairing student teams with a community member with a disability to
 co-invent technology for their independence — teaching team from 2016,
 lead faculty 2022–2024, honouring the legacy of Prof. Seth Teller.
 Course archives at [ppat.mit.edu](http://ppat.mit.edu/); details on
-the [Academic](/academic.html#previously-taught-at-mit) page.
+the [Teaching](/teaching.html#previously-taught-at-mit) page.

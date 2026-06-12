@@ -499,6 +499,19 @@ pattern for deep-divers and machines.
 - [x] research/teaching/creative/advocacy retired to redirects; all
   links and chained stubs re-pointed; docs updated.
 
+## Phase 13 — Persona rename + Upcoming merge (June 2026)
+
+- [x] Nav: About, Research, Teaching, Creative, Advocacy, Upcoming, CV.
+  Academic split back into Research + Teaching; Artist→Creative;
+  Advocate→Advocacy; Engage + What's next merged into Upcoming.
+- [x] Each persona page opens with a high-level summary AND a
+  philosophical outline for that persona (the principle it lives by),
+  de-duplicated within the page.
+- [x] engage/whats-next/academic/artist/advocate retired to redirects;
+  all links rewired.
+- [ ] Kyle reviews the philosophy paragraphs and the merged Upcoming
+  page.
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)

@@ -20,8 +20,9 @@ record. The rest of this page explains what that assumption actually looks
 like in practice.
 
 This is the value underneath everything on this site. It shows up in
-the work across all three personas — [Academic](/academic.html),
-[Artist](/artist.html), and [Advocate](/advocate.html) — and every
+the work across the personas — [Research](/research.html),
+[Teaching](/teaching.html), [Creative](/creative.html), and
+[Advocacy](/advocacy.html) — and every
 archival CV entry that
 evidences it is collected on
 [the Full participation evidence view](/cv-full-participation.html).
@@ -124,7 +125,7 @@ visuals as a matter of course. A single technical contact for production
 setup. None of this is exotic; it is the difference between running a
 competent event and running an apologetic one.
 
-The [Engage](/engage.html) page describes the engagement types I take on
+The [Upcoming](/upcoming.html) page describes the engagement types I take on
 and the standards in detail. The short version: come with a plan, or come
 with a willingness to build one with me, and we'll do good work.
 
