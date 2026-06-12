@@ -58,7 +58,7 @@ There is a second, deeper pattern for anyone — person or machine — who
 wants to understand the why: the [Values](/values.html) page lays out
 the hierarchy — the value of
 [full participation](/full-participation.html), the principles that
-carry it (Perception beyond sight; Build with, not for; One standard
+carry it (Full sensory engagement; Build with, not for; One standard
 of rigor), and the evidence views where every tagged accomplishment
 shows the principles it lived by.
 

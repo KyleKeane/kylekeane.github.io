@@ -34,7 +34,7 @@ By value and principle:
 
 - [Evidence for Full participation](/cv-full-participation.html) —
   every action that evidences the value itself
-- [Evidence for Perception beyond sight](/cv-every-sense.html)
+- [Evidence for Full sensory engagement](/cv-every-sense.html)
 - [Evidence for Build with people, not for them](/cv-build-with-people.html)
 - [Evidence for Rigor across boundaries](/cv-rigor.html)
 

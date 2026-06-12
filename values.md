@@ -16,17 +16,24 @@ value lives through three principles. Each principle below carries a
 short statement and a link to its evidence: every tagged
 accomplishment in the record that instantiates it.
 
-## Perception beyond sight
+## Full sensory engagement
 
-The body's non-visual senses are full-resolution channels for complex
-information. Science, data, and art that only reach the eyes are
-incomplete — the same information can arrive as sound, touch, and
-structure, at no loss of rigor. This principle runs through the
-[Research](/research.html) and [Creative](/creative.html) personas:
-sonification of real astrophysics, audio-tactile graphics,
-echolocation training, and installations built from data.
+Sensory integration — full sensory, perceptual, and cognitive
+engagement — opens new ways of knowing, exploring, and discovering
+truth about the world around us. We should extend each sensory
+capability through tools, and refine our natural perceptual
+capabilities to discern and decipher more. Nothing here is against
+eyesight: the point is that everyone should use their entire sensory
+capabilities to the best of their current skill, constantly pushing to
+achieve and to understand more of what they are capable of, beyond
+what they can yet conceive — and that we are not yet building
+technology that helps us thrive and grow to our fullest potential.
+This principle runs through the [Research](/research.html) and
+[Creative](/creative.html) personas: sonification of real
+astrophysics, audio-tactile graphics, echolocation training, and
+installations built from data.
 
-[Every accomplishment evidencing Perception beyond sight](/cv-every-sense.html).
+[Every accomplishment evidencing Full sensory engagement](/cv-every-sense.html).
 
 ## Build with, not for
 

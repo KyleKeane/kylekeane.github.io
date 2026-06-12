@@ -132,7 +132,7 @@ If a page should not appear in the top nav, omit `nav_include` (or set it
 to `false`). The site has TWO refraction patterns. The human-first
 surface is a portfolio: nav `1..8` — About (elevator pitch, persona
 cards, highlights), Values (the hierarchy hub: value → principles —
-Perception beyond sight; Build with, not for; One standard of rigor —
+Full sensory engagement; Build with, not for; One standard of rigor —
 → evidence-view links), the four PERSONA pages (Research, Teaching,
 Creative, Advocacy: short pitch + philosophical outline → highlights →
 curated detail → "Full record" links into the filtered archive),

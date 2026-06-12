@@ -18,14 +18,16 @@ actually are. I take collaborators and PhD students; the
 [Upcoming](/upcoming.html) page is the right place to start that
 conversation.
 
-The philosophy underneath this work: every sense is a full-resolution
-channel for complex information. Science that only reaches the eyes is
-incomplete — the same data can arrive as sound, touch, and structure,
-at no loss of rigor. That conviction connects the quantum theory I
-started in, the perception science I do now, and the
+The philosophy underneath this work: full sensory engagement.
+Sensory integration — using and extending every sensory capability
+through tools, and refining our natural perception — opens new ways of
+knowing, exploring, and discovering truth about the world; the same
+data can arrive as sound, touch, and structure at no loss of rigor.
+That conviction connects the quantum theory I started in, the
+perception science I do now, and the
 [value of full participation](/full-participation.html) it all serves;
 the evidence trail is on
-[the Every sense evidence view](/cv-every-sense.html).
+[the Full sensory engagement evidence view](/cv-every-sense.html).
 
 Highlights:
 
