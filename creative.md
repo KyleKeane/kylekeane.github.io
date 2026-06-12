@@ -10,9 +10,10 @@ nav_order: 5
 ## Overview
 
 I work as an immersive, multisensory artist and experimental
-technologist at the outer edges of human perception. My practice
-treats data as a sonic medium and treats the body's non-visual senses
-as full-resolution channels for complex information. Booking
+technologist. My practice treats data as a sonic medium and the
+body's non-visual senses as full-resolution channels for complex
+information — the same measurements that produce a journal figure can
+produce a concert. Booking
 enquiries are welcome via the [Upcoming](/upcoming.html) page.
 
 Highlights:
@@ -22,7 +23,7 @@ Highlights:
   the *New York Times*, CNN, and press in five languages.
 - **[ECHO](/cv.html#echo-kinetic-sound-and-light-installation)** —
   the kinetic sound-and-light installation built on that sonification,
-  seen by 110,000 people in Seoul and now at Rockefeller Center.
+  experienced by 110,000 visitors in Seoul and now at Rockefeller Center.
 - **[Black Hole Reverb](#black-hole-reverb)** — the sonification on a
   5.1 / Dolby Atmos album release.
 
@@ -72,9 +73,9 @@ and a
 ## Performances
 
 The performances below sit inside the broader programme of the
-[MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/) — see also
+[MIT Spatial Sound Lab](https://spatialsoundlab.mit.edu/);
 [MIT Arts on Ian Condry's *Sound, Learning, and Democracy*](https://arts.mit.edu/people/ian-condrys-sound-learning-democracy/)
-for the wider context of the Lab's work.
+gives the wider context of the Lab's work.
 
 ### Dissolve Music 2024 — *Sound, Body, Dance*
 

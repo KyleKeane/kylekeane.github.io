@@ -106,7 +106,7 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
   mechanical and quantum-mechanical properties, instabilities, and
   phase transitions. EPFL.
 - **Methods of Modelling and Simulation for Materials Science.**
-  Same scope, Imperial College graduate seminar — see
+  Same scope, Imperial College graduate seminar — documented in
   [Imperial College news on the Mathematica Masterclass](https://www.imperial.ac.uk/news/174451/mathematica-masterclass-visualising-materials-science/)
   (Whitely Suite, 25–27 July 2016, with W. Craig Carter and George
   Varnavides; TSM-CDT pre-Hermes warm-up).
@@ -123,7 +123,7 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
   [Summer Camp 2019](https://education.wolfram.com/summer/camp/faculty/2019/).
 - **DeepLearn 2022 Spring** (5th International School on Deep Learning).
   Instructor for *An Introductory Course on Machine Learning and Deep
-  Learning with Mathematica / Wolfram Language* — see the
+  Learning with Mathematica / Wolfram Language* — listed on the
   [DeepLearn 2022 speaker page](https://deeplearn.irdta.eu/2022sp/blog/speakers/daniel-george/).
 - **Hermes School for Materials Simulation and Communication.**
   Instructor, 2016.
