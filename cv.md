@@ -46,6 +46,8 @@ By topic — places, institutions, subjects, and formats:
   [percussion](/topic-percussion.html), or [MIT](/topic-mit.html)).
 
 The Selected works section below gathers the major accomplishments,
-each with its media coverage attached.
+each with its media coverage attached; the
+[Accomplishments](/accomplishments.html) page presents the same
+material as an expandable portfolio.
 
 {% include cv-sections.html %}

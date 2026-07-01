@@ -170,6 +170,14 @@ change one, edit the `personas:` line in the named file.
   year-long fellowship, matching the Hopin virtual showcase). Which
   is right?
 
+- [ ] **Kellogg Scholar year.** *Affects: `_cv/scholarships/070-kellogg-scholar-cal-poly.md`.*
+  The site (from seed.md) says Kellogg Scholar, Cal Poly Pomona, 2002;
+  the June 2026 deep-research report says 2006. Which year is right?
+- [ ] **Wolfram Summer School 2013.** *Affects: `teaching.md`,
+  `_cv/`.* The site lists Summer School roles for 2015, 2017, 2018
+  (Program Director); the June 2026 deep-research report also lists
+  2013 (and 2019) as faculty years. Confirm which years to show.
+
 ## Adding to this list
 
 When a new question comes up, add a checkbox here with:

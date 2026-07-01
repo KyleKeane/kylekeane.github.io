@@ -56,9 +56,13 @@ personas:
 - **[The Wolfram|Alpha step-by-step solver and the Siri integration](/cv.html#wolfram-alpha-step-by-step-solver-and-the-siri-integration)**
   — computational answers, spoken aloud, for millions.
 
-For what's coming up — talks, installations, current threads, and
-how to hire, book, or collaborate — the [Upcoming](/upcoming.html) page lists it. The complete archival record, filterable by
-persona, value, and [topic](/topics.html), is the [CV](/cv.html).
+The [Accomplishments](/accomplishments.html) page is the portfolio
+version: every major accomplishment in an expandable entry with its
+concrete evidence attached. For what's coming up — talks,
+installations, current threads, and how to hire, book, or
+collaborate — the [Upcoming](/upcoming.html) page lists it. The
+complete archival record, filterable by persona, value, and
+[topic](/topics.html), is the [CV](/cv.html).
 
 ## Going deeper
 
