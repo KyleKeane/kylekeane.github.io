@@ -257,3 +257,31 @@ header nav[aria-label="Find Kyle on the web"] {
   width: auto;
   z-index: 100000;
 }
+
+/* Accomplishments portfolio: native details/summary accordions.
+   No JavaScript — the browser provides expand/collapse, and screen
+   readers announce the summary as a collapsed/expanded button. The
+   heading inside the summary keeps entries reachable by
+   heading navigation. */
+details.accomplishment,
+main details {
+  border: 1px solid currentColor;
+  border-radius: 0.5rem;
+  padding: 0 0.75rem;
+  margin: 0.75rem 0;
+}
+
+main details summary {
+  cursor: pointer;
+  padding: 0.5rem 0;
+}
+
+main details summary h3 {
+  display: inline;
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+main details[open] summary {
+  border-bottom: 1px solid currentColor;
+}
