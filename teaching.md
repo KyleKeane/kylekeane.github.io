@@ -120,11 +120,18 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
   stands for *Human BEIngs with DisabilIties*. Faculty co-designer
   for the 2022 inaugural edition,
   [documented in the FH Technikum Wien news release](https://www.technikum-wien.at/en/news/summer-school-international-students-developed-smart-assistance-solutions/).
-- **Wolfram Summer School and Wolfram Summer Camp.** Program Director
-  2018; Instructor 2015, 2017. Faculty bios:
-  [Wolfram Summer School](https://education.wolfram.com/summer-school/faculty/),
-  [Summer Research Program 2018](https://education.wolfram.com/summer-research-high-school/faculty/2018/),
-  [Summer Camp 2019](https://education.wolfram.com/summer/camp/faculty/2019/).
+- **Wolfram Summer School.** Instructor 2017; Program Director 2018
+  and 2019 (per the archived year rosters:
+  [2017](https://web.archive.org/web/20180110100105/https://education.wolfram.com/summer/school/faculty/2017/index.en.html),
+  [2018](https://education.wolfram.com/summer-school/faculty/2018/),
+  [2019](https://education.wolfram.com/summer-school/faculty/2019/)).
+- **Wolfram Summer Camp** (the high-school programme, now the Summer
+  Research Program). Instructor 2013, while a Wolfram research
+  programmer; Program Director 2018 and 2019, running the Camp and the
+  Summer School in parallel those summers (archived rosters:
+  [2013](https://education.wolfram.com/summer-research-high-school/faculty/2013/),
+  [2018](https://education.wolfram.com/summer-research-high-school/faculty/2018/),
+  [2019](https://education.wolfram.com/summer-research-high-school/faculty/2019/)).
 - **DeepLearn 2022 Spring** (5th International School on Deep Learning).
   Instructor for *An Introductory Course on Machine Learning and Deep
   Learning with Mathematica / Wolfram Language* — listed on the
