@@ -19,11 +19,14 @@ Abhinav Gandhi; the inaugural credit-bearing 3.008 in January 2019
 (thirteen students across Delhi, Chennai, and Hyderabad); the January
 2020 *Around the Globe* offering (eight students, India and Saudi
 Arabia); the year-long CoCreate fellowship with its
-[31 January showcase crediting me as HCDI founder](https://hopin.com/events/cocreate-2020-showcase);
+[31 January 2020 showcase crediting me as HCDI founder](https://hopin.com/events/cocreate-2020-showcase);
 and Uruguay. Partners included Krishnamurthy Sekar (Headstart Network
 Foundation) and Prof. PVM Rao of IIT Delhi (later my co-author on the
 2021 *Assistive Technology* review); the King Salman Center for
 Disability Research invited me and Areej Al-Wabil to discuss national
-scaling. Spin-offs include Project Aakaar. The founding story
+scaling. Spin-offs include Project Aakaar. The programme's
+intellectual-property strategy is documented in
+[a peer-reviewed Springer chapter](https://link.springer.com/chapter/10.1007/978-3-030-60149-2_2)
+(Almoaiqel et al., 2020). The founding story
 and partner network are on
 the [Teaching](/teaching.html#international-workshops-and-intensives) page.

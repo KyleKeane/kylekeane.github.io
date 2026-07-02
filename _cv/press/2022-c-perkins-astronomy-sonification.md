@@ -3,7 +3,7 @@ section: press
 type: institutional-feature
 about: black-hole-sonification
 year: 2022
-personas: [creative, advocate]
+personas: [academic, creative, advocate]
 principles: [full-participation, every-sense]
 specialties: [usa, sonification, black-holes, accessibility, blind-education]
 ---

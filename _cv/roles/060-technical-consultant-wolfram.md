@@ -3,7 +3,7 @@ section: roles
 title: "Technical Consultant"
 personas: [educator, advocate]
 principles: [full-participation, build-with-people]
-specialties: [accessibility, outreach, wolfram-research, usa, disability-advocacy, hackathons, mentorship]
+specialties: [accessibility, outreach, wolfram-research, usa, disability-advocacy, hackathons, mentorship, consulting, industry]
 ---
 
 Wolfram Research — Communications and Strategy, October 2015 – September
