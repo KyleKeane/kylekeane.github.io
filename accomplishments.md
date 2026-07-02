@@ -24,7 +24,8 @@ measurement and measurement reversal — without additional qubits and
 without entanglement. Published as a Rapid Communication; procedures
 proposed in this line of work were subsequently verified
 experimentally in superconducting-qubit systems. It remains my
-most-cited paper.
+most-cited paper: roughly 250 citations (OpenAlex 240, Google Scholar
+~280; retrieved July 2026).
 
 **Evidence:**
 
@@ -84,11 +85,11 @@ capsids (Roya Zandi's group).
 - [The doctoral dissertation on eScholarship](http://escholarship.org/uc/item/8nq7q2hn)
   and [as hosted by the Korotkov group at UC Riverside](https://intra.engr.ucr.edu/~korotkov/papers/Dissertation-Keane.pdf)
 - [Alexander Korotkov's publication list carrying both Keane–Korotkov papers](https://intra.engr.ucr.edu/~korotkov/papers.html)
-- Conference record: *Modelling of a Flying Microwave Qubit* (APS
-  March Meeting 2012, Boston); *Currently realizable quantum error
-  detection/correction algorithms for superconducting qubits* (APS
-  2011, Dallas); *Decoherence suppression of a solid state qubit by
-  uncollapsing* (APS 2010, Portland); invited colloquium *Beyond
+- Conference record, verified in the APS meeting archive:
+  [*Modeling of a Flying Microwave Qubit* (APS March Meeting 2012, session Y29.10)](https://meetings.aps.org/Meeting/MAR12/Session/Y29.10);
+  [*Currently Realizable Quantum Error Detection/Correction Algorithms for Superconducting Qubits* (APS 2011, session D29.14)](https://meetings.aps.org/Meeting/MAR11/Session/D29.14);
+  [*Decoherence Suppression of a Solid State Qubit by Uncollapsing* (APS 2010, session Z33.11)](https://meetings.aps.org/Meeting/MAR10/Session/Z33.11);
+  invited colloquium *Beyond
   Traditional Quantum Measurement: A Game of Quantum Peek-a-Boo with
   a Purpose* (CSU Fullerton, 5 November 2011); poster at Coherence in
   Superconducting Qubits (ARO, 26 April 2010); poster *Theoretical
@@ -142,6 +143,9 @@ three peer-reviewed papers. I was selected as commencement speaker
 for the College of Natural Sciences and Mathematics (2007); the
 address was titled *Look to this Day*. I did not use a computer until
 my second year of college.
+My doctoral dissertation’s acknowledgments name Khakoo alongside
+Korotkov: “for teaching me that one can strive for perfection while
+remaining firmly committed to living in humble service.”
 
 **Evidence:**
 

@@ -441,13 +441,17 @@ return (via Al-Wabil / Al-Megren).
 
 Source: `_briefing/phd-quantum-report-2026-07.md` (Section 9). Item 1
 (grant attribution) was CLOSED during integration — Korotkov's
-grant-output page lists the 2012 paper and the dissertation. Still
-open: (a) check the dissertation PDF's acknowledgments for a Martinis
-mention (Kyle holds the PDF); (b) archived attendee/programme lists
-for the ARO Coherence in Superconducting Qubits meeting (April 2010)
-and the IARPA programme review (August 2009); (c) capture citation
-counts for both quantum papers with a retrieval date; (d) verify the
-APS March Meeting bulletin numbers (Y29.10, D29.14, Z33.11) in the
-APS archive; (e) the 2019/2020 IARPA engagement during the MIT Quest
-period — first-person only, expected to be unpublished; corroboration
-via Kyle's records or the IARPA office.
+grant-output page lists the 2012 paper and the dissertation. Resolution
+pass, 2 July 2026: (a) RESOLVED — the public dissertation PDF's
+acknowledgments name Korotkov and Khakoo ("for teaching me that one
+can strive for perfection while remaining firmly committed to living
+in humble service"); no Martinis mention, so the personal-contact
+record stays first-person. (c) RESOLVED — citations retrieved 2 July
+2026: PRA 81, 040103(R) = 240 (OpenAlex; ~280 Google Scholar per the
+Oct 2025 report); PRA 86, 012333 = 17 (OpenAlex). (d) RESOLVED — all
+three APS sessions verified with stable meetings.aps.org URLs; note
+Y29.10 (2012) is *Modeling of a Flying Microwave Qubit* (the
+T1-suppression title belongs to the ARO 2010 poster, not Y29.10).
+Still open: (b) archived attendee/programme lists for the ARO meeting
+(April 2010) and IARPA review (August 2009); (e) the 2019/2020 IARPA
+engagement — first-person only, expected unpublished.

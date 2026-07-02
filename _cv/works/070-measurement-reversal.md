@@ -9,8 +9,8 @@ specialties: [quantum-information, superconducting-qubits, wave-physics, physics
 ---
 
 The theory I developed with Alexander Korotkov — published as a
-*Phys. Rev. A* rapid communication in 2010 and now cited roughly two
-hundred times — proposing that decoherence can be suppressed by
+*Phys. Rev. A* rapid communication in 2010 and cited roughly 250
+times (OpenAlex 240, Google Scholar ~280; retrieved July 2026) — proposing that decoherence can be suppressed by
 partially measuring a qubit and then reversing the measurement. The
 procedure was experimentally demonstrated in photonic qubits by
 Yoon-Ho Kim's group in Korea
