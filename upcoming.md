@@ -22,10 +22,6 @@ the Audio Developer Conference.
 
 ## Confirmed forthcoming engagements
 
-- **[ECHO](https://resound-nyc.com/artwork/echo) — currently running.**
-  On view through 31 October 2026 at HERO at Rockefeller Center inside
-  reSOUND New York; daily 11am–7pm. Full description on the
-  [Creative](/creative.html#echo--resound-new-york) page.
 - **Keynote, Monterrey, Mexico — late October 2026.** Title, venue, and
   exact date to be confirmed.
 - **Keynote, [Audio Developer Conference (ADC Bristol 26)](https://audio.dev/)
@@ -53,6 +49,15 @@ Active research at Bristol — described in depth on the
 A representative slice of recent talks and appearances. The full
 archive is on the [CV](/cv.html) page.
 
+- **[ECHO](https://resound-nyc.com/artwork/echo)** completed its New
+  York run at HERO, Rockefeller Center (reSOUND New York season, from
+  1 October 2025); the successor *reSENSE* season, on view through
+  18 October 2026, features new works. Full description on the
+  [Creative](/creative.html#echo--resound-new-york) page.
+- **Seminar,** *Spatial Perception and Situational Awareness as
+  Transcendental Design Paradigms (or how to get out of your head)*,
+  [Medical Humanities series, School of Humanities, NTU Singapore](https://www.ntu.edu.sg/soh/news-events/events/detail/2025/09/23/medical-humanities/spatial-perception-and-situational-awareness-as-transcendental-design-paradigms-(or-how-to-get-out-of-your-head)),
+  23 September 2025.
 - **Speaker, [Zero Project Conference 2026](https://zerocon26.zeroproject.org/participants/3323364),**
   UN Office, Vienna, 18–20 February 2026 — sessions on hardware and
   smartphones designed for blind and low-vision users, and on the Zero
@@ -176,10 +181,11 @@ Simulations.
 ### Artistic booking and installations
 
 I work in spatial and immersive audio, sonification, audio-tactile
-graphics, and large-scale installation. The headline currently running
-is *ECHO* at reSOUND New York inside HERO at Rockefeller Center,
-October 2025 – October 2026. The full installation, performance, and
-recording catalogue lives on the [Creative](/creative.html) page.
+graphics, and large-scale installation. The headline example is
+*ECHO*, which ran at reSOUND New York inside HERO at Rockefeller
+Center from October 2025, after 110,000 visitors at Culture Station
+Seoul 284. The full installation, performance, and recording
+catalogue lives on the [Creative](/creative.html) page.
 
 I am open to bookings for festivals, museums, galleries, residencies,
 and one-off commissions. I bring my own technical brief and can work

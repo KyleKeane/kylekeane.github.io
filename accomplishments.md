@@ -296,11 +296,12 @@ and Michal Dovciak.
 </details>
 
 <details markdown="1">
-<summary><h3 id="echo-installation-accomplishment">ECHO — kinetic sound-and-light installation (2024–present)</h3></summary>
+<summary><h3 id="echo-installation-accomplishment">ECHO — kinetic sound-and-light installation (2024–2026)</h3></summary>
 
 The sonification became *ECHO*, an eight-channel kinetic
 sound-and-light installation: 110,000 visitors at Culture Station
-Seoul 284 (2024), now at HERO, Rockefeller Center, New York.
+Seoul 284 (2024), then at HERO, Rockefeller Center, New York, from
+October 2025 through the end of the reSOUND season.
 
 **Evidence:**
 

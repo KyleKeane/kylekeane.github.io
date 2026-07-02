@@ -23,7 +23,7 @@ Highlights:
   the *New York Times*, CNN, and press in five languages.
 - **[ECHO](/cv.html#echo-kinetic-sound-and-light-installation)** —
   the kinetic sound-and-light installation built on that sonification,
-  experienced by 110,000 visitors in Seoul and now at Rockefeller Center.
+  experienced by 110,000 visitors in Seoul and then at Rockefeller Center.
 - **[Black Hole Reverb](#black-hole-reverb)** — the sonification on a
   5.1 / Dolby Atmos album release.
 
@@ -32,7 +32,8 @@ Highlights:
 ### ECHO — reSOUND New York
 
 *HERO at Rockefeller Center, 610 5th Avenue, Rink Level, New York.
-1 October 2025 – 31 October 2026, daily 11am–7pm.*
+Opened 1 October 2025 in the reSOUND New York season; the successor
+reSENSE season (through 18 October 2026) features new works.*
 
 *ECHO* is an 8-channel kinetic sound and light installation presented
 by [d'strict](https://www.dstrict.com/) and
