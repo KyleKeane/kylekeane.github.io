@@ -37,8 +37,15 @@ site. New questions accumulate here.
   2.78 / HST.420**) are correct cross-listings of the same course.
   Teaching's heading now lists all four; Work mentions the cross-listing
   in the role description.
-- [x] **3.008 dates.** *Affects: `teaching.md`.* Confirmed Phase 2:
-  **Winter 2017 + Winter 2018**. No change to the page.
+- [x] **3.008 dates.** *Affects: `teaching.md`.* Confirmed Phase 2 as
+  Winter 2017 + Winter 2018 — **SUPERSEDED July 2026** by Kyle's
+  evidence-first adjudication (recorded in
+  `_briefing/web-presence-inventory-2026-07.md`): MIT News calls the
+  January 2019 trip the inaugural run (thirteen students) and MIT TLL
+  documents the January 2020 *Around the Globe* offering. The site now
+  shows January 2019 and January 2020, with the July 2017 Climber
+  launch weekend and August 2018 Chennai pilot as distinct earlier
+  engagements.
 - [x] **International multiday workshops.** *Affects: `teaching.md`.*
   Confirmed Phase 2: keep all visible (Sichuan, Al-Faisal, IIT
   Delhi/Madras, LV Prasad Eye Institute, UTEC, etc.). No change.
@@ -177,6 +184,22 @@ change one, edit the `personas:` line in the named file.
   `_cv/`.* The site lists Summer School roles for 2015, 2017, 2018
   (Program Director); the June 2026 deep-research report also lists
   2013 (and 2019) as faculty years. Confirm which years to show.
+
+### From the July 2026 web-presence inventory
+
+- [ ] **Wolfram Summer School years shown.** *Affects: `teaching.md`.*
+  The site lists Program Director 2018; Instructor 2015, 2017. The
+  inventory's Wolfram faculty pages document 2016 (Summer Research
+  Institute), 2018, and 2019 rosters, and the first report claimed
+  2013. Which years should the site enumerate?
+- [ ] **Supervisee name spelling.** The MISTI retrospective spells the
+  Sloan SDM thesis author "Indrayud Biswas Mandal"; the CV supervision
+  list has "Indrayud Mandel". Confirm the correct spelling before the
+  name appears anywhere on the site.
+- [ ] **LVPEI January 2020.** The launch-weekend list previously said
+  LVPEI ran January 2018 and 2019; under the evidence-first ruling the
+  site now shows January 2019 only (the documented visit). Did the
+  January 2020 trip also include LVPEI Hyderabad?
 
 ## Adding to this list
 

@@ -29,6 +29,10 @@ most-cited paper.
 **Evidence:**
 
 - [Phys. Rev. A 81, 040103(R) (2010) — Rapid Communication](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.040103)
+  and [the open arXiv preprint](https://arxiv.org/abs/0908.1134)
+- Experimental confirmations: [a 2014 Nature Communications superconducting-circuit experiment citing both Keane–Korotkov papers as its theoretical basis](https://www.nature.com/articles/ncomms4135);
+  [a three-qubit demonstration of the uncollapsing error-detection protocol](https://arxiv.org/abs/1309.0198)
+- Pedagogical canon: [reference 22 in standard lecture notes on experimental quantum measurement](https://arxiv.org/abs/1904.09291)
 - [The full publication record on the CV](/cv.html#publications)
 
 </details>
@@ -64,6 +68,8 @@ capsids (Roya Zandi's group).
 **Evidence:**
 
 - [The doctoral dissertation on eScholarship](http://escholarship.org/uc/item/8nq7q2hn)
+  and [as hosted by the Korotkov group at UC Riverside](https://intra.engr.ucr.edu/~korotkov/papers/Dissertation-Keane.pdf)
+- [Alexander Korotkov's publication list carrying both Keane–Korotkov papers](https://intra.engr.ucr.edu/~korotkov/papers.html)
 - Conference record: *Modelling of a Flying Microwave Qubit* (APS
   March Meeting 2012, Boston); *Currently realizable quantum error
   detection/correction algorithms for superconducting qubits* (APS
@@ -143,9 +149,28 @@ blind users access to Mathematica's computational capabilities.
 **Evidence:**
 
 - [The Wolfram-era roles on the CV](/cv.html#roles)
+- [Making Physics Courses Accessible for Blind Students (arXiv:1710.08977)](https://arxiv.org/abs/1710.08977)
+  — a physics-education paper quoting my recommendation of
+  wolframscript for blind users
+- [My Wolfram Community profile, with staff-picked posts including a free Wolfram-on-Raspberry-Pi tutorial](https://community.wolfram.com/web/kylek)
 - Talk record: *Creating Accessible Dynamic Content* (Wolfram
   Technology Conference 2012); *Physics Comes Alive with Wolfram
   Technologies* (Wolfram Virtual Conference for Educators, 2013).
+
+</details>
+
+<details markdown="1">
+<summary><h3 id="open-source-accessibility-software">Open-source accessibility software (2013–present)</h3></summary>
+
+Twelve public repositories, heavily accessibility-focused: an
+accessible computational-notebook exporter, an arXiv accessibility
+importer, WolframOnRPI, and the WSS-Template used by Wolfram Summer
+School students (107 forks). The account carries the Arctic Code
+Vault Contributor badge from the GitHub Archive Program.
+
+**Evidence:**
+
+- [KyleKeane on GitHub](https://github.com/KyleKeane)
 
 </details>
 
@@ -227,6 +252,29 @@ Seoul 284 (2024), now at HERO, Rockefeller Center, New York.
 - [reSOUND New York — ECHO](https://resound-nyc.com/artwork/echo)
 - [Time Out New York, 21 October 2025](https://www.timeout.com/newyork/news/this-new-multisensory-art-exhibit-sounds-very-trippy-and-were-here-for-it-102125)
 - [The full coverage record on the CV](/cv.html#echo-kinetic-sound-and-light-installation)
+- [MATTE Projects' production credit naming me](https://matteprojects.com/editorial/resound-new-york-hero)
+- [reSOUND New York — exhibition site](https://resound-nyc.com/about)
+
+</details>
+
+<details markdown="1">
+<summary><h3 id="spatial-sound-lab-leadership">MIT Spatial Sound Lab — research leadership and performance (2023–present)</h3></summary>
+
+Researcher at the MIT Spatial Sound Lab, co-leading the *Accessible
+Technology and Disability Justice* research theme with Nelly Kate
+Anderson — including the June 2024 workshop with Fayen d'Evie, Lloyd
+Mst, and Andy Slater — and performing original music at the lab's
+events, including the MIT.nano Immersion Lab surround-sound open house
+(with Leftroman and Justin Looper) and the moderated discussion with
+Daniel Kish and Ian Condry following Kish's talk *Human Echolocation
+and the Whole Body Sensorium* (7 February 2026).
+
+**Evidence:**
+
+- [The lab's research page recording the theme leadership](https://spatialsoundlab.mit.edu/research/)
+- [The lab's home page with the February 2026 event](https://spatialsoundlab.mit.edu/)
+- [MIT.nano Immersion Lab spatial sound open house listing](https://mitnano.mit.edu/events/spatial-sound-open-house)
+- [Listening to What Cannot Be Seen — The Harvard Crimson on the lab's open house](https://www.thecrimson.com/article/2023/5/30/mit-spatial-sound-lab-open-house-mitnano-immersion-lab/)
 
 </details>
 
@@ -266,11 +314,24 @@ the LV Prasad Eye Institute, IIT Delhi's Assistech Lab, the Indian
 Spinal Injuries Centre, v-Shesh, and Project Prakash. The programme
 grew into Project Aakaar, the international exchange in which
 middle-school students in Cambridge, Massachusetts and India
-co-designed 3D-printed tactile teaching aids for blind students.
+co-designed 3D-printed tactile teaching aids for blind students —
+founded by Shantanu Landore, Sarthak Kapoor, and Daksh Pamar at the
+LVPEI Hyderabad workshop, deployed in Bangalore schools, ranked a
+top-five national Social Impact project by Education World Magazine,
+and a top-twenty seed-funded team in the 2021 MIT PKG IDEAS Social
+Innovation Challenge. The arc, per the evidence-adjudicated timeline:
+July 2017 launch weekend with The Climber in Chennai; August 2018
+Chennai pilot at the invitation of former student Abhinav Gandhi;
+inaugural credit-bearing course January 2019 (thirteen students);
+January 2020 *Around the Globe* offering (India and Saudi Arabia).
 
 **Evidence:**
 
 - [Co-designing assistive technologies in India — MIT News, 25 March 2019](https://news.mit.edu/2019/co-designing-assistive-technologies-india-0325)
+- [MISTI Radio: Assistive Technology in India — podcast, 11 March 2019](https://soundcloud.com/mistiatmit/misti_radio_3-11-2019-india)
+- [The CoCreate 2020 Showcase page crediting me as HCDI founder](https://hopin.com/events/cocreate-2020-showcase)
+- [The Humanistic Co-Design Initiative's own site](https://www.humanistic.app/about.php)
+- [The Climber's 2017 profile of Abhinav Gandhi — the mentorship lineage](https://medium.com/@theclimber_ind/meet-21-year-old-abhinav-gandhi-who-gets-his-brilliance-straight-from-mit-dd8acc0a0814)
 - [Humanistic design workshops in India: impact and reach — MIT MISTI](https://misti.mit.edu/humanistic-design-workshops-india-impact-and-reach)
 - [Co-designing assistive technology around the globe — MIT Teaching + Learning Lab](https://tll.mit.edu/co-designing-assistive-technology-around-the-globe/)
 - [The full programme record on the CV](/cv.html#humanistic-co-design-initiative)
@@ -306,12 +367,22 @@ the department's Computational Curriculum Advisor, and ran an MIT
 Integrated Learning Initiative study — a 2×2 factorial design — on
 the effect of infusing programming and visualisation into
 introductory physics. With Peter Barendse, built the computational
-thinking framework used to deploy working MITx components.
+thinking framework used to deploy working MITx components. The MIT
+chapter began with Prof. W. Craig Carter recruiting me from Wolfram to
+build the module interface and effectiveness-research infrastructure
+for MSC 2.0, his Mathematica "proctored scaffolding" materials-science
+curriculum; with Carter I co-submitted the funded WolframLTI MITx
+grant and co-taught the January 2016 IAP Wolfram Language series.
 
 **Evidence:**
 
+- [Faculty highlight: W. Craig Carter — MIT News, 1 June 2015 (the earliest MIT News mention of me)](https://news.mit.edu/2015/faculty-highlight-craig-carter-0601)
+- [Materials science master class — MIT News, 7 July 2015 (announcing my MIT appointment)](https://news.mit.edu/2015/materials-science-master-class-0707)
+- [The WolframLTI grant on the MITx Grant Program selected-projects list](https://openlearning.mit.edu/mitx-grant-program-selected-projects)
+- [The IAP 2016 ten-session series listing](http://web.mit.edu/iap/www/iap16/searchiap/iap-9289af8f51e84e6e0151e9923f0b000e.html)
 - [The teaching archive](/teaching.html) and [the roles record on the CV](/cv.html#roles)
 - [Activating Computational Thinking on MITx — xTalk recording](https://www.youtube.com/watch?v=yHSVVKpPsd0)
+  and [the MIT Events Calendar listing](https://calendar.mit.edu/event/xtalk_with_peter_barendse_kyle_keane)
 - Talk record: *Combining materials science curriculum with training
   in computer programming* (MRS Fall Meeting, December 2015);
   *Connectedness and Collaboration in the Classroom* (xTalks@MIT,
@@ -337,6 +408,29 @@ computational design.
 
 - [Collaborative Design and Creative Expression using Arduino Microcontrollers — MIT OCW](https://ocw.mit.edu/resources/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/)
 - [Build Your Own Video Game with the Unity Game Engine and Microsoft Kinect — MIT OCW](https://ocw.mit.edu/resources/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/)
+- [The complete archived video set (20 files) of workshop demos and student presentations](https://archive.org/details/MITRES.3-002IAP17)
+- [A full international mirror at Universidad Politécnica Salesiana, Ecuador](https://mitocw.ups.edu.ec/resources/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017/instructor-insights/)
+  — evidence of global redistribution
+- [Bringing humanistic education in technical subjects to the world — MIT News, 28 June 2018](https://news.mit.edu/2018/bringing-humanistic-education-in-technical-subjects-to-the-world-0628)
+
+</details>
+
+<details markdown="1">
+<summary><h3 id="bwsi-assistive-technology">Design of Assistive Technologies at MIT BeaverWorks Summer Institute (2018–2021)</h3></summary>
+
+Co-created and taught the four-week high-school assistive-technology
+summer programme at MIT Lincoln Laboratory's BeaverWorks Summer
+Institute, with a companion online course; the programme's lineage
+continues in today's CRE[AT]E Challenge, and a BWSI-supported pilot
+group of high-school students produced narrative and instructional
+videos about their own co-design process.
+
+**Evidence:**
+
+- [BWSI Design of Assistive Technologies 2021 course page with my instructor biography](https://bwsix.mit.edu/courses/course-v1:BWSI+BWSI202+Winter_2021/about)
+- [The 2020 course page](https://bwsix.mit.edu/courses/course-v1:BWSI+BWSI201+Winter_2020/about)
+- [The continuing Beaver Works Assistive Technology programme](https://beaver-works-assistive-tech.mit.edu/)
+  and [its open curriculum site](https://beaver-works-assistive-technology.github.io/)
 
 </details>
 
@@ -374,20 +468,49 @@ programme is documented in a peer-reviewed Springer chapter.
 
 - [Empowering Assistive Technology Communities to Make Strategic Use of Intellectual Property — Springer, 2020](https://link.springer.com/chapter/10.1007/978-3-030-60149-2_2)
 - [Alfaisal CoCreate 2020 exhibition news release](https://news.alfaisal.edu/alfaisal-university-hosts-cocreate-fellowship-program-projects-exhibition-of-2020/)
+- [CoCreating for Inclusivity and Innovation — MIT Ibn Khaldun Fellowship, attributing the initiative's founding to me](https://ibk.mit.edu/news/cocreating-for-inclusivity-and-innovation/)
+- [The programme institutionalised: CoCreate as a standing twelve-month Alfaisal course, 2023](https://news.alfaisal.edu/the-cocreate-program-at-alfaisal-university/)
 - [The full programme record on the CV](/cv.html#humanistic-co-design-initiative)
 
 </details>
 
 <details markdown="1">
-<summary><h3 id="uruguay-workshops">Uruguay — faculty training at UTEC (2022)</h3></summary>
+<summary><h3 id="uruguay-workshops">Uruguay — the iCiencia workshops and UTEC faculty training (2021–2022)</h3></summary>
 
-Ran collaborative-design and assistive-technology co-design training
-for faculty at UTEC with support from the United States Embassy of
-Uruguay and the MIT–Brazil discretionary seed fund.
+Co-developed, with UTEC docente Jorge Gutierrez, the *Arduino for
+creative collaboration* workshop at the heart of iCiencia — the
+programme funded by a US Embassy of Uruguay Small Grant with support
+credited to MIT — which delivered 18 in-person workshops across Fray
+Bentos, Minas, Melo, Montevideo, and Rivera in 2021–2022, reaching
+nearly 500 participants through more than 90 hours of training across
+18 institutions, with inclusive-design examples including a call
+device for a person with a disability. I also ran collaborative-design
+and co-design training for UTEC faculty with support from the embassy
+and the MIT–Brazil discretionary seed fund; UTEC subsequently sat in
+the planning process for Uruguay's national assistive-technology
+initiative (CENATT).
 
 **Evidence:**
 
+- [UTEC: Casi 500 jóvenes aprendieron a programar — naming me as workshop co-developer](https://utec.edu.uy/es/noticia/casi-500-jovenes-aprendieron-a-programar-y-generar-soluciones-en-equipo-a-traves-de-un-proyecto-de-utec-innova-y-la-embajada-de-ee-uu/)
+  ([English version](https://utec.edu.uy/en/article/casi-500-jovenes-aprendieron-a-programar-y-generar-soluciones-en-equipo-a-traves-de-un-proyecto-de-utec-innova-y-la-embajada-de-ee-uu/))
 - [The 2022 grants record on the CV](/cv.html#grants-2022)
+
+</details>
+
+<details markdown="1">
+<summary><h3 id="transcribeglass-advisory">TranscribeGlass — advisory and grant support (2021–present)</h3></summary>
+
+Advisor and grant co-lead for TranscribeGlass, the affordable heads-up
+augmented-reality captioning device for the Deaf founded by Madhav
+Lavakare — funded in part through the India–US Technology Transfer
+Fund grant I co-led.
+
+**Evidence:**
+
+- [The TranscribeGlass team's MIT Solve page naming me among the advisors](https://solve.mit.edu/challenges/re-engage-learners/solutions/62192)
+- [Aravali Foundation Connect feature, September 2021 (PDF)](http://aravalifoundation.in/Connect/Sept_21/pdf/seeConversation.pdf)
+- [The 2021 grants record on the CV](/cv.html#grants-2021)
 
 </details>
 
@@ -409,6 +532,13 @@ Studios, June 2014).
 **Evidence:**
 
 - [Imperial College news on the Mathematica Masterclass](https://www.imperial.ac.uk/news/174451/mathematica-masterclass-visualising-materials-science/)
+- Wolfram's official faculty biographies:
+  [current](https://education.wolfram.com/summer-school/faculty/),
+  [2018](https://education.wolfram.com/summer-school/faculty/2018/),
+  [2019](https://education.wolfram.com/summer-school/faculty/2019/),
+  [Summer Research Institute 2016](https://education.wolfram.com/summer-research-institute/faculty/2016/),
+  and [the 2019 high-school programme](https://education.wolfram.com/summer-research-high-school/faculty/2019/)
+- [The DeepLearn 2022 speaker page with my course description](https://deeplearn.irdta.eu/2022sp/blog/speakers/daniel-george/)
 - [The teaching archive](/teaching.html) and [the events record on the CV](/cv.html#conferences-and-events-attended)
 
 </details>
@@ -479,12 +609,16 @@ Thompson), perception-aware AI, and multisensory HCI. Organiser of
 the Access Bristol assistive-technology accelerator (with GitHub and
 Smartbox as lead industry sponsors) and the Emergent Harmonics
 symposium (keynote: Daniel Kish). Recent publications span *Memory &
-Cognition* (2025) and ACM IDC '24.
+Cognition* (2025) and ACM IDC '24 (*Sense-O-Nary*, Best Short Paper
+Honourable Mention).
 
 **Evidence:**
 
 - [What the visual system can learn from the non-dominant hand — Memory & Cognition, 2025](https://doi.org/10.3758/s13421-024-01628-2)
 - [Sense-O-Nary — ACM IDC '24](https://doi.org/10.1145/3628516.3655785)
+  ([the Honourable Mention on the Diverse-ability Interaction Lab list](https://dive.ousmet.com/publications/))
+- [My Bristol Interaction Group member page](https://biglab.co.uk/member/kyle-keane/)
+  and [official University of Bristol profile](https://www.bristol.ac.uk/people/person/Kyle-Keane-3b30cecb-458f-429d-9686-1a6ef5bc6518/)
 - [Access Bristol](https://www.accessbristol.org/) and [the accelerator record on the CV](/cv.html#access-bristol-assistive-technology-accelerator)
 - [The current research programme](/research.html) and [what's coming next](/upcoming.html)
 

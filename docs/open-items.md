@@ -195,7 +195,11 @@ needed.
   *To resolve:* Kyle to confirm whether ECHO continues inside the
   reSENSE season and through what date, then align both pages.
 
-- **Wolfram Blog 2018 Summer School recap byline.** The
+- ~~**Wolfram Blog 2018 Summer School recap byline.**~~ **Resolved
+  July 2026:** the web-presence inventory confirms the byline is
+  Kyle's (Wolfram's own faculty pages document his Summer School
+  role); the post is now a `_cv/press/` entry.
+  Original item: The
   [blog.wolfram.com author archive](https://blog.wolfram.com/author/kyle-keane/)
   shows one post — "The 2018 Wolfram Summer School: A Recap"
   (21 Aug 2018) bylined "Kyle Keane, Education Specialist, Outreach
@@ -413,3 +417,21 @@ could become a `_cv/` entry or a curated link once verified:
   MSN syndicated videos "How Black Hole Observations Were Turned Into
   Sound". Each almost certainly carries the Keane/Condry paragraph;
   verify before adding.
+
+
+## July 2026 web-presence inventory — manual-archive targets
+
+The full inventory lives at
+`_briefing/web-presence-inventory-2026-07.md`. Its Section 17 defines
+the remaining manual targets (no public web record; needs archives or
+people): CSUF 2007 commencement records (Daily Titan archive, Pollak
+Library), EPFL July 2016 (CADMOS archives, Wayback), Hermes 2016
+page naming Kyle, hackathon mentor rosters (likely permanently
+undocumented), CSUN/NFB attendance programmes, the June 2022 UTEC
+Fray Bentos visit page (UTEC news archive pages 5–6 of 2022; embassy
+Facebook archive), Sichuan University 2022, the Swiss
+television segment (SRF Play, RTS, biped.ai press page), the
+performances *Buckets*, *Gong*, and *DENORMALIZED*, the Johns Hopkins
+2022 grant announcement, ES.S09's ESG archive record, possible
+Kolkata side trips (via Abhinav Gandhi), and the 2023 Al-Faisal
+return (via Al-Wabil / Al-Megren).

@@ -11,5 +11,7 @@ Abigale Stangl, Kyle Michael Keane, Matthew Horton, Janet Read, and
 Oussama Metatla,** *Sense-O-Nary — Exploring children's crossmodal
 metaphors through playful crossmodal interactions.* *IDC '24:
 Proceedings of the 23rd Annual ACM Interaction Design and Children
-Conference* (2024).
-[ACM Digital Library entry (DOI 10.1145/3628516.3655785)](https://doi.org/10.1145/3628516.3655785).
+Conference*, 259–269 (2024). **Best Short Paper Honourable
+Mention, IDC 2024.**
+[ACM Digital Library entry (DOI 10.1145/3628516.3655785)](https://doi.org/10.1145/3628516.3655785) ·
+[the award noted on the Diverse-ability Interaction Lab publications list](https://dive.ousmet.com/publications/).

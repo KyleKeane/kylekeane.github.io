@@ -524,6 +524,36 @@ pattern for deep-divers and machines.
 - [x] Kept Kyle's explicit "Upcoming" name (a stale option text
   suggested "Future"; not applied).
 
+## Phase 17 — Web-presence inventory integration (July 2026)
+
+Kyle supplied the nine-revision comprehensive web-presence inventory
+(preserved verbatim in `_briefing/web-presence-inventory-2026-07.md`)
+with instructions that nothing be dropped.
+
+- [x] 13 new `_cv/press/` entries (earliest MIT News mention 2015,
+  IAP 2016 series, The Climber 2017, arXiv accessibility citation,
+  Wolfram Blog byline, MISTI Radio, Hopin CoCreate showcase, Aravali
+  TranscribeGlass, Alfaisal 2023 continuation, UTEC iCiencia Uruguay,
+  MATTE Projects ECHO credit, MIT News Kara profile 2026, Spatial
+  Sound Lab Kish event 2026).
+- [x] Enriched works (measurement-reversal experimental lineage,
+  Project Aakaar full roster, HCDI adjudicated arc, PPAT
+  sixteen-client model), Sense-O-Nary Best Short Paper Honourable
+  Mention, WolframLTI co-submitter record, SuperUROP syndications.
+- [x] Accomplishments portfolio: 4 new accordions (BWSI,
+  TranscribeGlass, open-source software, Spatial Sound Lab
+  leadership), Uruguay accordion upgraded with iCiencia, evidence
+  added across physics/Wolfram/curriculum/OCW/HCDI/summer-school/
+  Bristol entries.
+- [x] Adjudicated corrections applied (Kyle's evidence-first ruling,
+  2 July 2026): 3.008 course years -> January 2019 + January 2020;
+  launch-weekend dates corrected; Chennai 2017 + 2018 as two distinct
+  engagements; The Climber identified.
+- [x] docs: open-questions supersede note + 3 new questions;
+  open-items manual-archive targets.
+- [ ] Kyle: Wolfram Summer School years, Indrayud spelling, LVPEI
+  January 2020 (docs/open-questions.md).
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)
