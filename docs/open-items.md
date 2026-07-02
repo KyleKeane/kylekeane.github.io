@@ -435,3 +435,19 @@ performances *Buckets*, *Gong*, and *DENORMALIZED*, the Johns Hopkins
 2022 grant announcement, ES.S09's ESG archive record, possible
 Kolkata side trips (via Abhinav Gandhi), and the 2023 Al-Faisal
 return (via Al-Wabil / Al-Megren).
+
+
+## July 2026 PhD-quantum report — remaining confirmation items
+
+Source: `_briefing/phd-quantum-report-2026-07.md` (Section 9). Item 1
+(grant attribution) was CLOSED during integration — Korotkov's
+grant-output page lists the 2012 paper and the dissertation. Still
+open: (a) check the dissertation PDF's acknowledgments for a Martinis
+mention (Kyle holds the PDF); (b) archived attendee/programme lists
+for the ARO Coherence in Superconducting Qubits meeting (April 2010)
+and the IARPA programme review (August 2009); (c) capture citation
+counts for both quantum papers with a retrieval date; (d) verify the
+APS March Meeting bulletin numbers (Y29.10, D29.14, Z33.11) in the
+APS archive; (e) the 2019/2020 IARPA engagement during the MIT Quest
+period — first-person only, expected to be unpublished; corroboration
+via Kyle's records or the IARPA office.

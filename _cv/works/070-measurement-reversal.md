@@ -12,8 +12,15 @@ The theory I developed with Alexander Korotkov — published as a
 *Phys. Rev. A* rapid communication in 2010 and now cited roughly two
 hundred times — proposing that decoherence can be suppressed by
 partially measuring a qubit and then reversing the measurement. The
-procedure was experimentally demonstrated in an optical adaptation by
-a POSTECH group (*Nature Physics*, 2012), confirming the proposal.
+procedure was experimentally demonstrated in photonic qubits by
+Yoon-Ho Kim's group in Korea
+([*Optics Express* 19, 16309 (2011)](https://qopt.postech.ac.kr/wp-content/uploads/2020/12/110810oe.pdf),
+an experiment titled after the protocol) and extended to entanglement
+protection ([*Nature Physics* 8, 117 (2012)](https://www.nature.com/articles/nphys2178)).
+The proposal targeted the superconducting phase qubit of John
+Martinis's UC Santa Barbara laboratory — Korotkov's standing
+experimental partner, and 2025 Nobel Laureate in Physics for the
+foundational discoveries behind those circuits.
 The lineage continued in superconducting circuits:
 [a 2014 *Nature Communications* experiment](https://www.nature.com/articles/ncomms4135)
 cites both Keane–Korotkov papers as its theoretical basis, a
