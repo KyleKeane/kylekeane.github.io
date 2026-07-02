@@ -554,6 +554,23 @@ with instructions that nothing be dropped.
 - [ ] Kyle: Wolfram Summer School years, Indrayud spelling, LVPEI
   January 2020 (docs/open-questions.md).
 
+## Phase 19 — Deep-dive gap closure (July 2026)
+
+Autonomous research round per Kyle: primary-source verifications plus
+two agent sweeps.
+
+- [x] Gaps closed: NTU Singapore seminar (title + date + the
+  CADT/Penn State/MIT/Bristol network); Hermes 2016 (Psi-k report);
+  Macro Hive episode title; dissertation acknowledgments (Korotkov +
+  Khakoo quote); dated citation counts; all three APS sessions with
+  archive URLs; the Look to this Day transcript.
+- [x] Corrections: ECHO's New York run ended (reSENSE through 18 Oct
+  2026); ES.S90 Designing Adaptive Prison Solutions (was ES.S09);
+  Scaffolding the Fantastical to 2026; APS Y29.10 title.
+- [x] Dead ends recorded with method notes so they are not re-hunted;
+  one live lead (geo-blocked RTS segment id from biped.ai's archived
+  press kit).
+
 ## Out of scope (for now)
 
 - Custom domain / CNAME (kylekeane.github.io is the live URL)
