@@ -455,3 +455,33 @@ T1-suppression title belongs to the ARO 2010 poster, not Y29.10).
 Still open: (b) archived attendee/programme lists for the ARO meeting
 (April 2010) and IARPA review (August 2009); (e) the 2019/2020 IARPA
 engagement — first-person only, expected unpublished.
+
+
+## July 2026 deep-dive resolution pass (archive agents)
+
+- **Hermes 2016 — CLOSED**: the Psi-k workshop report names Kyle
+  delivering the talks and hands-on session (now linked from Teaching,
+  the portfolio, and a press entry).
+- **ES.S09 — CORRECTED to ES.S90 (evidence-first)**: the archived MIT
+  ESG Spring 2021 page lists *ES.S90 Designing Adaptive Prison
+  Solutions*, 6 units, instructors Kyle Keane and Anna Musser; the
+  earlier CV number/title were a transposition and a paraphrase.
+- **CSUF 2007 commencement**: no independent CSUF/Daily Titan record
+  is indexed (Wayback CDX checked); the full transcript survives on
+  kylekeane.com/commencement.html (archived 2019+) and is now linked
+  as evidence. Records-office request remains the only upgrade path.
+- **EPFL July 2016**: still no direct page; MIT News (July 2015)
+  documents Carter's EPFL master classes with Kyle engaged on the
+  team, and Imperial places the same team teaching in Europe that
+  month. Held as corroborated-indirect.
+- **MIT.nano open house dated**: 7 June 2023 (mitnano.mit.edu event
+  page), matching the Harvard Crimson coverage window.
+- **Swiss TV lead**: biped.ai's archived press kit lists one RTS
+  segment (rts.ch/play id 12575851; geo-blocked outside Switzerland,
+  programme/date unresolved) and two France TV segments; no SRF item.
+  The RTS id is the concrete lead for a Switzerland-side check.
+- **Confirmed unindexed after exhaustive passes**: Sichuan University
+  June 2022; the JHU DHRC 2022 grant announcement (site has a posting
+  gap Feb 2021 – Mar 2023); the UTEC June 2022 visit page (2022 news
+  archive hand-paged); the performances *Buckets*, *Gong*, and
+  *DENORMALIZED* (Spatial Sound Lab web archive only reaches ~2024).

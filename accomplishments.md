@@ -153,6 +153,8 @@ remaining firmly committed to living in humble service.”
 - [Phys. Rev. A 77, 042705 (2008) — low-energy electron scattering from methanol and ethanol](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.042705)
 - [J. Phys. B 40, 3601 (2007) — low-energy elastic electron scattering from ethylene](http://iopscience.iop.org/article/10.1088/0953-4075/40/18/003/meta)
 - [Inside CSUF on the Khakoo lab's undergraduate research training](http://calstate.fullerton.edu/news/Inside/2009/integrating-undergraduate-research.html)
+- [The full text of the commencement address, Look to this Day](http://www.kylekeane.com/commencement.html)
+  ([archived copy](https://web.archive.org/web/20240225081945/http://www.kylekeane.com/commencement.html))
 - Awards: Norman Nitzburg Award in Experimental Physics (2006, 2007);
   Wolfram Award in Computational Science (2007); Outstanding
   Scholarship Award (2007); Dan Black Scholarship (2006, 2007).
@@ -321,7 +323,7 @@ Technology and Disability Justice* research theme with Nelly Kate
 Anderson — including the June 2024 workshop with Fayen d'Evie, Lloyd
 Mst, and Andy Slater — and performing original music at the lab's
 events, including the MIT.nano Immersion Lab surround-sound open house
-(with Leftroman and Justin Looper) and the moderated discussion with
+of 7 June 2023 (with Leftroman and Justin Looper) and the moderated discussion with
 Daniel Kish and Ian Condry following Kish's talk *Human Echolocation
 and the Whole Body Sensorium* (7 February 2026).
 
@@ -589,6 +591,7 @@ Studios, June 2014).
 **Evidence:**
 
 - [Imperial College news on the Mathematica Masterclass](https://www.imperial.ac.uk/news/174451/mathematica-masterclass-visualising-materials-science/)
+- [The Psi-k report on Hermes 2016 (Cumberland Lodge), naming me alongside W. Craig Carter](https://psi-k.net/hermes-2016-multiscale-modelling-science-communication/)
 - Wolfram's official faculty biographies:
   [current](https://education.wolfram.com/summer-school/faculty/),
   [2018](https://education.wolfram.com/summer-school/faculty/2018/),

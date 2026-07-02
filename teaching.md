@@ -95,8 +95,13 @@ history are on the [CV](/cv.html) page.
   mathematics, chemistry, biology, and humanities. Fall 2018, 2019.
 - **3.a01 — Making in Materials Science and Engineering** (MSE).
   Freshman seminar on rapid prototyping. Fall 2016.
-- **ES.S09 — Disability and the Criminal Justice System** (MIT
-  Experimental Study Groups). Spring 2021.
+- **ES.S90 — Designing Adaptive Prison Solutions** (MIT Experimental
+  Study Group). Co-instructed with Anna Musser, Spring 2021 (virtual);
+  a six-unit seminar on the intersection of disability, accessibility,
+  assistive technology, and the criminal justice system —
+  [the archived ESG Spring 2021 seminar listing](https://web.archive.org/web/20210415030036/https://esg.mit.edu/learninginnovation/undergraduate-seminars/)
+  (the course number appeared as ES.S09 in earlier CVs; the ESG
+  archive settles it as ES.S90).
 
 I was also Computational Curriculum Advisor for the Department of
 Materials Science and Engineering and contributed computation and
@@ -137,7 +142,10 @@ visualisation modules to MIT subjects 3.012, 3.014, 3.022, 3.024,
   Learning with Mathematica / Wolfram Language* — listed on the
   [DeepLearn 2022 speaker page](https://deeplearn.irdta.eu/2022sp/blog/speakers/daniel-george/).
 - **Hermes School for Materials Simulation and Communication.**
-  Instructor, 2016.
+  Instructor, 2016 — Cumberland Lodge, Windsor Great Park, late July
+  2016, teaching data visualization with Mathematica alongside W.
+  Craig Carter;
+  [the Psi-k workshop report names me delivering the talks and the supervised hands-on session](https://psi-k.net/hermes-2016-multiscale-modelling-science-communication/).
 - **MIT Independent Activities Period (IAP).** Multi-year hands-on
   workshops including *Fundamentals of Scientific Programming with
   Wolfram Language*, *Wolfram Technologies for Research, Education,
