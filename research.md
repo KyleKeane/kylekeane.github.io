@@ -144,14 +144,34 @@ introductory physics.
 
 ### Quantum information (PhD)
 
-My doctoral work with Dr. Alexander Korotkov at UC Riverside was on
-weak quantum measurement, uncollapsing, quantum error correction and
-detection, and decoherence suppression for superconducting qubits.
-The decoherence-suppression-by-measurement-reversal procedure
-proposed in our 2010 *Phys. Rev. A* rapid communication was
-subsequently demonstrated in an optical adaptation by an experimental
-group at POSTECH (*Nature Physics*, 2011). The doctoral dissertation
-and core publications are listed on the [CV](/cv.html) page.
+During my PhD at UC Riverside I worked in Alexander Korotkov's
+quantum measurement theory group, at the theory end of one of the
+field's tightest theory–experiment partnerships: Korotkov's standing
+collaboration with John Martinis's superconducting-qubit laboratory
+at UC Santa Barbara, under a shared ARO/IARPA programme
+(W911NF-10-1-0334) whose reviews I presented at. My research asked
+whether the act of quantum measurement itself — usually the destroyer
+of quantum states — could be turned into a tool for protecting them.
+With Korotkov I published two proposals: one showing that a qubit's
+dominant decoherence channel can be almost completely suppressed by
+weak measurement and its reversal, without any additional qubits or
+entanglement, and one laying out experimentally realizable error
+detection and correction schemes for the superconducting hardware of
+the day. Both were realized in experiment within four years — the
+measurement-reversal protocol in photonic qubits in Korea
+(*Optics Express*, 2011, extended to entanglement protection in
+*Nature Physics*, 2012), and the error-detection approach in a
+three-qubit superconducting circuit in a *Nature Communications*
+experiment co-authored by Korotkov and Martinis that tripled a stored
+quantum state's lifetime — the first algorithm-based improvement of
+its kind. Martinis shared the 2025 Nobel Prize in Physics for the
+foundational discoveries behind those very circuits, and the IARPA
+award that funded my doctoral projects went on to fund the
+surface-code experiments that seeded Google's quantum computing
+programme. I carry that training — the discipline of proposing only
+what an experiment can check — into everything I now build in human
+perception and assistive technology. The dissertation and core
+publications are on the [CV](/cv.html#publications).
 
 ### Earlier topics
 

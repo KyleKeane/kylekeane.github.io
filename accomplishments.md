@@ -30,8 +30,12 @@ most-cited paper.
 
 - [Phys. Rev. A 81, 040103(R) (2010) — Rapid Communication](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.040103)
   and [the open arXiv preprint](https://arxiv.org/abs/0908.1134)
-- Experimental confirmations: [a 2014 Nature Communications superconducting-circuit experiment citing both Keane–Korotkov papers as its theoretical basis](https://www.nature.com/articles/ncomms4135);
-  [a three-qubit demonstration of the uncollapsing error-detection protocol](https://arxiv.org/abs/1309.0198)
+- Experimental confirmations on two independent platforms within four
+  years: [the photonic demonstration titled after the protocol — Optics Express 19, 16309 (2011)](https://qopt.postech.ac.kr/wp-content/uploads/2020/12/110810oe.pdf);
+  [its extension to entanglement protection — Nature Physics 8, 117 (2012)](https://www.nature.com/articles/nphys2178);
+  and [the 2014 Nature Communications superconducting-circuit experiment citing both Keane–Korotkov papers as its theoretical basis](https://www.nature.com/articles/ncomms4135)
+  ([preprint](https://arxiv.org/abs/1309.0198))
+- The experimental foundation the proposal built on: [the 2008 Katz–Martinis–Korotkov uncollapsing demonstration in a superconducting phase qubit — Phys. Rev. Lett. 101, 200401](https://web.physics.ucsb.edu/~martinisgroup/publications.shtml)
 - Pedagogical canon: [reference 22 in standard lecture notes on experimental quantum measurement](https://arxiv.org/abs/1904.09291)
 - [The full publication record on the CV](/cv.html#publications)
 
@@ -43,11 +47,19 @@ most-cited paper.
 Demonstrated that for qubits dominated by energy relaxation,
 repetitive N-qubit codes can be used for quantum error detection but
 not correction, and proposed two-qubit algorithms directly realizable
-with the phase-qubit technology of the time.
+with the phase-qubit technology of the time. The approach was
+realized in a three-qubit superconducting circuit two years later —
+an experiment co-authored by Korotkov and John Martinis that tripled
+the storage lifetime of a quantum state, described by its authors as
+the first experimental demonstration of an algorithm-based
+improvement in the lifetime of a quantum state stored in a qubit;
+its reference list carries both Keane–Korotkov papers.
 
 **Evidence:**
 
 - [Phys. Rev. A 86, 012333 (2012)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.86.012333)
+- [The realization: Zhong et al., Nature Communications 5, 3135 (2014)](https://www.nature.com/articles/ncomms4135)
+- [The paper on Korotkov's official output list for ARO grant W911NF-10-1-0334, alongside the dissertation](https://intra.ece.ucr.edu/~korotkov/papers-ARO.html)
 
 </details>
 
@@ -59,8 +71,10 @@ quantum information processing: weak measurement, uncollapsing,
 quantum error detection and correction, decoherence suppression, and
 state and process tomography. Supported by the Chancellor's
 Distinguished Fellowship (2007), the Molly Adams Scholarship (2009),
-and the Gordon E. Hein Scholarship (2011); the ARO/IARPA
-multi-qubit-algorithms programme funded the dissertation research.
+and the Gordon E. Hein Scholarship (2011); IARPA/ARO grant
+W911NF-10-1-0334 funded the dissertation research, and Korotkov's
+official grant-output page lists both the 2012 paper and the
+dissertation itself among the award's papers.
 Research rotations before the dissertation covered frustrated
 magnetism (Kirill Shtengel's group) and the biophysics of virus
 capsids (Roya Zandi's group).
@@ -74,9 +88,46 @@ capsids (Roya Zandi's group).
   March Meeting 2012, Boston); *Currently realizable quantum error
   detection/correction algorithms for superconducting qubits* (APS
   2011, Dallas); *Decoherence suppression of a solid state qubit by
-  uncollapsing* (APS 2010, Portland); poster at Coherence in
-  Superconducting Qubits (ARO, 2010); poster at the IARPA Quantum
-  Computing Program Review (2009).
+  uncollapsing* (APS 2010, Portland); invited colloquium *Beyond
+  Traditional Quantum Measurement: A Game of Quantum Peek-a-Boo with
+  a Purpose* (CSU Fullerton, 5 November 2011); poster at Coherence in
+  Superconducting Qubits (ARO, 26 April 2010); poster *Theoretical
+  analysis of phase qubits* (with Korotkov and Ricardo Pinto, IARPA
+  Quantum Computing and Quantum Algorithms Program Review, 19 August
+  2009); oral qualifying exam *Uncollapsing, Decoherence Suppression,
+  and Quantum Error Correction/Detection with Phase Qubits* (2009).
+- [The grant-output attribution page](https://intra.ece.ucr.edu/~korotkov/papers-ARO.html)
+
+</details>
+
+<details markdown="1">
+<summary><h3 id="korotkov-martinis-collaboration">Inside the Korotkov–Martinis collaboration (2009–2015)</h3></summary>
+
+My doctoral work ran at the theory end of the standing partnership
+between Alexander Korotkov's quantum-measurement theory group (UC
+Riverside) and John Martinis's superconducting-qubit laboratory (UC
+Santa Barbara), under IARPA/ARO grant W911NF-10-1-0334 — the award
+that funded my projects, at whose programme reviews I presented, and
+whose output page lists my paper and dissertation. The partnership's
+record: the 2008 uncollapsing experiment my first paper built on; the
+tunable-coupler analysis first-authored by my groupmate Ricardo Pinto
+with Martinis; the 2014 realization of our error-detection approach
+co-authored by Korotkov and Martinis; and the surface-code-threshold
+and repetitive-error-detection experiments that seeded Google's
+quantum computing programme. In October 2025 Martinis shared the
+Nobel Prize in Physics (with John Clarke and Michel Devoret) for the
+discovery of macroscopic quantum mechanical tunnelling and energy
+quantisation in an electric circuit — the physics of the devices my
+protocols were designed for.
+
+**Evidence:**
+
+- [The grant-output page: forty-one papers under W911NF-10-1-0334, including mine](https://intra.ece.ucr.edu/~korotkov/papers-ARO.html)
+- [Katz et al. (Martinis lab + Korotkov), the 2008 uncollapsing experiment — via the Martinis Group publications page](https://web.physics.ucsb.edu/~martinisgroup/publications.shtml)
+- [Pinto, Korotkov, Geller, Shumeiko & Martinis, the joint tunable-coupler analysis — Phys. Rev. B 82, 104522 (2010)](https://ui.adsabs.harvard.edu/abs/2010PhRvB..82j4522P/abstract)
+- [Zhong et al., the 2014 realization co-authored by Korotkov and Martinis](https://www.nature.com/articles/ncomms4135)
+- [Barends et al., the surface-code-threshold experiment under the same grants — Nature 508, 500 (2014)](https://web.physics.ucsb.edu/~martinisgroup/papers/Barends2014.pdf)
+- [Kelly et al., the nine-qubit repetitive-error-detection experiment marking the Martinis team's move to Google — Nature 519, 66 (2015)](https://www.nature.com/articles/nature14270)
 
 </details>
 
