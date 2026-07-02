@@ -74,7 +74,11 @@ history are on the [CV](/cv.html) page.
   components.
 - **3.008 — Humanistic Co-design of Assistive Technology in the
   Developing World** (Materials Science and Engineering). Created
-  and led, Winter 2017, 2018. Three-week experiential subject
+  and led: inaugural credit-bearing run January 2019 (thirteen
+  students, Delhi–Chennai–Hyderabad), renamed *Around the Globe* for
+  January 2020 (EECS-housed, eight students, India and Saudi Arabia)
+  — dates per the evidence-adjudicated timeline of July 2026.
+  Three-week experiential subject
   partnering MIT students with co-designers in India; this course
   evolved into Project Aakaar, an international 3D-printing exchange
   programme that paired middle-school students in Cambridge,
@@ -185,19 +189,26 @@ partner with a disability, around a year-long co-design project.
   [*Empowering Assistive Technology Communities to Make Strategic
   Use of Intellectual Property: Three Case Studies from the CoCreate
   Program*](https://link.springer.com/chapter/10.1007/978-3-030-60149-2_2).
-- **IIT Delhi, India** — January 2018 and January 2019. The
+- **IIT Delhi, India** — January 2019 and January 2020. The
   three-day exchange in the Department of Design is described in
-  [the IIT Delhi institutional release](https://intladm.iitd.ac.in/news-mit.php).
-- IIT Madras, Chennai, India — January 2018, January 2019.
-- **LV Prasad Eye Institute, Hyderabad, India** — January 2018 and
-  January 2019. The 2019 visit, co-hosted with Dr. Beula Christy, is
+  [the IIT Delhi institutional release](https://intladm.iitd.ac.in/news-mit.php)
+  and the January 2020 visit in
+  [BioSpectrum India](https://www.biospectrumindia.com/news/68/15633/iit-d-to-work-with-mit-on-assistive-technology.html).
+- IIT Madras, Chennai, India — January 2019 and January 2020.
+- **LV Prasad Eye Institute, Hyderabad, India** — January 2019.
+  The visit, co-hosted with Dr. Beula Christy, is
   documented in
   [the LVPEI press release of 19 January 2019](https://www.lvpei.org/press-event/25)
   and LVPEI's own page on
   [the Humanistic Co-Design for the Visually Impaired workshop](https://www.lvpei.org/news-event/humanistic-co-design-for-the-visually-impaired)
   (17–19 January 2019, roughly sixty design and engineering
   students).
-- Independent education startup, Chennai, India — July 2017.
+- The Climber (education startup), Chennai, India — July 2017
+  launch weekend; documented indirectly in
+  [The Climber's profile of Abhinav Gandhi](https://medium.com/@theclimber_ind/meet-21-year-old-abhinav-gandhi-who-gets-his-brilliance-straight-from-mit-dd8acc0a0814).
+- Chennai pilot workshop — August 2018, at the invitation of former
+  student Abhinav Gandhi, with MISTI-India support; the pilot that
+  became the credit-bearing course.
 
 The cross-trip retrospective on this programme is on the MIT MISTI
 [Humanistic design workshops in India: impact and reach](https://misti.mit.edu/humanistic-design-workshops-india-impact-and-reach)
