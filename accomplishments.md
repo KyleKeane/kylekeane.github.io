@@ -24,7 +24,8 @@ measurement and measurement reversal — without additional qubits and
 without entanglement. Published as a Rapid Communication; procedures
 proposed in this line of work were subsequently verified
 experimentally in superconducting-qubit systems. It remains my
-most-cited paper.
+most-cited paper: roughly 250 citations (OpenAlex 240, Google Scholar
+~280; retrieved July 2026).
 
 **Evidence:**
 
@@ -84,11 +85,11 @@ capsids (Roya Zandi's group).
 - [The doctoral dissertation on eScholarship](http://escholarship.org/uc/item/8nq7q2hn)
   and [as hosted by the Korotkov group at UC Riverside](https://intra.engr.ucr.edu/~korotkov/papers/Dissertation-Keane.pdf)
 - [Alexander Korotkov's publication list carrying both Keane–Korotkov papers](https://intra.engr.ucr.edu/~korotkov/papers.html)
-- Conference record: *Modelling of a Flying Microwave Qubit* (APS
-  March Meeting 2012, Boston); *Currently realizable quantum error
-  detection/correction algorithms for superconducting qubits* (APS
-  2011, Dallas); *Decoherence suppression of a solid state qubit by
-  uncollapsing* (APS 2010, Portland); invited colloquium *Beyond
+- Conference record, verified in the APS meeting archive:
+  [*Modeling of a Flying Microwave Qubit* (APS March Meeting 2012, session Y29.10)](https://meetings.aps.org/Meeting/MAR12/Session/Y29.10);
+  [*Currently Realizable Quantum Error Detection/Correction Algorithms for Superconducting Qubits* (APS 2011, session D29.14)](https://meetings.aps.org/Meeting/MAR11/Session/D29.14);
+  [*Decoherence Suppression of a Solid State Qubit by Uncollapsing* (APS 2010, session Z33.11)](https://meetings.aps.org/Meeting/MAR10/Session/Z33.11);
+  invited colloquium *Beyond
   Traditional Quantum Measurement: A Game of Quantum Peek-a-Boo with
   a Purpose* (CSU Fullerton, 5 November 2011); poster at Coherence in
   Superconducting Qubits (ARO, 26 April 2010); poster *Theoretical
@@ -142,6 +143,9 @@ three peer-reviewed papers. I was selected as commencement speaker
 for the College of Natural Sciences and Mathematics (2007); the
 address was titled *Look to this Day*. I did not use a computer until
 my second year of college.
+My doctoral dissertation’s acknowledgments name Khakoo alongside
+Korotkov: “for teaching me that one can strive for perfection while
+remaining firmly committed to living in humble service.”
 
 **Evidence:**
 
@@ -149,6 +153,8 @@ my second year of college.
 - [Phys. Rev. A 77, 042705 (2008) — low-energy electron scattering from methanol and ethanol](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.042705)
 - [J. Phys. B 40, 3601 (2007) — low-energy elastic electron scattering from ethylene](http://iopscience.iop.org/article/10.1088/0953-4075/40/18/003/meta)
 - [Inside CSUF on the Khakoo lab's undergraduate research training](http://calstate.fullerton.edu/news/Inside/2009/integrating-undergraduate-research.html)
+- [The full text of the commencement address, Look to this Day](http://www.kylekeane.com/commencement.html)
+  ([archived copy](https://web.archive.org/web/20240225081945/http://www.kylekeane.com/commencement.html))
 - Awards: Norman Nitzburg Award in Experimental Physics (2006, 2007);
   Wolfram Award in Computational Science (2007); Outstanding
   Scholarship Award (2007); Dan Black Scholarship (2006, 2007).
@@ -292,11 +298,12 @@ and Michal Dovciak.
 </details>
 
 <details markdown="1">
-<summary><h3 id="echo-installation-accomplishment">ECHO — kinetic sound-and-light installation (2024–present)</h3></summary>
+<summary><h3 id="echo-installation-accomplishment">ECHO — kinetic sound-and-light installation (2024–2026)</h3></summary>
 
 The sonification became *ECHO*, an eight-channel kinetic
 sound-and-light installation: 110,000 visitors at Culture Station
-Seoul 284 (2024), now at HERO, Rockefeller Center, New York.
+Seoul 284 (2024), then at HERO, Rockefeller Center, New York, from
+October 2025 through the end of the reSOUND season.
 
 **Evidence:**
 
@@ -316,7 +323,7 @@ Technology and Disability Justice* research theme with Nelly Kate
 Anderson — including the June 2024 workshop with Fayen d'Evie, Lloyd
 Mst, and Andy Slater — and performing original music at the lab's
 events, including the MIT.nano Immersion Lab surround-sound open house
-(with Leftroman and Justin Looper) and the moderated discussion with
+of 7 June 2023 (with Leftroman and Justin Looper) and the moderated discussion with
 Daniel Kish and Ian Condry following Kish's talk *Human Echolocation
 and the Whole Body Sensorium* (7 February 2026).
 
@@ -584,6 +591,7 @@ Studios, June 2014).
 **Evidence:**
 
 - [Imperial College news on the Mathematica Masterclass](https://www.imperial.ac.uk/news/174451/mathematica-masterclass-visualising-materials-science/)
+- [The Psi-k report on Hermes 2016 (Cumberland Lodge), naming me alongside W. Craig Carter](https://psi-k.net/hermes-2016-multiscale-modelling-science-communication/)
 - Wolfram's official faculty biographies:
   [current](https://education.wolfram.com/summer-school/faculty/),
   [2018](https://education.wolfram.com/summer-school/faculty/2018/),

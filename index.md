@@ -36,8 +36,8 @@ personas:
   global co-design programmes where students build technology with
   co-designers with disabilities, not for them.
 - **[Creative](/creative.html)** — sound art and immersive
-  installation: black-hole data you can hear, currently on view at
-  Rockefeller Center.
+  installation: black-hole data you can hear, shown at Culture Station
+  Seoul 284 and Rockefeller Center.
 - **[Advocacy](/advocacy.html)** — structural change through
   accessibility engineering, standards, and consulting.
 
@@ -49,7 +49,7 @@ personas:
   [the full story with all coverage](/cv.html#black-hole-sonification).
 - **[ECHO](/cv.html#echo-kinetic-sound-and-light-installation)**, the
   kinetic sound-and-light installation built on it: 110,000 visitors in
-  Seoul, now at HERO, Rockefeller Center.
+  Seoul, then a year at HERO, Rockefeller Center.
 - **[The Humanistic Co-Design Initiative](/cv.html#humanistic-co-design-initiative)**,
   the incubator and fellowship programme I founded, with programmes
   across India, Saudi Arabia, and Uruguay.

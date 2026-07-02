@@ -7,4 +7,6 @@ principles: [full-participation, rigor]
 specialties: [ai, forecasting, disability-advocacy]
 ---
 
-[Macro Hive Conversations with Bilal Hafeez podcast featuring Kyle Keane](https://podcasts.apple.com/gb/podcast/macro-hive-conversations-with-bilal-hafeez/id1502904619).
+[Ep. 316: Kyle Keane on AI, Forecasting and Turning Blind — Macro Hive Conversations with Bilal Hafeez](https://macrohive.libsyn.com/2025/07),
+10 July 2025
+([video on YouTube](https://www.youtube.com/watch?v=xfkewu-JyPU)).
