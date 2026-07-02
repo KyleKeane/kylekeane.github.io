@@ -187,11 +187,9 @@ change one, edit the `personas:` line in the named file.
 
 ### From the July 2026 web-presence inventory
 
-- [ ] **Wolfram Summer School years shown.** *Affects: `teaching.md`.*
-  The site lists Program Director 2018; Instructor 2015, 2017. The
-  inventory's Wolfram faculty pages document 2016 (Summer Research
-  Institute), 2018, and 2019 rosters, and the first report claimed
-  2013. Which years should the site enumerate?
+- [x] **Wolfram Summer School years shown.** Resolved by the July 2026
+  Wayback crawl — the entry above records the adjudicated years and
+  titles now shown on the site.
 - [x] **Supervisee name spelling.** **Resolved by Kyle, 2 July 2026:
   "Indrayud Mandal" is correct.** (The MISTI page's "Biswas Mandal"
   and the CV's "Mandel" are both superseded.)
@@ -199,6 +197,17 @@ change one, edit the `personas:` line in the named file.
   LVPEI ran January 2018 and 2019; under the evidence-first ruling the
   site now shows January 2019 only (the documented visit). Did the
   January 2020 trip also include LVPEI Hyderabad?
+
+- [x] **Wolfram Summer School / Summer Camp years.** **Resolved
+  evidence-first, 2 July 2026** (Wayback-verified year rosters):
+  School — Instructor 2017, Program Director 2018 & 2019; Camp —
+  Instructor 2013, Program Director 2018 & 2019. Two source claims are
+  contradicted by the archived rosters and are treated as errors
+  unless Kyle overrides: seed.md's "2015 — Instructor — Wolfram Summer
+  Camp" (two complete post-season 2015 rosters omit him) and the
+  recollection of an "Academic Director" title (the camp's Academic
+  Directors in 2018/2019 were Chip Hurst and Mads Bahrami; Kyle's
+  attested title on both programmes was Program Director).
 
 ## Adding to this list
 

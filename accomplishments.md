@@ -519,8 +519,9 @@ Fund grant I co-led.
 <details markdown="1">
 <summary><h3 id="summer-schools-and-guest-teaching">Summer schools and guest teaching across Europe and the US (2013–2022)</h3></summary>
 
-Faculty at the Wolfram Summer School and Summer Camp (Program
-Director 2018), instructor at DeepLearn 2022 (machine learning and
+Instructor at the Wolfram Summer School (2017) and the high-school
+Wolfram Summer Camp (2013), then Program Director of both programmes
+in parallel for 2018 and 2019; instructor at DeepLearn 2022 (machine learning and
 deep learning with Wolfram Language), and visiting instructor for
 computational materials science at EPFL, Imperial College London, and
 the Hermes Summer School (2016). Guest lectures include *Introduction
