@@ -544,6 +544,30 @@ Studios, June 2014).
 </details>
 
 <details markdown="1">
+<summary><h3 id="graduate-theses">Graduate theses supervised and acknowledged (2020–2025)</h3></summary>
+
+Graduate research I supervised or shaped lives in MIT's open thesis
+archive. I supervised Indrayud Mandal's MIT Sloan SDM master's thesis
+on Project Aakaar's circular economy and Mark Vrablic's MEng thesis on
+the TactionTablet tactile graphics display; the SuperUROP
+face-recognition project I advised became Ashika Verma's MEng thesis;
+Mihir Trivedi's MEng thesis on a speech-and-media interaction device
+for children with vision and speech impairments names me; and Lauren
+Berk's PhD dissertation — she attended the 2018 Wolfram Summer School
+I directed — carries an acknowledgment.
+
+**Evidence:**
+
+- [Indrayud Mandal, *Assessing the feasibility of a circular economy for 3D printed tactile educational aids for visually impaired (VI) students in India* — SM, MIT Sloan SDM, 2021 (supervisor: Kyle Keane)](https://dspace.mit.edu/handle/1721.1/140078)
+- [Mark E. Vrablic, *TactionTablet: Affordable Tactile Graphics Display* — MEng, MIT EECS](https://dspace.mit.edu/handle/1721.1/129148)
+- [Ashika Verma, *Transformation Tolerance and Demographic Robustness of Machine-based Face Recognition Systems* — MEng, MIT EECS, September 2022](https://dspace.mit.edu/handle/1721.1/147313)
+- [Mihir Trivedi, *A Speech and Media Interaction Model for Individuals with Vision and Speech Impairments* — MEng, MIT EECS, January 2022](https://dspace.mit.edu/handle/1721.1/143139)
+- [Lauren Berk, *New optimization approaches to matrix factorization problems with connections to natural language processing* — PhD, MIT Operations Research Center, June 2020](https://dspace.mit.edu/handle/1721.1/127291)
+- [The MIT Quest for Intelligence 2021–2022 annual report naming me on the engineering team (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/158027/quest_annualreport_2022.pdf)
+
+</details>
+
+<details markdown="1">
 <summary><h3 id="hackathon-mentorship">Hackathon mentorship and judging (2014–2022)</h3></summary>
 
 Staff advisor to MIT's assistive-technology hackathon ATHack; judge

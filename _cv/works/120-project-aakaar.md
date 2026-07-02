@@ -20,7 +20,11 @@ School) and India co-designing and 3D-printing tactile teaching aids
 for blind students. Ranked a top-five national Social Impact project
 by Education World Magazine (No. 2 in Bangalore); extended to Gujarat
 via Ankit Budhia with support from Dr. Satish Tripathi of Ek Kadam
-Aur; analysed in an MIT Sloan SDM master's thesis; selected as a
+Aur; analysed in the MIT Sloan SDM master's thesis of Indrayud Mandal
+([*Assessing the feasibility of a circular economy for 3D printed
+tactile educational aids for visually impaired (VI) students in
+India*, 2021, which I supervised](https://dspace.mit.edu/handle/1721.1/140078));
+selected as a
 top-twenty team with seed funding in
 [the 2021 MIT PKG IDEAS Social Innovation Challenge](https://www.linkedin.com/pulse/mit-ideas-social-innovation-challenge-tara-cunningham).
 Documented in
