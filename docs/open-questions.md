@@ -85,32 +85,23 @@ with one or more personas (`academic`, `educator`, `creative`,
 be generated. Most tags are obvious; these were judgment calls. To
 change one, edit the `personas:` line in the named file.
 
-- [ ] **Head of User Experience, Indico Data Solutions.** *Affects:
-  `_cv/roles/080-head-of-user-experience-indico.md`.* Tagged
-  `[educator]` (developer relations and documentation read as
-  education); it fits no persona perfectly. OK, or would you rather
-  tag it `[academic]` so it sits with the career-history strand?
-- [ ] **Bristol Senior Lecturer role tagged with all four personas.**
-  *Affects: `_cv/roles/010-senior-lecturer-bristol.md`.* The role
-  description spans teaching, research, sonification, and AT, so it
-  appears on every filtered view. Confirm that's the intent.
-- [ ] **Skills sections.** *Affects: `_cv/skills/*.md`.* Tagged:
-  programming languages → all four; software development →
-  academic+educator+advocate; accessibility → advocate;
-  quantitative analysis → academic; organisational →
-  academic+educator+advocate. Adjust to taste.
-- [ ] **WBUR On Point and Macro Hive press items.** *Affects:
-  `_cv/press/2025-a-wbur-on-point.md`,
-  `_cv/press/2025-c-macro-hive-conversations.md`.* Tagged
-  `[academic, advocate]` — they're expert commentary rather than
-  coverage of creative work. OK?
-- [ ] **Perkins "Astronomy and Sonification".** *Affects:
-  `_cv/press/2022-c-perkins-astronomy-sonification.md`.* Tagged
-  `[creative, advocate]` (blind-education resource about the
-  sonification). Should `academic` be added?
-- [ ] **UROP grants (one per year, 2015–2022).** *Affects:
-  `_cv/grants/*-mit-urop.md`.* All tagged `[academic, educator]`.
-  OK as a blanket rule?
+- [x] **Head of User Experience, Indico Data Solutions.** **Resolved
+  by Kyle, 2 July 2026:** a commercial industry consulting
+  engagement. There is no consultant persona, so the role is filed
+  under `[academic]` (career-history strand) and carries `consulting`
+  and `industry` topic tags; `/topic-consulting.html` now collects
+  the consulting engagements.
+- [x] **Bristol Senior Lecturer role tagged with all four personas.**
+  **Confirmed by Kyle, 2 July 2026: keep all four.**
+- [x] **Skills sections.** **Confirmed by Kyle, 2 July 2026: keep as
+  tagged.**
+- [x] **WBUR On Point and Macro Hive press items.** **Confirmed by
+  Kyle, 2 July 2026: keep `[academic, advocate]`.**
+- [x] **Perkins "Astronomy and Sonification".** **Resolved by Kyle,
+  2 July 2026: `academic` added** — now `[academic, creative,
+  advocate]`.
+- [x] **UROP grants.** **Confirmed by Kyle, 2 July 2026: the blanket
+  `[academic, educator]` rule stands.**
 - [x] **NYT print headline.** **Resolved by Kyle, 2 July 2026: keep
   the parenthetical** (online title + remembered print headline).
 
@@ -123,14 +114,14 @@ change one, edit the `personas:` line in the named file.
   of Bristol profile ("previous roles at Aira and MIT"). This
   supersedes the earlier briefing-audit note that there was "no Aira
   layover" — correct about a layover, but the role ran concurrently.
-- [ ] **CodeSeal talk year corrected to 2017.** *Affects:
-  `rigor-across-boundaries.md`, `_cv/press/2017-c-...`.* The site
-  previously dated the CodeSeal platform talk to 2018 (from the
-  YouTube upload date); the Wolfram Technology Conference 2017
-  presentations page dates it 20 October 2017. Corrected — confirm.
+- [x] **CodeSeal talk year corrected to 2017.** **Confirmed by Kyle,
+  2 July 2026: keep 2017.**
 - [x] **PhD completion date.** **Resolved by Kyle, 2 July 2026: keep
   2012** as shown across the site.
-- [ ] **Ayala drumline era details.** *Affects: `every-sense.md`
+- [x] **Ayala drumline era details.** **Resolved by Kyle, 2 July
+  2026: the 1998–2002 window is right** (the *Puzzles* /
+  *Opportunities* season mapping stays unmapped pending records).
+  Original question: *Affects: `every-sense.md`
   "High school indoor drumline".* Research sourced the ensemble's
   record to wgi.org: 1999 WGI Scholastic A World Championship
   (96.75), 2000 PSO 6th, 2001 PSO 7th, 2002 PSO silver (92.65, 0.20
@@ -142,7 +133,9 @@ change one, edit the `personas:` line in the named file.
   years — the pre-2004 show titles are not on the indexable web
   (Wayback captures of the old Ayala band site are the remaining
   lead).
-- [ ] **"NASA Chandra data" wording.** *Affects: `index.md` Overview,
+- [x] **"NASA Chandra data" wording.** **Resolved by Kyle, 2 July
+  2026: say "X-ray echo data"** — the site already carries that
+  wording. Original question: *Affects: `index.md` Overview,
   `rigor-across-boundaries.md`.* Your sentence says the sonification
   "took the NASA Chandra data into the *New York Times*". The 2022
   echo search behind the sonification used NICER data per MIT's
@@ -152,7 +145,10 @@ change one, edit the `personas:` line in the named file.
   whether it should be "NICER" / "X-ray" — left unedited because the
   sentence is yours.
 
-- [ ] **Springer CoCreate chapter authorship.** *Affects:
+- [x] **Springer CoCreate chapter authorship.** **Resolved by Kyle,
+  2 July 2026: moved out of publications** — the chapter is now a
+  supporting link on the HCDI work entry and the co-design pages,
+  with the indexed authors credited. Original question: *Affects:
   `_cv/publications/chapters-010-springer-cocreate-ip.md`.* Your CV
   listed the chapter as "Al-Wabil, Al-Megren, Keane, et al.", but the
   indexed author list (Semantic Scholar) is Almoaiqel, Al-Megren,
@@ -163,17 +159,22 @@ change one, edit the `personas:` line in the named file.
   and the entry will be updated. (If you are not an author at all, it
   may belong as a supporting link on Build with people rather than in
   your publications.)
-- [ ] **CoCreate 2020 exhibition date.** *Affects:
+- [x] **CoCreate 2020 exhibition date.** **Resolved by Kyle, 2 July
+  2026: 31 January 2020.** Original question: *Affects:
   `build-with-people.md`.* Sources conflict on whether the concluding
   CoCreate exhibition at Alfaisal College of Engineering was
   31 January 2020 (launch month) or 31 January 2021 (end of the
   year-long fellowship, matching the Hopin virtual showcase). Which
   is right?
 
-- [ ] **Kellogg Scholar year.** *Affects: `_cv/scholarships/070-kellogg-scholar-cal-poly.md`.*
+- [x] **Kellogg Scholar year.** **Resolved by Kyle, 2 July 2026:
+  2002**, as the site shows. Original question: *Affects: `_cv/scholarships/070-kellogg-scholar-cal-poly.md`.*
   The site (from seed.md) says Kellogg Scholar, Cal Poly Pomona, 2002;
   the June 2026 deep-research report says 2006. Which year is right?
-- [ ] **Wolfram Summer School 2013.** *Affects: `teaching.md`,
+- [x] **Wolfram Summer School 2013.** Resolved by the Wayback crawl:
+  2013 was the Summer **Camp** (instructor), not the School; the site
+  reflects this, and Kyle confirmed the archive record on 2 July 2026.
+  Original question: *Affects: `teaching.md`,
   `_cv/`.* The site lists Summer School roles for 2015, 2017, 2018
   (Program Director); the June 2026 deep-research report also lists
   2013 (and 2019) as faculty years. Confirm which years to show.
