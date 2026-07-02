@@ -111,32 +111,25 @@ change one, edit the `personas:` line in the named file.
 - [ ] **UROP grants (one per year, 2015–2022).** *Affects:
   `_cv/grants/*-mit-urop.md`.* All tagged `[academic, educator]`.
   OK as a blanket rule?
-- [ ] **NYT print headline.** *Affects:
-  `_cv/press/2022-a-nyt-black-holes.md`.* The recovered article's
-  online title is *Hear the Weird Sounds of a Black Hole Singing*
-  (Dennis Overbye, 7 May 2022). Your remembered title — *Scientists
-  tune into new ways of perceiving black holes* — is kept in the
-  entry as the print headline. Confirm it appeared that way in print
-  (or drop the parenthetical).
+- [x] **NYT print headline.** **Resolved by Kyle, 2 July 2026: keep
+  the parenthetical** (online title + remembered print headline).
 
 ## June 2026 deep-research questions
 
-- [ ] **"Researcher at Aira" billing.** *Affects: `cv.md` Roles /
-  Affiliations.* The
-  [ReachSci Global Conference 2024 page](https://reachsci.com/reachsci-conference-2024)
-  bills you as "Senior Lecturer, University of Bristol, and Researcher
-  at Aira" (December 2024). Aira isn't anywhere on the site. Is/was
-  this a real affiliation that should become a `_cv/roles/` or
-  `_cv/affiliations/` entry?
+- [x] **"Researcher at Aira" billing.** **Resolved by Kyle, 2 July
+  2026: real — Researcher at Aira, approximately 2022–2024,**
+  concurrent with the MIT EECS lectureship; now
+  `_cv/roles/025-researcher-aira.md`, corroborated by the University
+  of Bristol profile ("previous roles at Aira and MIT"). This
+  supersedes the earlier briefing-audit note that there was "no Aira
+  layover" — correct about a layover, but the role ran concurrently.
 - [ ] **CodeSeal talk year corrected to 2017.** *Affects:
   `rigor-across-boundaries.md`, `_cv/press/2017-c-...`.* The site
   previously dated the CodeSeal platform talk to 2018 (from the
   YouTube upload date); the Wolfram Technology Conference 2017
   presentations page dates it 20 October 2017. Corrected — confirm.
-- [ ] **PhD completion date.** *Affects: `index.md`, `cv.md`.* The
-  site says PhD 2012; one search snippet of the eScholarship record
-  says the dissertation was completed "February 2013". Which year do
-  you want shown?
+- [x] **PhD completion date.** **Resolved by Kyle, 2 July 2026: keep
+  2012** as shown across the site.
 - [ ] **Ayala drumline era details.** *Affects: `every-sense.md`
   "High school indoor drumline".* Research sourced the ensemble's
   record to wgi.org: 1999 WGI Scholastic A World Championship
@@ -193,10 +186,8 @@ change one, edit the `personas:` line in the named file.
 - [x] **Supervisee name spelling.** **Resolved by Kyle, 2 July 2026:
   "Indrayud Mandal" is correct.** (The MISTI page's "Biswas Mandal"
   and the CV's "Mandel" are both superseded.)
-- [ ] **LVPEI January 2020.** The launch-weekend list previously said
-  LVPEI ran January 2018 and 2019; under the evidence-first ruling the
-  site now shows January 2019 only (the documented visit). Did the
-  January 2020 trip also include LVPEI Hyderabad?
+- [x] **LVPEI January 2020.** **Resolved by Kyle, 2 July 2026: no —
+  January 2019 only**, as the site shows.
 
 - [x] **Wolfram Summer School / Summer Camp years.** **Resolved
   evidence-first, 2 July 2026** (Wayback-verified year rosters):
